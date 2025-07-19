@@ -1,0 +1,35 @@
+# Simplified Metabolic Disease WebSearch Configuration
+# Removes nested 'metabolic' key structure and uses direct prompt_alias
+
+# Input data configuration
+input:
+  data_source: "data/04_curated/metabolic/prioritized_diseases_20250718_102943.json"
+
+# Output configuration  
+output:
+  base_path: "data/02_preprocess/websearch/metabolic"
+
+# Single prompt alias for all analysis (replaces per-analysis-type prompts)
+prompt_alias: "groups_v3"
+
+# Analysis type (maintained as requested)
+analysis_type: "groups"
+
+# Retry configuration
+retry:
+  max_attempts: 3
+  retry_on_empty: true
+  retry_on_api_failure: true
+
+# LLM client configuration
+client:
+  model: "o4-mini"
+  max_output_tokens: 600000
+  timeout: 600
+  reasoning:
+    effort: "medium"
+
+# Logging configuration
+logging:
+  level: "INFO"
+

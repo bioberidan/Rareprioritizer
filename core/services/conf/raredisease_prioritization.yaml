@@ -1,0 +1,128 @@
+# Enhanced Rare Disease Prioritization Configuration
+# Configuration for prioritizing diseases according to SOW criteria with scientific terminology
+#python core/services/raredisease_prioritization.py --config core/services/conf/raredisease_prioritization.yaml --verbose
+# Input data configuration  
+input:
+  data_source: "data/04_curated/metabolic/metabolic_disease_instances.json"
+
+# Output configuration
+output:
+  base_path: "results/prioritization"
+  filename: "prioritized_diseases.csv"
+  top_n: 25
+  output_final_top_n: 15  # If set, generates additional Excel with specified top N diseases
+
+# Prioritization criteria with enhanced per-criterion scoring
+criteria:
+  
+  # Criterion 1: Prevalence and Population of Patients
+  prevalence:
+    path: "data/04_curated/orpha/orphadata"
+    mock: false
+    mock_value: 10.0
+    weight: 0.20      # 20% weight as per SOW
+    scoring:
+      method: "discrete_class_mapping"
+      class_mapping:
+        ">1 / 1000": 10        # 2 diseases - Most prevalent rare diseases
+        "6-9 / 10 000": 9      # 3 diseases  
+        "1-5 / 10 000": 8      # 11 diseases
+        "1-9 / 100 000": 6     # 50 diseases
+        "1-9 / 1 000 000": 3   # 74 diseases
+        "<1 / 1 000 000": 2    # 392 diseases - Ultra-rare diseases
+      handle_missing_data: "zero_score"
+    data_usage:
+      source: "curated_prevalence_classes"
+    
+  # Criterion 2: Socioeconomic Impact
+  socioeconomic:
+    path: "data/04_curated/websearch/socioeconomic"
+    mock: false
+    mock_value: 10.0  # Maximum score for mock (initial phase)
+    weight: 0.20      # 20% weight as per SOW
+    scoring:
+      method: "evidence_level_mapping"
+      evidence_mappings:
+        "High evidence": 10
+        "Medium-High evidence": 7
+        "Medium evidence": 5
+        "Low evidence": 3
+        "No evidence": 0
+      handle_missing_data: "zero_score"
+    data_usage:
+      source: "curated_websearch_socioeconomic"
+      
+  # Criterion 3: Approved Therapies (Drugs)
+  orpha_drugs:
+    path: "data/04_curated/orpha/orphadata"
+    mock: false
+    mock_value: 10.0  # Maximum score when no therapies exist
+    weight: 0.25      # 25% weight as per SOW (highest importance)
+    scoring:
+      method: "compound_weighted"
+      components:
+        - data_source: "eu_tradename_drugs"
+          weight: 0.8
+          scoring_method: "reverse_winsorized_min_max_scaling"
+          max: 4      # User-defined maximum EU tradename drugs
+          scale_factor: 10
+        - data_source: "medical_products_eu"
+          weight: 0.2
+          scoring_method: "reverse_winsorized_min_max_scaling"
+          max: 6      # User-defined maximum medical products
+          scale_factor: 10
+      handle_missing_data: "max_score"  # No drugs = high priority
+    data_usage:
+      use_eu_tradenames: true
+      use_usa_tradenames: false
+      use_medical_products: true
+      compound_scoring: true
+    
+  # Criterion 4: Clinical Trials in Spain
+  clinical_trials:
+    path: "data/04_curated/clinical_trials"
+    mock: false
+    mock_value: 0.0   # Default minimum score
+    weight: 0.10      # 10% weight as per SOW
+    scoring:
+      method: "winsorized_min_max_scaling"
+      max: 3.5         # User-defined maximum trials (winsorized)
+      scale_factor: 10
+      handle_missing_data: "zero_score"
+    data_usage:
+      source_preference: "spanish_trials"
+      fallback: "eu_trials"
+    
+  # Criterion 5: Gene Therapy Traceability
+  orpha_gene:
+    path: "data/04_curated/orpha/orphadata"
+    mock: false
+    mock_value: 10.0  # Maximum score for monogenic diseases
+    weight: 0.15      # 15% weight as per SOW
+    scoring:
+      method: "binary_monogenic"
+      monogenic_score: 10    # Exactly 1 gene = ideal for gene therapy
+      polygenic_score: 0     # Multiple genes = not suitable
+      unknown_score: 0       # No genes = not suitable
+      handle_missing_data: "zero_score"
+    data_usage:
+      source: "disease_genes"
+    
+  # Criterion 6: National Research Capacity (Groups)
+  groups:
+    path: "data/04_curated/websearch/groups"
+    mock: false
+    mock_value: 10.0  # Maximum score for mock (initial phase)
+    weight: 0.10      # 10% weight as per SOW
+    scoring:
+      method: "winsorized_min_max_scaling"
+      max: 3           # User-defined maximum groups (capped at 3)
+      scale_factor: 10
+      handle_missing_data: "zero_score"
+    data_usage:
+      source: "curated_websearch_groups"
+
+# Logging configuration
+logging:
+  level: "INFO"
+  log_file: "results/prioritization/prioritization.log" 

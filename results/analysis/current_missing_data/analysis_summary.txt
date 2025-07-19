@@ -1,0 +1,13 @@
+=== BIRTH PREVALENCE FALLBACK ANALYSIS SUMMARY ===
+
+OVERVIEW:
+- Total diseases analyzed: 665
+- Diseases without prevalence: 201
+- Diseases with birth prevalence records: 2
+
+FAILURE REASONS:
+- Unknown failure: 149 diseases
+- No raw data available: 52 diseases
+
+RECOMMENDATIONS:
+1. Data Gap: 52 diseases have no prevalence data in the processed dataset. Consider expanding data collection or using alternative prevalence estimation methods.

@@ -1,0 +1,70 @@
+# Rare Disease Prioritization Configuration
+# Configuration for prioritizing diseases according to SOW criteria
+
+# Input data configuration  
+input:
+  data_source: "data/04_curated/metabolic/metabolic_disease_instances.json"
+
+# Output configuration
+output:
+  base_path: "results/prioritization"
+  filename: "prioritized_diseases.csv"
+  top_n: 50
+
+# Prioritization criteria with weights and mock settings
+criteria:
+  
+  # Criterion 1: Prevalence and Population of Patients
+  prevalence:
+    path: "data/04_curated/orpha/orphadata"
+    mock: false
+    mock_value: 10.0  # Maximum score for mock
+    weight: 0.20      # 20% weight as per SOW
+    # Uses discrete scoring: ">1/1000"=10, "6-9/10000"=9, "1-5/10000"=8, 
+    # "1-9/100000"=6, "1-9/1000000"=3, "<1/1000000"=2, "Unknown"=0
+    
+  # Criterion 2: Socioeconomic Impact
+  socioeconomic:
+    path: "data/02_preprocess/websearch"
+    mock: true
+    mock_value: 10.0  # Maximum score for mock (initial phase)
+    weight: 0.20      # 20% weight as per SOW
+    
+  # Criterion 3: Approved Therapies (Drugs)
+  orpha_drugs:
+    path: "data/04_curated/orpha/orphadata"
+    mock: false
+    mock_value: 10.0  # Maximum score when no therapies exist
+    weight: 0.25      # 25% weight as per SOW (highest importance)
+    
+  # Criterion 4: Clinical Trials in Spain
+  clinical_trials:
+    path: "data/04_curated/clinical_trials"
+    mock: false
+    mock_value: 0.0   # Default minimum score
+    weight: 0.10      # 10% weight as per SOW
+    
+  # Criterion 5: Gene Therapy Traceability
+  orpha_gene:
+    path: "data/04_curated/orpha/orphadata"
+    mock: false
+    mock_value: 10.0  # Maximum score for monogenic diseases
+    weight: 0.15      # 15% weight as per SOW
+    # Scoring: monogenic (1 gene) = 10, polygenic (multiple genes) = 0, unknown = 0
+    
+  # Criterion 6: National Research Capacity (Groups)
+  groups:
+    path: "data/02_preprocess/websearch"
+    mock: true
+    mock_value: 10.0  # Maximum score for mock (initial phase)
+    weight: 0.10      # 10% weight as per SOW
+
+# Scoring configuration
+scoring:
+  normalization_method: "percentile"  # Use percentile-based normalization
+  handle_missing_data: "zero_score"   # Assign 0 to missing data
+  
+# Logging configuration
+logging:
+  level: "INFO"
+  log_file: "results/prioritization/prioritization.log" 

@@ -1,0 +1,45 @@
+websearch:
+  metabolic:
+    # Input configuration
+    input:
+      data_source: "data/04_curated/metabolic/metabolic_disease_instances_sample_10.json"
+      use_sample: true
+    
+    # Processing configuration
+    processing:
+      # Analysis type selection (only one runs at a time)
+      analysis_type: "socioeconomic"  # Options: "groups", "socioeconomic", "clinical"
+      
+      # Prompt configuration per analysis type
+      prompts:
+        groups: "groups_v3"
+        socioeconomic: "socioeconomic_v2"
+        clinical: "clinical_v1"  # Future
+      
+      # WebSearcher client configuration
+      client:
+        reasoning:
+          effort: "medium"
+        max_output_tokens: 8000
+        timeout: 120
+    
+    # Retry configuration
+    retry:
+      max_attempts: 5
+      initial_wait: 1
+      max_wait: 60
+      retry_on_empty: true
+      retry_on_api_failure: true
+    
+    # Output configuration
+    output:
+      base_path: "data/02_preprocess/websearch"
+      run_management: true
+      skip_processed: true
+      reprocess_empty: true
+    
+    # Logging and monitoring
+    logging:
+      level: "INFO"
+      log_progress: true
+      log_errors: true 

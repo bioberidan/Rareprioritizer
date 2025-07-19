@@ -1,0 +1,24 @@
+============================================================
+WEBSEARCH METABOLIC PREPROCESSING SUMMARY
+============================================================
+Analysis Type: socioeconomic
+Total Diseases: 10
+Processed: 0
+Skipped: 0
+Failed: 10
+Total Duration: 0.05 seconds
+Start Time: 2025-07-16T07:59:30.098040
+End Time: 2025-07-16T07:59:30.144380
+
+FAILED DISEASES:
+----------------
+  • Acrodermatitis enteropathica (ORPHA:37) - Error: Prompt 'socioeconomic_v2' not found
+  • Niemann-Pick disease type C (ORPHA:646) - Error: Prompt 'socioeconomic_v2' not found
+  • POGLUT1-related limb-girdle muscular dystrophy R21 (ORPHA:480682) - Error: Prompt 'socioeconomic_v2' not found
+  • Glycogen storage disease due to liver and muscle phosphorylase kinase deficiency (ORPHA:79240) - Error: Prompt 'socioeconomic_v2' not found
+  • 3-methylglutaconic aciduria type 3 (ORPHA:67047) - Error: Prompt 'socioeconomic_v2' not found
+  • D,L-2-hydroxyglutaric aciduria (ORPHA:356978) - Error: Prompt 'socioeconomic_v2' not found
+  • Refsum disease (ORPHA:773) - Error: Prompt 'socioeconomic_v2' not found
+  • Mucopolysaccharidosis type 3 (ORPHA:581) - Error: Prompt 'socioeconomic_v2' not found
+  • CK syndrome (ORPHA:251383) - Error: Prompt 'socioeconomic_v2' not found
+  • Progressive myoclonic epilepsy type 3 (ORPHA:263516) - Error: Prompt 'socioeconomic_v2' not found

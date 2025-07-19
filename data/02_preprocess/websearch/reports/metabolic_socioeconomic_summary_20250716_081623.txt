@@ -1,0 +1,27 @@
+============================================================
+WEBSEARCH METABOLIC PREPROCESSING SUMMARY
+============================================================
+Analysis Type: socioeconomic
+Total Diseases: 10
+Processed: 7
+Skipped: 0
+Failed: 3
+Total Duration: 472.83 seconds
+Start Time: 2025-07-16T08:08:30.953716
+End Time: 2025-07-16T08:16:23.783186
+
+PROCESSED DISEASES:
+--------------------
+  • Acrodermatitis enteropathica (ORPHA:37) - run1 - 27.09s
+  • Niemann-Pick disease type C (ORPHA:646) - run1 - 59.72s
+  • Glycogen storage disease due to liver and muscle phosphorylase kinase deficiency (ORPHA:79240) - run1 - 44.22s
+  • D,L-2-hydroxyglutaric aciduria (ORPHA:356978) - run1 - 99.89s
+  • Refsum disease (ORPHA:773) - run1 - 56.17s
+  • Mucopolysaccharidosis type 3 (ORPHA:581) - run1 - 68.61s
+  • Progressive myoclonic epilepsy type 3 (ORPHA:263516) - run1 - 38.40s
+
+FAILED DISEASES:
+----------------
+  • POGLUT1-related limb-girdle muscular dystrophy R21 (ORPHA:480682) - Error: Socioeconomic analysis returned empty results for POGLUT1-related limb-girdle muscular dystrophy R21
+  • 3-methylglutaconic aciduria type 3 (ORPHA:67047) - Error: Socioeconomic analysis returned empty results for 3-methylglutaconic aciduria type 3
+  • CK syndrome (ORPHA:251383) - Error: Socioeconomic analysis returned empty results for CK syndrome
