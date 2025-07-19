@@ -1,0 +1,17 @@
+{
+  "disease_name": "COG2-CDG",
+  "orpha_code": "435934",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:18:12.183034",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=COG2-CDG&orphaCode=435934&name=435934&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "COG2-CDG",
+    "orphaCode": "435934",
+    "name": "435934",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

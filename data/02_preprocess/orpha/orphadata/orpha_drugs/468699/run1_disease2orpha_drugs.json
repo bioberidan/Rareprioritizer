@@ -1,0 +1,17 @@
+{
+  "disease_name": "SLC39A8-CDG",
+  "orpha_code": "468699",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:38:20.022867",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=SLC39A8-CDG&orphaCode=468699&name=468699&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "SLC39A8-CDG",
+    "orphaCode": "468699",
+    "name": "468699",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

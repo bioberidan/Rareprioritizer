@@ -1,0 +1,365 @@
+{
+  "disease_name": "Tyrosinemia type 1",
+  "orpha_code": "882",
+  "drugs": [
+    {
+      "name": "NITYR",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/527354?name=882&mode=orpha&region=",
+      "regulatory_id": "527354",
+      "orpha_substance_code": "ORPHA:882",
+      "details": [
+        "NITYR(Tradename                        - 26/07/2018)Disease(s) concernedORPHA:882 Tyrosinemia type 1",
+        "NITYR(Tradename                        - 26/07/2018)",
+        "(Tradename                        - 26/07/2018)",
+        "Disease(s) concernedORPHA:882 Tyrosinemia type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/527350?name=882&mode=orpha&region=&status=all",
+          "text": "NITYR",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/882",
+          "text": "ORPHA:882 Tyrosinemia type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/527354?name=882&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "NITISINONE MDK",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/494384?name=882&mode=orpha&region=",
+      "regulatory_id": "494384",
+      "orpha_substance_code": "ORPHA:882",
+      "details": [
+        "NITISINONE MDK(Tradename                        - 24/08/2017)Disease(s) concernedORPHA:882 Tyrosinemia type 1",
+        "NITISINONE MDK(Tradename                        - 24/08/2017)",
+        "(Tradename                        - 24/08/2017)",
+        "Disease(s) concernedORPHA:882 Tyrosinemia type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/494377?name=882&mode=orpha&region=&status=all",
+          "text": "NITISINONE MDK",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/882",
+          "text": "ORPHA:882 Tyrosinemia type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/494384?name=882&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "ORFADIN",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131358?name=882&mode=orpha&region=",
+      "regulatory_id": "131358",
+      "orpha_substance_code": "ORPHA:882",
+      "details": [
+        "ORFADIN(Tradename                        - 24/02/2005)Disease(s) concernedORPHA:882 Tyrosinemia type 1",
+        "ORFADIN(Tradename                        - 24/02/2005)",
+        "(Tradename                        - 24/02/2005)",
+        "Disease(s) concernedORPHA:882 Tyrosinemia type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/56898?name=882&mode=orpha&region=&status=all",
+          "text": "ORFADIN",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/882",
+          "text": "ORPHA:882 Tyrosinemia type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131358?name=882&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Nitisinone",
+      "substance_url": "/en/drug/substance/56899?name=882&mode=orpha&region=&status=all",
+      "substance_id": "56899",
+      "regulatory_url": "/en/drug/regulatory/133698?name=882&mode=orpha&region=",
+      "regulatory_id": "133698",
+      "orpha_substance_code": "ORPHA:882",
+      "details": [
+        "Nitisinone(Medicinal product                        - 29/12/2000)Disease(s) concernedORPHA:882 Tyrosinemia type 1",
+        "Nitisinone(Medicinal product                        - 29/12/2000)",
+        "(Medicinal product                        - 29/12/2000)",
+        "Disease(s) concernedORPHA:882 Tyrosinemia type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/56899?name=882&mode=orpha&region=&status=all",
+          "text": "Nitisinone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/882",
+          "text": "ORPHA:882 Tyrosinemia type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/133698?name=882&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "ORFADIN",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/676502?name=882&mode=orpha&region=",
+      "regulatory_id": "676502",
+      "orpha_substance_code": "ORPHA:882",
+      "details": [
+        "ORFADIN(Tradename                        - 22/04/2016)Disease(s) concernedORPHA:882 Tyrosinemia type 1",
+        "ORFADIN(Tradename                        - 22/04/2016)",
+        "(Tradename                        - 22/04/2016)",
+        "Disease(s) concernedORPHA:882 Tyrosinemia type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/56898?name=882&mode=orpha&region=&status=all",
+          "text": "ORFADIN",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/882",
+          "text": "ORPHA:882 Tyrosinemia type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/676502?name=882&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "ORFADIN",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131141?name=882&mode=orpha&region=",
+      "regulatory_id": "131141",
+      "orpha_substance_code": "ORPHA:882",
+      "details": [
+        "ORFADIN(Tradename                        - 18/01/2002)Disease(s) concernedORPHA:882 Tyrosinemia type 1",
+        "ORFADIN(Tradename                        - 18/01/2002)",
+        "(Tradename                        - 18/01/2002)",
+        "Disease(s) concernedORPHA:882 Tyrosinemia type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/56898?name=882&mode=orpha&region=&status=all",
+          "text": "ORFADIN",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/882",
+          "text": "ORPHA:882 Tyrosinemia type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131141?name=882&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=882&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=882&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Burixafor(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Burixafor(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689505?name=882&mode=orpha&region=&status=all",
+          "text": "Burixafor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689915?name=882&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=882&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=882&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Treosulfan(Medicinal product                        - 08/04/2015)Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Treosulfan(Medicinal product                        - 08/04/2015)",
+        "(Medicinal product                        - 08/04/2015)",
+        "Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90799?name=882&mode=orpha&region=&status=all",
+          "text": "Treosulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/213500",
+          "text": "ORPHA:213500 Rare ovarian cancer",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136690?name=882&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=882&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=882&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "busulfan(Medicinal product                        - 21/04/1994)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "busulfan(Medicinal product                        - 21/04/1994)",
+        "(Medicinal product                        - 21/04/1994)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/46335?name=882&mode=orpha&region=&status=all",
+          "text": "busulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131973?name=882&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:00:49.000166",
+  "run_number": 1,
+  "total_drugs_found": 9,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Tyrosinemia+type+1&orphaCode=882&name=882&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Tyrosinemia type 1",
+    "orphaCode": "882",
+    "name": "882",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

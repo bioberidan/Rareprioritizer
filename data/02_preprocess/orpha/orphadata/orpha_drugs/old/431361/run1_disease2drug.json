@@ -1,0 +1,17 @@
+{
+  "disease_name": "Progressive encephalopathy with leukodystrophy due to DECR deficiency",
+  "orpha_code": "431361",
+  "drugs": [],
+  "processing_timestamp": "2025-07-07T06:04:25.349316",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Progressive+encephalopathy+with+leukodystrophy+due+to+DECR+deficiency&orphaCode=431361&name=431361&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Progressive encephalopathy with leukodystrophy due to DECR deficiency",
+    "orphaCode": "431361",
+    "name": "431361",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

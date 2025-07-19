@@ -1,0 +1,29 @@
+{
+  "orphacode": "79433",
+  "disease_name": "Oculocutaneous albinism type 3",
+  "groups": [
+    {
+      "unit_name": "U756 CIBERER",
+      "sources": [
+        {
+          "label": "CIBERER news: ALBA y la U756 CIBERER obtienen el reconocimiento de FEDER a la actividad investigadora en ER por un proyecto sobre albinismo",
+          "url": "https://www.ciberisciii.es/noticias/alba-y-la-u756-ciberer-obtienen-el-reconocimiento-de-feder-a-la-actividad-investigadora-en-er-por-un-proyecto-sobre-albinismo"
+        }
+      ]
+    },
+    {
+      "unit_name": "U704 CIBERER",
+      "sources": [
+        {
+          "label": "CIBERER news: CIBERER coorganiza una jornada clínica en el Día del Albinismo el próximo 2 de octubre",
+          "url": "https://www.ciberer.es/noticias/ciberer-coorganiza-una-jornada-clinica-en-el-dia-del-albinismo-el-proximo-2-de-octubre"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "processing_timestamp": "2025-07-18T16:29:29.797993",
+    "run_number": 1,
+    "orphacode": "79433"
+  }
+}

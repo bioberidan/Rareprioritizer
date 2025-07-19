@@ -1,0 +1,38 @@
+{
+  "orphacode": "369",
+  "disease_name": "Glycogen storage disease due to liver glycogen phosphorylase deficiency",
+  "socioeconomic_impact_studies": [
+    {
+      "cost": 0,
+      "measure": "Observational retrospective case study of long-term clinical outcomes and complications",
+      "label": "The natural history of glycogen storage disease types VI and IX: Long-term outcome from the largest metabolic center in Canada",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/25266922/",
+      "country": "Canada",
+      "year": "2014"
+    },
+    {
+      "cost": 0,
+      "measure": "Single-center retrospective chart review of long-term outcomes and complications",
+      "label": "Over 20-Year Follow-up of Patients with Hepatic Glycogen Storage Diseases: Single-Center Experience",
+      "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7277974/",
+      "country": "Poland",
+      "year": "2020"
+    },
+    {
+      "cost": 0,
+      "measure": "Systematic literature review of clinical phenotypes and genotypes of GSD VI",
+      "label": "The Phenotypic and Genetic Spectrum of Glycogen Storage Disease Type VI",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/34440378/",
+      "country": "International",
+      "year": "2021"
+    }
+  ],
+  "score": 3,
+  "evidence_level": "Low evidence",
+  "justification": "Only qualitative descriptive clinical studies are available describing disease burden and long-term outcomes, with no peer-reviewed cost-of-illness data for GSD VI, thus assigned a low evidence level.",
+  "metadata": {
+    "processing_timestamp": "2025-07-18T19:30:23.396125",
+    "run_number": 1,
+    "orphacode": "369"
+  }
+}

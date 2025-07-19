@@ -1,0 +1,17 @@
+{
+  "disease_name": "CHST3-related skeletal dysplasia",
+  "orpha_code": "263463",
+  "drugs": [],
+  "processing_timestamp": "2025-07-07T05:59:11.009917",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=CHST3-related+skeletal+dysplasia&orphaCode=263463&name=263463&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "CHST3-related skeletal dysplasia",
+    "orphaCode": "263463",
+    "name": "263463",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

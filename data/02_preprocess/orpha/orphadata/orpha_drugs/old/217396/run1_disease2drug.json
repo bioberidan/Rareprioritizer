@@ -1,0 +1,17 @@
+{
+  "disease_name": "Progressive polyneuropathy with bilateral striatal necrosis",
+  "orpha_code": "217396",
+  "drugs": [],
+  "processing_timestamp": "2025-07-07T06:04:46.935046",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Progressive+polyneuropathy+with+bilateral+striatal+necrosis&orphaCode=217396&name=217396&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Progressive polyneuropathy with bilateral striatal necrosis",
+    "orphaCode": "217396",
+    "name": "217396",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

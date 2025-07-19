@@ -1,0 +1,2767 @@
+{
+  "disease_name": "Paroxysmal nocturnal hemoglobinuria",
+  "orpha_code": "447",
+  "trials": [
+    {
+      "nctId": "NCT05133531",
+      "briefTitle": "A Study to Evaluate How Safe Pozelimab + Cemdisiran Combination Therapy is and How Well it Works in Adult Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH) Who Have Not Recently Received or Have Not Received Complement Inhibitor Treatment",
+      "officialTitle": "A Randomized, Open-Label, C5 Inhibitor-Controlled Study to Evaluate the Efficacy and Safety of Pozelimab and Cemdisiran Combination Therapy in Patients With Paroxysmal Nocturnal Hemoglobinuria Who Are Complement Inhibitor Treatment-Naive or Have Not Recently Received Complement Inhibitor Therapy",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Paroxysmal Nocturnal Hemoglobinuria"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Ravulizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Pozelimab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cemdisiran"
+        },
+        {
+          "type": "DRUG",
+          "name": "Eculizumab"
+        }
+      ],
+      "enrollment": 190,
+      "locations": [
+        {
+          "facility": "The Oncology Institute of Hope & Innovation",
+          "city": "Whittier",
+          "country": "United States"
+        },
+        {
+          "facility": "Toronto General Hospital",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Peking Union Medical College Hospital",
+          "city": "Beijing",
+          "country": "China"
+        },
+        {
+          "facility": "Hospital Pablo Tobon Uribe",
+          "city": "Medellin",
+          "country": "Colombia"
+        },
+        {
+          "facility": "George Papanikolaou Hospital",
+          "city": "Thessaloniki",
+          "country": "Greece"
+        },
+        {
+          "facility": "Semmelweis University",
+          "city": "Budapest",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Rajiv Gandhi Cancer Institute & Research Center (RGCIRC) - Rohini Campus",
+          "city": "New Delhi",
+          "country": "India"
+        },
+        {
+          "facility": "Malabar Cancer Center, Kerala",
+          "city": "Kannur",
+          "country": "India"
+        },
+        {
+          "facility": "Amrita Institute of Medical Sciences (AIMS) and Research Centre Aims",
+          "city": "Kochi",
+          "country": "India"
+        },
+        {
+          "facility": "K J Somaiya Super Specialty Hospital & Research Centre",
+          "city": "Mumbai",
+          "country": "India"
+        },
+        {
+          "facility": "Postgraduate Institute of Medical Education & Research (PGIMER)",
+          "city": "Chandigarh",
+          "country": "India"
+        },
+        {
+          "facility": "King George Hospital",
+          "city": "Lucknow",
+          "country": "India"
+        },
+        {
+          "facility": "Bhagwan Mahaveer Cancer Hospital and Research Centre (BMCHRC)",
+          "city": "Jaipur",
+          "country": "India"
+        },
+        {
+          "facility": "Aou Careggi",
+          "city": "Firenze",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione Policlinico Universitrio a. Gemelli - IRCCS",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        {
+          "facility": "Hematology Citta della Salute e della Scienza di Torino",
+          "city": "Turin",
+          "country": "Italy"
+        },
+        {
+          "facility": "Japanese Red Cross Aichi Medical Center Nagoya Daini Hospital",
+          "city": "Nagoya",
+          "country": "Japan"
+        },
+        {
+          "facility": "Ogaki Municipal Hospital",
+          "city": "Ogaki",
+          "country": "Japan"
+        },
+        {
+          "facility": "University of Tsukuba Hospital",
+          "city": "Tsukuba",
+          "country": "Japan"
+        },
+        {
+          "facility": "Matsushita Memorial Hospital",
+          "city": "Moriguchi",
+          "country": "Japan"
+        },
+        {
+          "facility": "NTT Medical Center Tokyo",
+          "city": "Shinagawa-ku",
+          "country": "Japan"
+        },
+        {
+          "facility": "Jordan University Hospital (JUH)",
+          "city": "Amman",
+          "country": "Jordan"
+        },
+        {
+          "facility": "St. Vincent Hospital",
+          "city": "Suwon-si",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Ajou University Medical Center",
+          "city": "Suwon",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Gachon University Gil Medical Center",
+          "city": "Incheon",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Pusan National University Hospital",
+          "city": "Busan",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Korea University Hospital",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Severance Hospital",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Samsung Medical Center",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Ewha Womans University Mokdong Hospital",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Hospital Ampang",
+          "city": "Ampang",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Hospital Tg Ampuan Afzan",
+          "city": "Kuantan",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Hospital Queen Elizabeth",
+          "city": "Kota Kinabalu",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Servicio de Hematologia del Hospital Universitario de la Uanl",
+          "city": "Monterrey",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Clinica San Felipe",
+          "city": "Lima",
+          "country": "Peru"
+        },
+        {
+          "facility": "St Lukes Medical Center",
+          "city": "Quezon City",
+          "country": "Philippines"
+        },
+        {
+          "facility": "University Clinical Center Medical University of Gdansk",
+          "city": "Gdansk",
+          "country": "Poland"
+        },
+        {
+          "facility": "Szpital Uniwersytecki Nr2 Bydgoszcz",
+          "city": "Bydgoszcz",
+          "country": "Poland"
+        },
+        {
+          "facility": "Institute of Hematology and Transfusion Medicine",
+          "city": "Warsaw",
+          "country": "Poland"
+        },
+        {
+          "facility": "Ion Chiricuta Oncology Institute",
+          "city": "Cluj-Napoca",
+          "country": "Romania"
+        },
+        {
+          "facility": "Municipal Hospital Filantropia",
+          "city": "Craiova",
+          "country": "Romania"
+        },
+        {
+          "facility": "Targu Mures Clinical County Emergency Hospital",
+          "city": "Targu Mures",
+          "country": "Romania"
+        },
+        {
+          "facility": "National University Hospital",
+          "city": "Singapore",
+          "country": "Singapore"
+        },
+        {
+          "facility": "Hospital Universitario Basurto",
+          "city": "Bilbao",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Clinic de Barcelona",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital General JM Morales Meseguer",
+          "city": "Murcia",
+          "country": "Spain"
+        },
+        {
+          "facility": "China Medical University Hospital",
+          "city": "Taichung",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Chang Gung Memorial Hospital - Linkou Branch",
+          "city": "Taoyuan",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Changhua Christian Hospital",
+          "city": "Changhua City",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Hualien Tzu Chi Hospital",
+          "city": "Hualien City",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Kaohsiung Medical University Hospital",
+          "city": "Kaohsiung",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Taichung Veterans General Hospital (VGHTC)",
+          "city": "Taichung City",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "National Cheng Kung University Hospital",
+          "city": "Tainan",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Tri-Service General Hospital",
+          "city": "Taipei City",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "National Taiwan University Hospital",
+          "city": "Taipei",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Clinical Research Center, Faculty of Medicine, Prince of Songkla University",
+          "city": "Hat Yai",
+          "country": "Thailand"
+        },
+        {
+          "facility": "King Chulalongkorn Memorial Hospital",
+          "city": "Bangkok",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Rajavithi Hospital",
+          "city": "Bangkok",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Chaing Mai University",
+          "city": "Chiang Mai",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Srinagarind Hospital",
+          "city": "Khon Kaen",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Istanbul University",
+          "city": "Istanbul",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Ege University",
+          "city": "Izmir",
+          "country": "Turkey"
+        },
+        {
+          "facility": "St James Hospital",
+          "city": "Leeds",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-06-06"
+    },
+    {
+      "nctId": "NCT05741346",
+      "briefTitle": "Long-term Safety of BCX9930 in Participants With Paroxysmal Nocturnal Hemoglobinuria",
+      "officialTitle": "An Open-label Study to Evaluate the Long-term Safety of BCX9930 Monotherapy in Subjects With Paroxysmal Nocturnal Hemoglobinuria Who Previously Received BCX9930 in a BioCryst-sponsored Study",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Paroxysmal Nocturnal Hemoglobinuria"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "BCX9930"
+        }
+      ],
+      "enrollment": 28,
+      "locations": [
+        {
+          "facility": "Investigative Site",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Investigative Site",
+          "city": "Budapest",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Investigative Site",
+          "city": "Daejeon",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Investigative Site",
+          "city": "Ampang",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Investigative Site",
+          "city": "Bloemfontein",
+          "country": "South Africa"
+        },
+        {
+          "facility": "Investigative Site",
+          "city": "Cape Town",
+          "country": "South Africa"
+        },
+        {
+          "facility": "Investigative Site",
+          "city": "Pretoria",
+          "country": "South Africa"
+        },
+        {
+          "facility": "Investigative Site",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigative Site",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigative Site",
+          "city": "Leeds",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Investigative Site",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2024-07-29"
+    },
+    {
+      "nctId": "NCT04434092",
+      "briefTitle": "A Study Evaluating the Efficacy and Safety of Crovalimab Versus Eculizumab in Participants With Paroxysmal Nocturnal Hemoglobinuria (PNH) Not Previously Treated With Complement Inhibitors",
+      "officialTitle": "A Phase III, Randomized, Open-label, Active-controlled, Multicenter Study Evaluating the Efficacy and Safety of Crovalimab Versus Eculizumab in Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH) Not Previously Treated With Complement Inhibitors",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Paroxysmal Nocturnal Hemoglobinuria"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Crovalimab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Eculizumab"
+        }
+      ],
+      "enrollment": 204,
+      "locations": [
+        {
+          "facility": "Organizacion Medica de Investigacion (OMI)",
+          "city": "Ciudad Autonoma Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Centro Integrado de Oncologia de Curitiba",
+          "city": "Curitiba",
+          "country": "Brazil"
+        },
+        {
+          "facility": "*X*CEPHO - Centro de Estudos e Pesquisas em Hematologia e Oncologia",
+          "city": "Santo Andre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Beneficencia Portuguesa de Sao Paulo",
+          "city": "São Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Peking Union Medical College Hospital",
+          "city": "Beijing",
+          "country": "China"
+        },
+        {
+          "facility": "Nanfang Hospital, Southern Medical University",
+          "city": "Guangzhou",
+          "country": "China"
+        },
+        {
+          "facility": "The First Affiliated Hospital, Zhejiang University",
+          "city": "Hangzhou City",
+          "country": "China"
+        },
+        {
+          "facility": "Jiangsu Province Hospital",
+          "city": "Nanjing",
+          "country": "China"
+        },
+        {
+          "facility": "Affiliated Hospital of Nantong University",
+          "city": "Nantong City",
+          "country": "China"
+        },
+        {
+          "facility": "Huashan Hospital, Fudan University",
+          "city": "Shanghai",
+          "country": "China"
+        },
+        {
+          "facility": "Union Hospital Tongji Medical College Huazhong University of Science and Technology",
+          "city": "Wuhan City",
+          "country": "China"
+        },
+        {
+          "facility": "Hopital Claude Huriez - CHU Lille",
+          "city": "Lille cedex",
+          "country": "France"
+        },
+        {
+          "facility": "Centre Hospitalier Lyon Sud",
+          "city": "Pierre-Bénite",
+          "country": "France"
+        },
+        {
+          "facility": "Universitaetsklinkm",
+          "city": "Essen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitaetsklinikum Ulm",
+          "city": "Ulm",
+          "country": "Germany"
+        },
+        {
+          "facility": "General Hospital of Thessaloniki G. Papanikolaou",
+          "city": "Thessaloniki",
+          "country": "Greece"
+        },
+        {
+          "facility": "Sapporo Medical University Hospital",
+          "city": "Hokkaido",
+          "country": "Japan"
+        },
+        {
+          "facility": "University of Tsukuba Hospital",
+          "city": "Ibaraki",
+          "country": "Japan"
+        },
+        {
+          "facility": "NTT Medical Center Tokyo",
+          "city": "Tokyo",
+          "country": "Japan"
+        },
+        {
+          "facility": "Tokyo Medical University Hospital",
+          "city": "Tokyo",
+          "country": "Japan"
+        },
+        {
+          "facility": "Seoul National University Hospital",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Severance Hospital, Yonsei University Health System",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Asan Medical Center",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Samsung Medical Center",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Vilnius University Hospital Santariskiu Clinics, Public Institution",
+          "city": "Vilnius",
+          "country": "Lithuania"
+        },
+        {
+          "facility": "Hospital Raja Permaisuri Bainun",
+          "city": "Ipoh",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Hospital Ampang",
+          "city": "Ampang",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran",
+          "city": "Ciudad de México",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Global Trial Research Center S.A. de C.V.",
+          "city": "Monterrey",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Amsterdam UMC, Locatie AMC",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Mary Mediatrix Medical Center",
+          "city": "Lipa City",
+          "country": "Philippines"
+        },
+        {
+          "facility": "Philippine General Hospital",
+          "city": "Manila",
+          "country": "Philippines"
+        },
+        {
+          "facility": "St Lukes Medical Center",
+          "city": "Quezon",
+          "country": "Philippines"
+        },
+        {
+          "facility": "Szpital Uniwersytecki nr2 im. dr J. Biziela",
+          "city": "Bydgoszcz",
+          "country": "Poland"
+        },
+        {
+          "facility": "Uniwersyteckie Centrum Kliniczne",
+          "city": "Gdansk",
+          "country": "Poland"
+        },
+        {
+          "facility": "Samodzielny Publiczny Szpital Kliniczny nr 1",
+          "city": "Lublin",
+          "country": "Poland"
+        },
+        {
+          "facility": "MTZ Clinical Research Powered by Pratia",
+          "city": "Warszawa",
+          "country": "Poland"
+        },
+        {
+          "facility": "Centro Hospitalar do Baixo Vouga E.P.E. - Hospital de Aveiro",
+          "city": "Aveiro",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Instituto Português de Oncologia de Lisboa Francisco Gentil, E.P.E.",
+          "city": "Lisboa",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Centro Hospitalar do Porto - Hospital de Santo António",
+          "city": "Porto",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Spitalul Universitar de Urgenta Bucuresti",
+          "city": "Bucuresti",
+          "country": "Romania"
+        },
+        {
+          "facility": "Spitalul Clinic Municipal Filantropia Craiova",
+          "city": "Craiova",
+          "country": "Romania"
+        },
+        {
+          "facility": "National University Hospital",
+          "city": "Singapore",
+          "country": "Singapore"
+        },
+        {
+          "facility": "Singapore General Hospital",
+          "city": "Singapore",
+          "country": "Singapore"
+        },
+        {
+          "facility": "Hospital de Basurto",
+          "city": "Bilbao",
+          "country": "Spain"
+        },
+        {
+          "facility": "ICO Badalona - Hospital Universitari Germans Trias i Pujol",
+          "city": "Badalona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de Gran Canaria Dr. Negrin",
+          "city": "Las Palmas de Gran Canaria",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital San Pedro de Alcantara",
+          "city": "Caceres",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital General Universitario Gregorio Marañon",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Clinico San Carlos",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario La Paz",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de Salamanca",
+          "city": "Salamanca",
+          "country": "Spain"
+        },
+        {
+          "facility": "Chang Gung Medical Foundation - Kaohsiung",
+          "city": "Kaohisung",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "National Taiwan Universtiy Hospital",
+          "city": "Taipei",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Siriraj Hospital",
+          "city": "Bangkok",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Maharaj Nakorn Chiang Mai Hospital",
+          "city": "Chiang Mai",
+          "country": "Thailand"
+        },
+        {
+          "facility": "King Chulalongkorn Memorial Hospital",
+          "city": "Pathum Wan",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Ondokuz Mayis Univ. Med. Fac.",
+          "city": "Samsun",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Medical Center OK!Clinic+",
+          "city": "Kyiv",
+          "country": "Ukraine"
+        },
+        {
+          "facility": "St James University Hospital",
+          "city": "Leeds",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Kings College Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-05-01"
+    },
+    {
+      "nctId": "NCT05776472",
+      "briefTitle": "A Real World Effectiveness Study of Pegcetacoplan in Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH)",
+      "officialTitle": "A Single Arm, Long-term, Multicentre Observational Study to Evaluate Effectiveness of Pegcetacoplan Under Real World Conditions in Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH)",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Paroxysmal Nocturnal Hemoglobinuria"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Pegcetacoplan"
+        }
+      ],
+      "enrollment": 200,
+      "locations": [
+        {
+          "facility": "Liverpool Hospital",
+          "city": "Liverpool",
+          "country": "Australia"
+        },
+        {
+          "facility": "Calvary Mater Newcastle",
+          "city": "Waratah",
+          "country": "Australia"
+        },
+        {
+          "facility": "Sunshine Coast University Hospital",
+          "city": "Birtinya",
+          "country": "Australia"
+        },
+        {
+          "facility": "AZ Sint-Jan",
+          "city": "Brugge",
+          "country": "Belgium"
+        },
+        {
+          "facility": "CHU Brugmann-Site Horta",
+          "city": "Bruxelles",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Centre Hospitalier Universitaire de Liege",
+          "city": "Liège",
+          "country": "Belgium"
+        },
+        {
+          "facility": "AZ Turnhout - Campus Sint-Elisabeth",
+          "city": "Turnhout",
+          "country": "Belgium"
+        },
+        {
+          "facility": "University Health Network",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Hopital Maisonneuve-Rosemont d/b/a CIUSSS de l'Est-de-l'Île-de-Montréal",
+          "city": "Montréal",
+          "country": "Canada"
+        },
+        {
+          "facility": "Fakultni nemocnice Brno",
+          "city": "Brno",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Ustav hematologie a krevni transfuze",
+          "city": "Praha 2",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Helsingin yliopistollinen keskussairaala",
+          "city": "Helsinki",
+          "country": "Finland"
+        },
+        {
+          "facility": "CHU Nice - Hôpital de l'Archet 1",
+          "city": "Nice",
+          "country": "France"
+        },
+        {
+          "facility": "CHU de Bordeaux - Hôpital Haut-Lévêque",
+          "city": "Pessac cedex",
+          "country": "France"
+        },
+        {
+          "facility": "Hopital Foch",
+          "city": "Suresnes Cedex",
+          "country": "France"
+        },
+        {
+          "facility": "CHU de Grenoble - Hôpital Albert Michallon",
+          "city": "Grenoble",
+          "country": "France"
+        },
+        {
+          "facility": "CHU de Nantes - Hotel Dieu",
+          "city": "Nantes cedex 1",
+          "country": "France"
+        },
+        {
+          "facility": "CHU de Nancy - Hôpital de Brabois Adultes",
+          "city": "Vandœuvre-lès-Nancy",
+          "country": "France"
+        },
+        {
+          "facility": "Hopital Claude Huriez - CHRU Lille",
+          "city": "Lille cedex",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Saint-Louis",
+          "city": "Paris La Defense",
+          "country": "France"
+        },
+        {
+          "facility": "Centre Hospitalier Lyon Sud",
+          "city": "Pierre-Bénite",
+          "country": "France"
+        },
+        {
+          "facility": "CHU Poitiers",
+          "city": "Poitiers",
+          "country": "France"
+        },
+        {
+          "facility": "Alb-Fils-Kliniken GmbH",
+          "city": "Goettigen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Studienzentrum Aschaffenburg",
+          "city": "Aschaffenburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitaetsklinikum Frankfurt Goethe-Universitaet",
+          "city": "Frankfurt",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitaetsklinikum Giessen und Marburg GmbH Standort Giessen",
+          "city": "Gießen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Dres Ballo und Dr. Böck",
+          "city": "Offenbach",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitaetsklinikum Essen",
+          "city": "Essen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitaetsklinikum Leipzig AoeR",
+          "city": "Leipzig",
+          "country": "Germany"
+        },
+        {
+          "facility": "Praxis Fenchel Saalfeld",
+          "city": "Saalfeld",
+          "country": "Germany"
+        },
+        {
+          "facility": "MV Zentrum für Onkologie und Hämatologie",
+          "city": "Koeln",
+          "country": "Germany"
+        },
+        {
+          "facility": "Evangelismos Hospital",
+          "city": "Athens",
+          "country": "Greece"
+        },
+        {
+          "facility": "University General Hospital \"Attikon\"",
+          "city": "Athens",
+          "country": "Greece"
+        },
+        {
+          "facility": "University General Hospital of Larissa",
+          "city": "Larissa",
+          "country": "Greece"
+        },
+        {
+          "facility": "General Hospital of Thessaloniki \"IPPOKRATEIO\"",
+          "city": "Thessaloniki",
+          "country": "Greece"
+        },
+        {
+          "facility": "G Papanikolaou General Hospital",
+          "city": "Thessaloníki",
+          "country": "Greece"
+        },
+        {
+          "facility": "DPC - Orszagos Hematologiai es Infektologiai Intezet",
+          "city": "Budapest",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Semmelweis Egyetem",
+          "city": "Budapest",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Semmelweis University",
+          "city": "Budapest",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Azienda Ospedaliero Universitaria Consorziale Policlinico di Bari",
+          "city": "Bari",
+          "country": "Italy"
+        },
+        {
+          "facility": "Ospedale San Bassiano",
+          "city": "Bassano Del Grappa",
+          "country": "Italy"
+        },
+        {
+          "facility": "Irccs Aou Di Bologna- Pol. Di S.Orsola",
+          "city": "Bologna",
+          "country": "Italy"
+        },
+        {
+          "facility": "Ospedale Oncologico Armando Businco",
+          "city": "Cagliari",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera Universitaria Careggi",
+          "city": "Firenze",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione IRCCS CA' Granda Ospedale Maggiore Policlinico",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Ospedale San Raffaele",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Ospedale Maggiore della Carità",
+          "city": "Novara",
+          "country": "Italy"
+        },
+        {
+          "facility": "Grande Ospedale Metropolitano - Presidio Morelli",
+          "city": "Reggio Calabria",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "Università di Roma La Sapienza",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliero-Universitaria Città della Salute e della Scienza di Torino",
+          "city": "Torino",
+          "country": "Italy"
+        },
+        {
+          "facility": "Uniwersytecki Szpital Kliniczny w Bialymstoku",
+          "city": "Białystok",
+          "country": "Poland"
+        },
+        {
+          "facility": "Szpital Uniwersytecki nr 2 im. dr J. Biziela w Bydgoszczy",
+          "city": "Bydgoszcz",
+          "country": "Poland"
+        },
+        {
+          "facility": "Uniwersyteckie Centrum Kliniczne",
+          "city": "Gdańsk",
+          "country": "Poland"
+        },
+        {
+          "facility": "SPZOZ Szpital Uniwersytecki w Krakowie",
+          "city": "Kraków",
+          "country": "Poland"
+        },
+        {
+          "facility": "Uniwersytecki Szpital Kliniczny nr 1 w Lublinie",
+          "city": "Lublin",
+          "country": "Poland"
+        },
+        {
+          "facility": "Warszawski Uniwersytet Medyczny",
+          "city": "Warszawa",
+          "country": "Poland"
+        },
+        {
+          "facility": "WWCOiT in Lodz, Oddział Hematologii i Transplantologii",
+          "city": "Łódź",
+          "country": "Poland"
+        },
+        {
+          "facility": "Prince Faisal Bin Bandar Cancer Center",
+          "city": "Buraydah",
+          "country": "Saudi Arabia"
+        },
+        {
+          "facility": "King Faisal Specialist Hospital & Research Center",
+          "city": "Jeddah",
+          "country": "Saudi Arabia"
+        },
+        {
+          "facility": "King Faisal Specialist Hospital and Research Center - Madinah",
+          "city": "Riyadh",
+          "country": "Saudi Arabia"
+        },
+        {
+          "facility": "King Faisal Specialist Hospital and Research Center - Riyadh",
+          "city": "Riyadh",
+          "country": "Saudi Arabia"
+        },
+        {
+          "facility": "ICO Badalona - Hospital Universitari Germans Trias i Pujol",
+          "city": "Badalona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital de Cruces",
+          "city": "Barakaldo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Clinic de Barcelona",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitari Vall d'Hebron",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital de Basurto",
+          "city": "Bilbao",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen de la Nieves",
+          "city": "El Palmar",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de Gran Canaria Dr. Negrin",
+          "city": "Las Palmas De Gran Canaria",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Lucus Augusti",
+          "city": "Lugo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Regional Universitario de Malaga",
+          "city": "Malaga",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Central de Asturias",
+          "city": "Oviedo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Donostia",
+          "city": "San Sebastian",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complejo Hospitalario Universitario de Santiago",
+          "city": "Santiago De Compostela",
+          "country": "Spain"
+        },
+        {
+          "facility": "King's College Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-05-14"
+    },
+    {
+      "nctId": "NCT05744921",
+      "briefTitle": "A Study in Adult Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH) to Evaluate How Safe Long-term Treatment With Pozelimab + Cemdisiran Combination Therapy is and How Well it Works",
+      "officialTitle": "An Open-Label Extension Study to Evaluate the Long-Term Safety, Tolerability, and Efficacy of Pozelimab and Cemdisiran Combination Therapy in Patients With Paroxysmal Nocturnal Hemoglobinuria",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Paroxysmal Nocturnal Hemoglobinuria"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Pozelimab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cemdisiran"
+        }
+      ],
+      "enrollment": 202,
+      "locations": [
+        {
+          "facility": "Toronto General Hospital",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Semmelweis University/Semmelweis Egyetem",
+          "city": "Budapest",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Rajiv Gandhi Cancer Institute & Research Center (RGCIRC) - Rohini Campus",
+          "city": "New Delhi",
+          "country": "India"
+        },
+        {
+          "facility": "Amrita Institute of Medical Sciences (AIMS) and Research Centre Aims",
+          "city": "Kochi",
+          "country": "India"
+        },
+        {
+          "facility": "Bhagwan Mahaveer Cancer Hospital and Research Centre (BMCHRC)",
+          "city": "Jaipur",
+          "country": "India"
+        },
+        {
+          "facility": "Aou Careggi",
+          "city": "Firenze",
+          "country": "Italy"
+        },
+        {
+          "facility": "SC Hematology, AOU Città della Salute e della Scienza di Torino",
+          "city": "Torino",
+          "country": "Italy"
+        },
+        {
+          "facility": "University of Tsukuba Hospital",
+          "city": "Tsukuba",
+          "country": "Japan"
+        },
+        {
+          "facility": "Ajou University Medical Center",
+          "city": "Suwon-si",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "St. Vincent Hospital",
+          "city": "Suwon",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Gachon University Gil Medical Center",
+          "city": "Incheon",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Pusan National University Hospital",
+          "city": "Busan",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Severance Hospital Yonsei University Health System",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Samsung Medical Center",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Ewha Womans University Mokdong Hospital",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Hospital Tg Ampuan Afzan",
+          "city": "Kuantan",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Hospital Queen Elizabeth",
+          "city": "Kota Kinabalu",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Hospital Ampang",
+          "city": "Ampang",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "St Lukes Medical Center",
+          "city": "Quezon City",
+          "country": "Philippines"
+        },
+        {
+          "facility": "Szpital Uniwersytecki Nr2 Bydgoszcz",
+          "city": "Bydgoszcz",
+          "country": "Poland"
+        },
+        {
+          "facility": "Prof Dr Ion Chiricuta Cancer Institute",
+          "city": "Cluj Napoca",
+          "country": "Romania"
+        },
+        {
+          "facility": "National University Hospital",
+          "city": "Singapore",
+          "country": "Singapore"
+        },
+        {
+          "facility": "Hospital Universitario Basurto",
+          "city": "Bilbao",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Clinic de Barcelona",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Chang Gung Memorial Hospital - Linkou Branch",
+          "city": "Taoyuan",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Hualien Tzu Chi Hospital",
+          "city": "Hualien City",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "China Medical University Hospital",
+          "city": "Taichung",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Tri-Service General Hospital",
+          "city": "Taipei City",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "National Taiwan University Hospital",
+          "city": "Taipei",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Prince Of Songkla Hospital, Prince Of Songkhla University",
+          "city": "Hat-Yai",
+          "country": "Thailand"
+        },
+        {
+          "facility": "King Chulalongkorn Memorial Hospital",
+          "city": "Bangkok",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Chiang Mai University",
+          "city": "Chiang Mai",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Srinagarind Hospital",
+          "city": "Khon Kaen",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Ege University Faculty of Medicine",
+          "city": "Bornova",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Leeds Teaching Hospitals NHS Trust - St. James Institute of Oncology",
+          "city": "Leeds",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-06-25"
+    },
+    {
+      "nctId": "NCT04432584",
+      "briefTitle": "A Study Evaluating the Safety, Pharmacokinetics, and Efficacy of Crovalimab Versus Eculizumab in Participants With Paroxysmal Nocturnal Hemoglobinuria (PNH) Currently Treated With Complement Inhibitors",
+      "officialTitle": "A Phase III, Randomized, Open-label, Active-controlled, Multicenter Study Evaluating the Safety, Pharmacokinetics, Pharmacodynamic and Efficacy of Crovalimab Versus Eculizumab in Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH) Currently Treated With Complement Inhibitors",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Paroxysmal Nocturnal Hemoglobinuria"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Crovalimab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Eculizumab"
+        }
+      ],
+      "enrollment": 190,
+      "locations": [
+        {
+          "facility": "Carolinas Healthcare System",
+          "city": "Charlotte",
+          "country": "United States"
+        },
+        {
+          "facility": "Nationwide Children's Hospital",
+          "city": "Columbus",
+          "country": "United States"
+        },
+        {
+          "facility": "Cliniques Universitaires Saint-Luc",
+          "city": "Bruxelles",
+          "country": "Belgium"
+        },
+        {
+          "facility": "AZ Delta Campus Westlaan",
+          "city": "Roeselare",
+          "country": "Belgium"
+        },
+        {
+          "facility": "CHU UCL Namur / site Godinne",
+          "city": "Yvoir",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Chronos Pesquisa Clinica",
+          "city": "Taguatinga",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Santa Casa de Misericordia de Porto Alegre",
+          "city": "Porto Alegre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Hospital de Clínicas de Porto Alegre X",
+          "city": "Porto Alegre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Instituto Joinvilense de Hematologia E Oncologia",
+          "city": "Joinville",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Hospital das Clínicas FMRP-USP",
+          "city": "Ribeirao Preto",
+          "country": "Brazil"
+        },
+        {
+          "facility": "*X*CEPHO - Centro de Estudos e Pesquisas em Hematologia e Oncologia",
+          "city": "Santo Andre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Hospital Sírio-Libanês",
+          "city": "Sao Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Hospital Paulistano",
+          "city": "Sao Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Beneficencia Portuguesa de Sao Paulo",
+          "city": "São Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "CISSS Chaudière-Appalaches",
+          "city": "Levis",
+          "country": "Canada"
+        },
+        {
+          "facility": "Ustav hematologie a krevni transfuze",
+          "city": "Praha",
+          "country": "Czechia"
+        },
+        {
+          "facility": "North Estonia Medical Centre Foundation",
+          "city": "Tallinn",
+          "country": "Estonia"
+        },
+        {
+          "facility": "Hopital Claude Huriez - CHU Lille",
+          "city": "Lille cedex",
+          "country": "France"
+        },
+        {
+          "facility": "Universitaetsklinikum Aachen AOeR",
+          "city": "Aachen",
+          "country": "Germany"
+        },
+        {
+          "facility": "ELBLANDKLINIKUM Riesa",
+          "city": "Riesa",
+          "country": "Germany"
+        },
+        {
+          "facility": "General Hospital of Athens LAIKO",
+          "city": "Athens",
+          "country": "Greece"
+        },
+        {
+          "facility": "Attikon University General Hospital",
+          "city": "Athens",
+          "country": "Greece"
+        },
+        {
+          "facility": "The Chinese University of Hong Kong",
+          "city": "Shatin",
+          "country": "Hong Kong"
+        },
+        {
+          "facility": "Semmelweis Egyetem",
+          "city": "Budapest",
+          "country": "Hungary"
+        },
+        {
+          "facility": "St James's Hospital",
+          "city": "Dublin",
+          "country": "Ireland"
+        },
+        {
+          "facility": "Azienda Unita Sanitaria Locale- Ravenna",
+          "city": "Ravenna",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione IRCCS CA? Granda Ospedale Maggiore Policlinico",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera Città della Salute e della Scienza di Torino",
+          "city": "Torino",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera Universitaria Careggi",
+          "city": "Firenze",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fujita Health University Hospital",
+          "city": "Aichi",
+          "country": "Japan"
+        },
+        {
+          "facility": "Kobe University Hospital",
+          "city": "Hyogo",
+          "country": "Japan"
+        },
+        {
+          "facility": "Tokushukai Takasago Seibu Hospital",
+          "city": "Hyogo",
+          "country": "Japan"
+        },
+        {
+          "facility": "Ishikawa Prefectural Central Hospital",
+          "city": "Ishikawa",
+          "country": "Japan"
+        },
+        {
+          "facility": "Tokai University Hospital",
+          "city": "Kanagawa",
+          "country": "Japan"
+        },
+        {
+          "facility": "Mie University Hospital",
+          "city": "Mie",
+          "country": "Japan"
+        },
+        {
+          "facility": "Japanese Red Cross Society Suwa Hospital",
+          "city": "Nagano",
+          "country": "Japan"
+        },
+        {
+          "facility": "Nagasaki University Hospital",
+          "city": "Nagasaki",
+          "country": "Japan"
+        },
+        {
+          "facility": "Sasebo City General Hospital",
+          "city": "Nagasaki",
+          "country": "Japan"
+        },
+        {
+          "facility": "National Hospital Organization Okayama Medical Center",
+          "city": "Okayama",
+          "country": "Japan"
+        },
+        {
+          "facility": "Osaka University Hospital",
+          "city": "Osaka",
+          "country": "Japan"
+        },
+        {
+          "facility": "Iwate Prefectural Isawa Hospital",
+          "city": "Oshu",
+          "country": "Japan"
+        },
+        {
+          "facility": "NTT Medical Center Tokyo",
+          "city": "Tokyo",
+          "country": "Japan"
+        },
+        {
+          "facility": "Tokyo Medical University Hospital",
+          "city": "Tokyo",
+          "country": "Japan"
+        },
+        {
+          "facility": "Toyama Prefectual Central Hospital",
+          "city": "Toyama",
+          "country": "Japan"
+        },
+        {
+          "facility": "Seoul National University Hospital",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Severance Hospital",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Samsung Medical Center",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Ulsan University Hospital",
+          "city": "Ulsan",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Amsterdam UMC, Locatie AMC",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Szpital Uniwersytecki nr2 im. dr J. Biziela",
+          "city": "Bydgoszcz",
+          "country": "Poland"
+        },
+        {
+          "facility": "Uniwersyteckie Centrum Kliniczne",
+          "city": "Gda?sk",
+          "country": "Poland"
+        },
+        {
+          "facility": "Samodzielny Publiczny Szpital Kliniczny nr 1",
+          "city": "Lublin",
+          "country": "Poland"
+        },
+        {
+          "facility": "Centrum Medyczne Pratia Poznan",
+          "city": "Skórzewo",
+          "country": "Poland"
+        },
+        {
+          "facility": "MTZ Clinical Research Powered by Pratia",
+          "city": "Warszawa",
+          "country": "Poland"
+        },
+        {
+          "facility": "Centro Hospitalar do Baixo Vouga E.P.E. - Hospital de Aveiro",
+          "city": "Aveiro",
+          "country": "Portugal"
+        },
+        {
+          "facility": "King Faisal Specialist Hospital & Research Center",
+          "city": "Riyadh",
+          "country": "Saudi Arabia"
+        },
+        {
+          "facility": "National University Hospital",
+          "city": "Singapore",
+          "country": "Singapore"
+        },
+        {
+          "facility": "ICO Badalona - Hospital Universitari Germans Trias i Pujol",
+          "city": "Badalona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complejo Hospitalario Universitario de Santiago.",
+          "city": "Santiago de Compostela",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital U. Central de Asturias",
+          "city": "Asturias",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitari Vall d'Hebron",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de Gran Canaria",
+          "city": "Las Palmas",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital General Universitario Gregorio Marañon",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Clinico San Carlos",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Regional Universitario de Malaga",
+          "city": "Malaga",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de Salamanca",
+          "city": "Salamanca",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen del Rocio",
+          "city": "Sevilla",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complejo Hospitalario de Toledo",
+          "city": "Toledo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Miguel Servet",
+          "city": "Zaragoza",
+          "country": "Spain"
+        },
+        {
+          "facility": "Akademiska Sjukhuset",
+          "city": "Uppsala",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Changhua Christian Hospital",
+          "city": "Chang Hua",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Hualien Tzu Chi Hospital",
+          "city": "Hualien",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "National Taiwan Universtiy Hospital",
+          "city": "Taipei",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Hacettepe University Medical Faculty; Neurology",
+          "city": "Ankara",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Gaziantep University Medical Faculty Sahinbey Educational Research Hospital; Hematology",
+          "city": "Gaziantep",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Istanbul University Istanbul Medical Faculty; Neurology",
+          "city": "Istanbul",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Marmara University Pendik Training and Research Hospital, Hematology Department",
+          "city": "Istanbul",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Ege University Medical Faculty; Hematology",
+          "city": "Izmir",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Ondokuz Mayis Univ. Med. Fac.",
+          "city": "Samsun",
+          "country": "Turkey"
+        },
+        {
+          "facility": "King'S College Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-05-04"
+    },
+    {
+      "nctId": "NCT03531255",
+      "briefTitle": "Pegcetacoplan Long Term Safety and Efficacy Extension Study",
+      "officialTitle": "An Open Label, Non-Randomized, Multi-Center Extension Study to Evaluate the Long-Term Safety and Efficacy of Pegcetacoplan in the Treatment of Paroxysmal Nocturnal Hemoglobinuria (PNH)",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "PNH"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Pegcetacoplan"
+        }
+      ],
+      "enrollment": 160,
+      "locations": [
+        {
+          "facility": "University of Southern California",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "Denver Health Medical Center",
+          "city": "Denver",
+          "country": "United States"
+        },
+        {
+          "facility": "Cancer Specialists of North Florida",
+          "city": "Jacksonville",
+          "country": "United States"
+        },
+        {
+          "facility": "Lakes Research",
+          "city": "Miami",
+          "country": "United States"
+        },
+        {
+          "facility": "Northwestern University",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "Investigative Clinical Research of Indiana",
+          "city": "Indianapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "Duke University Medical Center",
+          "city": "Durham",
+          "country": "United States"
+        },
+        {
+          "facility": "Cleveland Clinic",
+          "city": "Cleveland",
+          "country": "United States"
+        },
+        {
+          "facility": "Baptist Cancer Center",
+          "city": "Memphis",
+          "country": "United States"
+        },
+        {
+          "facility": "Royal Melbourne Hospital",
+          "city": "Melbourne",
+          "country": "Australia"
+        },
+        {
+          "facility": "Cliniques Universitaires Saint-luc",
+          "city": "Brussels",
+          "country": "Belgium"
+        },
+        {
+          "facility": "AZ Delta",
+          "city": "Roeselare",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Acibadem City Clinic Tokuda Hospital",
+          "city": "Sofia",
+          "country": "Bulgaria"
+        },
+        {
+          "facility": "National Specialized Hospital for Active Treatment of Haematologic Diseases",
+          "city": "Sofia",
+          "country": "Bulgaria"
+        },
+        {
+          "facility": "University of Calgary",
+          "city": "Calgary",
+          "country": "Canada"
+        },
+        {
+          "facility": "Alberta Health Services",
+          "city": "Edmonton",
+          "country": "Canada"
+        },
+        {
+          "facility": "Toronto General Hospital",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "IPS Centro Medico Julian Coronel SAS",
+          "city": "Cali",
+          "country": "Colombia"
+        },
+        {
+          "facility": "Hospital Center Chalon Sur Saone William Morey",
+          "city": "Chalon-sur-Saône",
+          "country": "France"
+        },
+        {
+          "facility": "CHRU de Lille",
+          "city": "Lille",
+          "country": "France"
+        },
+        {
+          "facility": "Hopital Saint-Louis",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Lyon Sud Hospital Center",
+          "city": "Pierre-Bénite",
+          "country": "France"
+        },
+        {
+          "facility": "Centre Hospitalier Annecy Genevois - Site Annecy",
+          "city": "Pringy",
+          "country": "France"
+        },
+        {
+          "facility": "Centre Hospitalier de Saint-Quentin",
+          "city": "Saint-Quentin",
+          "country": "France"
+        },
+        {
+          "facility": "Universitatsklinikum Ulm",
+          "city": "Ulm",
+          "country": "Germany"
+        },
+        {
+          "facility": "Uniklinik RWTH Aachen",
+          "city": "Aachen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Essen University Hospital Department of Hematology",
+          "city": "Essen",
+          "country": "Germany"
+        },
+        {
+          "facility": "University Medical Center Hamburg-Eppendorf",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Prince of Wales Hospital",
+          "city": "Hong Kong",
+          "country": "Hong Kong"
+        },
+        {
+          "facility": "Queen Mary Hospital",
+          "city": "Hong Kong",
+          "country": "Hong Kong"
+        },
+        {
+          "facility": "Japanese Red Cross Nagoya Daini Hospital",
+          "city": "Showa-ku",
+          "country": "Japan"
+        },
+        {
+          "facility": "Shinshu University Hospital",
+          "city": "Matsumoto",
+          "country": "Japan"
+        },
+        {
+          "facility": "Juntendo University Hospital",
+          "city": "Bunkyō-Ku",
+          "country": "Japan"
+        },
+        {
+          "facility": "Kinan Hospital",
+          "city": "Tanabe",
+          "country": "Japan"
+        },
+        {
+          "facility": "Okayama University Hospital",
+          "city": "Okayama",
+          "country": "Japan"
+        },
+        {
+          "facility": "NTT Medical Center Tokyo",
+          "city": "Tokyo",
+          "country": "Japan"
+        },
+        {
+          "facility": "Chungnam National University Hospital",
+          "city": "Junggu",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "University Malaya Medical Centre",
+          "city": "Lembah Pantai",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Hospital Ampang",
+          "city": "Ampang",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Hospital Universitario \"José Eleuterio González\", UANL",
+          "city": "Monterrey",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Hospital Edgardo Rebagliatti",
+          "city": "Jesús María",
+          "country": "Peru"
+        },
+        {
+          "facility": "Hospital Nacional Dos De Mayo - Centro de Investigación",
+          "city": "Lima Cercado",
+          "country": "Peru"
+        },
+        {
+          "facility": "Centro de Investigacion en Hematologia Clinica del Centro Medico Corpac",
+          "city": "San Isidro",
+          "country": "Peru"
+        },
+        {
+          "facility": "Perpetual Succour Hospital",
+          "city": "Cebu",
+          "country": "Philippines"
+        },
+        {
+          "facility": "Mary Mediatrix Medical Centre",
+          "city": "Lipa City",
+          "country": "Philippines"
+        },
+        {
+          "facility": "Makati Medical Centre",
+          "city": "Makati City",
+          "country": "Philippines"
+        },
+        {
+          "facility": "The Medical City",
+          "city": "Pasig City",
+          "country": "Philippines"
+        },
+        {
+          "facility": "St. Lukes Medical Centre",
+          "city": "Quezon City",
+          "country": "Philippines"
+        },
+        {
+          "facility": "Pavlov First Saint Petersburg State Medical University",
+          "city": "Saint Petersburg",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Therapeutic hospital of regional clinical hospital #1",
+          "city": "Tyumen",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Clinical Center of Serbia",
+          "city": "Belgrade",
+          "country": "Serbia"
+        },
+        {
+          "facility": "Singapore General Hospital",
+          "city": "Singapore",
+          "country": "Singapore"
+        },
+        {
+          "facility": "Hospital Univ. de Gran Canaria Dr.Negrin",
+          "city": "Las Palmas De Gran Canaria",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Politecnico La Fe",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Phramongkutklao Hospital",
+          "city": "Bangkok",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Ramathibodi Hospital",
+          "city": "Bangkok",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Siriraj Hospital",
+          "city": "Bangkok",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Maharaj Nakorn Chiang Mai Hospital",
+          "city": "Chiang Mai",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Srinagarind Hospital",
+          "city": "Khon Kaen",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Thammasat University Hospital",
+          "city": "Pathum Thani",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Songklanagarind Hospital",
+          "city": "Songkhla",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Leeds Teaching Hospitals NHS Trust",
+          "city": "Leeds",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-03-28"
+    },
+    {
+      "nctId": "NCT04747613",
+      "briefTitle": "Long-term Safety and Tolerability of Iptacopan in Patients With Paroxysmal Nocturnal Hemoglobinuria",
+      "officialTitle": "An Open Label, Multicenter Roll-over Extension Program (REP) to Characterize the Long-term Safety and Tolerability of Iptacopan (LNP023) in Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH) Who Have Completed PNH Phase 2 and Phase3 Studies With Iptacopan",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Paroxysmal Nocturnal Hemoglobinuria"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Iptacopan"
+        }
+      ],
+      "enrollment": 208,
+      "locations": [
+        {
+          "facility": "City Of Hope",
+          "city": "Duarte",
+          "country": "United States"
+        },
+        {
+          "facility": "USC Norris Cancer Center",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "Univ of California Irvine (Chao Family Comprehensive Cancer Center)",
+          "city": "Orange",
+          "country": "United States"
+        },
+        {
+          "facility": "Lakes Research",
+          "city": "Miami Lakes",
+          "country": "United States"
+        },
+        {
+          "facility": "Augusta University",
+          "city": "Augusta",
+          "country": "United States"
+        },
+        {
+          "facility": "Montefiore Medical Center",
+          "city": "Bronx",
+          "country": "United States"
+        },
+        {
+          "facility": "Cleveland Clinic Foundation",
+          "city": "Cleveland",
+          "country": "United States"
+        },
+        {
+          "facility": "Prisma Health Upstate",
+          "city": "Greenville",
+          "country": "United States"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Santo Andre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sao Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Beijing",
+          "country": "China"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Tianjin",
+          "country": "China"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Tianjin",
+          "country": "China"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ostrava",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Brno Bohunice",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Lille",
+          "country": "France"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nantes Cedex 1",
+          "country": "France"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nice",
+          "country": "France"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Paris 10",
+          "country": "France"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Toulouse",
+          "country": "France"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Aachen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Dresden",
+          "country": "Germany"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Essen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Riesa",
+          "country": "Germany"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ulm",
+          "country": "Germany"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ascoli Piceno",
+          "country": "Italy"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Avellino",
+          "country": "Italy"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Firenze",
+          "country": "Italy"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Torino",
+          "country": "Italy"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bassano Del Grappa",
+          "country": "Italy"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nagoya",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Fukushima city",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kanazawa",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Isehara",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Suwa",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Suita",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Shinjuku Ku",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kyoto",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Niigata",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Vilnius",
+          "country": "Lithuania"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kota Kinabalu",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kuching",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nijmegen",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Singapore",
+          "country": "Singapore"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Santiago De Compostela",
+          "country": "Spain"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "San Sebastian",
+          "country": "Spain"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hualien",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Taipei",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Istanbul",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Leeds",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-03-19"
+    },
+    {
+      "nctId": "NCT04901936",
+      "briefTitle": "A Study of Pegcetacoplan in Pediatric Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH)",
+      "officialTitle": "An Open Label, Single-Arm, Phase 2 Study to Evaluate the Safety, Pharmacokinetics, and Biologic Activity of Pegcetacoplan in Pediatric Patients With Paroxysmal Nocturnal Hemoglobinuria",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Paroxysmal Nocturnal Hemoglobinuria (PNH)",
+        "Paroxysmal Hemoglobinuria"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Pegcetacoplan"
+        }
+      ],
+      "enrollment": 12,
+      "locations": [
+        {
+          "facility": "Children's Hospital of Atlanta",
+          "city": "Atlanta",
+          "country": "United States"
+        },
+        {
+          "facility": "Motol University Hospital",
+          "city": "Prague",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Robert-Debré Hospital Paris",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Hospital Ampang",
+          "city": "Ampang",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Radboud University Hospital Nijmegen",
+          "city": "Nijmegen",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "University Medical Center Utrecht",
+          "city": "Utrecht",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "University Children's Hospital",
+          "city": "Belgrade",
+          "country": "Serbia"
+        },
+        {
+          "facility": "University Hospital Vall d'Hebron",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "University Hospital 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Phramongkutklao Hospital and College of Medicine",
+          "city": "Bangkok",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Maharaj Nakorn Chiang Mai hospital",
+          "city": "Chiang Mai",
+          "country": "Thailand"
+        },
+        {
+          "facility": "St. Mary's Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-06-11"
+    },
+    {
+      "nctId": "NCT05389449",
+      "briefTitle": "A Long-term Safety and Efficacy Study of Danicopan as an Add-on Therapy to Complement Component 5 Inhibitor (C5i) in Participants With PNH",
+      "officialTitle": "A Long-term Extension (LTE) Study to Characterize the Safety and Efficacy of Danicopan as an Add-on Therapy to a Complement Component 5 Inhibitor (C5i) in Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH) Previously Treated With Danicopan in an Alexion-sponsored Clinical Study",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Paroxysmal Nocturnal Hemoglobinuria"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Danicopan"
+        }
+      ],
+      "enrollment": 80,
+      "locations": [
+        {
+          "facility": "Research Site",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Baltimore",
+          "country": "United States"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Kansas City",
+          "country": "United States"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Long Island City",
+          "country": "United States"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Cleveland",
+          "country": "United States"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Porto Alegre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Brno",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Lille",
+          "country": "France"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Pessac",
+          "country": "France"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Pierre-Benite",
+          "country": "France"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Athens",
+          "country": "Greece"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Thessaloniki",
+          "country": "Greece"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Haifa",
+          "country": "Israel"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Jerusalem",
+          "country": "Israel"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Avellino",
+          "country": "Italy"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Bassano del Grappa",
+          "country": "Italy"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Firenze",
+          "country": "Italy"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Reggio Calabria",
+          "country": "Italy"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Bunkyo-Ku",
+          "country": "Japan"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Kyoto-shi",
+          "country": "Japan"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Osaka-shi",
+          "country": "Japan"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Shibuya-ku",
+          "country": "Japan"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Tsukuba-shi",
+          "country": "Japan"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Suwon",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Kota Kinabalu",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Kuching",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Miri",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Gdańsk",
+          "country": "Poland"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Badalona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Majadahonda",
+          "country": "Spain"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Sevilla",
+          "country": "Spain"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Bangkok",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Airdrie",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Research Site",
+          "city": "Leeds",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Research Site",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-06-22"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:12:49.184949",
+  "run_number": 1,
+  "total_trials_found": 10
+}

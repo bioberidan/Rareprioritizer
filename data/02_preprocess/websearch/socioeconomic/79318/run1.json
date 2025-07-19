@@ -1,0 +1,38 @@
+{
+  "orphacode": "79318",
+  "disease_name": "PMM2-CDG",
+  "socioeconomic_impact_studies": [
+    {
+      "cost": 0,
+      "measure": "qualitative description of disease burden and healthcare utilization",
+      "label": "PMM2-CDG - NORD",
+      "source": "https://rarediseases.org/rare-diseases/pmm2-cdg/",
+      "country": "USA",
+      "year": "2015"
+    },
+    {
+      "cost": 0,
+      "measure": "qualitative clinical and management burden",
+      "label": "Phosphomannomutase 2 Deficiency (PMM2-CDG) - GeneReviews",
+      "source": "https://www.ncbi.nlm.nih.gov/books/NBK1110/",
+      "country": "USA",
+      "year": ""
+    },
+    {
+      "cost": 0,
+      "measure": "qualitative assessment of quality of life impact (PROMs)",
+      "label": "Patient reported outcomes for phosphomannomutase 2 congenital disorder of glycosylation (PMM2-CDG): listening to what matters for the patients and health professionals",
+      "source": "https://ojrd.biomedcentral.com/articles/10.1186/s13023-022-02551-y",
+      "country": "International",
+      "year": "2022"
+    }
+  ],
+  "score": 3,
+  "evidence_level": "Low evidence",
+  "justification": "Only qualitative descriptions of severe burden were found, including reports on mortality risk, quality of life impact, and supportive care needs, but no quantitative cost-of-illness data specific to PMM2-CDG.",
+  "metadata": {
+    "processing_timestamp": "2025-07-18T19:06:52.743531",
+    "run_number": 1,
+    "orphacode": "79318"
+  }
+}

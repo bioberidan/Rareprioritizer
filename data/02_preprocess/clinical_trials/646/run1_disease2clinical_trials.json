@@ -1,0 +1,428 @@
+{
+  "disease_name": "Niemann-Pick disease type C",
+  "orpha_code": "646",
+  "trials": [
+    {
+      "nctId": "NCT04860960",
+      "briefTitle": "Phase 3 Study to Evaluate Intravenous Trappsol(R) Cyclo(TM) in Pediatric and Adult Patients With Niemann-Pick Disease Type C1",
+      "officialTitle": "Phase 3, Double-blind, Randomized, Placebo-controlled, Parallel-group, Multicenter Study to Evaluate the Safety, Tolerability and Efficacy of 2000mg/kg of Trappsol®Cyclo™ (Hydroxypropyl-B-cyclodextrin) and Standard of Care Compared to Placebo and Standard of Care in Patients With Niemann-Pick Disease Type C1 (TransportNPC)",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Niemann-Pick Disease, Type C1"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Hydroxypropyl-beta-cyclodextrin"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "enrollment": 94,
+      "locations": [
+        {
+          "facility": "UCSF Benioff Children's Hospital Oakland",
+          "city": "Oakland",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Florida",
+          "city": "Jacksonville",
+          "country": "United States"
+        },
+        {
+          "facility": "Emory",
+          "city": "Atlanta",
+          "country": "United States"
+        },
+        {
+          "facility": "Cincinnati Children's Hospital Medical Center",
+          "city": "Cincinnati",
+          "country": "United States"
+        },
+        {
+          "facility": "UPMC Children's Hospital",
+          "city": "Pittsburgh",
+          "country": "United States"
+        },
+        {
+          "facility": "University Utah",
+          "city": "Salt Lake City",
+          "country": "United States"
+        },
+        {
+          "facility": "Lysosomal and Rare Disorders Research & Treatment Center, Inc.",
+          "city": "Fairfax",
+          "country": "United States"
+        },
+        {
+          "facility": "Hospital de Alta Complejidad en Red \"El Cruce\"",
+          "city": "Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Hospital de Niños de la Santísima Trinidad",
+          "city": "Córdoba",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Melbourne Children's Trials Centre Murdoch Children's Research Institute",
+          "city": "Parkville",
+          "country": "Australia"
+        },
+        {
+          "facility": "Royal Melbourne Hospital",
+          "city": "Parkville",
+          "country": "Australia"
+        },
+        {
+          "facility": "Metabolic Clinical Trials Unit",
+          "city": "Adelaide",
+          "country": "Australia"
+        },
+        {
+          "facility": "Hospital de Clínicas de Porto Alegre",
+          "city": "Porto Alegre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Universidade de São Paulo",
+          "city": "São Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "University of Campinas",
+          "city": "São Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "SphinCS GmbH",
+          "city": "Hochheim",
+          "country": "Germany"
+        },
+        {
+          "facility": "University Munster",
+          "city": "Münster",
+          "country": "Germany"
+        },
+        {
+          "facility": "Emek Medical Center-Department of Pediatrics",
+          "city": "Afula",
+          "country": "Israel"
+        },
+        {
+          "facility": "Soroka Medical Center",
+          "city": "Be'er Sheva",
+          "country": "Israel"
+        },
+        {
+          "facility": "University of Catania",
+          "city": "Catania",
+          "country": "Italy"
+        },
+        {
+          "facility": "Istituto Neurologico Carlo Besta",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        {
+          "facility": "University Hospital of Padova",
+          "city": "Padova",
+          "country": "Italy"
+        },
+        {
+          "facility": "Centro di Coordinamento Regionale Malattie Rare",
+          "city": "Udine",
+          "country": "Italy"
+        },
+        {
+          "facility": "Szpital Uniwersytecki w Krakowie",
+          "city": "Kraków",
+          "country": "Poland"
+        },
+        {
+          "facility": "MediPark",
+          "city": "Warsaw",
+          "country": "Poland"
+        },
+        {
+          "facility": "King Faisal Specialist Hospital and Research Centre",
+          "city": "Riyadh",
+          "country": "Saudi Arabia"
+        },
+        {
+          "facility": "Hospital Sant Joan de Déu - Neurology Department",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitari de Bellvitge",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "National Taiwan University Hospital",
+          "city": "Taipei",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Gazi University Faculty of Medicine",
+          "city": "Ankara",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Ege University Medical School, Department of Inborn Errors of Metabolism",
+          "city": "İzmir",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Birmingham Children's Hospital NHS Foundation Trust · Department of Inherited Metabolic Disorders Service",
+          "city": "Birmingham",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "University College London",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Salford Royal Foundation NHS Trust",
+          "city": "Salford",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2024-06-04"
+    },
+    {
+      "nctId": "NCT05641103",
+      "briefTitle": "PREDIGA 2: Spanish Acronym of \"Educational and Diagnostic Project for Gaucher and ASMD\"",
+      "officialTitle": "PREDIGA 2: Spanish Acronym of \"Educational and Diagnostic Project for Gaucher and ASMD\"",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Gaucher Disease",
+        "Acid SphingoMyelinase Deficiency",
+        "ASMD",
+        "Niemann-Pick Diseases",
+        "Splenomegaly"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Patient with splenomegaly or splenectomy"
+        }
+      ],
+      "enrollment": 122,
+      "locations": [
+        {
+          "facility": "Hospital de Poniente",
+          "city": "El Ejido",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de Cabueñes",
+          "city": "Gijón",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Central de Asturias - HUCA",
+          "city": "Oviedo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complejo Hospitalario Universitario de Santiago - CHUS",
+          "city": "Santiago De Compostela",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de Galdácano",
+          "city": "Galdácano",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital General Universitario de Alicante",
+          "city": "Alicante",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de Badajoz",
+          "city": "Badajoz",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Vall d'Hebron",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Juan Ramón Jiménez",
+          "city": "Huelva",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complejo Hospitalario Universitario La Coruña - CHUAC",
+          "city": "La Coruña",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Lucus Augusti",
+          "city": "Lugo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario La Princesa",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "CAU Salamanca",
+          "city": "Salamanca",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Joan XXIII",
+          "city": "Tarragona",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-02-19"
+    },
+    {
+      "nctId": "NCT05992532",
+      "briefTitle": "GammaGA: Prevalence of Acid Sphingomyelinase Deficiency Disease (ASMD) and Gaucher Disease in Patients With Monoclonal Gammopathies and/or Multiple Myeloma",
+      "officialTitle": "GammaGA: Study of the Prevalence of Acid Sphingomyelinase Deficiency Disease (ASMD) and Gaucher Disease in Patients With Monoclonal Gammopathies and/or Multiple Myeloma",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Gaucher Disease",
+        "Acid SphingoMyelinase Deficiency"
+      ],
+      "interventions": [],
+      "enrollment": 210,
+      "locations": [
+        {
+          "facility": "Hospital Universitario de Álava",
+          "city": "Vitoria",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Parc Taulí",
+          "city": "Sabadell",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital de Manises",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Son Espases",
+          "city": "Palma De Mallorca",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital del Bierzo",
+          "city": "Ponferrada",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Alvaro Cunqueiro",
+          "city": "Vigo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Alcañiz",
+          "city": "Alcañiz",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Clínico Universitario de Valladolid",
+          "city": "Valladolid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Torrecárdenas",
+          "city": "Almería",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de Burgos",
+          "city": "Burgos",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Dr. Josep Trueta",
+          "city": "Girona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen de las Nieves",
+          "city": "Granada",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital San Jorge",
+          "city": "Huesca",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital de Jaén",
+          "city": "Jaén",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Arnau de Vilanova",
+          "city": "Lleida",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Ramón y Cajal",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Fundación Jiménez Díaz",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Regional Universitario de Málaga",
+          "city": "Málaga",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complejo Hospitalario Universitario de Orense",
+          "city": "Orense",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario y Politécnico La Fe",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complejo Asistencial de Ávila",
+          "city": "Ávila",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2024-05-31"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:11:29.002198",
+  "run_number": 1,
+  "total_trials_found": 3
+}

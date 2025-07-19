@@ -1,0 +1,82 @@
+{
+  "disease_name": "Transcobalamin deficiency",
+  "orpha_code": "859",
+  "drugs": [
+    {
+      "name": "DEQSIGA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/700589?name=859&mode=orpha&region=",
+      "regulatory_id": "700589",
+      "orpha_substance_code": "ORPHA:101997",
+      "details": [
+        "DEQSIGA(Tradename                        - 02/05/2025)Disease(s) concernedORPHA:3002 Immune thrombocytopeniaORPHA:2331 Kawasaki diseaseORPHA:2103 Guillain-Barré syndromeORPHA:2932 Chronic inflammatory demyelinating polyneuropathyORPHA:641 Multifocal motor neuropathyORPHA:101997 Primary immunodeficiency",
+        "DEQSIGA(Tradename                        - 02/05/2025)",
+        "(Tradename                        - 02/05/2025)",
+        "Disease(s) concernedORPHA:3002 Immune thrombocytopeniaORPHA:2331 Kawasaki diseaseORPHA:2103 Guillain-Barré syndromeORPHA:2932 Chronic inflammatory demyelinating polyneuropathyORPHA:641 Multifocal motor neuropathyORPHA:101997 Primary immunodeficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/700586?name=859&mode=orpha&region=&status=all",
+          "text": "DEQSIGA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/3002",
+          "text": "ORPHA:3002 Immune thrombocytopenia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2331",
+          "text": "ORPHA:2331 Kawasaki disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2103",
+          "text": "ORPHA:2103 Guillain-Barré syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2932",
+          "text": "ORPHA:2932 Chronic inflammatory demyelinating polyneuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/641",
+          "text": "ORPHA:641 Multifocal motor neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101997",
+          "text": "ORPHA:101997 Primary immunodeficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/700589?name=859&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "ORPHA:2103 Guillain-Barré syndrome\n                                \n\n\n\n\n                                    ORPHA:2932 Chronic inflammatory demyelinating polyneuropathy\n                                \n\n\n\n\n                                    ORPHA:641 Multifocal motor neuropathy\n                                \n\n\n\n\n                                    ORPHA:101997 Primary immunodeficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US",
+        "EU"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:04:40.014696",
+  "run_number": 1,
+  "total_drugs_found": 1,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Transcobalamin+deficiency&orphaCode=859&name=859&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Transcobalamin deficiency",
+    "orphaCode": "859",
+    "name": "859",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

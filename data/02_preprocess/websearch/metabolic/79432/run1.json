@@ -1,0 +1,29 @@
+{
+  "orphacode": "79432",
+  "disease_name": "Oculocutaneous albinism type 2",
+  "groups": [
+    {
+      "unit_name": "U756",
+      "sources": [
+        {
+          "label": "CNB-CSIC: Modelos animales por manipulación genética (modelos de OCA2, OCA1A y OCA1B)",
+          "url": "https://www2.cnb.csic.es/index.php/es/investigacion/departamentos-de-investigacion/biologia-molecular-y-celular/modelos-animales-por-manipulacion-genetica"
+        }
+      ]
+    },
+    {
+      "unit_name": "U704",
+      "sources": [
+        {
+          "label": "CIBERER: CIBERER coorganiza una jornada clínica en el Día del Albinismo (María José Trujillo, U704 CIBERER)",
+          "url": "https://www.ciberer.es/noticias/ciberer-coorganiza-una-jornada-clinica-en-el-dia-del-albinismo-el-proximo-2-de-octubre"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "processing_timestamp": "2025-07-18T15:49:53.591706",
+    "run_number": 1,
+    "orphacode": "79432"
+  }
+}

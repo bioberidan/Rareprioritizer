@@ -1,0 +1,2662 @@
+[
+  {
+    "disease_name": "Trehalase deficiency",
+    "orpha_code": "103909"
+  },
+  {
+    "disease_name": "Oculocutaneous albinism type 2",
+    "orpha_code": "79432"
+  },
+  {
+    "disease_name": "Systemic primary carnitine deficiency",
+    "orpha_code": "158"
+  },
+  {
+    "disease_name": "PMM2-CDG",
+    "orpha_code": "79318"
+  },
+  {
+    "disease_name": "GNE myopathy",
+    "orpha_code": "602"
+  },
+  {
+    "disease_name": "Maternal phenylketonuria",
+    "orpha_code": "2209"
+  },
+  {
+    "disease_name": "Oculocutaneous albinism type 3",
+    "orpha_code": "79433"
+  },
+  {
+    "disease_name": "Sjögren-Larsson syndrome",
+    "orpha_code": "816"
+  },
+  {
+    "disease_name": "Congenital sucrase-isomaltase deficiency",
+    "orpha_code": "35122"
+  },
+  {
+    "disease_name": "Medium chain acyl-CoA dehydrogenase deficiency",
+    "orpha_code": "42"
+  },
+  {
+    "disease_name": "Very long chain acyl-CoA dehydrogenase deficiency",
+    "orpha_code": "26793"
+  },
+  {
+    "disease_name": "Peters plus syndrome",
+    "orpha_code": "709"
+  },
+  {
+    "disease_name": "CHILD syndrome",
+    "orpha_code": "139"
+  },
+  {
+    "disease_name": "CK syndrome",
+    "orpha_code": "251383"
+  },
+  {
+    "disease_name": "Farber disease",
+    "orpha_code": "333"
+  },
+  {
+    "disease_name": "Congenital muscular dystrophy, Fukuyama type",
+    "orpha_code": "272"
+  },
+  {
+    "disease_name": "Acatalasemia",
+    "orpha_code": "926"
+  },
+  {
+    "disease_name": "Dicarboxylic aminoaciduria",
+    "orpha_code": "2195"
+  },
+  {
+    "disease_name": "Iminoglycinuria",
+    "orpha_code": "42062"
+  },
+  {
+    "disease_name": "Cystathioninuria",
+    "orpha_code": "212"
+  },
+  {
+    "disease_name": "Histidinemia",
+    "orpha_code": "2157"
+  },
+  {
+    "disease_name": "Sarcosinemia",
+    "orpha_code": "3129"
+  },
+  {
+    "disease_name": "Oculocutaneous albinism type 4",
+    "orpha_code": "79435"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to liver glycogen phosphorylase deficiency",
+    "orpha_code": "369"
+  },
+  {
+    "disease_name": "Hereditary fructose intolerance",
+    "orpha_code": "469"
+  },
+  {
+    "disease_name": "Kearns-Sayre syndrome",
+    "orpha_code": "480"
+  },
+  {
+    "disease_name": "NARP syndrome",
+    "orpha_code": "644"
+  },
+  {
+    "disease_name": "Short chain acyl-CoA dehydrogenase deficiency",
+    "orpha_code": "26792"
+  },
+  {
+    "disease_name": "Hereditary butyrylcholinesterase deficiency",
+    "orpha_code": "132"
+  },
+  {
+    "disease_name": "Adenine phosphoribosyltransferase deficiency",
+    "orpha_code": "976"
+  },
+  {
+    "disease_name": "Smith-Lemli-Opitz syndrome",
+    "orpha_code": "818"
+  },
+  {
+    "disease_name": "Mucolipidosis type IV",
+    "orpha_code": "578"
+  },
+  {
+    "disease_name": "Lysinuric protein intolerance",
+    "orpha_code": "470"
+  },
+  {
+    "disease_name": "Glutaryl-CoA dehydrogenase deficiency",
+    "orpha_code": "25"
+  },
+  {
+    "disease_name": "Classic galactosemia",
+    "orpha_code": "79239"
+  },
+  {
+    "disease_name": "GRACILE syndrome",
+    "orpha_code": "53693"
+  },
+  {
+    "disease_name": "Combined malonic and methylmalonic acidemia",
+    "orpha_code": "289504"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to glycogen debranching enzyme deficiency",
+    "orpha_code": "366"
+  },
+  {
+    "disease_name": "Leigh syndrome",
+    "orpha_code": "506"
+  },
+  {
+    "disease_name": "Glucose-galactose malabsorption",
+    "orpha_code": "35710"
+  },
+  {
+    "disease_name": "Aceruloplasminemia",
+    "orpha_code": "48818"
+  },
+  {
+    "disease_name": "CLN11 disease",
+    "orpha_code": "314629"
+  },
+  {
+    "disease_name": "Barth syndrome",
+    "orpha_code": "111"
+  },
+  {
+    "disease_name": "Alpers-Huttenlocher syndrome",
+    "orpha_code": "726"
+  },
+  {
+    "disease_name": "Lesch-Nyhan syndrome",
+    "orpha_code": "510"
+  },
+  {
+    "disease_name": "Hemolytic anemia due to red cell pyruvate kinase deficiency",
+    "orpha_code": "766"
+  },
+  {
+    "disease_name": "Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency",
+    "orpha_code": "5"
+  },
+  {
+    "disease_name": "Hyaluronidase deficiency",
+    "orpha_code": "67041"
+  },
+  {
+    "disease_name": "Mucopolysaccharidosis type 10",
+    "orpha_code": "662216"
+  },
+  {
+    "disease_name": "Auditory neuropathy-optic atrophy syndrome",
+    "orpha_code": "542585"
+  },
+  {
+    "disease_name": "Congenital bile acid synthesis defect type 3",
+    "orpha_code": "79302"
+  },
+  {
+    "disease_name": "Fatty acid hydroxylase-associated neurodegeneration",
+    "orpha_code": "329308"
+  },
+  {
+    "disease_name": "Neuroferritinopathy",
+    "orpha_code": "157846"
+  },
+  {
+    "disease_name": "Pontocerebellar hypoplasia type 6",
+    "orpha_code": "166073"
+  },
+  {
+    "disease_name": "Carnitine palmitoyl transferase 1A deficiency",
+    "orpha_code": "156"
+  },
+  {
+    "disease_name": "Carnitine-acylcarnitine translocase deficiency",
+    "orpha_code": "159"
+  },
+  {
+    "disease_name": "Congenital atransferrinemia",
+    "orpha_code": "1195"
+  },
+  {
+    "disease_name": "Multiple sulfatase deficiency",
+    "orpha_code": "585"
+  },
+  {
+    "disease_name": "Mucolipidosis type II",
+    "orpha_code": "576"
+  },
+  {
+    "disease_name": "Beta-mannosidosis",
+    "orpha_code": "118"
+  },
+  {
+    "disease_name": "Fucosidosis",
+    "orpha_code": "349"
+  },
+  {
+    "disease_name": "Galactosialidosis",
+    "orpha_code": "351"
+  },
+  {
+    "disease_name": "Oculocerebrorenal syndrome of Lowe",
+    "orpha_code": "534"
+  },
+  {
+    "disease_name": "Holocarboxylase synthetase deficiency",
+    "orpha_code": "79242"
+  },
+  {
+    "disease_name": "Beta-ketothiolase deficiency",
+    "orpha_code": "134"
+  },
+  {
+    "disease_name": "3-hydroxy-3-methylglutaric aciduria",
+    "orpha_code": "20"
+  },
+  {
+    "disease_name": "X-linked recessive ocular albinism",
+    "orpha_code": "54"
+  },
+  {
+    "disease_name": "Fructose-1,6-bisphosphatase deficiency",
+    "orpha_code": "348"
+  },
+  {
+    "disease_name": "Fanconi-Bickel syndrome",
+    "orpha_code": "2088"
+  },
+  {
+    "disease_name": "Galactose mutarotase deficiency",
+    "orpha_code": "570422"
+  },
+  {
+    "disease_name": "Autosomal dominant optic atrophy plus syndrome",
+    "orpha_code": "1215"
+  },
+  {
+    "disease_name": "X-linked dominant chondrodysplasia punctata",
+    "orpha_code": "35173"
+  },
+  {
+    "disease_name": "Hereditary coproporphyria",
+    "orpha_code": "79273"
+  },
+  {
+    "disease_name": "Ataxia with vitamin E deficiency",
+    "orpha_code": "96"
+  },
+  {
+    "disease_name": "Acrodermatitis enteropathica",
+    "orpha_code": "37"
+  },
+  {
+    "disease_name": "Spinocerebellar ataxia type 28",
+    "orpha_code": "101109"
+  },
+  {
+    "disease_name": "Ornithine transcarbamylase deficiency",
+    "orpha_code": "664"
+  },
+  {
+    "disease_name": "FKRP-related limb-girdle muscular dystrophy R9",
+    "orpha_code": "34515"
+  },
+  {
+    "disease_name": "Classic glucose transporter type 1 deficiency syndrome",
+    "orpha_code": "71277"
+  },
+  {
+    "disease_name": "Pyridoxal phosphate-responsive seizures",
+    "orpha_code": "79096"
+  },
+  {
+    "disease_name": "Variegate porphyria",
+    "orpha_code": "79473"
+  },
+  {
+    "disease_name": "Infantile neurovisceral acid sphingomyelinase deficiency",
+    "orpha_code": "77292"
+  },
+  {
+    "disease_name": "Aspartylglucosaminuria",
+    "orpha_code": "93"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to muscle glycogen phosphorylase deficiency",
+    "orpha_code": "368"
+  },
+  {
+    "disease_name": "Acute intermittent porphyria",
+    "orpha_code": "79276"
+  },
+  {
+    "disease_name": "Multiple osteochondromas",
+    "orpha_code": "321"
+  },
+  {
+    "disease_name": "Cerebrotendinous xanthomatosis",
+    "orpha_code": "909"
+  },
+  {
+    "disease_name": "MPI-CDG",
+    "orpha_code": "79319"
+  },
+  {
+    "disease_name": "ALG6-CDG",
+    "orpha_code": "79320"
+  },
+  {
+    "disease_name": "ALG3-CDG",
+    "orpha_code": "79321"
+  },
+  {
+    "disease_name": "ALG12-CDG",
+    "orpha_code": "79324"
+  },
+  {
+    "disease_name": "ALG8-CDG",
+    "orpha_code": "79325"
+  },
+  {
+    "disease_name": "ALG2-CDG",
+    "orpha_code": "79326"
+  },
+  {
+    "disease_name": "ALG1-CDG",
+    "orpha_code": "79327"
+  },
+  {
+    "disease_name": "ALG9-CDG",
+    "orpha_code": "79328"
+  },
+  {
+    "disease_name": "MGAT2-CDG",
+    "orpha_code": "79329"
+  },
+  {
+    "disease_name": "MOGS-CDG",
+    "orpha_code": "79330"
+  },
+  {
+    "disease_name": "DPAGT1-CDG",
+    "orpha_code": "86309"
+  },
+  {
+    "disease_name": "RFT1-CDG",
+    "orpha_code": "244310"
+  },
+  {
+    "disease_name": "ALG11-CDG",
+    "orpha_code": "280071"
+  },
+  {
+    "disease_name": "DDOST-CDG",
+    "orpha_code": "300536"
+  },
+  {
+    "disease_name": "TMEM165-CDG",
+    "orpha_code": "314667"
+  },
+  {
+    "disease_name": "PGM1-CDG",
+    "orpha_code": "319646"
+  },
+  {
+    "disease_name": "ALG13-CDG",
+    "orpha_code": "324422"
+  },
+  {
+    "disease_name": "STT3A-CDG",
+    "orpha_code": "370921"
+  },
+  {
+    "disease_name": "STT3B-CDG",
+    "orpha_code": "370924"
+  },
+  {
+    "disease_name": "SSR4-CDG",
+    "orpha_code": "370927"
+  },
+  {
+    "disease_name": "Autism spectrum disorder-epilepsy-arthrogryposis syndrome",
+    "orpha_code": "370943"
+  },
+  {
+    "disease_name": "MAN1B1-CDG",
+    "orpha_code": "397941"
+  },
+  {
+    "disease_name": "SLC39A8-CDG",
+    "orpha_code": "468699"
+  },
+  {
+    "disease_name": "Seizures-scoliosis-macrocephaly syndrome",
+    "orpha_code": "466926"
+  },
+  {
+    "disease_name": "POGLUT1-related limb-girdle muscular dystrophy R21",
+    "orpha_code": "480682"
+  },
+  {
+    "disease_name": "CHST3-related skeletal dysplasia",
+    "orpha_code": "263463"
+  },
+  {
+    "disease_name": "Larsen-like syndrome, B3GAT3 type",
+    "orpha_code": "284139"
+  },
+  {
+    "disease_name": "Temtamy preaxial brachydactyly syndrome",
+    "orpha_code": "363417"
+  },
+  {
+    "disease_name": "XYLT1-CDG",
+    "orpha_code": "370930"
+  },
+  {
+    "disease_name": "POMT1-related limb-girdle muscular dystrophy R11",
+    "orpha_code": "86812"
+  },
+  {
+    "disease_name": "Fukutin-related limb-girdle muscular dystrophy R13",
+    "orpha_code": "206554"
+  },
+  {
+    "disease_name": "POMT2-related limb-girdle muscular dystrophy R14",
+    "orpha_code": "206559"
+  },
+  {
+    "disease_name": "POMGNT1-related limb-girdle muscular dystrophy R15",
+    "orpha_code": "206564"
+  },
+  {
+    "disease_name": "ISPD-related limb-girdle muscular dystrophy R20",
+    "orpha_code": "352479"
+  },
+  {
+    "disease_name": "GMPPB-related limb-girdle muscular dystrophy R19",
+    "orpha_code": "363623"
+  },
+  {
+    "disease_name": "Limb-girdle muscular dystrophy due to POMK deficiency",
+    "orpha_code": "445110"
+  },
+  {
+    "disease_name": "Autosomal recessive spastic paraplegia type 67",
+    "orpha_code": "401820"
+  },
+  {
+    "disease_name": "Multiple congenital anomalies-hypotonia-seizures syndrome type 2",
+    "orpha_code": "300496"
+  },
+  {
+    "disease_name": "Ferro-cerebro-cutaneous syndrome",
+    "orpha_code": "397922"
+  },
+  {
+    "disease_name": "CHIME syndrome",
+    "orpha_code": "3474"
+  },
+  {
+    "disease_name": "Multiple congenital anomalies-hypotonia-seizures syndrome",
+    "orpha_code": "280633"
+  },
+  {
+    "disease_name": "Early-onset epilepsy-intellectual disability-brain anomalies syndrome",
+    "orpha_code": "488635"
+  },
+  {
+    "disease_name": "Intellectual disability-seizures-hypophosphatasia-ophthalmic-skeletal anomalies syndrome",
+    "orpha_code": "369837"
+  },
+  {
+    "disease_name": "DPM1-CDG",
+    "orpha_code": "79322"
+  },
+  {
+    "disease_name": "MPDU1-CDG",
+    "orpha_code": "79323"
+  },
+  {
+    "disease_name": "B4GALT1-CDG",
+    "orpha_code": "79332"
+  },
+  {
+    "disease_name": "DK1-CDG",
+    "orpha_code": "91131"
+  },
+  {
+    "disease_name": "Congenital dyserythropoietic anemia type II",
+    "orpha_code": "98873"
+  },
+  {
+    "disease_name": "SLC35A1-CDG",
+    "orpha_code": "238459"
+  },
+  {
+    "disease_name": "DPM3-CDG",
+    "orpha_code": "263494"
+  },
+  {
+    "disease_name": "COG6-CGD",
+    "orpha_code": "464443"
+  },
+  {
+    "disease_name": "COG7-CDG",
+    "orpha_code": "79333"
+  },
+  {
+    "disease_name": "COG8-CDG",
+    "orpha_code": "95428"
+  },
+  {
+    "disease_name": "COG5-CDG",
+    "orpha_code": "263487"
+  },
+  {
+    "disease_name": "COG4-CDG",
+    "orpha_code": "263501"
+  },
+  {
+    "disease_name": "COG1-CDG",
+    "orpha_code": "263508"
+  },
+  {
+    "disease_name": "COG2-CDG",
+    "orpha_code": "435934"
+  },
+  {
+    "disease_name": "SRD5A3-CDG",
+    "orpha_code": "324737"
+  },
+  {
+    "disease_name": "Congenital muscular dystrophy with intellectual disability and severe epilepsy",
+    "orpha_code": "329178"
+  },
+  {
+    "disease_name": "SLC35A2-CDG",
+    "orpha_code": "356961"
+  },
+  {
+    "disease_name": "PGM3-CDG",
+    "orpha_code": "443811"
+  },
+  {
+    "disease_name": "CAD-CDG",
+    "orpha_code": "448010"
+  },
+  {
+    "disease_name": "TMEM199-CDG",
+    "orpha_code": "466703"
+  },
+  {
+    "disease_name": "CCDC115-CDG",
+    "orpha_code": "468684"
+  },
+  {
+    "disease_name": "Progressive myoclonic epilepsy type 3",
+    "orpha_code": "263516"
+  },
+  {
+    "disease_name": "CLN12 disease",
+    "orpha_code": "314632"
+  },
+  {
+    "disease_name": "Encephalopathy due to prosaposin deficiency",
+    "orpha_code": "139406"
+  },
+  {
+    "disease_name": "GM2 gangliosidosis, AB variant",
+    "orpha_code": "309246"
+  },
+  {
+    "disease_name": "Autosomal recessive cerebellar ataxia with late-onset spasticity",
+    "orpha_code": "352641"
+  },
+  {
+    "disease_name": "Sialidosis type 1",
+    "orpha_code": "812"
+  },
+  {
+    "disease_name": "Sialuria",
+    "orpha_code": "3166"
+  },
+  {
+    "disease_name": "Leukoencephalopathy-dystonia-motor neuropathy syndrome",
+    "orpha_code": "163684"
+  },
+  {
+    "disease_name": "Fatty acyl-CoA reductase 1 deficiency",
+    "orpha_code": "438178"
+  },
+  {
+    "disease_name": "Hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency",
+    "orpha_code": "401948"
+  },
+  {
+    "disease_name": "Developmental delay-immunodeficiency-leukoencephalopathy-hypohomocysteinemia syndrome",
+    "orpha_code": "619979"
+  },
+  {
+    "disease_name": "S-adenosylhomocysteine hydrolase deficiency",
+    "orpha_code": "88618"
+  },
+  {
+    "disease_name": "Methionine adenosyltransferase I/III deficiency",
+    "orpha_code": "168598"
+  },
+  {
+    "disease_name": "Urocanic aciduria",
+    "orpha_code": "210128"
+  },
+  {
+    "disease_name": "Global developmental delay-alopecia-macrocephaly-facial dysmorphism-structural brain anomalies syndrome",
+    "orpha_code": "544488"
+  },
+  {
+    "disease_name": "Prolidase deficiency",
+    "orpha_code": "742"
+  },
+  {
+    "disease_name": "Tyrosinemia type 2",
+    "orpha_code": "28378"
+  },
+  {
+    "disease_name": "Tyrosinemia type 3",
+    "orpha_code": "69723"
+  },
+  {
+    "disease_name": "Spastic tetraplegia-thin corpus callosum-progressive postnatal microcephaly syndrome",
+    "orpha_code": "447997"
+  },
+  {
+    "disease_name": "Dimethylglycine dehydrogenase deficiency",
+    "orpha_code": "243343"
+  },
+  {
+    "disease_name": "5-oxoprolinase deficiency",
+    "orpha_code": "33572"
+  },
+  {
+    "disease_name": "Gamma-glutamyl transpeptidase deficiency",
+    "orpha_code": "33573"
+  },
+  {
+    "disease_name": "Glutamate-cysteine ligase deficiency",
+    "orpha_code": "33574"
+  },
+  {
+    "disease_name": "Developmental delay due to methylmalonate semialdehyde dehydrogenase deficiency",
+    "orpha_code": "289307"
+  },
+  {
+    "disease_name": "Autism-epilepsy syndrome due to branched chain ketoacid dehydrogenase kinase deficiency",
+    "orpha_code": "308410"
+  },
+  {
+    "disease_name": "Hypertryptophanemia",
+    "orpha_code": "2224"
+  },
+  {
+    "disease_name": "Hydroxykynureninuria",
+    "orpha_code": "79155"
+  },
+  {
+    "disease_name": "2-aminoadipic 2-oxoadipic aciduria",
+    "orpha_code": "79154"
+  },
+  {
+    "disease_name": "Spastic ataxia-dysarthria due to glutaminase deficiency",
+    "orpha_code": "557056"
+  },
+  {
+    "disease_name": "Neonatal epileptic encephalopathy due to glutaminase deficiency",
+    "orpha_code": "557064"
+  },
+  {
+    "disease_name": "Congenital brain dysgenesis due to glutamine synthetase deficiency",
+    "orpha_code": "71278"
+  },
+  {
+    "disease_name": "L-2-hydroxyglutaric aciduria",
+    "orpha_code": "79314"
+  },
+  {
+    "disease_name": "D,L-2-hydroxyglutaric aciduria",
+    "orpha_code": "356978"
+  },
+  {
+    "disease_name": "Aminoacylase 1 deficiency",
+    "orpha_code": "137754"
+  },
+  {
+    "disease_name": "Biotinidase deficiency",
+    "orpha_code": "79241"
+  },
+  {
+    "disease_name": "2-methylbutyryl-CoA dehydrogenase deficiency",
+    "orpha_code": "79157"
+  },
+  {
+    "disease_name": "Neurodegeneration due to 3-hydroxyisobutyryl-CoA hydrolase deficiency",
+    "orpha_code": "88639"
+  },
+  {
+    "disease_name": "3-methylglutaconic aciduria type 8",
+    "orpha_code": "505208"
+  },
+  {
+    "disease_name": "3-methylglutaconic aciduria type 1",
+    "orpha_code": "67046"
+  },
+  {
+    "disease_name": "MEGDEL syndrome",
+    "orpha_code": "352328"
+  },
+  {
+    "disease_name": "3-methylglutaconic aciduria-neonatal cataract-neurologic involvement-congenital neutropenia syndrome",
+    "orpha_code": "445038"
+  },
+  {
+    "disease_name": "3-methylglutaconic aciduria type 9",
+    "orpha_code": "505216"
+  },
+  {
+    "disease_name": "Methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency",
+    "orpha_code": "308425"
+  },
+  {
+    "disease_name": "Gamma-aminobutyric acid transaminase deficiency",
+    "orpha_code": "2066"
+  },
+  {
+    "disease_name": "Oculocutaneous albinism type 7",
+    "orpha_code": "352745"
+  },
+  {
+    "disease_name": "Oculocutaneous albinism type 6",
+    "orpha_code": "370097"
+  },
+  {
+    "disease_name": "Oculocutaneous albinism type 8",
+    "orpha_code": "597733"
+  },
+  {
+    "disease_name": "Congenital microcephaly-severe encephalopathy-progressive cerebral atrophy syndrome",
+    "orpha_code": "391376"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to muscle phosphofructokinase deficiency",
+    "orpha_code": "371"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to muscle phosphorylase kinase deficiency",
+    "orpha_code": "715"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to phosphoglycerate kinase 1 deficiency",
+    "orpha_code": "713"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to phosphoglycerate mutase deficiency",
+    "orpha_code": "97234"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to muscle beta-enolase deficiency",
+    "orpha_code": "99849"
+  },
+  {
+    "disease_name": "Glycogen storage disease with severe cardiomyopathy due to glycogenin deficiency",
+    "orpha_code": "263297"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to hepatic glycogen synthase deficiency",
+    "orpha_code": "2089"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to muscle and heart glycogen synthase deficiency",
+    "orpha_code": "137625"
+  },
+  {
+    "disease_name": "Polyglucosan body myopathy type 1",
+    "orpha_code": "397937"
+  },
+  {
+    "disease_name": "Fatal congenital hypertrophic cardiomyopathy due to glycogen storage disease",
+    "orpha_code": "439854"
+  },
+  {
+    "disease_name": "Polyglucosan body myopathy type 2",
+    "orpha_code": "456369"
+  },
+  {
+    "disease_name": "Triose phosphate-isomerase deficiency",
+    "orpha_code": "868"
+  },
+  {
+    "disease_name": "Hemolytic anemia due to glucophosphate isomerase deficiency",
+    "orpha_code": "712"
+  },
+  {
+    "disease_name": "Exercise-induced hyperinsulinism",
+    "orpha_code": "165991"
+  },
+  {
+    "disease_name": "Juvenile cataract-microcornea-renal glucosuria syndrome",
+    "orpha_code": "247794"
+  },
+  {
+    "disease_name": "Transketolase deficiency",
+    "orpha_code": "488618"
+  },
+  {
+    "disease_name": "Transaldolase deficiency",
+    "orpha_code": "101028"
+  },
+  {
+    "disease_name": "Ribose-5-P isomerase deficiency",
+    "orpha_code": "440706"
+  },
+  {
+    "disease_name": "Isolated sedoheptulokinase deficiency",
+    "orpha_code": "440713"
+  },
+  {
+    "disease_name": "Autosomal recessive ataxia due to ubiquinone deficiency",
+    "orpha_code": "139485"
+  },
+  {
+    "disease_name": "Deafness-encephaloneuropathy-obesity-valvulopathy syndrome",
+    "orpha_code": "254898"
+  },
+  {
+    "disease_name": "Familial steroid-resistant nephrotic syndrome with sensorineural deafness",
+    "orpha_code": "280406"
+  },
+  {
+    "disease_name": "Neonatal encephalomyopathy-cardiomyopathy-respiratory distress syndrome",
+    "orpha_code": "457185"
+  },
+  {
+    "disease_name": "Hepatoencephalopathy due to combined oxidative phosphorylation defect type 1",
+    "orpha_code": "137681"
+  },
+  {
+    "disease_name": "Leukoencephalopathy with brain stem and spinal cord involvement-high lactate syndrome",
+    "orpha_code": "137898"
+  },
+  {
+    "disease_name": "Hypotonia with lactic acidemia and hyperammonemia",
+    "orpha_code": "137908"
+  },
+  {
+    "disease_name": "Fatal mitochondrial disease due to combined oxidative phosphorylation defect type 3",
+    "orpha_code": "168566"
+  },
+  {
+    "disease_name": "Acute infantile liver failure due to synthesis defect of mtDNA-encoded proteins",
+    "orpha_code": "217371"
+  },
+  {
+    "disease_name": "Severe X-linked mitochondrial encephalomyopathy",
+    "orpha_code": "238329"
+  },
+  {
+    "disease_name": "Autosomal recessive spastic ataxia-optic atrophy-dysarthria syndrome",
+    "orpha_code": "254343"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 2",
+    "orpha_code": "254920"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 4",
+    "orpha_code": "254925"
+  },
+  {
+    "disease_name": "Leukoencephalopathy-thalamus and brainstem anomalies-high lactate syndrome",
+    "orpha_code": "314051"
+  },
+  {
+    "disease_name": "Autosomal recessive spastic ataxia with leukoencephalopathy",
+    "orpha_code": "314603"
+  },
+  {
+    "disease_name": "Mitochondrial hypertrophic cardiomyopathy with lactic acidosis due to MTO1 deficiency",
+    "orpha_code": "314637"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 8",
+    "orpha_code": "319504"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 9",
+    "orpha_code": "319509"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 13",
+    "orpha_code": "319514"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 14",
+    "orpha_code": "319519"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 15",
+    "orpha_code": "319524"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 11",
+    "orpha_code": "324535"
+  },
+  {
+    "disease_name": "Infantile hypertrophic cardiomyopathy due to MRPL44 deficiency",
+    "orpha_code": "352563"
+  },
+  {
+    "disease_name": "Hyperuricemia-pulmonary hypertension-renal failure-alkalosis syndrome",
+    "orpha_code": "363694"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 17",
+    "orpha_code": "369913"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 20",
+    "orpha_code": "420728"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 21",
+    "orpha_code": "420733"
+  },
+  {
+    "disease_name": "Cataract-growth hormone deficiency-sensory neuropathy-sensorineural hearing loss-skeletal dysplasia syndrome",
+    "orpha_code": "436174"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 23",
+    "orpha_code": "444013"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 24",
+    "orpha_code": "444458"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 25",
+    "orpha_code": "447954"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 39",
+    "orpha_code": "565624"
+  },
+  {
+    "disease_name": "Syndromic sensorineural deafness due to combined oxidative phosphorylation defect",
+    "orpha_code": "457223"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 30",
+    "orpha_code": "478042"
+  },
+  {
+    "disease_name": "Neonatal severe cardiopulmonary failure due to mitochondrial methylation defect",
+    "orpha_code": "466784"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 27",
+    "orpha_code": "477774"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 7",
+    "orpha_code": "254930"
+  },
+  {
+    "disease_name": "Autosomal recessive spastic paraplegia type 55",
+    "orpha_code": "320375"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 26",
+    "orpha_code": "477684"
+  },
+  {
+    "disease_name": "Autosomal recessive spastic paraplegia type 77",
+    "orpha_code": "466722"
+  },
+  {
+    "disease_name": "Combined oxidative phosphorylation defect type 29",
+    "orpha_code": "478029"
+  },
+  {
+    "disease_name": "QRSL1-related combined oxidative phosphorylation defect",
+    "orpha_code": "570491"
+  },
+  {
+    "disease_name": "WARS2-related combined oxidative phosphorylation defect",
+    "orpha_code": "572798"
+  },
+  {
+    "disease_name": "Pancreatic insufficiency-anemia-hyperostosis syndrome",
+    "orpha_code": "199337"
+  },
+  {
+    "disease_name": "Autosomal dominant optic atrophy and cataract",
+    "orpha_code": "67036"
+  },
+  {
+    "disease_name": "FASTKD2-related infantile mitochondrial encephalomyopathy",
+    "orpha_code": "166105"
+  },
+  {
+    "disease_name": "Autosomal recessive optic atrophy, OPA7 type",
+    "orpha_code": "227976"
+  },
+  {
+    "disease_name": "Growth and developmental delay-hypotonia-vision impairment-lactic acidosis syndrome",
+    "orpha_code": "391348"
+  },
+  {
+    "disease_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance",
+    "orpha_code": "457050"
+  },
+  {
+    "disease_name": "Optic atrophy-ataxia-peripheral neuropathy-global developmental delay syndrome",
+    "orpha_code": "543470"
+  },
+  {
+    "disease_name": "Björnstad syndrome",
+    "orpha_code": "123"
+  },
+  {
+    "disease_name": "Hereditary myopathy with lactic acidosis due to ISCU deficiency",
+    "orpha_code": "43115"
+  },
+  {
+    "disease_name": "Multiple mitochondrial dysfunctions syndrome type 6",
+    "orpha_code": "569290"
+  },
+  {
+    "disease_name": "Multiple mitochondrial dysfunctions syndrome type 3",
+    "orpha_code": "363424"
+  },
+  {
+    "disease_name": "Multiple mitochondrial dysfunctions syndrome type 1",
+    "orpha_code": "401869"
+  },
+  {
+    "disease_name": "Multiple mitochondrial dysfunctions syndrome type 2",
+    "orpha_code": "401874"
+  },
+  {
+    "disease_name": "Multiple mitochondrial dysfunctions syndrome type 4",
+    "orpha_code": "457406"
+  },
+  {
+    "disease_name": "Multiple mitochondrial dysfunctions syndrome type 5",
+    "orpha_code": "569274"
+  },
+  {
+    "disease_name": "Congenital cataract-progressive muscular hypotonia-hearing loss-developmental delay syndrome",
+    "orpha_code": "330054"
+  },
+  {
+    "disease_name": "Mitochondrial DNA depletion syndrome, encephalomyopathic form with methylmalonic aciduria",
+    "orpha_code": "1933"
+  },
+  {
+    "disease_name": "Mitochondrial DNA depletion syndrome, encephalomyopathic form with renal tubulopathy",
+    "orpha_code": "255235"
+  },
+  {
+    "disease_name": "Mitochondrial DNA depletion syndrome, encephalomyopathic form with variable craniofacial anomalies",
+    "orpha_code": "369897"
+  },
+  {
+    "disease_name": "Infantile-onset spinocerebellar ataxia",
+    "orpha_code": "1186"
+  },
+  {
+    "disease_name": "Navajo neurohepatopathy",
+    "orpha_code": "255229"
+  },
+  {
+    "disease_name": "Mitochondrial DNA depletion syndrome, hepatocerebral form due to DGUOK deficiency",
+    "orpha_code": "279934"
+  },
+  {
+    "disease_name": "Mitochondrial DNA depletion syndrome, hepatocerebrorenal form",
+    "orpha_code": "363534"
+  },
+  {
+    "disease_name": "Early-onset spastic ataxia-myoclonic epilepsy-neuropathy syndrome",
+    "orpha_code": "313772"
+  },
+  {
+    "disease_name": "DNA2-related mitochondrial DNA deletion syndrome",
+    "orpha_code": "352470"
+  },
+  {
+    "disease_name": "Progressive external ophthalmoplegia-myopathy-emaciation syndrome",
+    "orpha_code": "352447"
+  },
+  {
+    "disease_name": "SURF1-related Charcot-Marie-Tooth disease type 4",
+    "orpha_code": "391351"
+  },
+  {
+    "disease_name": "Autosomal recessive intermediate Charcot-Marie-Tooth disease type D",
+    "orpha_code": "435998"
+  },
+  {
+    "disease_name": "Lethal left ventricular non-compaction-seizures-hypotonia-cataract-developmental delay syndrome",
+    "orpha_code": "478049"
+  },
+  {
+    "disease_name": "Hypertrophic cardiomyopathy with kidney anomalies due to mitochondrial DNA mutation",
+    "orpha_code": "324525"
+  },
+  {
+    "disease_name": "Mitochondrial DNA-related cardiomyopathy and hearing loss",
+    "orpha_code": "1349"
+  },
+  {
+    "disease_name": "Cardiomyopathy-hypotonia-lactic acidosis syndrome",
+    "orpha_code": "91130"
+  },
+  {
+    "disease_name": "Adult-onset autosomal recessive sideroblastic anemia",
+    "orpha_code": "255132"
+  },
+  {
+    "disease_name": "Mohr-Tranebjaerg syndrome",
+    "orpha_code": "52368"
+  },
+  {
+    "disease_name": "Ocular anomalies-axonal neuropathy-developmental delay syndrome",
+    "orpha_code": "496790"
+  },
+  {
+    "disease_name": "Mitochondrial myopathy-cerebellar ataxia-pigmentary retinopathy syndrome",
+    "orpha_code": "502423"
+  },
+  {
+    "disease_name": "X-linked sideroblastic anemia and spinocerebellar ataxia",
+    "orpha_code": "2802"
+  },
+  {
+    "disease_name": "Ethylmalonic encephalopathy",
+    "orpha_code": "51188"
+  },
+  {
+    "disease_name": "Lipoic acid synthetase deficiency",
+    "orpha_code": "401859"
+  },
+  {
+    "disease_name": "Lipoyl transferase 1 deficiency",
+    "orpha_code": "401862"
+  },
+  {
+    "disease_name": "Childhood-onset spasticity with hyperglycinemia",
+    "orpha_code": "401866"
+  },
+  {
+    "disease_name": "MEPAN syndrome",
+    "orpha_code": "508093"
+  },
+  {
+    "disease_name": "Guanidinoacetate methyltransferase deficiency",
+    "orpha_code": "382"
+  },
+  {
+    "disease_name": "L-Arginine:glycine amidinotransferase deficiency",
+    "orpha_code": "35704"
+  },
+  {
+    "disease_name": "Succinyl-CoA:3-oxoacid CoA transferase deficiency",
+    "orpha_code": "832"
+  },
+  {
+    "disease_name": "3-hydroxy-3-methylglutaryl-CoA synthase deficiency",
+    "orpha_code": "35701"
+  },
+  {
+    "disease_name": "Hyperinsulinism due to short chain 3-hydroxylacyl-CoA dehydrogenase deficiency",
+    "orpha_code": "71212"
+  },
+  {
+    "disease_name": "Malonic aciduria",
+    "orpha_code": "943"
+  },
+  {
+    "disease_name": "Ketoacidosis due to monocarboxylate transporter-1 deficiency",
+    "orpha_code": "438075"
+  },
+  {
+    "disease_name": "Mitochondrial pyruvate carrier deficiency",
+    "orpha_code": "447784"
+  },
+  {
+    "disease_name": "Fumaric aciduria",
+    "orpha_code": "24"
+  },
+  {
+    "disease_name": "Infantile cerebellar-retinal degeneration",
+    "orpha_code": "313850"
+  },
+  {
+    "disease_name": "Dopa-responsive dystonia due to sepiapterin reductase deficiency",
+    "orpha_code": "70594"
+  },
+  {
+    "disease_name": "Dopamine beta-hydroxylase deficiency",
+    "orpha_code": "230"
+  },
+  {
+    "disease_name": "Brain dopamine-serotonin vesicular transport disease",
+    "orpha_code": "352649"
+  },
+  {
+    "disease_name": "Purine nucleoside phosphorylase deficiency",
+    "orpha_code": "760"
+  },
+  {
+    "disease_name": "Adenylosuccinate lyase deficiency",
+    "orpha_code": "46"
+  },
+  {
+    "disease_name": "Lethal ataxia with deafness and optic atrophy",
+    "orpha_code": "1187"
+  },
+  {
+    "disease_name": "X-linked Charcot-Marie-Tooth disease type 5",
+    "orpha_code": "99014"
+  },
+  {
+    "disease_name": "AICA-ribosiduria",
+    "orpha_code": "250977"
+  },
+  {
+    "disease_name": "X-linked intellectual disability-limb spasticity-retinal dystrophy-arginine vasopressin deficiency",
+    "orpha_code": "423479"
+  },
+  {
+    "disease_name": "ITPA-related lethal infantile neurological disorder with cataract and cardiac involvement",
+    "orpha_code": "457375"
+  },
+  {
+    "disease_name": "Dihydropyrimidinuria",
+    "orpha_code": "38874"
+  },
+  {
+    "disease_name": "Beta-ureidopropionase deficiency",
+    "orpha_code": "65287"
+  },
+  {
+    "disease_name": "Hyperinsulinism due to UCP2 deficiency",
+    "orpha_code": "276556"
+  },
+  {
+    "disease_name": "Hyperinsulinism due to HNF1A deficiency",
+    "orpha_code": "324575"
+  },
+  {
+    "disease_name": "Microcephaly-congenital cataract-psoriasiform dermatitis syndrome",
+    "orpha_code": "488168"
+  },
+  {
+    "disease_name": "Greenberg dysplasia",
+    "orpha_code": "1426"
+  },
+  {
+    "disease_name": "Desmosterolosis",
+    "orpha_code": "35107"
+  },
+  {
+    "disease_name": "Lathosterolosis",
+    "orpha_code": "46059"
+  },
+  {
+    "disease_name": "MEND syndrome",
+    "orpha_code": "401973"
+  },
+  {
+    "disease_name": "Abetalipoproteinemia",
+    "orpha_code": "14"
+  },
+  {
+    "disease_name": "Chylomicron retention disease",
+    "orpha_code": "71"
+  },
+  {
+    "disease_name": "Lipoprotein glomerulopathy",
+    "orpha_code": "329481"
+  },
+  {
+    "disease_name": "Autosomal recessive complex spastic paraplegia due to Kennedy pathway dysfunction",
+    "orpha_code": "506353"
+  },
+  {
+    "disease_name": "Autosomal recessive spastic paraplegia type 39",
+    "orpha_code": "139480"
+  },
+  {
+    "disease_name": "Adult-onset dystonia-parkinsonism",
+    "orpha_code": "199351"
+  },
+  {
+    "disease_name": "Congenital ichthyosis-intellectual disability-spastic quadriplegia syndrome",
+    "orpha_code": "352333"
+  },
+  {
+    "disease_name": "Spinocerebellar ataxia type 38",
+    "orpha_code": "423296"
+  },
+  {
+    "disease_name": "Progressive myoclonic epilepsy type 8",
+    "orpha_code": "424027"
+  },
+  {
+    "disease_name": "Progressive encephalopathy with leukodystrophy due to DECR deficiency",
+    "orpha_code": "431361"
+  },
+  {
+    "disease_name": "Polyneuropathy-hearing loss-ataxia-retinitis pigmentosa-cataract syndrome",
+    "orpha_code": "171848"
+  },
+  {
+    "disease_name": "Neutral lipid storage disease with ichthyosis",
+    "orpha_code": "98907"
+  },
+  {
+    "disease_name": "Neutral lipid storage disease with myopathy",
+    "orpha_code": "98908"
+  },
+  {
+    "disease_name": "Megaconial congenital muscular dystrophy",
+    "orpha_code": "280671"
+  },
+  {
+    "disease_name": "Hepatoerythropoietic porphyria",
+    "orpha_code": "95159"
+  },
+  {
+    "disease_name": "Harderoporphyria",
+    "orpha_code": "659672"
+  },
+  {
+    "disease_name": "Porphyria due to ALA dehydratase deficiency",
+    "orpha_code": "100924"
+  },
+  {
+    "disease_name": "Transcobalamin deficiency",
+    "orpha_code": "859"
+  },
+  {
+    "disease_name": "Congenital intrinsic factor deficiency",
+    "orpha_code": "332"
+  },
+  {
+    "disease_name": "MTHFS-related developmental delay-microcephaly-short stature-epilepsy syndrome",
+    "orpha_code": "597874"
+  },
+  {
+    "disease_name": "Hereditary folate malabsorption",
+    "orpha_code": "90045"
+  },
+  {
+    "disease_name": "Neurodegenerative syndrome due to cerebral folate transport deficiency",
+    "orpha_code": "217382"
+  },
+  {
+    "disease_name": "Constitutional megaloblastic anemia with severe neurologic disease",
+    "orpha_code": "319651"
+  },
+  {
+    "disease_name": "Progressive polyneuropathy with bilateral striatal necrosis",
+    "orpha_code": "217396"
+  },
+  {
+    "disease_name": "Thiamine-responsive megaloblastic anemia syndrome",
+    "orpha_code": "49827"
+  },
+  {
+    "disease_name": "Thiamine-responsive encephalopathy",
+    "orpha_code": "199348"
+  },
+  {
+    "disease_name": "Infantile spasms-psychomotor retardation-progressive brain atrophy-basal ganglia disease syndrome",
+    "orpha_code": "263410"
+  },
+  {
+    "disease_name": "Childhood encephalopathy due to thiamine pyrophosphokinase deficiency",
+    "orpha_code": "293955"
+  },
+  {
+    "disease_name": "Amish lethal microcephaly",
+    "orpha_code": "99742"
+  },
+  {
+    "disease_name": "Hereditary hypercarotenemia and vitamin A deficiency",
+    "orpha_code": "199285"
+  },
+  {
+    "disease_name": "Progressive retinal dystrophy due to retinol transport defect",
+    "orpha_code": "352718"
+  },
+  {
+    "disease_name": "Maternal riboflavin deficiency",
+    "orpha_code": "411712"
+  },
+  {
+    "disease_name": "Occipital horn syndrome",
+    "orpha_code": "198"
+  },
+  {
+    "disease_name": "Autosomal recessive axonal Charcot-Marie-Tooth disease due to copper metabolism defect",
+    "orpha_code": "521411"
+  },
+  {
+    "disease_name": "Microcytic anemia with liver iron overload",
+    "orpha_code": "83642"
+  },
+  {
+    "disease_name": "TFR2-related hemochromatosis",
+    "orpha_code": "225123"
+  },
+  {
+    "disease_name": "FTH1-related iron overload",
+    "orpha_code": "247790"
+  },
+  {
+    "disease_name": "Hereditary hyperferritinemia-cataract syndrome",
+    "orpha_code": "163"
+  },
+  {
+    "disease_name": "Psychomotor regression-oculomotor apraxia-movement disorder-nephropathy syndrome",
+    "orpha_code": "505242"
+  },
+  {
+    "disease_name": "Hyperzincemia and hypercalprotectinemia",
+    "orpha_code": "251523"
+  },
+  {
+    "disease_name": "Primary hypomagnesemia with secondary hypocalcemia",
+    "orpha_code": "30924"
+  },
+  {
+    "disease_name": "Autosomal dominant primary hypomagnesemia with hypocalciuria",
+    "orpha_code": "34528"
+  },
+  {
+    "disease_name": "Isolated autosomal dominant hypomagnesemia, Glaudemans type",
+    "orpha_code": "199326"
+  },
+  {
+    "disease_name": "Primary hypomagnesemia-refractory seizures-intellectual disability syndrome",
+    "orpha_code": "564178"
+  },
+  {
+    "disease_name": "Primary hypomagnesemia-generalized seizures-intellectual disability-obesity syndrome",
+    "orpha_code": "620363"
+  },
+  {
+    "disease_name": "EGF-related primary hypomagnesemia with intellectual disability",
+    "orpha_code": "620368"
+  },
+  {
+    "disease_name": "Cirrhosis-dystonia-polycythemia-hypermanganesemia syndrome",
+    "orpha_code": "309854"
+  },
+  {
+    "disease_name": "Dystonia-parkinsonism-hypermanganesemia syndrome",
+    "orpha_code": "521406"
+  },
+  {
+    "disease_name": "Mucopolysaccharidosis type 3",
+    "orpha_code": "581"
+  },
+  {
+    "disease_name": "Menkes disease",
+    "orpha_code": "565"
+  },
+  {
+    "disease_name": "Peroxisomal acyl-CoA oxidase deficiency",
+    "orpha_code": "2971"
+  },
+  {
+    "disease_name": "Mitochondrial DNA depletion syndrome, myopathic form",
+    "orpha_code": "254875"
+  },
+  {
+    "disease_name": "Hereditary orotic aciduria",
+    "orpha_code": "30"
+  },
+  {
+    "disease_name": "Tangier disease",
+    "orpha_code": "31150"
+  },
+  {
+    "disease_name": "X-linked erythropoietic protoporphyria",
+    "orpha_code": "443197"
+  },
+  {
+    "disease_name": "Mucopolysaccharidosis type 4",
+    "orpha_code": "582"
+  },
+  {
+    "disease_name": "Myopathy and diabetes mellitus",
+    "orpha_code": "2596"
+  },
+  {
+    "disease_name": "Succinic semialdehyde dehydrogenase deficiency",
+    "orpha_code": "22"
+  },
+  {
+    "disease_name": "Dubin-Johnson syndrome",
+    "orpha_code": "234"
+  },
+  {
+    "disease_name": "Danon disease",
+    "orpha_code": "34587"
+  },
+  {
+    "disease_name": "Wilson disease",
+    "orpha_code": "905"
+  },
+  {
+    "disease_name": "Infantile neuroaxonal dystrophy",
+    "orpha_code": "35069"
+  },
+  {
+    "disease_name": "Mucopolysaccharidosis type 7",
+    "orpha_code": "584"
+  },
+  {
+    "disease_name": "Congenital bile acid synthesis defect type 4",
+    "orpha_code": "79095"
+  },
+  {
+    "disease_name": "Autosomal dominant optic atrophy, classic form",
+    "orpha_code": "98673"
+  },
+  {
+    "disease_name": "Dysbetalipoproteinemia",
+    "orpha_code": "412"
+  },
+  {
+    "disease_name": "Porphyria cutanea tarda",
+    "orpha_code": "101330"
+  },
+  {
+    "disease_name": "Isovaleric acidemia",
+    "orpha_code": "33"
+  },
+  {
+    "disease_name": "GM3 synthase deficiency",
+    "orpha_code": "370933"
+  },
+  {
+    "disease_name": "Progressive epilepsy-intellectual disability syndrome, Finnish type",
+    "orpha_code": "1947"
+  },
+  {
+    "disease_name": "CLN4 disease",
+    "orpha_code": "228343"
+  },
+  {
+    "disease_name": "CLN5 disease",
+    "orpha_code": "228360"
+  },
+  {
+    "disease_name": "CLN7 disease",
+    "orpha_code": "228366"
+  },
+  {
+    "disease_name": "CLN13 disease",
+    "orpha_code": "352709"
+  },
+  {
+    "disease_name": "Glutaric acidemia type 3",
+    "orpha_code": "35706"
+  },
+  {
+    "disease_name": "Neonatal intrahepatic cholestasis due to citrin deficiency",
+    "orpha_code": "247598"
+  },
+  {
+    "disease_name": "Hyperinsulinism-hyperammonemia syndrome",
+    "orpha_code": "35878"
+  },
+  {
+    "disease_name": "Autosomal recessive extra-oral halitosis",
+    "orpha_code": "562538"
+  },
+  {
+    "disease_name": "Hypermethioninemia encephalopathy due to adenosine kinase deficiency",
+    "orpha_code": "289290"
+  },
+  {
+    "disease_name": "Hypermethioninemia due to glycine N-methyltransferase deficiency",
+    "orpha_code": "289891"
+  },
+  {
+    "disease_name": "Hyperprolinemia type 1",
+    "orpha_code": "419"
+  },
+  {
+    "disease_name": "Hyperprolinemia type 2",
+    "orpha_code": "79101"
+  },
+  {
+    "disease_name": "Autosomal recessive cutis laxa type 2B",
+    "orpha_code": "357064"
+  },
+  {
+    "disease_name": "Gyrate atrophy of choroid and retina",
+    "orpha_code": "414"
+  },
+  {
+    "disease_name": "Hyperlysinemia",
+    "orpha_code": "2203"
+  },
+  {
+    "disease_name": "Saccharopinuria",
+    "orpha_code": "3124"
+  },
+  {
+    "disease_name": "Mitochondrial short-chain enoyl-CoA hydratase 1 deficiency",
+    "orpha_code": "653880"
+  },
+  {
+    "disease_name": "Isobutyryl-CoA dehydrogenase deficiency",
+    "orpha_code": "79159"
+  },
+  {
+    "disease_name": "Dilated cardiomyopathy with ataxia",
+    "orpha_code": "66634"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to liver and muscle phosphorylase kinase deficiency",
+    "orpha_code": "79240"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to aldolase A deficiency",
+    "orpha_code": "57"
+  },
+  {
+    "disease_name": "Congenital glucokinase-related hyperinsulinism",
+    "orpha_code": "79299"
+  },
+  {
+    "disease_name": "Essential fructosuria",
+    "orpha_code": "2056"
+  },
+  {
+    "disease_name": "Galactokinase deficiency",
+    "orpha_code": "79237"
+  },
+  {
+    "disease_name": "D-glyceric aciduria",
+    "orpha_code": "941"
+  },
+  {
+    "disease_name": "Congenital lactase deficiency",
+    "orpha_code": "53690"
+  },
+  {
+    "disease_name": "Familial renal glucosuria",
+    "orpha_code": "69076"
+  },
+  {
+    "disease_name": "Pentosuria",
+    "orpha_code": "2843"
+  },
+  {
+    "disease_name": "COQ7-related distal hereditary motor neuropathy",
+    "orpha_code": "658778"
+  },
+  {
+    "disease_name": "Spastic paraplegia type 7",
+    "orpha_code": "99013"
+  },
+  {
+    "disease_name": "Non-progressive predominantly posterior cavitating leukoencephalopathy with peripheral neuropathy",
+    "orpha_code": "436271"
+  },
+  {
+    "disease_name": "TMEM70-related mitochondrial encephalo-cardio-myopathy",
+    "orpha_code": "1194"
+  },
+  {
+    "disease_name": "Acyl-CoA dehydrogenase 9 deficiency",
+    "orpha_code": "99901"
+  },
+  {
+    "disease_name": "Renal tubulopathy-encephalopathy-liver failure syndrome",
+    "orpha_code": "254902"
+  },
+  {
+    "disease_name": "Fatal infantile lactic acidosis with methylmalonic aciduria",
+    "orpha_code": "17"
+  },
+  {
+    "disease_name": "Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome",
+    "orpha_code": "70595"
+  },
+  {
+    "disease_name": "Recessive mitochondrial ataxia syndrome",
+    "orpha_code": "94125"
+  },
+  {
+    "disease_name": "Spinocerebellar ataxia with epilepsy",
+    "orpha_code": "254881"
+  },
+  {
+    "disease_name": "Adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency",
+    "orpha_code": "329314"
+  },
+  {
+    "disease_name": "Congenital lactic acidosis, Saguenay-Lac-Saint-Jean type",
+    "orpha_code": "70472"
+  },
+  {
+    "disease_name": "Epileptic encephalopathy with global cerebral demyelination",
+    "orpha_code": "353217"
+  },
+  {
+    "disease_name": "X-linked creatine transporter deficiency",
+    "orpha_code": "52503"
+  },
+  {
+    "disease_name": "Oxoglutaric aciduria",
+    "orpha_code": "31"
+  },
+  {
+    "disease_name": "Monoamine oxidase A deficiency",
+    "orpha_code": "3057"
+  },
+  {
+    "disease_name": "Hypoxanthine guanine phosphoribosyltransferase partial deficiency",
+    "orpha_code": "79233"
+  },
+  {
+    "disease_name": "Dihydropyrimidine dehydrogenase deficiency",
+    "orpha_code": "1675"
+  },
+  {
+    "disease_name": "Hemolytic anemia due to pyrimidine 5' nucleotidase deficiency",
+    "orpha_code": "35120"
+  },
+  {
+    "disease_name": "Congenital hyperinsulinism due to HNF4A deficiency",
+    "orpha_code": "263455"
+  },
+  {
+    "disease_name": "Autosomal dominant hyperinsulinism due to SUR1 deficiency",
+    "orpha_code": "276575"
+  },
+  {
+    "disease_name": "Autosomal dominant hyperinsulinism due to Kir6.2 deficiency",
+    "orpha_code": "276580"
+  },
+  {
+    "disease_name": "Diazoxide-resistant focal hyperinsulinism due to SUR1 deficiency",
+    "orpha_code": "276598"
+  },
+  {
+    "disease_name": "Diazoxide-resistant focal hyperinsulinism due to Kir6.2 deficiency",
+    "orpha_code": "276603"
+  },
+  {
+    "disease_name": "Autosomal recessive hyperinsulinism due to SUR1 deficiency",
+    "orpha_code": "79643"
+  },
+  {
+    "disease_name": "Autosomal recessive hyperinsulinism due to Kir6.2 deficiency",
+    "orpha_code": "79644"
+  },
+  {
+    "disease_name": "Hyperlipidemia due to hepatic triacylglycerol lipase deficiency",
+    "orpha_code": "140905"
+  },
+  {
+    "disease_name": "Primary triglyceride deposit cardiomyovasculopathy",
+    "orpha_code": "565612"
+  },
+  {
+    "disease_name": "Familial steroid-resistant nephrotic syndrome with adrenal insufficiency",
+    "orpha_code": "506334"
+  },
+  {
+    "disease_name": "Combined immunodeficiency-megaloblastic anemia due to methylenetetrahydrofolate dehydrogenase 1 deficiency",
+    "orpha_code": "658813"
+  },
+  {
+    "disease_name": "Formiminoglutamic aciduria",
+    "orpha_code": "51208"
+  },
+  {
+    "disease_name": "Biotin-thiamine-responsive basal ganglia disease",
+    "orpha_code": "65284"
+  },
+  {
+    "disease_name": "Ferroportin disease",
+    "orpha_code": "648562"
+  },
+  {
+    "disease_name": "Hyperphenylalaninemia due to DNAJC12 deficiency",
+    "orpha_code": "508523"
+  },
+  {
+    "disease_name": "Homocystinuria due to cystathionine beta-synthase deficiency",
+    "orpha_code": "394"
+  },
+  {
+    "disease_name": "Severe combined immunodeficiency due to adenosine deaminase deficiency",
+    "orpha_code": "277"
+  },
+  {
+    "disease_name": "Ataxia-oculomotor apraxia type 1",
+    "orpha_code": "1168"
+  },
+  {
+    "disease_name": "SLC40A1-related hemochromatosis",
+    "orpha_code": "647834"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to glucose-6-phosphatase deficiency",
+    "orpha_code": "364"
+  },
+  {
+    "disease_name": "Mitochondrial trifunctional protein deficiency",
+    "orpha_code": "746"
+  },
+  {
+    "disease_name": "Hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency",
+    "orpha_code": "209902"
+  },
+  {
+    "disease_name": "Cystinuria",
+    "orpha_code": "214"
+  },
+  {
+    "disease_name": "Autosomal erythropoietic protoporphyria",
+    "orpha_code": "79278"
+  },
+  {
+    "disease_name": "Citrullinemia type II",
+    "orpha_code": "247585"
+  },
+  {
+    "disease_name": "Aromatic L-amino acid decarboxylase deficiency",
+    "orpha_code": "35708"
+  },
+  {
+    "disease_name": "GM1 gangliosidosis",
+    "orpha_code": "354"
+  },
+  {
+    "disease_name": "MELAS",
+    "orpha_code": "550"
+  },
+  {
+    "disease_name": "Chronic visceral acid sphingomyelinase deficiency",
+    "orpha_code": "77293"
+  },
+  {
+    "disease_name": "Congenital bile acid synthesis defect type 1",
+    "orpha_code": "79301"
+  },
+  {
+    "disease_name": "Congenital bile acid synthesis defect type 2",
+    "orpha_code": "79303"
+  },
+  {
+    "disease_name": "Paroxysmal nocturnal hemoglobinuria",
+    "orpha_code": "447"
+  },
+  {
+    "disease_name": "Sandhoff disease",
+    "orpha_code": "796"
+  },
+  {
+    "disease_name": "Zellweger syndrome",
+    "orpha_code": "912"
+  },
+  {
+    "disease_name": "Hartnup disease",
+    "orpha_code": "2116"
+  },
+  {
+    "disease_name": "3-methylcrotonyl-CoA carboxylase deficiency",
+    "orpha_code": "6"
+  },
+  {
+    "disease_name": "Oculocutaneous albinism type 1",
+    "orpha_code": "352731"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to liver phosphorylase kinase deficiency",
+    "orpha_code": "264580"
+  },
+  {
+    "disease_name": "Hereditary xanthinuria",
+    "orpha_code": "3467"
+  },
+  {
+    "disease_name": "Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome",
+    "orpha_code": "415"
+  },
+  {
+    "disease_name": "Neonatal adrenoleukodystrophy",
+    "orpha_code": "44"
+  },
+  {
+    "disease_name": "Gaucher disease",
+    "orpha_code": "355"
+  },
+  {
+    "disease_name": "Argininosuccinic aciduria",
+    "orpha_code": "23"
+  },
+  {
+    "disease_name": "Mucopolysaccharidosis type 2",
+    "orpha_code": "580"
+  },
+  {
+    "disease_name": "Primary hyperoxaluria",
+    "orpha_code": "416"
+  },
+  {
+    "disease_name": "Canavan disease",
+    "orpha_code": "141"
+  },
+  {
+    "disease_name": "Muscle-eye-brain disease",
+    "orpha_code": "588"
+  },
+  {
+    "disease_name": "Pearson syndrome",
+    "orpha_code": "699"
+  },
+  {
+    "disease_name": "Parkinsonism with polyneuropathy",
+    "orpha_code": "611237"
+  },
+  {
+    "disease_name": "Alkaptonuria",
+    "orpha_code": "56"
+  },
+  {
+    "disease_name": "MERRF",
+    "orpha_code": "551"
+  },
+  {
+    "disease_name": "Carnitine palmitoyltransferase II deficiency",
+    "orpha_code": "157"
+  },
+  {
+    "disease_name": "Propionic acidemia",
+    "orpha_code": "35"
+  },
+  {
+    "disease_name": "Leber plus disease",
+    "orpha_code": "99718"
+  },
+  {
+    "disease_name": "Rotor syndrome",
+    "orpha_code": "3111"
+  },
+  {
+    "disease_name": "X-linked adrenoleukodystrophy",
+    "orpha_code": "43"
+  },
+  {
+    "disease_name": "Mucopolysaccharidosis type 6",
+    "orpha_code": "583"
+  },
+  {
+    "disease_name": "Hyperammonemia due to N-acetylglutamate synthase deficiency",
+    "orpha_code": "927"
+  },
+  {
+    "disease_name": "Mitochondrial neurogastrointestinal encephalomyopathy",
+    "orpha_code": "298"
+  },
+  {
+    "disease_name": "Pantothenate kinase-associated neurodegeneration",
+    "orpha_code": "157850"
+  },
+  {
+    "disease_name": "Pyruvate dehydrogenase deficiency",
+    "orpha_code": "765"
+  },
+  {
+    "disease_name": "Fabry disease",
+    "orpha_code": "324"
+  },
+  {
+    "disease_name": "Tay-Sachs disease",
+    "orpha_code": "845"
+  },
+  {
+    "disease_name": "Mucolipidosis type III",
+    "orpha_code": "577"
+  },
+  {
+    "disease_name": "Refsum disease",
+    "orpha_code": "773"
+  },
+  {
+    "disease_name": "Rhizomelic chondrodysplasia punctata",
+    "orpha_code": "177"
+  },
+  {
+    "disease_name": "Carbamoyl-phosphate synthetase 1 deficiency",
+    "orpha_code": "147"
+  },
+  {
+    "disease_name": "Autosomal recessive dopa-responsive dystonia",
+    "orpha_code": "101150"
+  },
+  {
+    "disease_name": "Pyruvate carboxylase deficiency",
+    "orpha_code": "3008"
+  },
+  {
+    "disease_name": "Multiple acyl-CoA dehydrogenase deficiency",
+    "orpha_code": "26791"
+  },
+  {
+    "disease_name": "Autosomal dominant dopa-responsive dystonia",
+    "orpha_code": "98808"
+  },
+  {
+    "disease_name": "Pyridoxine-dependent epilepsy",
+    "orpha_code": "3006"
+  },
+  {
+    "disease_name": "Imerslund-Gräsbeck syndrome",
+    "orpha_code": "35858"
+  },
+  {
+    "disease_name": "Glycine encephalopathy",
+    "orpha_code": "407"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to glycogen branching enzyme deficiency",
+    "orpha_code": "367"
+  },
+  {
+    "disease_name": "Tyrosinemia type 1",
+    "orpha_code": "882"
+  },
+  {
+    "disease_name": "Homocystinuria due to methylene tetrahydrofolate reductase deficiency",
+    "orpha_code": "395"
+  },
+  {
+    "disease_name": "Mucopolysaccharidosis type 1",
+    "orpha_code": "579"
+  },
+  {
+    "disease_name": "Leber hereditary optic neuropathy",
+    "orpha_code": "104"
+  },
+  {
+    "disease_name": "Maple syrup urine disease",
+    "orpha_code": "511"
+  },
+  {
+    "disease_name": "Diamond-Blackfan anemia",
+    "orpha_code": "124"
+  },
+  {
+    "disease_name": "Musculocontractural Ehlers-Danlos syndrome",
+    "orpha_code": "2953"
+  },
+  {
+    "disease_name": "Schneckenbecken dysplasia",
+    "orpha_code": "3144"
+  },
+  {
+    "disease_name": "Walker-Warburg syndrome",
+    "orpha_code": "899"
+  },
+  {
+    "disease_name": "Hypercoagulability syndrome due to glycosylphosphatidylinositol deficiency",
+    "orpha_code": "83639"
+  },
+  {
+    "disease_name": "Hyperphosphatasia-intellectual disability syndrome",
+    "orpha_code": "247262"
+  },
+  {
+    "disease_name": "CLN1 disease",
+    "orpha_code": "228329"
+  },
+  {
+    "disease_name": "CLN10 disease",
+    "orpha_code": "228337"
+  },
+  {
+    "disease_name": "Free sialic acid storage disease",
+    "orpha_code": "834"
+  },
+  {
+    "disease_name": "Alpha-N-acetylgalactosaminidase deficiency",
+    "orpha_code": "3137"
+  },
+  {
+    "disease_name": "Sialidosis type 2",
+    "orpha_code": "87876"
+  },
+  {
+    "disease_name": "Hypotonia-cystinuria syndrome",
+    "orpha_code": "163690"
+  },
+  {
+    "disease_name": "2p21 microdeletion syndrome",
+    "orpha_code": "163693"
+  },
+  {
+    "disease_name": "Atypical hypotonia-cystinuria syndrome",
+    "orpha_code": "238523"
+  },
+  {
+    "disease_name": "Autosomal recessive cerebellar ataxia-pyramidal signs-nystagmus-oculomotor apraxia syndrome",
+    "orpha_code": "363429"
+  },
+  {
+    "disease_name": "Argininemia",
+    "orpha_code": "90"
+  },
+  {
+    "disease_name": "Histidinuria-renal tubular defect syndrome",
+    "orpha_code": "2158"
+  },
+  {
+    "disease_name": "De Barsy syndrome",
+    "orpha_code": "2962"
+  },
+  {
+    "disease_name": "Hawkinsinuria",
+    "orpha_code": "2118"
+  },
+  {
+    "disease_name": "Neu-Laxova syndrome",
+    "orpha_code": "2671"
+  },
+  {
+    "disease_name": "Serine biosynthesis pathway deficiency, infantile/juvenile form",
+    "orpha_code": "583595"
+  },
+  {
+    "disease_name": "Glutathione synthetase deficiency",
+    "orpha_code": "32"
+  },
+  {
+    "disease_name": "Seizures-intellectual disability due to hydroxylysinuria syndrome",
+    "orpha_code": "79156"
+  },
+  {
+    "disease_name": "D-2-hydroxyglutaric aciduria",
+    "orpha_code": "79315"
+  },
+  {
+    "disease_name": "HSD10 disease",
+    "orpha_code": "391417"
+  },
+  {
+    "disease_name": "3-hydroxyisobutyric aciduria",
+    "orpha_code": "939"
+  },
+  {
+    "disease_name": "Oculocutaneous albinism type 5",
+    "orpha_code": "370091"
+  },
+  {
+    "disease_name": "Ocular albinism with late-onset sensorineural deafness",
+    "orpha_code": "1000"
+  },
+  {
+    "disease_name": "Phosphoenolpyruvate carboxykinase deficiency",
+    "orpha_code": "2880"
+  },
+  {
+    "disease_name": "Xp21 deletion syndrome",
+    "orpha_code": "261476"
+  },
+  {
+    "disease_name": "Encephalopathy due to mitochondrial and peroxisomal fission defect",
+    "orpha_code": "527276"
+  },
+  {
+    "disease_name": "Encephalopathy-hypertrophic cardiomyopathy-renal tubular disease syndrome",
+    "orpha_code": "319678"
+  },
+  {
+    "disease_name": "Mitochondrial myopathy and sideroblastic anemia",
+    "orpha_code": "2598"
+  },
+  {
+    "disease_name": "Perrault syndrome",
+    "orpha_code": "2855"
+  },
+  {
+    "disease_name": "Hydrops-lactic acidosis-sideroblastic anemia-multisystemic failure syndrome",
+    "orpha_code": "528091"
+  },
+  {
+    "disease_name": "Zellweger-like syndrome without peroxisomal anomalies",
+    "orpha_code": "50812"
+  },
+  {
+    "disease_name": "Severe neonatal lactic acidosis due to NFS1-ISD11 complex deficiency",
+    "orpha_code": "397593"
+  },
+  {
+    "disease_name": "Chronic diarrhea with villous atrophy",
+    "orpha_code": "1670"
+  },
+  {
+    "disease_name": "Periodic paralysis with later-onset distal motor neuropathy",
+    "orpha_code": "397750"
+  },
+  {
+    "disease_name": "Gitelman-like kidney tubulopathy due to mitochondrial DNA mutation",
+    "orpha_code": "620371"
+  },
+  {
+    "disease_name": "Isolated succinate-CoQ reductase deficiency",
+    "orpha_code": "3208"
+  },
+  {
+    "disease_name": "Congenital cataract-hypertrophic cardiomyopathy-mitochondrial myopathy syndrome",
+    "orpha_code": "1369"
+  },
+  {
+    "disease_name": "Histiocytoid cardiomyopathy",
+    "orpha_code": "137675"
+  },
+  {
+    "disease_name": "Mitochondrial myopathy-lactic acidosis-deafness syndrome",
+    "orpha_code": "2597"
+  },
+  {
+    "disease_name": "Transient neonatal multiple acyl-CoA dehydrogenase deficiency",
+    "orpha_code": "329942"
+  },
+  {
+    "disease_name": "Acute reversible leukoencephalopathy with increased urinary alpha-ketoglutarate",
+    "orpha_code": "615964"
+  },
+  {
+    "disease_name": "Hereditary hyperekplexia",
+    "orpha_code": "3197"
+  },
+  {
+    "disease_name": "Phosphoribosylpyrophosphate synthetase superactivity",
+    "orpha_code": "3222"
+  },
+  {
+    "disease_name": "PAICS deficiency",
+    "orpha_code": "633099"
+  },
+  {
+    "disease_name": "Hyper-beta-alaninemia",
+    "orpha_code": "309147"
+  },
+  {
+    "disease_name": "Familial hypercholanemia",
+    "orpha_code": "238475"
+  },
+  {
+    "disease_name": "Sitosterolemia",
+    "orpha_code": "2882"
+  },
+  {
+    "disease_name": "Pancreatic colipase deficiency",
+    "orpha_code": "309108"
+  },
+  {
+    "disease_name": "Combined pancreatic lipase-colipase deficiency",
+    "orpha_code": "309111"
+  },
+  {
+    "disease_name": "Erythropoietic uroporphyria associated with myeloid malignancy",
+    "orpha_code": "280379"
+  },
+  {
+    "disease_name": "Arthrogryposis-renal dysfunction-cholestasis syndrome",
+    "orpha_code": "2697"
+  },
+  {
+    "disease_name": "Megaloblastic anemia-immunodeficiency due to folate transporter 1 deficiency",
+    "orpha_code": "661412"
+  },
+  {
+    "disease_name": "Hereditary combined deficiency of vitamin K-dependent clotting factors",
+    "orpha_code": "98434"
+  },
+  {
+    "disease_name": "Familial benign copper deficiency",
+    "orpha_code": "1551"
+  },
+  {
+    "disease_name": "MEDNIK syndrome",
+    "orpha_code": "171851"
+  },
+  {
+    "disease_name": "Neonatal hemochromatosis",
+    "orpha_code": "446"
+  },
+  {
+    "disease_name": "HJV or HAMP-related hemochromatosis",
+    "orpha_code": "79230"
+  },
+  {
+    "disease_name": "Primary hypomagnesemia with hypercalciuria and nephrocalcinosis",
+    "orpha_code": "306516"
+  },
+  {
+    "disease_name": "Phenylketonuria",
+    "orpha_code": "716"
+  },
+  {
+    "disease_name": "Krabbe disease",
+    "orpha_code": "487"
+  },
+  {
+    "disease_name": "LCAT deficiency",
+    "orpha_code": "650"
+  },
+  {
+    "disease_name": "Apolipoprotein A-I deficiency",
+    "orpha_code": "425"
+  },
+  {
+    "disease_name": "Lysosomal acid lipase deficiency",
+    "orpha_code": "275761"
+  },
+  {
+    "disease_name": "Mitochondrial DNA-related progressive external ophthalmoplegia",
+    "orpha_code": "663"
+  },
+  {
+    "disease_name": "Hereditary sensory and autonomic neuropathy type 1",
+    "orpha_code": "36386"
+  },
+  {
+    "disease_name": "Crigler-Najjar syndrome",
+    "orpha_code": "205"
+  },
+  {
+    "disease_name": "Familial chylomicronemia syndrome",
+    "orpha_code": "444490"
+  },
+  {
+    "disease_name": "Congenital erythropoietic porphyria",
+    "orpha_code": "79277"
+  },
+  {
+    "disease_name": "Citrullinemia type I",
+    "orpha_code": "247525"
+  },
+  {
+    "disease_name": "Metachromatic leukodystrophy",
+    "orpha_code": "512"
+  },
+  {
+    "disease_name": "Niemann-Pick disease type C",
+    "orpha_code": "646"
+  },
+  {
+    "disease_name": "Congenital muscular dystrophy with cerebellar involvement",
+    "orpha_code": "370959"
+  },
+  {
+    "disease_name": "Congenital muscular dystrophy with intellectual disability",
+    "orpha_code": "370968"
+  },
+  {
+    "disease_name": "Congenital muscular dystrophy without intellectual disability",
+    "orpha_code": "370980"
+  },
+  {
+    "disease_name": "Autosomal recessive spondylocostal dysostosis",
+    "orpha_code": "2311"
+  },
+  {
+    "disease_name": "Dowling-Degos disease",
+    "orpha_code": "79145"
+  },
+  {
+    "disease_name": "Autosomal recessive cutis laxa type 2A",
+    "orpha_code": "357058"
+  },
+  {
+    "disease_name": "CLN3 disease",
+    "orpha_code": "228346"
+  },
+  {
+    "disease_name": "CLN6 disease",
+    "orpha_code": "228363"
+  },
+  {
+    "disease_name": "CLN8 disease",
+    "orpha_code": "228354"
+  },
+  {
+    "disease_name": "Chronic neurovisceral acid sphingomyelinase deficiency",
+    "orpha_code": "618891"
+  },
+  {
+    "disease_name": "Infantile Refsum disease",
+    "orpha_code": "772"
+  },
+  {
+    "disease_name": "Bifunctional enzyme deficiency",
+    "orpha_code": "300"
+  },
+  {
+    "disease_name": "Blue diaper syndrome",
+    "orpha_code": "94086"
+  },
+  {
+    "disease_name": "Encephalopathy due to sulfite oxidase deficiency",
+    "orpha_code": "833"
+  },
+  {
+    "disease_name": "Transient tyrosinemia of the newborn",
+    "orpha_code": "3402"
+  },
+  {
+    "disease_name": "3-methylglutaconic aciduria type 3",
+    "orpha_code": "67047"
+  },
+  {
+    "disease_name": "3-methylglutaconic aciduria type 4",
+    "orpha_code": "67048"
+  },
+  {
+    "disease_name": "Isolated glycerol kinase deficiency",
+    "orpha_code": "408"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to lactate dehydrogenase deficiency",
+    "orpha_code": "2364"
+  },
+  {
+    "disease_name": "Galactose epimerase deficiency",
+    "orpha_code": "79238"
+  },
+  {
+    "disease_name": "Chronic diarrhea due to glucoamylase deficiency",
+    "orpha_code": "103907"
+  },
+  {
+    "disease_name": "Fatal infantile cytochrome C oxidase deficiency",
+    "orpha_code": "1561"
+  },
+  {
+    "disease_name": "Autosomal dominant optic atrophy and peripheral neuropathy",
+    "orpha_code": "250932"
+  },
+  {
+    "disease_name": "Autosomal recessive progressive external ophthalmoplegia",
+    "orpha_code": "254886"
+  },
+  {
+    "disease_name": "Autosomal dominant progressive external ophthalmoplegia",
+    "orpha_code": "254892"
+  },
+  {
+    "disease_name": "Adult-onset chronic progressive external ophthalmoplegia with mitochondrial myopathy",
+    "orpha_code": "329336"
+  },
+  {
+    "disease_name": "Pure mitochondrial myopathy",
+    "orpha_code": "254854"
+  },
+  {
+    "disease_name": "Lethal infantile mitochondrial myopathy",
+    "orpha_code": "254857"
+  },
+  {
+    "disease_name": "Mitochondrial myopathy with reversible cytochrome C oxidase deficiency",
+    "orpha_code": "254864"
+  },
+  {
+    "disease_name": "Mitochondrial DNA-related dystonia",
+    "orpha_code": "254851"
+  },
+  {
+    "disease_name": "Mitochondrial DNA-associated Leigh syndrome",
+    "orpha_code": "255210"
+  },
+  {
+    "disease_name": "Isolated complex I deficiency",
+    "orpha_code": "2609"
+  },
+  {
+    "disease_name": "Isolated complex III deficiency",
+    "orpha_code": "1460"
+  },
+  {
+    "disease_name": "Isolated cytochrome C oxidase deficiency",
+    "orpha_code": "254905"
+  },
+  {
+    "disease_name": "Isolated ATP synthase deficiency",
+    "orpha_code": "254913"
+  },
+  {
+    "disease_name": "1p36.33 duplication syndrome",
+    "orpha_code": "656279"
+  },
+  {
+    "disease_name": "Folinic acid-responsive seizures",
+    "orpha_code": "79097"
+  },
+  {
+    "disease_name": "Adenosine monophosphate deaminase deficiency",
+    "orpha_code": "45"
+  },
+  {
+    "disease_name": "Hemolytic anemia due to erythrocyte adenosine deaminase overproduction",
+    "orpha_code": "99138"
+  },
+  {
+    "disease_name": "Idiopathic malabsorption due to bile acid synthesis defects",
+    "orpha_code": "84065"
+  },
+  {
+    "disease_name": "Bile acid CoA ligase deficiency and defective amidation",
+    "orpha_code": "276066"
+  },
+  {
+    "disease_name": "Benign recurrent intrahepatic cholestasis",
+    "orpha_code": "65682"
+  },
+  {
+    "disease_name": "Transcobalamin I deficiency",
+    "orpha_code": "2967"
+  },
+  {
+    "disease_name": "Symptomatic form of HFE-related hemochromatosis",
+    "orpha_code": "465508"
+  },
+  {
+    "disease_name": "Digenic hemochromatosis",
+    "orpha_code": "648581"
+  },
+  {
+    "disease_name": "Vitamin B12-unresponsive methylmalonic acidemia",
+    "orpha_code": "27"
+  },
+  {
+    "disease_name": "Vitamin B12-responsive methylmalonic acidemia",
+    "orpha_code": "28"
+  },
+  {
+    "disease_name": "Pancreatic triacylglycerol lipase deficiency",
+    "orpha_code": "309031"
+  },
+  {
+    "disease_name": "Genetic recurrent myoglobinuria",
+    "orpha_code": "99845"
+  },
+  {
+    "disease_name": "Dietary iron overload disease",
+    "orpha_code": "139507"
+  },
+  {
+    "disease_name": "Alpha-mannosidosis",
+    "orpha_code": "61"
+  },
+  {
+    "disease_name": "Homozygous familial hypercholesterolemia",
+    "orpha_code": "391665"
+  },
+  {
+    "disease_name": "Hyperphenylalaninemia due to tetrahydrobiopterin deficiency",
+    "orpha_code": "238583"
+  },
+  {
+    "disease_name": "CLN2 disease",
+    "orpha_code": "228349"
+  },
+  {
+    "disease_name": "Mevalonate kinase deficiency",
+    "orpha_code": "309025"
+  },
+  {
+    "disease_name": "Cystinosis",
+    "orpha_code": "213"
+  },
+  {
+    "disease_name": "Homocystinuria without methylmalonic aciduria",
+    "orpha_code": "622"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to acid maltase deficiency",
+    "orpha_code": "365"
+  },
+  {
+    "disease_name": "Methylmalonic acidemia with homocystinuria",
+    "orpha_code": "26"
+  },
+  {
+    "disease_name": "Progressive familial intrahepatic cholestasis",
+    "orpha_code": "172"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "prevalence_id": "7638",
+    "orpha_code": "98878",
+    "disease_name": "Hemophilia A",
+    "source": "19845775[PMID]",
+    "prevalence_type": "Point prevalence",
+    "prevalence_class": "1-9 / 1 000 000",
+    "qualification": "Value and class",
+    "geographic_area": "Lesotho",
+    "validation_status": "Validated",
+    "reliability_score": 10.0,
+    "is_fiable": true,
+    "per_million_estimate": 5.0,
+    "confidence_level": "high",
+    "estimate_source": "class_midpoint"
+  }
+]

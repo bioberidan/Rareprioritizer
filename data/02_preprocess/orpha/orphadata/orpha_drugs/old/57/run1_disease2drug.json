@@ -1,0 +1,17 @@
+{
+  "disease_name": "Glycogen storage disease due to aldolase A deficiency",
+  "orpha_code": "57",
+  "drugs": [],
+  "processing_timestamp": "2025-07-07T06:01:36.575035",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Glycogen+storage+disease+due+to+aldolase+A+deficiency&orphaCode=57&name=57&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Glycogen storage disease due to aldolase A deficiency",
+    "orphaCode": "57",
+    "name": "57",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

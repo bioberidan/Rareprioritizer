@@ -1,0 +1,114 @@
+{
+  "disease_name": "Leber hereditary optic neuropathy",
+  "orpha_code": "104",
+  "drugs": [
+    {
+      "name": "RAXONE",
+      "substance_url": "/en/drug/trade_name/439186?name=104&mode=orpha&region=&status=all",
+      "substance_id": "439186",
+      "regulatory_url": "/en/drug/regulatory/439188?name=104&mode=orpha&region=",
+      "regulatory_id": "439188",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Adeno-associated virus vector serotype 2 expressing the human MT-ND4 codon-optimised gene",
+      "substance_url": "/en/drug/substance/628268?name=104&mode=orpha&region=&status=all",
+      "substance_id": "628268",
+      "regulatory_url": "/en/drug/regulatory/628269?name=104&mode=orpha&region=",
+      "regulatory_id": "628269",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Adeno-associated viral vector containing the human NADH dehydrogenase 4 gene (rAAV2/2-ND4)",
+      "substance_url": "/en/drug/substance/260395?name=104&mode=orpha&region=&status=all",
+      "substance_id": "260395",
+      "regulatory_url": "/en/drug/regulatory/275216?name=104&mode=orpha&region=",
+      "regulatory_id": "275216",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "idebenone",
+      "substance_url": "/en/drug/substance/73656?name=104&mode=orpha&region=&status=all",
+      "substance_id": "73656",
+      "regulatory_url": "/en/drug/regulatory/134111?name=104&mode=orpha&region=",
+      "regulatory_id": "134111",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Recombinant adeno-associated virus serotype 2 containing human mitochondrial ND1 codon optimized gene (rAAV2-ND1)",
+      "substance_url": "/en/drug/substance/643869?name=104&mode=orpha&region=&status=all",
+      "substance_id": "643869",
+      "regulatory_url": "/en/drug/regulatory/643870?name=104&mode=orpha&region=",
+      "regulatory_id": "643870",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/646586?name=104&mode=orpha&region=&status=all",
+      "substance_id": "646586",
+      "regulatory_url": "/en/drug/regulatory/646683?name=104&mode=orpha&region=",
+      "regulatory_id": "646683",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Zagociguat",
+      "substance_url": "/en/drug/substance/644348?name=104&mode=orpha&region=&status=all",
+      "substance_id": "644348",
+      "regulatory_url": "/en/drug/regulatory/644353?name=104&mode=orpha&region=",
+      "regulatory_id": "644353",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Vatiquinone",
+      "substance_url": "/en/drug/substance/285822?name=104&mode=orpha&region=&status=all",
+      "substance_id": "285822",
+      "regulatory_url": "/en/drug/regulatory/708703?name=104&mode=orpha&region=",
+      "regulatory_id": "708703",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:41:59.110503",
+  "run_number": 1,
+  "total_drugs_found": 8,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Leber+hereditary+optic+neuropathy&orphaCode=104&name=104&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Leber hereditary optic neuropathy",
+    "orphaCode": "104",
+    "name": "104",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

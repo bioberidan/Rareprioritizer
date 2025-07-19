@@ -1,0 +1,8129 @@
+{
+  "high_confidence": [
+    {
+      "orpha_code": "103909",
+      "disease_name": "Trehalase deficiency",
+      "prevalence": 500.0,
+      "records_count": 2,
+      "reliability_score": 8.5,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 2,
+      "methods_count": 268,
+      "flagged_by": [
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "442",
+      "disease_name": "Congenital hypothyroidism",
+      "prevalence": 489.26,
+      "records_count": 47,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 29,
+      "regional_coverage": 30,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "101081",
+      "disease_name": "Charcot-Marie-Tooth disease type 1A",
+      "prevalence": 460.71,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "602",
+      "disease_name": "GNE myopathy",
+      "prevalence": 418.42,
+      "records_count": 2,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "91349",
+      "disease_name": "Non-functioning pituitary adenoma",
+      "prevalence": 414.46,
+      "records_count": 9,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 8,
+      "regional_coverage": 7,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "182130",
+      "disease_name": "Tumor of endocrine glands",
+      "prevalence": 412.96,
+      "records_count": 2,
+      "reliability_score": 7.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "178320",
+      "disease_name": "Acute lung injury",
+      "prevalence": 410.38,
+      "records_count": 4,
+      "reliability_score": 7.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 3,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "117",
+      "disease_name": "Behçet disease",
+      "prevalence": 407.8,
+      "records_count": 18,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 16,
+      "regional_coverage": 15,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "79432",
+      "disease_name": "Oculocutaneous albinism type 2",
+      "prevalence": 386.73,
+      "records_count": 5,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 5,
+      "regional_coverage": 5,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "60",
+      "disease_name": "Alpha-1-antitrypsin deficiency",
+      "prevalence": 376.56,
+      "records_count": 6,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 6,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "363472",
+      "disease_name": "Tumor of testis and paratestis",
+      "prevalence": 370.0,
+      "records_count": 3,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "536",
+      "disease_name": "Systemic lupus erythematosus",
+      "prevalence": 363.94,
+      "records_count": 11,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 11,
+      "regional_coverage": 10,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "3189",
+      "disease_name": "Congenital pulmonary valvar stenosis",
+      "prevalence": 345.04,
+      "records_count": 20,
+      "reliability_score": 7.8,
+      "has_worldwide": false,
+      "validated_records": 20,
+      "regional_coverage": 19,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "2965",
+      "disease_name": "Prolactinoma",
+      "prevalence": 342.93,
+      "records_count": 5,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 5,
+      "regional_coverage": 5,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "98672",
+      "disease_name": "Autosomal dominant optic atrophy",
+      "prevalence": 337.88,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 4,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "797",
+      "disease_name": "Sarcoidosis",
+      "prevalence": 337.84,
+      "records_count": 34,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 34,
+      "regional_coverage": 26,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "557",
+      "disease_name": "Non-syndromic anorectal malformation",
+      "prevalence": 336.63,
+      "records_count": 21,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 20,
+      "regional_coverage": 20,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "3303",
+      "disease_name": "Tetralogy of Fallot",
+      "prevalence": 323.53,
+      "records_count": 25,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 25,
+      "regional_coverage": 23,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "98673",
+      "disease_name": "Autosomal dominant optic atrophy, classic form",
+      "prevalence": 313.89,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 4,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "641350",
+      "disease_name": "Immunotherapy induced hypophysitis",
+      "prevalence": 300.0,
+      "records_count": 2,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 640,
+      "flagged_by": [
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "zscore",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "log_normal",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "1457",
+      "disease_name": "Aorta coarctation",
+      "prevalence": 297.37,
+      "records_count": 20,
+      "reliability_score": 7.8,
+      "has_worldwide": true,
+      "validated_records": 19,
+      "regional_coverage": 20,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "535",
+      "disease_name": "Rare cutaneous lupus erythematosus",
+      "prevalence": 293.24,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 3,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal",
+        "percentile"
+      ]
+    },
+    {
+      "orpha_code": "90058",
+      "disease_name": "Spinal cord injury",
+      "prevalence": 164.29,
+      "records_count": 2,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "636945",
+      "disease_name": "Invasive candidiasis",
+      "prevalence": 50.0,
+      "records_count": 2,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 389,
+      "flagged_by": [
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "623615",
+      "disease_name": "Autoimmune limbic encephalitis",
+      "prevalence": 28.08,
+      "records_count": 2,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 7,
+      "flagged_by": [
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "100075",
+      "disease_name": "Neuroendocrine tumor of stomach",
+      "prevalence": 27.5,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 12,
+      "flagged_by": [
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "634492",
+      "disease_name": "Mosaic schwannomatosis",
+      "prevalence": 27.27,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "54595",
+      "disease_name": "Craniopharyngioma",
+      "prevalence": 25.22,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 4,
+      "methods_count": 4,
+      "flagged_by": [
+        "iqr",
+        "iqr",
+        "iqr",
+        "iqr"
+      ]
+    }
+  ],
+  "medium_confidence": [
+    {
+      "orpha_code": "70578",
+      "disease_name": "Adult acute respiratory distress syndrome",
+      "prevalence": 292.8,
+      "records_count": 8,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 7,
+      "methods_count": 3,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal"
+      ]
+    },
+    {
+      "orpha_code": "93372",
+      "disease_name": "Familial hypocalciuric hypercalcemia type 1",
+      "prevalence": 291.38,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 3,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal"
+      ]
+    },
+    {
+      "orpha_code": "1199",
+      "disease_name": "Esophageal atresia",
+      "prevalence": 288.46,
+      "records_count": 21,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 21,
+      "regional_coverage": 20,
+      "methods_count": 3,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal"
+      ]
+    },
+    {
+      "orpha_code": "216675",
+      "disease_name": "Transposition of the great arteries",
+      "prevalence": 285.93,
+      "records_count": 18,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 17,
+      "regional_coverage": 17,
+      "methods_count": 3,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal"
+      ]
+    },
+    {
+      "orpha_code": "1866",
+      "disease_name": "Focal, segmental or multifocal dystonia",
+      "prevalence": 284.27,
+      "records_count": 8,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 7,
+      "methods_count": 3,
+      "flagged_by": [
+        "iqr",
+        "zscore",
+        "log_normal"
+      ]
+    },
+    {
+      "orpha_code": "166",
+      "disease_name": "Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+      "prevalence": 281.12,
+      "records_count": 11,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 7,
+      "regional_coverage": 11,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "log_normal"
+      ]
+    },
+    {
+      "orpha_code": "823",
+      "disease_name": "Spina bifida and other spinal dysraphisms",
+      "prevalence": 277.59,
+      "records_count": 22,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 22,
+      "regional_coverage": 20,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "log_normal"
+      ]
+    },
+    {
+      "orpha_code": "636",
+      "disease_name": "Neurofibromatosis type 1",
+      "prevalence": 274.01,
+      "records_count": 10,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 10,
+      "regional_coverage": 8,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "log_normal"
+      ]
+    },
+    {
+      "orpha_code": "660",
+      "disease_name": "Omphalocele",
+      "prevalence": 265.03,
+      "records_count": 43,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 41,
+      "regional_coverage": 22,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "log_normal"
+      ]
+    },
+    {
+      "orpha_code": "2140",
+      "disease_name": "Congenital diaphragmatic hernia",
+      "prevalence": 264.93,
+      "records_count": 22,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 21,
+      "regional_coverage": 21,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "log_normal"
+      ]
+    },
+    {
+      "orpha_code": "83313",
+      "disease_name": "Boutonneuse fever",
+      "prevalence": 210.71,
+      "records_count": 3,
+      "reliability_score": 5.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 3,
+      "methods_count": 3,
+      "flagged_by": [
+        "iqr",
+        "iqr",
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "67038",
+      "disease_name": "B-cell chronic lymphocytic leukemia",
+      "prevalence": 179.03,
+      "records_count": 2,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "609",
+      "disease_name": "Tibial muscular dystrophy",
+      "prevalence": 175.0,
+      "records_count": 2,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 3,
+      "flagged_by": [
+        "iqr",
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "157798",
+      "disease_name": "Serrated polyposis syndrome",
+      "prevalence": 155.26,
+      "records_count": 2,
+      "reliability_score": 5.5,
+      "has_worldwide": true,
+      "validated_records": 0,
+      "regional_coverage": 2,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "267",
+      "disease_name": "Calpain-3-related limb-girdle muscular dystrophy R1",
+      "prevalence": 37.14,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 4,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "98758",
+      "disease_name": "Spinocerebellar ataxia type 6",
+      "prevalence": 30.0,
+      "records_count": 2,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "96092",
+      "disease_name": "8p inverted duplication/deletion syndrome",
+      "prevalence": 29.38,
+      "records_count": 3,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "570422",
+      "disease_name": "Galactose mutarotase deficiency",
+      "prevalence": 28.75,
+      "records_count": 3,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 3,
+      "flagged_by": [
+        "iqr",
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "99867",
+      "disease_name": "Thymoma",
+      "prevalence": 26.82,
+      "records_count": 3,
+      "reliability_score": 8.5,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "205",
+      "disease_name": "Crigler-Najjar syndrome",
+      "prevalence": 26.43,
+      "records_count": 2,
+      "reliability_score": 8.8,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "53693",
+      "disease_name": "GRACILE syndrome",
+      "prevalence": 25.0,
+      "records_count": 3,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 2,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "112",
+      "disease_name": "Bartter syndrome",
+      "prevalence": 20.86,
+      "records_count": 4,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "46486",
+      "disease_name": "Mucous membrane pemphigoid",
+      "prevalence": 20.52,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "276145",
+      "disease_name": "Malignant epithelial tumor of salivary glands",
+      "prevalence": 20.0,
+      "records_count": 24,
+      "reliability_score": 7.5,
+      "has_worldwide": false,
+      "validated_records": 24,
+      "regional_coverage": 24,
+      "methods_count": 3,
+      "flagged_by": [
+        "iqr",
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "261236",
+      "disease_name": "16p13.11 microdeletion syndrome",
+      "prevalence": 19.9,
+      "records_count": 2,
+      "reliability_score": 9.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 2,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "33226",
+      "disease_name": "Waldenström macroglobulinemia",
+      "prevalence": 17.92,
+      "records_count": 7,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 7,
+      "regional_coverage": 6,
+      "methods_count": 2,
+      "flagged_by": [
+        "iqr",
+        "iqr"
+      ]
+    }
+  ],
+  "low_confidence": [
+    {
+      "orpha_code": "141291",
+      "disease_name": "Cleft lip and alveolus",
+      "prevalence": 500.0,
+      "records_count": 1,
+      "reliability_score": 4.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "2737",
+      "disease_name": "Onchocerciasis",
+      "prevalence": 500.0,
+      "records_count": 2,
+      "reliability_score": 4.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "497737",
+      "disease_name": "Epidermolytic nevus",
+      "prevalence": 500.0,
+      "records_count": 1,
+      "reliability_score": 6.8,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "79373",
+      "disease_name": "Ectodermal dysplasia syndrome",
+      "prevalence": 500.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "166078",
+      "disease_name": "Von Willebrand disease type 1",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 4.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "166260",
+      "disease_name": "Dentinogenesis imperfecta type 2",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 9.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "166409",
+      "disease_name": "Photosensitive occipital lobe epilepsy",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 9.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "163934",
+      "disease_name": "Atopic keratoconjunctivitis",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "827",
+      "disease_name": "Stargardt disease",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "631",
+      "disease_name": "Non-acquired isolated growth hormone deficiency",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 6.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "2903",
+      "disease_name": "Familial spontaneous pneumothorax",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "171915",
+      "disease_name": "B-cell non-Hodgkin lymphoma",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 7.5,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "171673",
+      "disease_name": "Limbal stem cell deficiency",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "730",
+      "disease_name": "Autosomal dominant polycystic kidney disease",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "199302",
+      "disease_name": "Isolated cleft lip",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "2764",
+      "disease_name": "Osteochondritis dissecans",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 7.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "183422",
+      "disease_name": "Polymalformative genetic syndrome with increased risk of developing cancer",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 9.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "48",
+      "disease_name": "Congenital bilateral absence of vas deferens",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 5.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "233",
+      "disease_name": "Duane retraction syndrome",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 5.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "3375",
+      "disease_name": "Trisomy X syndrome",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 5.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "701",
+      "disease_name": "Alopecia universalis",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "137583",
+      "disease_name": "Vulvar intraepithelial neoplasia",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "137698",
+      "disease_name": "Cytomegalovirus disease in patients with impaired cell mediated immunity deemed at risk",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "137686",
+      "disease_name": "Asherman syndrome",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "294",
+      "disease_name": "Fetal cytomegalovirus syndrome",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 5.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "275555",
+      "disease_name": "Preeclampsia",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "3286",
+      "disease_name": "Catecholaminergic polymorphic ventricular tachycardia",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "2415",
+      "disease_name": "Rare lymphatic malformation",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "213500",
+      "disease_name": "Rare ovarian cancer",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "903",
+      "disease_name": "Von Willebrand disease",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 9.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "217080",
+      "disease_name": "Pulmonary fungal infections in patients deemed at risk",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "217067",
+      "disease_name": "Pouchitis",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "221061",
+      "disease_name": "Familial cerebral cavernous malformation",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "288",
+      "disease_name": "Hereditary elliptocytosis",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 7.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "231080",
+      "disease_name": "High-grade dysplasia in patients with Barrett esophagus",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "82",
+      "disease_name": "Hereditary thrombophilia due to congenital antithrombin deficiency",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 6.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "285",
+      "disease_name": "Hypermobile Ehlers-Danlos syndrome",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 5.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "238624",
+      "disease_name": "Idiopathic intracranial hypertension",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "330001",
+      "disease_name": "Wild type ATTR amyloidosis",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 9.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "314701",
+      "disease_name": "Primary systemic amyloidosis",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "289157",
+      "disease_name": "Hypocalcemic vitamin D-dependent rickets",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 4.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "449266",
+      "disease_name": "Pleural empyema",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "402823",
+      "disease_name": "Hepatitis delta",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "411527",
+      "disease_name": "Central retinal vein occlusion",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "391673",
+      "disease_name": "Necrotizing enterocolitis",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 7.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "439167",
+      "disease_name": "Placental insufficiency",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 7.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "440987",
+      "disease_name": "Isolated agenesis of gallbladder",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 9.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "423461",
+      "disease_name": "Mucolipidosis type III alpha/beta",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 9.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "700",
+      "disease_name": "Alopecia totalis",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 5.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "31112",
+      "disease_name": "Dermatofibrosarcoma protuberans",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 9.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "558411",
+      "disease_name": "Idiopathic gastroparesis",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "70589",
+      "disease_name": "Bronchopulmonary dysplasia",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "70573",
+      "disease_name": "Small cell lung cancer",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "70568",
+      "disease_name": "Post-transplant lymphoproliferative disease",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "70475",
+      "disease_name": "Radiation proctitis",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "66627",
+      "disease_name": "Tenosynovial giant cell tumor",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "65753",
+      "disease_name": "Charcot-Marie-Tooth disease type 1",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 9.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "64746",
+      "disease_name": "Autosomal dominant Charcot-Marie-Tooth disease type 2",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 4.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "64749",
+      "disease_name": "Charcot-Marie-Tooth disease type 4",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 7.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "54370",
+      "disease_name": "Primary membranoproliferative glomerulonephritis",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "77240",
+      "disease_name": "Primary lymphedema",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "35122",
+      "disease_name": "Congenital sucrase-isomaltase deficiency",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 5.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "49042",
+      "disease_name": "Dentinogenesis imperfecta",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 9.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "90065",
+      "disease_name": "Acquired aneurysmal subarachnoid hemorrhage",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "90066",
+      "disease_name": "Pneumonia caused by Pseudomonas aeruginosa infection",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "90061",
+      "disease_name": "Non-infectious posterior uveitis",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "90062",
+      "disease_name": "Acute liver failure",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "90064",
+      "disease_name": "Acute peripheral arterial occlusion",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "90076",
+      "disease_name": "Partial deep dermal and full thickness burns",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "90050",
+      "disease_name": "Retinopathy of prematurity",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 4.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "90051",
+      "disease_name": "Sepsis in premature infants",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "90059",
+      "disease_name": "Sudden sensorineural hearing loss",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "90056",
+      "disease_name": "Moderate and severe traumatic brain injury",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "90080",
+      "disease_name": "Scarring in glaucoma filtration surgical procedures",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "90081",
+      "disease_name": "AIDS wasting syndrome",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "91127",
+      "disease_name": "Adenovirus infection in immunocompromised patients",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "85410",
+      "disease_name": "Oligoarticular juvenile idiopathic arthritis",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 5.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "83461",
+      "disease_name": "Congenital primary aphakia",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 4.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "97292",
+      "disease_name": "Cardiogenic shock",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "95711",
+      "disease_name": "Congenital hypothyroidism due to developmental anomaly",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 9.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "95712",
+      "disease_name": "Thyroid ectopia",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 9.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "95157",
+      "disease_name": "Acute hepatic porphyria",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 4.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "95719",
+      "disease_name": "Thyroid hemiagenesis",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 6.0,
+      "has_worldwide": true,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "94059",
+      "disease_name": "Uremic pruritus",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "94058",
+      "disease_name": "Neovascular glaucoma",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "98848",
+      "disease_name": "Indolent systemic mastocytosis",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 7.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "98497",
+      "disease_name": "Genetic peripheral neuropathy",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 6.0,
+      "has_worldwide": true,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "101016",
+      "disease_name": "Romano-Ward syndrome",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 9.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "99772",
+      "disease_name": "Cleft velum",
+      "prevalence": 300.0,
+      "records_count": 1,
+      "reliability_score": 4.0,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "medical_domain"
+      ]
+    },
+    {
+      "orpha_code": "2073",
+      "disease_name": "Narcolepsy type 1",
+      "prevalence": 257.86,
+      "records_count": 7,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "761",
+      "disease_name": "Immunoglobulin A vasculitis",
+      "prevalence": 257.14,
+      "records_count": 8,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 8,
+      "regional_coverage": 8,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "558",
+      "disease_name": "Marfan syndrome",
+      "prevalence": 251.27,
+      "records_count": 6,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2368",
+      "disease_name": "Gastroschisis",
+      "prevalence": 250.38,
+      "records_count": 20,
+      "reliability_score": 8.8,
+      "has_worldwide": false,
+      "validated_records": 20,
+      "regional_coverage": 19,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "567",
+      "disease_name": "22q11.2 deletion syndrome",
+      "prevalence": 247.58,
+      "records_count": 6,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "391490",
+      "disease_name": "Adult-onset myasthenia gravis",
+      "prevalence": 246.63,
+      "records_count": 5,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 5,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1201",
+      "disease_name": "Small bowel atresia",
+      "prevalence": 246.43,
+      "records_count": 15,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 15,
+      "regional_coverage": 14,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "92",
+      "disease_name": "Juvenile idiopathic arthritis",
+      "prevalence": 242.45,
+      "records_count": 8,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 6,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "99828",
+      "disease_name": "Dengue fever",
+      "prevalence": 238.45,
+      "records_count": 26,
+      "reliability_score": 8.5,
+      "has_worldwide": true,
+      "validated_records": 25,
+      "regional_coverage": 24,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "85138",
+      "disease_name": "Addison disease",
+      "prevalence": 236.71,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2248",
+      "disease_name": "Hypoplastic left heart syndrome",
+      "prevalence": 233.48,
+      "records_count": 24,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 22,
+      "regional_coverage": 23,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "774",
+      "disease_name": "Hereditary hemorrhagic telangiectasia",
+      "prevalence": 228.57,
+      "records_count": 7,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 7,
+      "regional_coverage": 7,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "450",
+      "disease_name": "Heterotaxia",
+      "prevalence": 227.54,
+      "records_count": 2,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "461",
+      "disease_name": "Recessive X-linked ichthyosis",
+      "prevalence": 226.14,
+      "records_count": 3,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "85447",
+      "disease_name": "ATTRV30M amyloidosis",
+      "prevalence": 224.96,
+      "records_count": 8,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 5,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "729",
+      "disease_name": "Polycythemia vera",
+      "prevalence": 222.73,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1656",
+      "disease_name": "Dermatitis herpetiformis",
+      "prevalence": 222.59,
+      "records_count": 11,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 10,
+      "regional_coverage": 7,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "156152",
+      "disease_name": "Anti-neutrophil cytoplasmic antibody-associated vasculitis",
+      "prevalence": 222.13,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "60033",
+      "disease_name": "Idiopathic bronchiectasis",
+      "prevalence": 218.94,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "37202",
+      "disease_name": "Interstitial cystitis",
+      "prevalence": 216.34,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "79430",
+      "disease_name": "Hermansky-Pudlak syndrome",
+      "prevalence": 215.71,
+      "records_count": 2,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1764",
+      "disease_name": "Familial dysautonomia",
+      "prevalence": 213.19,
+      "records_count": 2,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1114",
+      "disease_name": "Aplasia cutis congenita",
+      "prevalence": 207.89,
+      "records_count": 3,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1496",
+      "disease_name": "Corpus callosum agenesis-neuronopathy syndrome",
+      "prevalence": 200.17,
+      "records_count": 2,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1478",
+      "disease_name": "Interatrial communication",
+      "prevalence": 200.0,
+      "records_count": 2,
+      "reliability_score": 6.0,
+      "has_worldwide": true,
+      "validated_records": 0,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "63443",
+      "disease_name": "Rare epithelial tumor of stomach",
+      "prevalence": 194.86,
+      "records_count": 7,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 7,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "586",
+      "disease_name": "Cystic fibrosis",
+      "prevalence": 193.35,
+      "records_count": 62,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 62,
+      "regional_coverage": 32,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "908",
+      "disease_name": "Fragile X syndrome",
+      "prevalence": 192.97,
+      "records_count": 7,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 7,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3318",
+      "disease_name": "Essential thrombocythemia",
+      "prevalence": 188.11,
+      "records_count": 5,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3366",
+      "disease_name": "Non-syndromic metopic craniosynostosis",
+      "prevalence": 185.14,
+      "records_count": 2,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3380",
+      "disease_name": "Trisomy 18 syndrome",
+      "prevalence": 180.16,
+      "records_count": 25,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 23,
+      "regional_coverage": 23,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "648684",
+      "disease_name": "Central retinal artery occlusion",
+      "prevalence": 178.57,
+      "records_count": 2,
+      "reliability_score": 9.0,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "99995",
+      "disease_name": "Complex regional pain syndrome type 1",
+      "prevalence": 178.21,
+      "records_count": 2,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "98555",
+      "disease_name": "Microphthalmia-anophthalmia-coloboma",
+      "prevalence": 176.67,
+      "records_count": 40,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 40,
+      "regional_coverage": 20,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3193",
+      "disease_name": "Supravalvular aortic stenosis",
+      "prevalence": 176.4,
+      "records_count": 2,
+      "reliability_score": 9.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "244",
+      "disease_name": "Primary ciliary dyskinesia",
+      "prevalence": 176.26,
+      "records_count": 2,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2137",
+      "disease_name": "Autoimmune hepatitis",
+      "prevalence": 171.02,
+      "records_count": 17,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 14,
+      "regional_coverage": 10,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3206",
+      "disease_name": "Stüve-Wiedemann syndrome",
+      "prevalence": 165.39,
+      "records_count": 3,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "44890",
+      "disease_name": "Gastrointestinal stromal tumor",
+      "prevalence": 165.38,
+      "records_count": 8,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "397",
+      "disease_name": "Giant cell arteritis",
+      "prevalence": 165.07,
+      "records_count": 8,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 8,
+      "regional_coverage": 7,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "101959",
+      "disease_name": "Chronic primary adrenal insufficiency",
+      "prevalence": 164.46,
+      "records_count": 2,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "214",
+      "disease_name": "Cystinuria",
+      "prevalence": 162.17,
+      "records_count": 9,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 9,
+      "regional_coverage": 9,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "635",
+      "disease_name": "Neuroblastoma",
+      "prevalence": 161.53,
+      "records_count": 5,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "56044",
+      "disease_name": "Carcinoma of gallbladder and extrahepatic biliary tract",
+      "prevalence": 161.11,
+      "records_count": 7,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2382",
+      "disease_name": "Lennox-Gastaut syndrome",
+      "prevalence": 156.71,
+      "records_count": 2,
+      "reliability_score": 9.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "217074",
+      "disease_name": "Rare carcinoma of pancreas",
+      "prevalence": 154.73,
+      "records_count": 5,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 5,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2032",
+      "disease_name": "Idiopathic pulmonary fibrosis",
+      "prevalence": 153.66,
+      "records_count": 17,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 17,
+      "regional_coverage": 9,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "30391",
+      "disease_name": "Isolated biliary atresia",
+      "prevalence": 151.52,
+      "records_count": 18,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 17,
+      "regional_coverage": 17,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "186",
+      "disease_name": "Primary biliary cholangitis",
+      "prevalence": 149.16,
+      "records_count": 28,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 28,
+      "regional_coverage": 16,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "513",
+      "disease_name": "Acute lymphoblastic leukemia",
+      "prevalence": 148.59,
+      "records_count": 5,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "881",
+      "disease_name": "Turner syndrome",
+      "prevalence": 144.85,
+      "records_count": 23,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 21,
+      "regional_coverage": 22,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "70",
+      "disease_name": "Proximal spinal muscular atrophy",
+      "prevalence": 142.9,
+      "records_count": 3,
+      "reliability_score": 7.5,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "589",
+      "disease_name": "Myasthenia gravis",
+      "prevalence": 141.16,
+      "records_count": 26,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 26,
+      "regional_coverage": 15,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "15",
+      "disease_name": "Achondroplasia",
+      "prevalence": 140.31,
+      "records_count": 31,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 31,
+      "regional_coverage": 30,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "137914",
+      "disease_name": "Choanal atresia",
+      "prevalence": 138.77,
+      "records_count": 17,
+      "reliability_score": 7.8,
+      "has_worldwide": false,
+      "validated_records": 17,
+      "regional_coverage": 16,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "716",
+      "disease_name": "Phenylketonuria",
+      "prevalence": 138.59,
+      "records_count": 103,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 102,
+      "regional_coverage": 69,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "86870",
+      "disease_name": "Blastic plasmacytoid dendritic cell neoplasm",
+      "prevalence": 137.41,
+      "records_count": 2,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "507",
+      "disease_name": "Leishmaniasis",
+      "prevalence": 137.24,
+      "records_count": 2,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "55",
+      "disease_name": "Oculocutaneous albinism",
+      "prevalence": 136.81,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "154",
+      "disease_name": "Familial isolated dilated cardiomyopathy",
+      "prevalence": 136.21,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2467",
+      "disease_name": "Systemic mastocytosis",
+      "prevalence": 133.47,
+      "records_count": 7,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 7,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "98292",
+      "disease_name": "Mastocytosis",
+      "prevalence": 133.33,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "88673",
+      "disease_name": "Hepatocellular carcinoma",
+      "prevalence": 131.9,
+      "records_count": 34,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 34,
+      "regional_coverage": 33,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "98375",
+      "disease_name": "Autoimmune hemolytic anemia",
+      "prevalence": 130.65,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "703",
+      "disease_name": "Bullous pemphigoid",
+      "prevalence": 130.36,
+      "records_count": 6,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3394",
+      "disease_name": "Soft tissue sarcoma",
+      "prevalence": 130.0,
+      "records_count": 3,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2103",
+      "disease_name": "Guillain-Barré syndrome",
+      "prevalence": 129.37,
+      "records_count": 7,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 6,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "816",
+      "disease_name": "Sjögren-Larsson syndrome",
+      "prevalence": 128.95,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "262",
+      "disease_name": "Duchenne and Becker muscular dystrophy",
+      "prevalence": 128.26,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3378",
+      "disease_name": "Trisomy 13 syndrome",
+      "prevalence": 125.49,
+      "records_count": 21,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 19,
+      "regional_coverage": 19,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "657",
+      "disease_name": "Congenital isolated hyperinsulinism",
+      "prevalence": 125.23,
+      "records_count": 8,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 8,
+      "regional_coverage": 7,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3202",
+      "disease_name": "Dehydrated hereditary stomatocytosis",
+      "prevalence": 125.14,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 4,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "398147",
+      "disease_name": "Persistent idiopathic facial pain",
+      "prevalence": 124.07,
+      "records_count": 4,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 4,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3002",
+      "disease_name": "Immune thrombocytopenia",
+      "prevalence": 123.77,
+      "records_count": 7,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "140286",
+      "disease_name": "Secondary hypoparathyroidism due to impaired parathormon secretion",
+      "prevalence": 121.47,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2157",
+      "disease_name": "Histidinemia",
+      "prevalence": 119.21,
+      "records_count": 4,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "905",
+      "disease_name": "Wilson disease",
+      "prevalence": 119.04,
+      "records_count": 13,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 13,
+      "regional_coverage": 10,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "877",
+      "disease_name": "Neuroendocrine neoplasm",
+      "prevalence": 118.49,
+      "records_count": 5,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "519",
+      "disease_name": "Acute myeloid leukemia",
+      "prevalence": 118.38,
+      "records_count": 7,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 7,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "589821",
+      "disease_name": "Congenital-onset Steinert myotonic dystrophy",
+      "prevalence": 118.33,
+      "records_count": 5,
+      "reliability_score": 7.8,
+      "has_worldwide": true,
+      "validated_records": 5,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2444",
+      "disease_name": "Congenital pulmonary airway malformation",
+      "prevalence": 118.21,
+      "records_count": 15,
+      "reliability_score": 7.8,
+      "has_worldwide": false,
+      "validated_records": 15,
+      "regional_coverage": 14,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "116",
+      "disease_name": "Beckwith-Wiedemann syndrome",
+      "prevalence": 117.65,
+      "records_count": 6,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 5,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3386",
+      "disease_name": "American trypanosomiasis",
+      "prevalence": 117.6,
+      "records_count": 11,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 11,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "90281",
+      "disease_name": "Discoid lupus erythematosus",
+      "prevalence": 117.31,
+      "records_count": 3,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1880",
+      "disease_name": "Ebstein malformation of the tricuspid valve",
+      "prevalence": 114.56,
+      "records_count": 22,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 21,
+      "regional_coverage": 21,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1243",
+      "disease_name": "Best vitelliform macular dystrophy",
+      "prevalence": 114.43,
+      "records_count": 5,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "733",
+      "disease_name": "Familial adenomatous polyposis",
+      "prevalence": 112.25,
+      "records_count": 12,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 11,
+      "regional_coverage": 7,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "280921",
+      "disease_name": "Idiopathic panuveitis",
+      "prevalence": 111.79,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "675",
+      "disease_name": "Annular pancreas",
+      "prevalence": 110.15,
+      "records_count": 16,
+      "reliability_score": 8.8,
+      "has_worldwide": true,
+      "validated_records": 15,
+      "regional_coverage": 16,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1489",
+      "disease_name": "Whooping cough",
+      "prevalence": 109.17,
+      "records_count": 30,
+      "reliability_score": 7.5,
+      "has_worldwide": false,
+      "validated_records": 30,
+      "regional_coverage": 30,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "418",
+      "disease_name": "Congenital adrenal hyperplasia",
+      "prevalence": 107.32,
+      "records_count": 19,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 13,
+      "regional_coverage": 17,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1037",
+      "disease_name": "Arthrogryposis multiplex congenita",
+      "prevalence": 107.09,
+      "records_count": 4,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "182095",
+      "disease_name": "Interstitial lung disease",
+      "prevalence": 105.56,
+      "records_count": 5,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "543",
+      "disease_name": "Burkitt lymphoma",
+      "prevalence": 105.43,
+      "records_count": 4,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "100088",
+      "disease_name": "Rare thyroid carcinoma",
+      "prevalence": 105.36,
+      "records_count": 27,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 26,
+      "regional_coverage": 25,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1848",
+      "disease_name": "Renal agenesis, bilateral",
+      "prevalence": 105.34,
+      "records_count": 18,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 17,
+      "regional_coverage": 17,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "101330",
+      "disease_name": "Porphyria cutanea tarda",
+      "prevalence": 104.54,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "848",
+      "disease_name": "Beta-thalassemia",
+      "prevalence": 103.1,
+      "records_count": 4,
+      "reliability_score": 9.0,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "43",
+      "disease_name": "X-linked adrenoleukodystrophy",
+      "prevalence": 102.67,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "606",
+      "disease_name": "Proximal myotonic myopathy",
+      "prevalence": 102.56,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "141132",
+      "disease_name": "Oculo-auriculo-vertebral spectrum",
+      "prevalence": 100.99,
+      "records_count": 5,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 5,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "577",
+      "disease_name": "Mucolipidosis type III",
+      "prevalence": 100.95,
+      "records_count": 6,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "98896",
+      "disease_name": "Duchenne muscular dystrophy",
+      "prevalence": 99.71,
+      "records_count": 15,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 15,
+      "regional_coverage": 12,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2440",
+      "disease_name": "Isolated split hand-split foot malformation",
+      "prevalence": 98.04,
+      "records_count": 6,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 5,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "98293",
+      "disease_name": "Hodgkin lymphoma",
+      "prevalence": 96.91,
+      "records_count": 5,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "394",
+      "disease_name": "Homocystinuria due to cystathionine beta-synthase deficiency",
+      "prevalence": 95.59,
+      "records_count": 9,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 8,
+      "regional_coverage": 9,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "182067",
+      "disease_name": "Glial tumor",
+      "prevalence": 95.45,
+      "records_count": 5,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 5,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "42",
+      "disease_name": "Medium chain acyl-CoA dehydrogenase deficiency",
+      "prevalence": 94.74,
+      "records_count": 19,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 15,
+      "regional_coverage": 19,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "354",
+      "disease_name": "GM1 gangliosidosis",
+      "prevalence": 94.57,
+      "records_count": 5,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 4,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "221",
+      "disease_name": "Dermatomyositis",
+      "prevalence": 93.05,
+      "records_count": 14,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 14,
+      "regional_coverage": 8,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "181",
+      "disease_name": "X-linked hypohidrotic ectodermal dysplasia",
+      "prevalence": 91.76,
+      "records_count": 3,
+      "reliability_score": 8.8,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "718",
+      "disease_name": "Isolated Pierre Robin sequence",
+      "prevalence": 90.43,
+      "records_count": 15,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 10,
+      "regional_coverage": 9,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "98723",
+      "disease_name": "Hypoplastic right heart syndrome",
+      "prevalence": 88.25,
+      "records_count": 17,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 17,
+      "regional_coverage": 17,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "882",
+      "disease_name": "Tyrosinemia type 1",
+      "prevalence": 87.48,
+      "records_count": 7,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 6,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "813",
+      "disease_name": "Silver-Russell syndrome",
+      "prevalence": 87.31,
+      "records_count": 5,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "499009",
+      "disease_name": "Congenital syphilis",
+      "prevalence": 86.44,
+      "records_count": 17,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 17,
+      "regional_coverage": 15,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "818",
+      "disease_name": "Smith-Lemli-Opitz syndrome",
+      "prevalence": 85.89,
+      "records_count": 8,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 5,
+      "regional_coverage": 8,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "97253",
+      "disease_name": "Neuroendocrine tumor of pancreas",
+      "prevalence": 85.77,
+      "records_count": 7,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1203",
+      "disease_name": "Duodenal atresia",
+      "prevalence": 85.58,
+      "records_count": 28,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 28,
+      "regional_coverage": 14,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "683",
+      "disease_name": "Progressive supranuclear palsy",
+      "prevalence": 84.97,
+      "records_count": 10,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 10,
+      "regional_coverage": 8,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1209",
+      "disease_name": "Tricuspid atresia",
+      "prevalence": 84.95,
+      "records_count": 19,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 19,
+      "regional_coverage": 18,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "269",
+      "disease_name": "Facioscapulohumeral dystrophy",
+      "prevalence": 84.83,
+      "records_count": 6,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "99",
+      "disease_name": "Autosomal dominant cerebellar ataxia",
+      "prevalence": 84.75,
+      "records_count": 6,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 6,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "213767",
+      "disease_name": "Squamous cell carcinoma of the cervix uteri",
+      "prevalence": 81.25,
+      "records_count": 24,
+      "reliability_score": 7.5,
+      "has_worldwide": false,
+      "validated_records": 24,
+      "regional_coverage": 24,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "564",
+      "disease_name": "Meckel syndrome",
+      "prevalence": 81.17,
+      "records_count": 6,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 6,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "256",
+      "disease_name": "Early-onset generalized limb-onset dystonia",
+      "prevalence": 80.69,
+      "records_count": 5,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 5,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1906",
+      "disease_name": "Fetal valproate spectrum disorder",
+      "prevalence": 79.29,
+      "records_count": 8,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 8,
+      "regional_coverage": 8,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "778",
+      "disease_name": "Rett syndrome",
+      "prevalence": 78.01,
+      "records_count": 11,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 9,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "29073",
+      "disease_name": "Multiple myeloma",
+      "prevalence": 77.66,
+      "records_count": 9,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 9,
+      "regional_coverage": 7,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "70482",
+      "disease_name": "Carcinoma of esophagus",
+      "prevalence": 76.28,
+      "records_count": 38,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 37,
+      "regional_coverage": 35,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "930",
+      "disease_name": "Idiopathic achalasia",
+      "prevalence": 75.45,
+      "records_count": 13,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 12,
+      "regional_coverage": 8,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "79239",
+      "disease_name": "Classic galactosemia",
+      "prevalence": 73.3,
+      "records_count": 8,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 7,
+      "regional_coverage": 8,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "666",
+      "disease_name": "Osteogenesis imperfecta",
+      "prevalence": 69.99,
+      "records_count": 7,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 7,
+      "regional_coverage": 7,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "72",
+      "disease_name": "Angelman syndrome",
+      "prevalence": 69.61,
+      "records_count": 12,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 10,
+      "regional_coverage": 7,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "101997",
+      "disease_name": "Primary immunodeficiency",
+      "prevalence": 68.8,
+      "records_count": 14,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 12,
+      "regional_coverage": 14,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "963",
+      "disease_name": "Acromegaly",
+      "prevalence": 68.4,
+      "records_count": 21,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 21,
+      "regional_coverage": 13,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "79241",
+      "disease_name": "Biotinidase deficiency",
+      "prevalence": 66.68,
+      "records_count": 13,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 11,
+      "regional_coverage": 11,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3384",
+      "disease_name": "Common arterial trunk",
+      "prevalence": 66.67,
+      "records_count": 16,
+      "reliability_score": 7.8,
+      "has_worldwide": true,
+      "validated_records": 15,
+      "regional_coverage": 15,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "828",
+      "disease_name": "Stickler syndrome",
+      "prevalence": 65.33,
+      "records_count": 5,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 4,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2932",
+      "disease_name": "Chronic inflammatory demyelinating polyneuropathy",
+      "prevalence": 63.45,
+      "records_count": 10,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 8,
+      "regional_coverage": 7,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "391",
+      "disease_name": "Classic Hodgkin lymphoma",
+      "prevalence": 63.11,
+      "records_count": 30,
+      "reliability_score": 7.5,
+      "has_worldwide": false,
+      "validated_records": 28,
+      "regional_coverage": 28,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "102",
+      "disease_name": "Multiple system atrophy",
+      "prevalence": 60.27,
+      "records_count": 13,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 12,
+      "regional_coverage": 11,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "79213",
+      "disease_name": "Mucopolysaccharidosis",
+      "prevalence": 57.39,
+      "records_count": 22,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 22,
+      "regional_coverage": 20,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "544",
+      "disease_name": "Diffuse large B-cell lymphoma",
+      "prevalence": 56.78,
+      "records_count": 26,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 26,
+      "regional_coverage": 25,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "52688",
+      "disease_name": "Myelodysplastic syndrome",
+      "prevalence": 56.07,
+      "records_count": 17,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 11,
+      "regional_coverage": 12,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "803",
+      "disease_name": "Amyotrophic lateral sclerosis",
+      "prevalence": 55.73,
+      "records_count": 33,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 29,
+      "regional_coverage": 17,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "100",
+      "disease_name": "Ataxia-telangiectasia",
+      "prevalence": 55.7,
+      "records_count": 8,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 7,
+      "regional_coverage": 7,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "576",
+      "disease_name": "Mucolipidosis type II",
+      "prevalence": 55.27,
+      "records_count": 6,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "42738",
+      "disease_name": "Severe congenital neutropenia",
+      "prevalence": 52.69,
+      "records_count": 8,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 6,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "98878",
+      "disease_name": "Hemophilia A",
+      "prevalence": 52.54,
+      "records_count": 110,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 108,
+      "regional_coverage": 109,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "900",
+      "disease_name": "Granulomatosis with polyangiitis",
+      "prevalence": 50.96,
+      "records_count": 25,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 25,
+      "regional_coverage": 19,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "399",
+      "disease_name": "Huntington disease",
+      "prevalence": 50.55,
+      "records_count": 32,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 29,
+      "regional_coverage": 21,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "365",
+      "disease_name": "Glycogen storage disease due to acid maltase deficiency",
+      "prevalence": 50.24,
+      "records_count": 14,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 12,
+      "regional_coverage": 13,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "545",
+      "disease_name": "Follicular lymphoma",
+      "prevalence": 49.87,
+      "records_count": 26,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 26,
+      "regional_coverage": 25,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "582",
+      "disease_name": "Mucopolysaccharidosis type 4",
+      "prevalence": 49.56,
+      "records_count": 21,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 21,
+      "regional_coverage": 17,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "99977",
+      "disease_name": "Squamous cell carcinoma of the esophagus",
+      "prevalence": 48.42,
+      "records_count": 28,
+      "reliability_score": 9.0,
+      "has_worldwide": true,
+      "validated_records": 28,
+      "regional_coverage": 26,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "213528",
+      "disease_name": "Rare adenocarcinoma of the breast",
+      "prevalence": 48.12,
+      "records_count": 24,
+      "reliability_score": 7.5,
+      "has_worldwide": false,
+      "validated_records": 24,
+      "regional_coverage": 24,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "340",
+      "disease_name": "Hemorrhagic fever-renal syndrome",
+      "prevalence": 47.72,
+      "records_count": 20,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 20,
+      "regional_coverage": 19,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2655",
+      "disease_name": "Thanatophoric dysplasia",
+      "prevalence": 47.57,
+      "records_count": 9,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 8,
+      "regional_coverage": 8,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "739",
+      "disease_name": "Prader-Willi syndrome",
+      "prevalence": 46.7,
+      "records_count": 16,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 14,
+      "regional_coverage": 9,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "171",
+      "disease_name": "Primary sclerosing cholangitis",
+      "prevalence": 45.85,
+      "records_count": 18,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 14,
+      "regional_coverage": 10,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "98976",
+      "disease_name": "Congenital glaucoma",
+      "prevalence": 44.86,
+      "records_count": 18,
+      "reliability_score": 7.8,
+      "has_worldwide": false,
+      "validated_records": 17,
+      "regional_coverage": 17,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "85443",
+      "disease_name": "AL amyloidosis",
+      "prevalence": 44.0,
+      "records_count": 81,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 81,
+      "regional_coverage": 41,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "263",
+      "disease_name": "Limb-girdle muscular dystrophy",
+      "prevalence": 43.66,
+      "records_count": 8,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 7,
+      "regional_coverage": 8,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "664",
+      "disease_name": "Ornithine transcarbamylase deficiency",
+      "prevalence": 43.3,
+      "records_count": 7,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 7,
+      "regional_coverage": 7,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "26793",
+      "disease_name": "Very long chain acyl-CoA dehydrogenase deficiency",
+      "prevalence": 43.0,
+      "records_count": 7,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 7,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "99885",
+      "disease_name": "Isolated permanent neonatal diabetes mellitus",
+      "prevalence": 42.26,
+      "records_count": 8,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 8,
+      "regional_coverage": 7,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "704",
+      "disease_name": "Pemphigus vulgaris",
+      "prevalence": 41.9,
+      "records_count": 8,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 8,
+      "regional_coverage": 8,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "98895",
+      "disease_name": "Becker muscular dystrophy",
+      "prevalence": 41.81,
+      "records_count": 13,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 11,
+      "regional_coverage": 10,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2970",
+      "disease_name": "Prune belly syndrome",
+      "prevalence": 41.55,
+      "records_count": 5,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 4,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "218",
+      "disease_name": "Darier disease",
+      "prevalence": 41.36,
+      "records_count": 5,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 5,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "398043",
+      "disease_name": "Malignant tumor of penis",
+      "prevalence": 41.0,
+      "records_count": 5,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 5,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "481",
+      "disease_name": "Kennedy disease",
+      "prevalence": 40.26,
+      "records_count": 5,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 5,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2614",
+      "disease_name": "Nail-patella syndrome",
+      "prevalence": 40.2,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "673",
+      "disease_name": "Malaria",
+      "prevalence": 40.13,
+      "records_count": 31,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 29,
+      "regional_coverage": 30,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "247525",
+      "disease_name": "Citrullinemia type I",
+      "prevalence": 40.02,
+      "records_count": 5,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "52",
+      "disease_name": "Alagille syndrome",
+      "prevalence": 39.49,
+      "records_count": 5,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "407",
+      "disease_name": "Glycine encephalopathy",
+      "prevalence": 39.45,
+      "records_count": 8,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 8,
+      "regional_coverage": 7,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "511",
+      "disease_name": "Maple syrup urine disease",
+      "prevalence": 39.32,
+      "records_count": 13,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 13,
+      "regional_coverage": 13,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3440",
+      "disease_name": "Waardenburg syndrome",
+      "prevalence": 38.88,
+      "records_count": 5,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "478",
+      "disease_name": "Kallmann syndrome",
+      "prevalence": 38.6,
+      "records_count": 4,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "33475",
+      "disease_name": "Meningococcal meningitis",
+      "prevalence": 38.56,
+      "records_count": 4,
+      "reliability_score": 7.5,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "355",
+      "disease_name": "Gaucher disease",
+      "prevalence": 38.14,
+      "records_count": 16,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 15,
+      "regional_coverage": 13,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "224",
+      "disease_name": "Neonatal diabetes mellitus",
+      "prevalence": 38.09,
+      "records_count": 5,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "469",
+      "disease_name": "Hereditary fructose intolerance",
+      "prevalence": 37.97,
+      "records_count": 13,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 9,
+      "regional_coverage": 9,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "727",
+      "disease_name": "Microscopic polyangiitis",
+      "prevalence": 37.76,
+      "records_count": 21,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 20,
+      "regional_coverage": 16,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "628",
+      "disease_name": "Diastrophic dysplasia",
+      "prevalence": 36.9,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "252175",
+      "disease_name": "Vestibular schwannoma",
+      "prevalence": 36.64,
+      "records_count": 4,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "55880",
+      "disease_name": "Chondrosarcoma",
+      "prevalence": 36.22,
+      "records_count": 3,
+      "reliability_score": 9.0,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "845",
+      "disease_name": "Tay-Sachs disease",
+      "prevalence": 36.05,
+      "records_count": 14,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 13,
+      "regional_coverage": 11,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "579",
+      "disease_name": "Mucopolysaccharidosis type 1",
+      "prevalence": 35.98,
+      "records_count": 28,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 28,
+      "regional_coverage": 24,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "60032",
+      "disease_name": "Recurrent respiratory papillomatosis",
+      "prevalence": 35.7,
+      "records_count": 6,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3129",
+      "disease_name": "Sarcosinemia",
+      "prevalence": 35.49,
+      "records_count": 4,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 4,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "182090",
+      "disease_name": "Pulmonary arterial hypertension",
+      "prevalence": 35.45,
+      "records_count": 12,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 12,
+      "regional_coverage": 7,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "300912",
+      "disease_name": "Marginal zone lymphoma",
+      "prevalence": 35.33,
+      "records_count": 3,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "52417",
+      "disease_name": "MALT lymphoma",
+      "prevalence": 35.29,
+      "records_count": 3,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "854",
+      "disease_name": "Non-malignant and non-cirrhotic portal vein thrombosis",
+      "prevalence": 35.26,
+      "records_count": 5,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 5,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "583861",
+      "disease_name": "Isolated mesenteric vein thrombosis",
+      "prevalence": 35.0,
+      "records_count": 4,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "512",
+      "disease_name": "Metachromatic leukodystrophy",
+      "prevalence": 34.69,
+      "records_count": 12,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 12,
+      "regional_coverage": 11,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "34515",
+      "disease_name": "FKRP-related limb-girdle muscular dystrophy R9",
+      "prevalence": 34.48,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "505652",
+      "disease_name": "CDKL5-deficiency disorder",
+      "prevalence": 34.47,
+      "records_count": 4,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "447",
+      "disease_name": "Paroxysmal nocturnal hemoglobinuria",
+      "prevalence": 34.45,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "95",
+      "disease_name": "Friedreich ataxia",
+      "prevalence": 34.3,
+      "records_count": 17,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 15,
+      "regional_coverage": 14,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "475",
+      "disease_name": "Isolated Joubert syndrome",
+      "prevalence": 34.27,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 4,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "861",
+      "disease_name": "Treacher-Collins syndrome",
+      "prevalence": 34.16,
+      "records_count": 6,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 5,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "766",
+      "disease_name": "Hemolytic anemia due to red cell pyruvate kinase deficiency",
+      "prevalence": 33.93,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "754",
+      "disease_name": "Androgen insensitivity syndrome",
+      "prevalence": 33.84,
+      "records_count": 4,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "52416",
+      "disease_name": "Mantle cell lymphoma",
+      "prevalence": 33.56,
+      "records_count": 3,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "909",
+      "disease_name": "Cerebrotendinous xanthomatosis",
+      "prevalence": 33.5,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "809",
+      "disease_name": "Mixed connective tissue disease",
+      "prevalence": 33.4,
+      "records_count": 6,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 5,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3169",
+      "disease_name": "Sirenomelia",
+      "prevalence": 32.66,
+      "records_count": 19,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 15,
+      "regional_coverage": 17,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "99976",
+      "disease_name": "Adenocarcinoma of the oesophagus and oesophagogastric junction",
+      "prevalence": 32.36,
+      "records_count": 28,
+      "reliability_score": 9.0,
+      "has_worldwide": true,
+      "validated_records": 28,
+      "regional_coverage": 26,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "100070",
+      "disease_name": "Progressive non-fluent aphasia",
+      "prevalence": 32.27,
+      "records_count": 2,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1873",
+      "disease_name": "Jalili syndrome",
+      "prevalence": 31.44,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "210122",
+      "disease_name": "Congenital alveolar capillary dysplasia",
+      "prevalence": 31.2,
+      "records_count": 3,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "84",
+      "disease_name": "Fanconi anemia",
+      "prevalence": 31.11,
+      "records_count": 7,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 7,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "810",
+      "disease_name": "Shigellosis",
+      "prevalence": 30.91,
+      "records_count": 30,
+      "reliability_score": 7.5,
+      "has_worldwide": true,
+      "validated_records": 29,
+      "regional_coverage": 30,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "207",
+      "disease_name": "Crouzon syndrome",
+      "prevalence": 30.75,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2461",
+      "disease_name": "Marden-Walker syndrome",
+      "prevalence": 29.93,
+      "records_count": 3,
+      "reliability_score": 8.8,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "96253",
+      "disease_name": "Cushing disease",
+      "prevalence": 29.83,
+      "records_count": 2,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "596",
+      "disease_name": "X-linked centronuclear myopathy",
+      "prevalence": 29.78,
+      "records_count": 3,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "549",
+      "disease_name": "Legionnaires disease",
+      "prevalence": 29.74,
+      "records_count": 31,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 31,
+      "regional_coverage": 31,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "98863",
+      "disease_name": "X-linked Emery-Dreifuss muscular dystrophy",
+      "prevalence": 29.36,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "49041",
+      "disease_name": "IgG4-related retroperitoneal fibrosis",
+      "prevalence": 29.32,
+      "records_count": 3,
+      "reliability_score": 8.5,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "377",
+      "disease_name": "Gorlin syndrome",
+      "prevalence": 29.12,
+      "records_count": 7,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 7,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2345",
+      "disease_name": "Isolated Klippel-Feil syndrome",
+      "prevalence": 29.11,
+      "records_count": 2,
+      "reliability_score": 9.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "474",
+      "disease_name": "Jeune syndrome",
+      "prevalence": 29.04,
+      "records_count": 3,
+      "reliability_score": 7.8,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "110",
+      "disease_name": "Bardet-Biedl syndrome",
+      "prevalence": 28.81,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "35909",
+      "disease_name": "Combined deficiency of factor V and factor VIII",
+      "prevalence": 28.68,
+      "records_count": 2,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "100980",
+      "disease_name": "Autosomal dominant pure spastic paraplegia",
+      "prevalence": 28.57,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "85414",
+      "disease_name": "Systemic-onset juvenile idiopathic arthritis",
+      "prevalence": 28.14,
+      "records_count": 2,
+      "reliability_score": 9.0,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "540",
+      "disease_name": "Familial hemophagocytic lymphohistiocytosis",
+      "prevalence": 27.85,
+      "records_count": 3,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "829",
+      "disease_name": "Adult-onset Still disease",
+      "prevalence": 27.79,
+      "records_count": 8,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 8,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "309334",
+      "disease_name": "Salla disease",
+      "prevalence": 27.75,
+      "records_count": 2,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "178478",
+      "disease_name": "Infant botulism",
+      "prevalence": 27.69,
+      "records_count": 5,
+      "reliability_score": 8.8,
+      "has_worldwide": true,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "480",
+      "disease_name": "Kearns-Sayre syndrome",
+      "prevalence": 27.61,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "487",
+      "disease_name": "Krabbe disease",
+      "prevalence": 27.34,
+      "records_count": 12,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 11,
+      "regional_coverage": 11,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "39044",
+      "disease_name": "Uveal melanoma",
+      "prevalence": 27.3,
+      "records_count": 4,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "71211",
+      "disease_name": "Neuromyelitis optica spectrum disorder",
+      "prevalence": 27.28,
+      "records_count": 31,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 31,
+      "regional_coverage": 18,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "888",
+      "disease_name": "Van der Woude syndrome",
+      "prevalence": 27.11,
+      "records_count": 10,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 10,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "23",
+      "disease_name": "Argininosuccinic aciduria",
+      "prevalence": 27.03,
+      "records_count": 4,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "596448",
+      "disease_name": "IgG4-related systemic disease",
+      "prevalence": 26.91,
+      "records_count": 6,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 6,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "324964",
+      "disease_name": "Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis",
+      "prevalence": 26.86,
+      "records_count": 2,
+      "reliability_score": 9.0,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "767",
+      "disease_name": "Polyarteritis nodosa",
+      "prevalence": 26.85,
+      "records_count": 9,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 7,
+      "regional_coverage": 8,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "899",
+      "disease_name": "Walker-Warburg syndrome",
+      "prevalence": 26.64,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3346",
+      "disease_name": "Tracheal agenesis",
+      "prevalence": 26.59,
+      "records_count": 2,
+      "reliability_score": 7.8,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "50251",
+      "disease_name": "Pleural mesothelioma",
+      "prevalence": 26.39,
+      "records_count": 4,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "309297",
+      "disease_name": "Mucopolysaccharidosis type 4A",
+      "prevalence": 26.38,
+      "records_count": 13,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 13,
+      "regional_coverage": 8,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "641",
+      "disease_name": "Multifocal motor neuropathy",
+      "prevalence": 26.32,
+      "records_count": 2,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1486",
+      "disease_name": "Lethal congenital contracture syndrome type 1",
+      "prevalence": 26.3,
+      "records_count": 2,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "668",
+      "disease_name": "Osteosarcoma",
+      "prevalence": 26.25,
+      "records_count": 4,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "45453",
+      "disease_name": "Incessant infant ventricular tachycardia",
+      "prevalence": 26.24,
+      "records_count": 4,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "83330",
+      "disease_name": "Proximal spinal muscular atrophy type 1",
+      "prevalence": 26.18,
+      "records_count": 2,
+      "reliability_score": 4.5,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "614",
+      "disease_name": "Thomsen and Becker disease",
+      "prevalence": 25.89,
+      "records_count": 6,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 6,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "98085",
+      "disease_name": "46,XY difference of sex development",
+      "prevalence": 25.63,
+      "records_count": 2,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "319",
+      "disease_name": "Skeletal Ewing sarcoma",
+      "prevalence": 25.57,
+      "records_count": 3,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "79140",
+      "disease_name": "Cutaneous neuroendocrine carcinoma",
+      "prevalence": 25.41,
+      "records_count": 12,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 10,
+      "regional_coverage": 10,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "141077",
+      "disease_name": "Epignathus",
+      "prevalence": 24.97,
+      "records_count": 2,
+      "reliability_score": 9.0,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "798",
+      "disease_name": "Schinzel-Giedion syndrome",
+      "prevalence": 24.94,
+      "records_count": 3,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "422",
+      "disease_name": "Idiopathic/heritable pulmonary arterial hypertension",
+      "prevalence": 24.71,
+      "records_count": 7,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 7,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "99429",
+      "disease_name": "Complete androgen insensitivity syndrome",
+      "prevalence": 24.29,
+      "records_count": 2,
+      "reliability_score": 6.0,
+      "has_worldwide": true,
+      "validated_records": 0,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "821",
+      "disease_name": "Sotos syndrome",
+      "prevalence": 23.98,
+      "records_count": 4,
+      "reliability_score": 7.8,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "611",
+      "disease_name": "Inclusion body myositis",
+      "prevalence": 23.84,
+      "records_count": 7,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "5",
+      "disease_name": "Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency",
+      "prevalence": 23.8,
+      "records_count": 12,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 10,
+      "regional_coverage": 11,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "231183",
+      "disease_name": "Usher syndrome type 3",
+      "prevalence": 23.75,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "97242",
+      "disease_name": "Congenital muscular dystrophy",
+      "prevalence": 23.53,
+      "records_count": 2,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "171901",
+      "disease_name": "Primary cutaneous T-cell lymphoma",
+      "prevalence": 23.42,
+      "records_count": 24,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 24,
+      "regional_coverage": 23,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3453",
+      "disease_name": "Autoimmune polyendocrinopathy type 1",
+      "prevalence": 23.41,
+      "records_count": 3,
+      "reliability_score": 9.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "183",
+      "disease_name": "Eosinophilic granulomatosis with polyangiitis",
+      "prevalence": 22.98,
+      "records_count": 19,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 19,
+      "regional_coverage": 14,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "464",
+      "disease_name": "Incontinentia pigmenti",
+      "prevalence": 22.91,
+      "records_count": 3,
+      "reliability_score": 8.8,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "370",
+      "disease_name": "Glycogen storage disease due to phosphorylase kinase deficiency",
+      "prevalence": 22.78,
+      "records_count": 4,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "732",
+      "disease_name": "Polymyositis",
+      "prevalence": 22.52,
+      "records_count": 8,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 8,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "293355",
+      "disease_name": "Methylmalonic acidemia without homocystinuria",
+      "prevalence": 22.5,
+      "records_count": 2,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1452",
+      "disease_name": "Cleidocranial dysplasia",
+      "prevalence": 22.23,
+      "records_count": 3,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "542",
+      "disease_name": "Primary cutaneous lymphoma",
+      "prevalence": 22.14,
+      "records_count": 2,
+      "reliability_score": 6.5,
+      "has_worldwide": false,
+      "validated_records": 0,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "216",
+      "disease_name": "Neuronal ceroid lipofuscinosis",
+      "prevalence": 22.01,
+      "records_count": 6,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 6,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "213772",
+      "disease_name": "Adenocarcinoma of the cervix uteri",
+      "prevalence": 21.88,
+      "records_count": 24,
+      "reliability_score": 7.5,
+      "has_worldwide": false,
+      "validated_records": 24,
+      "regional_coverage": 24,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "33",
+      "disease_name": "Isovaleric acidemia",
+      "prevalence": 21.85,
+      "records_count": 5,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "301",
+      "disease_name": "Ependymal tumor",
+      "prevalence": 21.81,
+      "records_count": 5,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 5,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "565",
+      "disease_name": "Menkes disease",
+      "prevalence": 21.7,
+      "records_count": 4,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1699",
+      "disease_name": "Trisomy 12p syndrome",
+      "prevalence": 21.3,
+      "records_count": 3,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "616",
+      "disease_name": "Medulloblastoma",
+      "prevalence": 20.65,
+      "records_count": 3,
+      "reliability_score": 8.0,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "654",
+      "disease_name": "Nephroblastoma",
+      "prevalence": 20.2,
+      "records_count": 27,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 27,
+      "regional_coverage": 24,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "79361",
+      "disease_name": "Inherited epidermolysis bullosa",
+      "prevalence": 19.8,
+      "records_count": 6,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3403",
+      "disease_name": "Uhl anomaly",
+      "prevalence": 19.69,
+      "records_count": 3,
+      "reliability_score": 6.0,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2806",
+      "disease_name": "Subacute sclerosing leukoencephalitis",
+      "prevalence": 19.62,
+      "records_count": 3,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "168956",
+      "disease_name": "Hypereosinophilic syndrome",
+      "prevalence": 19.54,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "26791",
+      "disease_name": "Multiple acyl-CoA dehydrogenase deficiency",
+      "prevalence": 19.51,
+      "records_count": 4,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1302",
+      "disease_name": "Cryptogenic organizing pneumonia",
+      "prevalence": 19.49,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "1332",
+      "disease_name": "Medullary thyroid carcinoma",
+      "prevalence": 19.4,
+      "records_count": 3,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "79269",
+      "disease_name": "Sanfilippo syndrome type A",
+      "prevalence": 19.04,
+      "records_count": 9,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 9,
+      "regional_coverage": 8,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "26790",
+      "disease_name": "Pseudomyxoma peritonei",
+      "prevalence": 18.85,
+      "records_count": 4,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "54",
+      "disease_name": "X-linked recessive ocular albinism",
+      "prevalence": 18.83,
+      "records_count": 6,
+      "reliability_score": 9.8,
+      "has_worldwide": false,
+      "validated_records": 5,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "56",
+      "disease_name": "Alkaptonuria",
+      "prevalence": 18.78,
+      "records_count": 8,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 5,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "50",
+      "disease_name": "Aicardi syndrome",
+      "prevalence": 18.53,
+      "records_count": 4,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "570",
+      "disease_name": "Moebius syndrome",
+      "prevalence": 18.41,
+      "records_count": 5,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 5,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "213",
+      "disease_name": "Cystinosis",
+      "prevalence": 18.18,
+      "records_count": 10,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 10,
+      "regional_coverage": 9,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "168811",
+      "disease_name": "Malignant peritoneal mesothelioma",
+      "prevalence": 18.12,
+      "records_count": 3,
+      "reliability_score": 8.5,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "581",
+      "disease_name": "Mucopolysaccharidosis type 3",
+      "prevalence": 17.97,
+      "records_count": 29,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 27,
+      "regional_coverage": 24,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "281097",
+      "disease_name": "Autosomal recessive congenital ichthyosis",
+      "prevalence": 17.95,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "75564",
+      "disease_name": "Acquired idiopathic sideroblastic anemia",
+      "prevalence": 17.72,
+      "records_count": 2,
+      "reliability_score": 7.5,
+      "has_worldwide": false,
+      "validated_records": 1,
+      "regional_coverage": 1,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2869",
+      "disease_name": "Peutz-Jeghers syndrome",
+      "prevalence": 17.67,
+      "records_count": 3,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "623801",
+      "disease_name": "Acute flaccid myelitis",
+      "prevalence": 17.0,
+      "records_count": 4,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "43393",
+      "disease_name": "Lambert-Eaton myasthenic syndrome",
+      "prevalence": 16.97,
+      "records_count": 3,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "580",
+      "disease_name": "Mucopolysaccharidosis type 2",
+      "prevalence": 16.96,
+      "records_count": 27,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 27,
+      "regional_coverage": 22,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "79276",
+      "disease_name": "Acute intermittent porphyria",
+      "prevalence": 16.56,
+      "records_count": 22,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 22,
+      "regional_coverage": 11,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "304",
+      "disease_name": "Epidermolysis bullosa simplex",
+      "prevalence": 16.54,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "738",
+      "disease_name": "Porphyria",
+      "prevalence": 16.49,
+      "records_count": 3,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 2,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2134",
+      "disease_name": "Atypical hemolytic uremic syndrome",
+      "prevalence": 16.45,
+      "records_count": 3,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 3,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "79408",
+      "disease_name": "Autosomal recessive generalized dystrophic epidermolysis bullosa, severe form",
+      "prevalence": 16.14,
+      "records_count": 4,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "646",
+      "disease_name": "Niemann-Pick disease type C",
+      "prevalence": 15.81,
+      "records_count": 9,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 7,
+      "regional_coverage": 9,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "79278",
+      "disease_name": "Autosomal erythropoietic protoporphyria",
+      "prevalence": 15.57,
+      "records_count": 22,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 22,
+      "regional_coverage": 12,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "168999",
+      "disease_name": "Malignant melanoma of the mucosa",
+      "prevalence": 15.43,
+      "records_count": 5,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 5,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "271861",
+      "disease_name": "Hereditary ATTR amyloidosis",
+      "prevalence": 15.34,
+      "records_count": 41,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 41,
+      "regional_coverage": 41,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "98879",
+      "disease_name": "Hemophilia B",
+      "prevalence": 14.96,
+      "records_count": 101,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 101,
+      "regional_coverage": 101,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "180242",
+      "disease_name": "Malignant tumor of fallopian tubes",
+      "prevalence": 14.86,
+      "records_count": 4,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 4,
+      "regional_coverage": 4,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "424019",
+      "disease_name": "Squamous cell carcinoma of the anal canal",
+      "prevalence": 14.78,
+      "records_count": 23,
+      "reliability_score": 7.5,
+      "has_worldwide": false,
+      "validated_records": 23,
+      "regional_coverage": 23,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "13",
+      "disease_name": "6-pyruvoyl-tetrahydropterin synthase deficiency",
+      "prevalence": 14.35,
+      "records_count": 5,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 5,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3287",
+      "disease_name": "Takayasu arteritis",
+      "prevalence": 14.23,
+      "records_count": 21,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 18,
+      "regional_coverage": 13,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "910",
+      "disease_name": "Xeroderma pigmentosum",
+      "prevalence": 14.13,
+      "records_count": 9,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 7,
+      "regional_coverage": 9,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "528",
+      "disease_name": "Congenital generalized lipodystrophy",
+      "prevalence": 14.02,
+      "records_count": 10,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 10,
+      "regional_coverage": 10,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "275766",
+      "disease_name": "Idiopathic pulmonary arterial hypertension",
+      "prevalence": 13.88,
+      "records_count": 16,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 16,
+      "regional_coverage": 10,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3006",
+      "disease_name": "Pyridoxine-dependent-developmental and epileptic encephalopathy",
+      "prevalence": 13.69,
+      "records_count": 5,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 3,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2573",
+      "disease_name": "Moyamoya disease",
+      "prevalence": 13.29,
+      "records_count": 10,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "2023",
+      "disease_name": "Undifferentiated pleomorphic sarcoma",
+      "prevalence": 13.18,
+      "records_count": 3,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 2,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "300557",
+      "disease_name": "Carcinoma of the ampulla of Vater",
+      "prevalence": 12.83,
+      "records_count": 3,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 2,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "3463",
+      "disease_name": "Wolfram syndrome",
+      "prevalence": 12.76,
+      "records_count": 6,
+      "reliability_score": 10.0,
+      "has_worldwide": true,
+      "validated_records": 6,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "284",
+      "disease_name": "Alveolar echinococcosis",
+      "prevalence": 12.71,
+      "records_count": 6,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 5,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "623626",
+      "disease_name": "Paraneoplastic cerebellar degeneration",
+      "prevalence": 12.69,
+      "records_count": 6,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "48104",
+      "disease_name": "Pyoderma gangrenosum",
+      "prevalence": 12.58,
+      "records_count": 6,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 6,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "398961",
+      "disease_name": "Mucinous adenocarcinoma of ovary",
+      "prevalence": 12.5,
+      "records_count": 24,
+      "reliability_score": 7.5,
+      "has_worldwide": false,
+      "validated_records": 24,
+      "regional_coverage": 24,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "811",
+      "disease_name": "Shwachman-Diamond syndrome",
+      "prevalence": 12.25,
+      "records_count": 7,
+      "reliability_score": 9.8,
+      "has_worldwide": true,
+      "validated_records": 7,
+      "regional_coverage": 6,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "583",
+      "disease_name": "Mucopolysaccharidosis type 6",
+      "prevalence": 12.14,
+      "records_count": 27,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 26,
+      "regional_coverage": 22,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "93598",
+      "disease_name": "Primary hyperoxaluria type 1",
+      "prevalence": 11.89,
+      "records_count": 6,
+      "reliability_score": 10.0,
+      "has_worldwide": false,
+      "validated_records": 6,
+      "regional_coverage": 3,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "913",
+      "disease_name": "Zollinger-Ellison syndrome",
+      "prevalence": 11.82,
+      "records_count": 6,
+      "reliability_score": 9.5,
+      "has_worldwide": true,
+      "validated_records": 5,
+      "regional_coverage": 5,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    },
+    {
+      "orpha_code": "58017",
+      "disease_name": "Classic hairy cell leukemia",
+      "prevalence": 11.77,
+      "records_count": 9,
+      "reliability_score": 9.5,
+      "has_worldwide": false,
+      "validated_records": 7,
+      "regional_coverage": 7,
+      "methods_count": 1,
+      "flagged_by": [
+        "iqr"
+      ]
+    }
+  ]
+}

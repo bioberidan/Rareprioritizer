@@ -1,0 +1,17 @@
+{
+  "disease_name": "Thiamine-responsive megaloblastic anemia syndrome",
+  "orpha_code": "49827",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:43:34.082306",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Thiamine-responsive+megaloblastic+anemia+syndrome&orphaCode=49827&name=49827&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Thiamine-responsive megaloblastic anemia syndrome",
+    "orphaCode": "49827",
+    "name": "49827",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,2432 @@
+{
+  "nodes": {
+    "68367": {
+      "id": "68367",
+      "name": "Rare inborn errors of metabolism",
+      "type": "root_category",
+      "level": 0,
+      "parent_id": null,
+      "children": [
+        "137",
+        "68366",
+        "68373",
+        "79062",
+        "79161",
+        "79200",
+        "79214",
+        "79224",
+        "91088",
+        "309005",
+        "309340",
+        "309813",
+        "309824"
+      ]
+    },
+    "137": {
+      "id": "137",
+      "name": "Congenital disorder of glycosylation",
+      "type": "category",
+      "level": 1,
+      "parent_id": "68367",
+      "children": [
+        "309347",
+        "309447",
+        "309515",
+        "309526"
+      ]
+    },
+    "309347": {
+      "id": "309347",
+      "name": "Disorder of protein N-glycosylation",
+      "type": "category",
+      "level": 2,
+      "parent_id": "137",
+      "children": []
+    },
+    "309447": {
+      "id": "309447",
+      "name": "Disorder of protein O-glycosylation",
+      "type": "category",
+      "level": 2,
+      "parent_id": "137",
+      "children": [
+        "309450",
+        "309458",
+        "309463",
+        "309469",
+        "309505"
+      ]
+    },
+    "309450": {
+      "id": "309450",
+      "name": "Disorder of O-xylosylglycan synthesis",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309447",
+      "children": []
+    },
+    "309458": {
+      "id": "309458",
+      "name": "Disorder of O-N-acetylgalactosaminylglycan synthesis",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309447",
+      "children": []
+    },
+    "309463": {
+      "id": "309463",
+      "name": "Disorder of O-xylosyl/N-acetylgalactosaminylglycan synthesis",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309447",
+      "children": []
+    },
+    "309469": {
+      "id": "309469",
+      "name": "Disorder of O-mannosylglycan synthesis",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309447",
+      "children": []
+    },
+    "309505": {
+      "id": "309505",
+      "name": "Disorder of fucoglycosan synthesis",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309447",
+      "children": []
+    },
+    "309515": {
+      "id": "309515",
+      "name": "Disorder of glycosphingolipid and glycosylphosphatidylinositol anchor glycosylation",
+      "type": "category",
+      "level": 2,
+      "parent_id": "137",
+      "children": []
+    },
+    "309526": {
+      "id": "309526",
+      "name": "Disorder of multiple glycosylation",
+      "type": "category",
+      "level": 2,
+      "parent_id": "137",
+      "children": [
+        "309568",
+        "309778"
+      ]
+    },
+    "309568": {
+      "id": "309568",
+      "name": "Defect in conserved oligomeric Golgi complex",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309526",
+      "children": []
+    },
+    "309778": {
+      "id": "309778",
+      "name": "Defect in V-ATPase",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309526",
+      "children": []
+    },
+    "68366": {
+      "id": "68366",
+      "name": "Lysosomal disease",
+      "type": "category",
+      "level": 1,
+      "parent_id": "68367",
+      "children": [
+        "306511",
+        "763",
+        "216",
+        "35121",
+        "79207",
+        "79213",
+        "79225",
+        "309279",
+        "309319",
+        "309337"
+      ]
+    },
+    "306511": {
+      "id": "306511",
+      "name": "Autosomal recessive spastic paraplegia type 48",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68366",
+      "children": []
+    },
+    "763": {
+      "id": "763",
+      "name": "Pycnodysostosis",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68366",
+      "children": []
+    },
+    "216": {
+      "id": "216",
+      "name": "Neuronal ceroid lipofuscinosis",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68366",
+      "children": []
+    },
+    "35121": {
+      "id": "35121",
+      "name": "Lysosomal acid phosphatase deficiency",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68366",
+      "children": []
+    },
+    "79207": {
+      "id": "79207",
+      "name": "Disorder of lysosomal amino acid transport",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68366",
+      "children": []
+    },
+    "79213": {
+      "id": "79213",
+      "name": "Mucopolysaccharidosis",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68366",
+      "children": []
+    },
+    "79225": {
+      "id": "79225",
+      "name": "Sphingolipidosis",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68366",
+      "children": [
+        "79204",
+        "309144"
+      ]
+    },
+    "79204": {
+      "id": "79204",
+      "name": "Lipid storage disease",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79225",
+      "children": []
+    },
+    "309144": {
+      "id": "309144",
+      "name": "Gangliosidosis",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79225",
+      "children": []
+    },
+    "309279": {
+      "id": "309279",
+      "name": "Glycoproteinosis",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68366",
+      "children": [
+        "79212",
+        "79215"
+      ]
+    },
+    "79212": {
+      "id": "79212",
+      "name": "Mucolipidosis",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309279",
+      "children": []
+    },
+    "79215": {
+      "id": "79215",
+      "name": "Oligosaccharidosis",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309279",
+      "children": []
+    },
+    "309319": {
+      "id": "309319",
+      "name": "Disorder of sialic acid metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68366",
+      "children": []
+    },
+    "309337": {
+      "id": "309337",
+      "name": "Lysosomal glycogen storage disease",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68366",
+      "children": []
+    },
+    "68373": {
+      "id": "68373",
+      "name": "Peroxisomal disease",
+      "type": "category",
+      "level": 1,
+      "parent_id": "68367",
+      "children": [
+        "79189",
+        "309810",
+        "369942",
+        "3276",
+        "642954",
+        "642965",
+        "95433",
+        "247815"
+      ]
+    },
+    "79189": {
+      "id": "79189",
+      "name": "Peroxisome biogenesis disorder",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68373",
+      "children": []
+    },
+    "309810": {
+      "id": "309810",
+      "name": "Disorder of peroxisomal alpha-, beta- and omega-oxidation",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68373",
+      "children": [
+        "79188"
+      ]
+    },
+    "79188": {
+      "id": "79188",
+      "name": "Peroxisomal beta-oxidation disorder",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309810",
+      "children": []
+    },
+    "369942": {
+      "id": "369942",
+      "name": "CADDS",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68373",
+      "children": []
+    },
+    "3276": {
+      "id": "3276",
+      "name": "Disorder of plasmalogens biosynthesis",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68373",
+      "children": []
+    },
+    "642954": {
+      "id": "642954",
+      "name": "Autosomal recessive ataxia due to PEX16 deficiency",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68373",
+      "children": []
+    },
+    "642965": {
+      "id": "642965",
+      "name": "Autosomal recessive ataxia due to PEX2 deficiency",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68373",
+      "children": []
+    },
+    "95433": {
+      "id": "95433",
+      "name": "Autosomal recessive spinocerebellar ataxia-blindness-deafness syndrome",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68373",
+      "children": []
+    },
+    "247815": {
+      "id": "247815",
+      "name": "Autosomal recessive ataxia due to PEX10 deficiency",
+      "type": "category",
+      "level": 2,
+      "parent_id": "68373",
+      "children": []
+    },
+    "79062": {
+      "id": "79062",
+      "name": "Disorder of amino acid and other organic acid metabolism",
+      "type": "category",
+      "level": 1,
+      "parent_id": "68367",
+      "children": [
+        "468726",
+        "79166",
+        "79167",
+        "79173",
+        "79181",
+        "79185",
+        "79187",
+        "79190",
+        "79194",
+        "79196",
+        "79197",
+        "289829",
+        "289832",
+        "289841",
+        "289899",
+        "308407",
+        "352728",
+        "391381"
+      ]
+    },
+    "468726": {
+      "id": "468726",
+      "name": "Severe primary trimethylaminuria",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": []
+    },
+    "79166": {
+      "id": "79166",
+      "name": "Disorder of amino acid absorption and transport",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": [
+        "308451"
+      ]
+    },
+    "308451": {
+      "id": "308451",
+      "name": "Disorder of neutral amino acid transport",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79166",
+      "children": []
+    },
+    "79167": {
+      "id": "79167",
+      "name": "Disorder of urea cycle metabolism and ammonia detoxification",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": [
+        "187"
+      ]
+    },
+    "187": {
+      "id": "187",
+      "name": "Citrullinemia",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79167",
+      "children": [
+        "247582"
+      ]
+    },
+    "247582": {
+      "id": "247582",
+      "name": "Citrin deficiency",
+      "type": "category",
+      "level": 4,
+      "parent_id": "187",
+      "children": []
+    },
+    "79173": {
+      "id": "79173",
+      "name": "Disorder of methionine cycle and sulfur amino acid metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": []
+    },
+    "79181": {
+      "id": "79181",
+      "name": "Disorder of histidine metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": []
+    },
+    "79185": {
+      "id": "79185",
+      "name": "Disorder of ornithine or proline metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": [
+        "289866",
+        "289869"
+      ]
+    },
+    "289866": {
+      "id": "289866",
+      "name": "Disorder of proline metabolism",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79185",
+      "children": []
+    },
+    "289869": {
+      "id": "289869",
+      "name": "Disorder of ornithine metabolism",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79185",
+      "children": []
+    },
+    "79187": {
+      "id": "79187",
+      "name": "Disorder of peptide metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": []
+    },
+    "79190": {
+      "id": "79190",
+      "name": "Disorder of phenylalanin or tyrosine metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": [
+        "284814",
+        "284818"
+      ]
+    },
+    "284814": {
+      "id": "284814",
+      "name": "Disorder of phenylalanine metabolism",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79190",
+      "children": []
+    },
+    "284818": {
+      "id": "284818",
+      "name": "Disorder of tyrosine metabolism",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79190",
+      "children": []
+    },
+    "79194": {
+      "id": "79194",
+      "name": "Disorder of serine or glycine metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": [
+        "35705"
+      ]
+    },
+    "35705": {
+      "id": "35705",
+      "name": "Neurometabolic disorder due to serine deficiency",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79194",
+      "children": []
+    },
+    "79196": {
+      "id": "79196",
+      "name": "Disorder of the gamma-glutamyl cycle",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": []
+    },
+    "79197": {
+      "id": "79197",
+      "name": "Disorder of branched-chain amino acid metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": []
+    },
+    "289829": {
+      "id": "289829",
+      "name": "Disorder of tryptophan metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": []
+    },
+    "289832": {
+      "id": "289832",
+      "name": "Disorder of lysine and hydroxylysine metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": []
+    },
+    "289841": {
+      "id": "289841",
+      "name": "Disorder of glutamine metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": []
+    },
+    "289899": {
+      "id": "289899",
+      "name": "Organic aciduria",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": [
+        "79158",
+        "79163"
+      ]
+    },
+    "79158": {
+      "id": "79158",
+      "name": "Cerebral organic aciduria",
+      "type": "category",
+      "level": 3,
+      "parent_id": "289899",
+      "children": []
+    },
+    "79163": {
+      "id": "79163",
+      "name": "Classic organic aciduria",
+      "type": "category",
+      "level": 3,
+      "parent_id": "289899",
+      "children": []
+    },
+    "308407": {
+      "id": "308407",
+      "name": "Disorder of beta and omega amino acid metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": []
+    },
+    "352728": {
+      "id": "352728",
+      "name": "Disorder of melanin metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": []
+    },
+    "391381": {
+      "id": "391381",
+      "name": "Disorder of asparagine metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79062",
+      "children": []
+    },
+    "79161": {
+      "id": "79161",
+      "name": "Disorder of carbohydrate metabolism",
+      "type": "category",
+      "level": 1,
+      "parent_id": "68367",
+      "children": [
+        "79177",
+        "79179",
+        "79201",
+        "308459",
+        "308463",
+        "308467",
+        "308998",
+        "309001",
+        "440701"
+      ]
+    },
+    "79177": {
+      "id": "79177",
+      "name": "Gluconeogenesis disorder",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79161",
+      "children": []
+    },
+    "79179": {
+      "id": "79179",
+      "name": "Disorder of glycerol metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79161",
+      "children": []
+    },
+    "79201": {
+      "id": "79201",
+      "name": "Glycogen storage disease",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79161",
+      "children": []
+    },
+    "308459": {
+      "id": "308459",
+      "name": "Disorder of glycolysis",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79161",
+      "children": []
+    },
+    "308463": {
+      "id": "308463",
+      "name": "Disorder of fructose metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79161",
+      "children": []
+    },
+    "308467": {
+      "id": "308467",
+      "name": "Disorder of galactose metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79161",
+      "children": [
+        "352"
+      ]
+    },
+    "352": {
+      "id": "352",
+      "name": "Galactosemia",
+      "type": "category",
+      "level": 3,
+      "parent_id": "308467",
+      "children": []
+    },
+    "308998": {
+      "id": "308998",
+      "name": "Disorder of glyoxylate metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79161",
+      "children": []
+    },
+    "309001": {
+      "id": "309001",
+      "name": "Disorder of carbohydrate absorption and transport",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79161",
+      "children": [
+        "79178"
+      ]
+    },
+    "79178": {
+      "id": "79178",
+      "name": "Glucose transport disorder",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309001",
+      "children": []
+    },
+    "440701": {
+      "id": "440701",
+      "name": "Disorders of pentose/polyol metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79161",
+      "children": [
+        "79186"
+      ]
+    },
+    "79186": {
+      "id": "79186",
+      "name": "Disorder of pentose phosphate metabolism",
+      "type": "category",
+      "level": 3,
+      "parent_id": "440701",
+      "children": []
+    },
+    "79200": {
+      "id": "79200",
+      "name": "Disorder of energy metabolism",
+      "type": "category",
+      "level": 1,
+      "parent_id": "68367",
+      "children": [
+        "68380",
+        "79172",
+        "79174",
+        "254746",
+        "254749"
+      ]
+    },
+    "68380": {
+      "id": "68380",
+      "name": "Mitochondrial disease",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79200",
+      "children": [
+        "223713",
+        "254827",
+        "401854"
+      ]
+    },
+    "223713": {
+      "id": "223713",
+      "name": "Mitochondrial oxidative phosphorylation disorder",
+      "type": "category",
+      "level": 3,
+      "parent_id": "68380",
+      "children": [
+        "2443",
+        "254758",
+        "254846"
+      ]
+    },
+    "2443": {
+      "id": "2443",
+      "name": "Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
+      "type": "category",
+      "level": 4,
+      "parent_id": "223713",
+      "children": [
+        "35696",
+        "254822",
+        "309136",
+        "352456"
+      ]
+    },
+    "35696": {
+      "id": "35696",
+      "name": "Mitochondrial disorder due to a defect in mitochondrial protein synthesis",
+      "type": "category",
+      "level": 5,
+      "parent_id": "2443",
+      "children": []
+    },
+    "254822": {
+      "id": "254822",
+      "name": "Mitochondrial oxidative phosphorylation disorder with no known mechanism",
+      "type": "category",
+      "level": 5,
+      "parent_id": "2443",
+      "children": []
+    },
+    "309136": {
+      "id": "309136",
+      "name": "Mitochondrial disorder due to a defect in assembly or maturation of the respiratory chain complexes",
+      "type": "category",
+      "level": 5,
+      "parent_id": "2443",
+      "children": []
+    },
+    "352456": {
+      "id": "352456",
+      "name": "Mitochondrial DNA maintenance syndrome",
+      "type": "category",
+      "level": 5,
+      "parent_id": "2443",
+      "children": [
+        "35698",
+        "254807"
+      ]
+    },
+    "35698": {
+      "id": "35698",
+      "name": "Mitochondrial DNA depletion syndrome",
+      "type": "category",
+      "level": 6,
+      "parent_id": "352456",
+      "children": []
+    },
+    "254807": {
+      "id": "254807",
+      "name": "Multiple mitochondrial DNA deletion syndrome",
+      "type": "category",
+      "level": 6,
+      "parent_id": "352456",
+      "children": []
+    },
+    "254758": {
+      "id": "254758",
+      "name": "Mitochondrial oxidative phosphorylation disorder due to mitochondrial DNA anomalies",
+      "type": "category",
+      "level": 4,
+      "parent_id": "223713",
+      "children": [
+        "254767",
+        "254776"
+      ]
+    },
+    "254767": {
+      "id": "254767",
+      "name": "Mitochondrial oxidative phosphorylation disorder due to a large-scale single deletion of mitochondrial DNA",
+      "type": "category",
+      "level": 5,
+      "parent_id": "254758",
+      "children": []
+    },
+    "254776": {
+      "id": "254776",
+      "name": "Mitochondrial oxidative phosphorylation disorder due to a point mutation of mitochondrial DNA",
+      "type": "category",
+      "level": 5,
+      "parent_id": "254758",
+      "children": []
+    },
+    "254846": {
+      "id": "254846",
+      "name": "Isolated oxidative phosphorylation complex disorder",
+      "type": "category",
+      "level": 4,
+      "parent_id": "223713",
+      "children": []
+    },
+    "254827": {
+      "id": "254827",
+      "name": "Mitochondrial membrane transport disorder",
+      "type": "category",
+      "level": 3,
+      "parent_id": "68380",
+      "children": [
+        "254830",
+        "254834"
+      ]
+    },
+    "254830": {
+      "id": "254830",
+      "name": "Mitochondrial substrate carrier disorder",
+      "type": "category",
+      "level": 4,
+      "parent_id": "254827",
+      "children": []
+    },
+    "254834": {
+      "id": "254834",
+      "name": "Mitochondrial protein import disorder",
+      "type": "category",
+      "level": 4,
+      "parent_id": "254827",
+      "children": []
+    },
+    "401854": {
+      "id": "401854",
+      "name": "Lipoic acid biosynthesis defect",
+      "type": "category",
+      "level": 3,
+      "parent_id": "68380",
+      "children": []
+    },
+    "79172": {
+      "id": "79172",
+      "name": "Creatine deficiency syndrome",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79200",
+      "children": []
+    },
+    "79174": {
+      "id": "79174",
+      "name": "Disorder of fatty acid oxidation and ketone body metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79200",
+      "children": [
+        "79183",
+        "309115",
+        "309130",
+        "309133",
+        "438072"
+      ]
+    },
+    "79183": {
+      "id": "79183",
+      "name": "Disorder of ketolysis",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79174",
+      "children": []
+    },
+    "309115": {
+      "id": "309115",
+      "name": "Disorder of fatty acid oxidation and ketogenesis",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79174",
+      "children": []
+    },
+    "309130": {
+      "id": "309130",
+      "name": "Disorder of carnitine cycle and carnitine transport",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79174",
+      "children": []
+    },
+    "309133": {
+      "id": "309133",
+      "name": "Metabolic disease due to other fatty acid oxidation disorder",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79174",
+      "children": []
+    },
+    "438072": {
+      "id": "438072",
+      "name": "Disorder of keton body transport",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79174",
+      "children": []
+    },
+    "254746": {
+      "id": "254746",
+      "name": "Pyruvate metabolism disorder",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79200",
+      "children": []
+    },
+    "254749": {
+      "id": "254749",
+      "name": "Tricarboxylic acid cycle disorder",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79200",
+      "children": []
+    },
+    "79214": {
+      "id": "79214",
+      "name": "Disorder of biogenic amine metabolism and transport",
+      "type": "category",
+      "level": 1,
+      "parent_id": "68367",
+      "children": [
+        "79169",
+        "79175",
+        "79192",
+        "79219"
+      ]
+    },
+    "79169": {
+      "id": "79169",
+      "name": "Disorder of neurotransmitter metabolism and transport",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79214",
+      "children": [
+        "309819",
+        "309830"
+      ]
+    },
+    "309819": {
+      "id": "309819",
+      "name": "Disorder of pterin metabolism",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79169",
+      "children": []
+    },
+    "309830": {
+      "id": "309830",
+      "name": "Disorder of catecholamine synthesis",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79169",
+      "children": []
+    },
+    "79175": {
+      "id": "79175",
+      "name": "Disorder of gamma-aminobutyric acid metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79214",
+      "children": []
+    },
+    "79192": {
+      "id": "79192",
+      "name": "Disorder of pyridoxine metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79214",
+      "children": []
+    },
+    "79219": {
+      "id": "79219",
+      "name": "Metabolic disease involving other neurotransmitter deficiency",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79214",
+      "children": []
+    },
+    "79224": {
+      "id": "79224",
+      "name": "Disorder of purine or pyrimidine metabolism",
+      "type": "category",
+      "level": 1,
+      "parent_id": "68367",
+      "children": [
+        "79191",
+        "79193"
+      ]
+    },
+    "79191": {
+      "id": "79191",
+      "name": "Disorder of purine metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79224",
+      "children": []
+    },
+    "79193": {
+      "id": "79193",
+      "name": "Disorder of pyrimidine metabolism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "79224",
+      "children": []
+    },
+    "91088": {
+      "id": "91088",
+      "name": "Other metabolic disease",
+      "type": "category",
+      "level": 1,
+      "parent_id": "68367",
+      "children": [
+        "657",
+        "60",
+        "714",
+        "79345",
+        "79507",
+        "99845",
+        "99846",
+        "404454",
+        "555402",
+        "555407"
+      ]
+    },
+    "657": {
+      "id": "657",
+      "name": "Congenital isolated hyperinsulinism",
+      "type": "category",
+      "level": 2,
+      "parent_id": "91088",
+      "children": []
+    },
+    "60": {
+      "id": "60",
+      "name": "Alpha-1-antitrypsin deficiency",
+      "type": "category",
+      "level": 2,
+      "parent_id": "91088",
+      "children": []
+    },
+    "714": {
+      "id": "714",
+      "name": "Hemolytic anemia due to diphosphoglycerate mutase deficiency",
+      "type": "category",
+      "level": 2,
+      "parent_id": "91088",
+      "children": []
+    },
+    "79345": {
+      "id": "79345",
+      "name": "Brachytelephalangic chondrodysplasia punctata",
+      "type": "category",
+      "level": 2,
+      "parent_id": "91088",
+      "children": []
+    },
+    "79507": {
+      "id": "79507",
+      "name": "Hypotonia-failure to thrive-microcephaly syndrome",
+      "type": "category",
+      "level": 2,
+      "parent_id": "91088",
+      "children": []
+    },
+    "99845": {
+      "id": "99845",
+      "name": "Genetic recurrent myoglobinuria",
+      "type": "category",
+      "level": 2,
+      "parent_id": "91088",
+      "children": []
+    },
+    "99846": {
+      "id": "99846",
+      "name": "Autosomal dominant myoglobinuria",
+      "type": "category",
+      "level": 2,
+      "parent_id": "91088",
+      "children": []
+    },
+    "404454": {
+      "id": "404454",
+      "name": "Alacrimia-choreoathetosis-liver dysfunction syndrome",
+      "type": "category",
+      "level": 2,
+      "parent_id": "91088",
+      "children": []
+    },
+    "555402": {
+      "id": "555402",
+      "name": "NAD(P)HX dehydratase deficiency",
+      "type": "category",
+      "level": 2,
+      "parent_id": "91088",
+      "children": []
+    },
+    "555407": {
+      "id": "555407",
+      "name": "NAD(P)HX epimerase deficiency",
+      "type": "category",
+      "level": 2,
+      "parent_id": "91088",
+      "children": []
+    },
+    "309005": {
+      "id": "309005",
+      "name": "Disorder of lipid metabolism",
+      "type": "category",
+      "level": 1,
+      "parent_id": "68367",
+      "children": [
+        "79226",
+        "101953",
+        "309028",
+        "352301"
+      ]
+    },
+    "79226": {
+      "id": "79226",
+      "name": "Sterol metabolism disorder",
+      "type": "category",
+      "level": 2,
+      "parent_id": "309005",
+      "children": [
+        "79168",
+        "79195"
+      ]
+    },
+    "79168": {
+      "id": "79168",
+      "name": "Disorder of bile acid synthesis",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79226",
+      "children": [
+        "163631"
+      ]
+    },
+    "163631": {
+      "id": "163631",
+      "name": "Bile acid synthesis defect with cholestasis and malabsorption",
+      "type": "category",
+      "level": 4,
+      "parent_id": "79168",
+      "children": []
+    },
+    "79195": {
+      "id": "79195",
+      "name": "Sterol biosynthesis disorder",
+      "type": "category",
+      "level": 3,
+      "parent_id": "79226",
+      "children": []
+    },
+    "101953": {
+      "id": "101953",
+      "name": "Rare dyslipidemia",
+      "type": "category",
+      "level": 2,
+      "parent_id": "309005",
+      "children": [
+        "181422",
+        "181431",
+        "181437"
+      ]
+    },
+    "181422": {
+      "id": "181422",
+      "name": "Rare hyperlipidemia",
+      "type": "category",
+      "level": 3,
+      "parent_id": "101953",
+      "children": [
+        "477811"
+      ]
+    },
+    "477811": {
+      "id": "477811",
+      "name": "Rare hypercholesterolemia",
+      "type": "category",
+      "level": 4,
+      "parent_id": "181422",
+      "children": []
+    },
+    "181431": {
+      "id": "181431",
+      "name": "Rare hypolipidemia",
+      "type": "category",
+      "level": 3,
+      "parent_id": "101953",
+      "children": []
+    },
+    "181437": {
+      "id": "181437",
+      "name": "Rare syndromic dyslipidemia",
+      "type": "category",
+      "level": 3,
+      "parent_id": "101953",
+      "children": []
+    },
+    "309028": {
+      "id": "309028",
+      "name": "Disorder of lipid absorption and transport",
+      "type": "category",
+      "level": 2,
+      "parent_id": "309005",
+      "children": []
+    },
+    "352301": {
+      "id": "352301",
+      "name": "Disorder of phospholipids, sphingolipids and fatty acids biosynthesis",
+      "type": "category",
+      "level": 2,
+      "parent_id": "309005",
+      "children": [
+        "352306",
+        "352309",
+        "352312"
+      ]
+    },
+    "352306": {
+      "id": "352306",
+      "name": "Disorder of phospholipids, sphingolipids and fatty acids biosynthesis with central nervous system predominant involvement",
+      "type": "category",
+      "level": 3,
+      "parent_id": "352301",
+      "children": []
+    },
+    "352309": {
+      "id": "352309",
+      "name": "Disorder of phospholipids, sphingolipids and fatty acids biosynthesis with peripheral nerves predominant involvement",
+      "type": "category",
+      "level": 3,
+      "parent_id": "352301",
+      "children": []
+    },
+    "352312": {
+      "id": "352312",
+      "name": "Disorder of phospholipids, sphingolipids and fatty acids biosynthesis with skeletal muscle predominant involvement",
+      "type": "category",
+      "level": 3,
+      "parent_id": "352301",
+      "children": []
+    },
+    "309340": {
+      "id": "309340",
+      "name": "Disorder of lysosomal-related organelles",
+      "type": "category",
+      "level": 1,
+      "parent_id": "68367",
+      "children": [
+        "167",
+        "2342",
+        "678",
+        "79430",
+        "675782"
+      ]
+    },
+    "167": {
+      "id": "167",
+      "name": "Chédiak-Higashi syndrome",
+      "type": "category",
+      "level": 2,
+      "parent_id": "309340",
+      "children": []
+    },
+    "2342": {
+      "id": "2342",
+      "name": "Haim-Munk syndrome",
+      "type": "category",
+      "level": 2,
+      "parent_id": "309340",
+      "children": []
+    },
+    "678": {
+      "id": "678",
+      "name": "Papillon-Lefèvre syndrome",
+      "type": "category",
+      "level": 2,
+      "parent_id": "309340",
+      "children": []
+    },
+    "79430": {
+      "id": "79430",
+      "name": "Hermansky-Pudlak syndrome",
+      "type": "category",
+      "level": 2,
+      "parent_id": "309340",
+      "children": []
+    },
+    "675782": {
+      "id": "675782",
+      "name": "Progressive hypotonia-intellectual disability-facial dysmorphism syndrome due to FYVE-defective RBSN",
+      "type": "category",
+      "level": 2,
+      "parent_id": "309340",
+      "children": []
+    },
+    "309813": {
+      "id": "309813",
+      "name": "Disorder of porphyrin and heme metabolism",
+      "type": "category",
+      "level": 1,
+      "parent_id": "68367",
+      "children": [
+        "738",
+        "75563",
+        "309816",
+        "562509"
+      ]
+    },
+    "738": {
+      "id": "738",
+      "name": "Porphyria",
+      "type": "category",
+      "level": 2,
+      "parent_id": "309813",
+      "children": []
+    },
+    "75563": {
+      "id": "75563",
+      "name": "X-linked sideroblastic anemia",
+      "type": "category",
+      "level": 2,
+      "parent_id": "309813",
+      "children": []
+    },
+    "309816": {
+      "id": "309816",
+      "name": "Disorder of bilirubin metabolism and excretion",
+      "type": "category",
+      "level": 2,
+      "parent_id": "309813",
+      "children": []
+    },
+    "562509": {
+      "id": "562509",
+      "name": "Heme oxygenase-1 deficiency",
+      "type": "category",
+      "level": 2,
+      "parent_id": "309813",
+      "children": []
+    },
+    "309824": {
+      "id": "309824",
+      "name": "Disorder of metabolite absorption and transport",
+      "type": "category",
+      "level": 1,
+      "parent_id": "68367",
+      "children": [
+        "309827",
+        "309836"
+      ]
+    },
+    "309827": {
+      "id": "309827",
+      "name": "Disorder of vitamin and non-protein cofactor absorption and transport",
+      "type": "category",
+      "level": 2,
+      "parent_id": "309824",
+      "children": [
+        "79171",
+        "285657",
+        "298644",
+        "309833"
+      ]
+    },
+    "79171": {
+      "id": "79171",
+      "name": "Disorder of cobalamin metabolism and transport",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309827",
+      "children": []
+    },
+    "285657": {
+      "id": "285657",
+      "name": "Disorder of folate metabolism and transport",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309827",
+      "children": []
+    },
+    "298644": {
+      "id": "298644",
+      "name": "Disorder of thiamine metabolism and transport",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309827",
+      "children": []
+    },
+    "309833": {
+      "id": "309833",
+      "name": "Disorder of other vitamins and cofactors metabolism and transport",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309827",
+      "children": []
+    },
+    "309836": {
+      "id": "309836",
+      "name": "Disorder of mineral absorption and transport",
+      "type": "category",
+      "level": 2,
+      "parent_id": "309824",
+      "children": [
+        "309839",
+        "309842",
+        "309845",
+        "309848",
+        "309851"
+      ]
+    },
+    "309839": {
+      "id": "309839",
+      "name": "Disorder of copper metabolism",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309836",
+      "children": []
+    },
+    "309842": {
+      "id": "309842",
+      "name": "Disorder of iron metabolism and transport",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309836",
+      "children": [
+        "220489"
+      ]
+    },
+    "220489": {
+      "id": "220489",
+      "name": "Rare hereditary hemochromatosis",
+      "type": "category",
+      "level": 4,
+      "parent_id": "309842",
+      "children": []
+    },
+    "309845": {
+      "id": "309845",
+      "name": "Disorder of zinc metabolism and transport",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309836",
+      "children": []
+    },
+    "309848": {
+      "id": "309848",
+      "name": "Disorder of magnesium transport",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309836",
+      "children": []
+    },
+    "309851": {
+      "id": "309851",
+      "name": "Disorder of manganese transport",
+      "type": "category",
+      "level": 3,
+      "parent_id": "309836",
+      "children": []
+    }
+  },
+  "relationships": {
+    "68367": {
+      "parent": null,
+      "children": [
+        "137",
+        "68366",
+        "68373",
+        "79062",
+        "79161",
+        "79200",
+        "79214",
+        "79224",
+        "91088",
+        "309005",
+        "309340",
+        "309813",
+        "309824"
+      ]
+    },
+    "137": {
+      "parent": "68367",
+      "children": [
+        "309347",
+        "309447",
+        "309515",
+        "309526"
+      ]
+    },
+    "309347": {
+      "parent": "137",
+      "children": []
+    },
+    "309447": {
+      "parent": "137",
+      "children": [
+        "309450",
+        "309458",
+        "309463",
+        "309469",
+        "309505"
+      ]
+    },
+    "309450": {
+      "parent": "309447",
+      "children": []
+    },
+    "309458": {
+      "parent": "309447",
+      "children": []
+    },
+    "309463": {
+      "parent": "309447",
+      "children": []
+    },
+    "309469": {
+      "parent": "309447",
+      "children": []
+    },
+    "309505": {
+      "parent": "309447",
+      "children": []
+    },
+    "309515": {
+      "parent": "137",
+      "children": []
+    },
+    "309526": {
+      "parent": "137",
+      "children": [
+        "309568",
+        "309778"
+      ]
+    },
+    "309568": {
+      "parent": "309526",
+      "children": []
+    },
+    "309778": {
+      "parent": "309526",
+      "children": []
+    },
+    "68366": {
+      "parent": "68367",
+      "children": [
+        "306511",
+        "763",
+        "216",
+        "35121",
+        "79207",
+        "79213",
+        "79225",
+        "309279",
+        "309319",
+        "309337"
+      ]
+    },
+    "306511": {
+      "parent": "68366",
+      "children": []
+    },
+    "763": {
+      "parent": "68366",
+      "children": []
+    },
+    "216": {
+      "parent": "68366",
+      "children": []
+    },
+    "35121": {
+      "parent": "68366",
+      "children": []
+    },
+    "79207": {
+      "parent": "68366",
+      "children": []
+    },
+    "79213": {
+      "parent": "68366",
+      "children": []
+    },
+    "79225": {
+      "parent": "68366",
+      "children": [
+        "79204",
+        "309144"
+      ]
+    },
+    "79204": {
+      "parent": "79225",
+      "children": []
+    },
+    "309144": {
+      "parent": "79225",
+      "children": []
+    },
+    "309279": {
+      "parent": "68366",
+      "children": [
+        "79212",
+        "79215"
+      ]
+    },
+    "79212": {
+      "parent": "309279",
+      "children": []
+    },
+    "79215": {
+      "parent": "309279",
+      "children": []
+    },
+    "309319": {
+      "parent": "68366",
+      "children": []
+    },
+    "309337": {
+      "parent": "68366",
+      "children": []
+    },
+    "68373": {
+      "parent": "68367",
+      "children": [
+        "79189",
+        "309810",
+        "369942",
+        "3276",
+        "642954",
+        "642965",
+        "95433",
+        "247815"
+      ]
+    },
+    "79189": {
+      "parent": "68373",
+      "children": []
+    },
+    "309810": {
+      "parent": "68373",
+      "children": [
+        "79188"
+      ]
+    },
+    "79188": {
+      "parent": "309810",
+      "children": []
+    },
+    "369942": {
+      "parent": "68373",
+      "children": []
+    },
+    "3276": {
+      "parent": "68373",
+      "children": []
+    },
+    "642954": {
+      "parent": "68373",
+      "children": []
+    },
+    "642965": {
+      "parent": "68373",
+      "children": []
+    },
+    "95433": {
+      "parent": "68373",
+      "children": []
+    },
+    "247815": {
+      "parent": "68373",
+      "children": []
+    },
+    "79062": {
+      "parent": "68367",
+      "children": [
+        "468726",
+        "79166",
+        "79167",
+        "79173",
+        "79181",
+        "79185",
+        "79187",
+        "79190",
+        "79194",
+        "79196",
+        "79197",
+        "289829",
+        "289832",
+        "289841",
+        "289899",
+        "308407",
+        "352728",
+        "391381"
+      ]
+    },
+    "468726": {
+      "parent": "79062",
+      "children": []
+    },
+    "79166": {
+      "parent": "79062",
+      "children": [
+        "308451"
+      ]
+    },
+    "308451": {
+      "parent": "79166",
+      "children": []
+    },
+    "79167": {
+      "parent": "79062",
+      "children": [
+        "187"
+      ]
+    },
+    "187": {
+      "parent": "79167",
+      "children": [
+        "247582"
+      ]
+    },
+    "247582": {
+      "parent": "187",
+      "children": []
+    },
+    "79173": {
+      "parent": "79062",
+      "children": []
+    },
+    "79181": {
+      "parent": "79062",
+      "children": []
+    },
+    "79185": {
+      "parent": "79062",
+      "children": [
+        "289866",
+        "289869"
+      ]
+    },
+    "289866": {
+      "parent": "79185",
+      "children": []
+    },
+    "289869": {
+      "parent": "79185",
+      "children": []
+    },
+    "79187": {
+      "parent": "79062",
+      "children": []
+    },
+    "79190": {
+      "parent": "79062",
+      "children": [
+        "284814",
+        "284818"
+      ]
+    },
+    "284814": {
+      "parent": "79190",
+      "children": []
+    },
+    "284818": {
+      "parent": "79190",
+      "children": []
+    },
+    "79194": {
+      "parent": "79062",
+      "children": [
+        "35705"
+      ]
+    },
+    "35705": {
+      "parent": "79194",
+      "children": []
+    },
+    "79196": {
+      "parent": "79062",
+      "children": []
+    },
+    "79197": {
+      "parent": "79062",
+      "children": []
+    },
+    "289829": {
+      "parent": "79062",
+      "children": []
+    },
+    "289832": {
+      "parent": "79062",
+      "children": []
+    },
+    "289841": {
+      "parent": "79062",
+      "children": []
+    },
+    "289899": {
+      "parent": "79062",
+      "children": [
+        "79158",
+        "79163"
+      ]
+    },
+    "79158": {
+      "parent": "289899",
+      "children": []
+    },
+    "79163": {
+      "parent": "289899",
+      "children": []
+    },
+    "308407": {
+      "parent": "79062",
+      "children": []
+    },
+    "352728": {
+      "parent": "79062",
+      "children": []
+    },
+    "391381": {
+      "parent": "79062",
+      "children": []
+    },
+    "79161": {
+      "parent": "68367",
+      "children": [
+        "79177",
+        "79179",
+        "79201",
+        "308459",
+        "308463",
+        "308467",
+        "308998",
+        "309001",
+        "440701"
+      ]
+    },
+    "79177": {
+      "parent": "79161",
+      "children": []
+    },
+    "79179": {
+      "parent": "79161",
+      "children": []
+    },
+    "79201": {
+      "parent": "79161",
+      "children": []
+    },
+    "308459": {
+      "parent": "79161",
+      "children": []
+    },
+    "308463": {
+      "parent": "79161",
+      "children": []
+    },
+    "308467": {
+      "parent": "79161",
+      "children": [
+        "352"
+      ]
+    },
+    "352": {
+      "parent": "308467",
+      "children": []
+    },
+    "308998": {
+      "parent": "79161",
+      "children": []
+    },
+    "309001": {
+      "parent": "79161",
+      "children": [
+        "79178"
+      ]
+    },
+    "79178": {
+      "parent": "309001",
+      "children": []
+    },
+    "440701": {
+      "parent": "79161",
+      "children": [
+        "79186"
+      ]
+    },
+    "79186": {
+      "parent": "440701",
+      "children": []
+    },
+    "79200": {
+      "parent": "68367",
+      "children": [
+        "68380",
+        "79172",
+        "79174",
+        "254746",
+        "254749"
+      ]
+    },
+    "68380": {
+      "parent": "79200",
+      "children": [
+        "223713",
+        "254827",
+        "401854"
+      ]
+    },
+    "223713": {
+      "parent": "68380",
+      "children": [
+        "2443",
+        "254758",
+        "254846"
+      ]
+    },
+    "2443": {
+      "parent": "223713",
+      "children": [
+        "35696",
+        "254822",
+        "309136",
+        "352456"
+      ]
+    },
+    "35696": {
+      "parent": "2443",
+      "children": []
+    },
+    "254822": {
+      "parent": "2443",
+      "children": []
+    },
+    "309136": {
+      "parent": "2443",
+      "children": []
+    },
+    "352456": {
+      "parent": "2443",
+      "children": [
+        "35698",
+        "254807"
+      ]
+    },
+    "35698": {
+      "parent": "352456",
+      "children": []
+    },
+    "254807": {
+      "parent": "352456",
+      "children": []
+    },
+    "254758": {
+      "parent": "223713",
+      "children": [
+        "254767",
+        "254776"
+      ]
+    },
+    "254767": {
+      "parent": "254758",
+      "children": []
+    },
+    "254776": {
+      "parent": "254758",
+      "children": []
+    },
+    "254846": {
+      "parent": "223713",
+      "children": []
+    },
+    "254827": {
+      "parent": "68380",
+      "children": [
+        "254830",
+        "254834"
+      ]
+    },
+    "254830": {
+      "parent": "254827",
+      "children": []
+    },
+    "254834": {
+      "parent": "254827",
+      "children": []
+    },
+    "401854": {
+      "parent": "68380",
+      "children": []
+    },
+    "79172": {
+      "parent": "79200",
+      "children": []
+    },
+    "79174": {
+      "parent": "79200",
+      "children": [
+        "79183",
+        "309115",
+        "309130",
+        "309133",
+        "438072"
+      ]
+    },
+    "79183": {
+      "parent": "79174",
+      "children": []
+    },
+    "309115": {
+      "parent": "79174",
+      "children": []
+    },
+    "309130": {
+      "parent": "79174",
+      "children": []
+    },
+    "309133": {
+      "parent": "79174",
+      "children": []
+    },
+    "438072": {
+      "parent": "79174",
+      "children": []
+    },
+    "254746": {
+      "parent": "79200",
+      "children": []
+    },
+    "254749": {
+      "parent": "79200",
+      "children": []
+    },
+    "79214": {
+      "parent": "68367",
+      "children": [
+        "79169",
+        "79175",
+        "79192",
+        "79219"
+      ]
+    },
+    "79169": {
+      "parent": "79214",
+      "children": [
+        "309819",
+        "309830"
+      ]
+    },
+    "309819": {
+      "parent": "79169",
+      "children": []
+    },
+    "309830": {
+      "parent": "79169",
+      "children": []
+    },
+    "79175": {
+      "parent": "79214",
+      "children": []
+    },
+    "79192": {
+      "parent": "79214",
+      "children": []
+    },
+    "79219": {
+      "parent": "79214",
+      "children": []
+    },
+    "79224": {
+      "parent": "68367",
+      "children": [
+        "79191",
+        "79193"
+      ]
+    },
+    "79191": {
+      "parent": "79224",
+      "children": []
+    },
+    "79193": {
+      "parent": "79224",
+      "children": []
+    },
+    "91088": {
+      "parent": "68367",
+      "children": [
+        "657",
+        "60",
+        "714",
+        "79345",
+        "79507",
+        "99845",
+        "99846",
+        "404454",
+        "555402",
+        "555407"
+      ]
+    },
+    "657": {
+      "parent": "91088",
+      "children": []
+    },
+    "60": {
+      "parent": "91088",
+      "children": []
+    },
+    "714": {
+      "parent": "91088",
+      "children": []
+    },
+    "79345": {
+      "parent": "91088",
+      "children": []
+    },
+    "79507": {
+      "parent": "91088",
+      "children": []
+    },
+    "99845": {
+      "parent": "91088",
+      "children": []
+    },
+    "99846": {
+      "parent": "91088",
+      "children": []
+    },
+    "404454": {
+      "parent": "91088",
+      "children": []
+    },
+    "555402": {
+      "parent": "91088",
+      "children": []
+    },
+    "555407": {
+      "parent": "91088",
+      "children": []
+    },
+    "309005": {
+      "parent": "68367",
+      "children": [
+        "79226",
+        "101953",
+        "309028",
+        "352301"
+      ]
+    },
+    "79226": {
+      "parent": "309005",
+      "children": [
+        "79168",
+        "79195"
+      ]
+    },
+    "79168": {
+      "parent": "79226",
+      "children": [
+        "163631"
+      ]
+    },
+    "163631": {
+      "parent": "79168",
+      "children": []
+    },
+    "79195": {
+      "parent": "79226",
+      "children": []
+    },
+    "101953": {
+      "parent": "309005",
+      "children": [
+        "181422",
+        "181431",
+        "181437"
+      ]
+    },
+    "181422": {
+      "parent": "101953",
+      "children": [
+        "477811"
+      ]
+    },
+    "477811": {
+      "parent": "181422",
+      "children": []
+    },
+    "181431": {
+      "parent": "101953",
+      "children": []
+    },
+    "181437": {
+      "parent": "101953",
+      "children": []
+    },
+    "309028": {
+      "parent": "309005",
+      "children": []
+    },
+    "352301": {
+      "parent": "309005",
+      "children": [
+        "352306",
+        "352309",
+        "352312"
+      ]
+    },
+    "352306": {
+      "parent": "352301",
+      "children": []
+    },
+    "352309": {
+      "parent": "352301",
+      "children": []
+    },
+    "352312": {
+      "parent": "352301",
+      "children": []
+    },
+    "309340": {
+      "parent": "68367",
+      "children": [
+        "167",
+        "2342",
+        "678",
+        "79430",
+        "675782"
+      ]
+    },
+    "167": {
+      "parent": "309340",
+      "children": []
+    },
+    "2342": {
+      "parent": "309340",
+      "children": []
+    },
+    "678": {
+      "parent": "309340",
+      "children": []
+    },
+    "79430": {
+      "parent": "309340",
+      "children": []
+    },
+    "675782": {
+      "parent": "309340",
+      "children": []
+    },
+    "309813": {
+      "parent": "68367",
+      "children": [
+        "738",
+        "75563",
+        "309816",
+        "562509"
+      ]
+    },
+    "738": {
+      "parent": "309813",
+      "children": []
+    },
+    "75563": {
+      "parent": "309813",
+      "children": []
+    },
+    "309816": {
+      "parent": "309813",
+      "children": []
+    },
+    "562509": {
+      "parent": "309813",
+      "children": []
+    },
+    "309824": {
+      "parent": "68367",
+      "children": [
+        "309827",
+        "309836"
+      ]
+    },
+    "309827": {
+      "parent": "309824",
+      "children": [
+        "79171",
+        "285657",
+        "298644",
+        "309833"
+      ]
+    },
+    "79171": {
+      "parent": "309827",
+      "children": []
+    },
+    "285657": {
+      "parent": "309827",
+      "children": []
+    },
+    "298644": {
+      "parent": "309827",
+      "children": []
+    },
+    "309833": {
+      "parent": "309827",
+      "children": []
+    },
+    "309836": {
+      "parent": "309824",
+      "children": [
+        "309839",
+        "309842",
+        "309845",
+        "309848",
+        "309851"
+      ]
+    },
+    "309839": {
+      "parent": "309836",
+      "children": []
+    },
+    "309842": {
+      "parent": "309836",
+      "children": [
+        "220489"
+      ]
+    },
+    "220489": {
+      "parent": "309842",
+      "children": []
+    },
+    "309845": {
+      "parent": "309836",
+      "children": []
+    },
+    "309848": {
+      "parent": "309836",
+      "children": []
+    },
+    "309851": {
+      "parent": "309836",
+      "children": []
+    }
+  }
+}

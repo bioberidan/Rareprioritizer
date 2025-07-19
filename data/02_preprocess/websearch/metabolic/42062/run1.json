@@ -1,0 +1,24 @@
+{
+  "orphacode": "42062",
+  "disease_name": "Iminoglycinuria",
+  "groups": [
+    {
+      "unit_name": "U731",
+      "sources": [
+        {
+          "label": "Diversos autores del CIBERER participan en una guía de referencia internacional para médicos sobre enfermedades metabólicas hereditarias",
+          "url": "https://www.ciberer.es/noticias/diversos-autores-del-ciberer-participan-en-una-guia-de-referencia-internacional-para-medicos-sobre-enfermedades-metabolicas-hereditarias"
+        },
+        {
+          "label": "Amino Acid Transporters and Disease",
+          "url": "https://www.irbbarcelona.org/es/research/amino-acid-transporters-and-disease"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "processing_timestamp": "2025-07-18T18:09:15.160703",
+    "run_number": 1,
+    "orphacode": "42062"
+  }
+}

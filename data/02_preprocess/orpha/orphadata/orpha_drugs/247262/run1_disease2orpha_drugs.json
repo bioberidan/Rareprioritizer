@@ -1,0 +1,30 @@
+{
+  "disease_name": "Hyperphosphatasia-intellectual disability syndrome",
+  "orpha_code": "247262",
+  "drugs": [
+    {
+      "name": "Pentadecanoic acid",
+      "substance_url": "/en/drug/substance/697639?name=247262&mode=orpha&region=&status=all",
+      "substance_id": "697639",
+      "regulatory_url": "/en/drug/regulatory/697886?name=247262&mode=orpha&region=",
+      "regulatory_id": "697886",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:38:37.340590",
+  "run_number": 1,
+  "total_drugs_found": 1,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Hyperphosphatasia-intellectual+disability+syndrome&orphaCode=247262&name=247262&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Hyperphosphatasia-intellectual disability syndrome",
+    "orphaCode": "247262",
+    "name": "247262",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

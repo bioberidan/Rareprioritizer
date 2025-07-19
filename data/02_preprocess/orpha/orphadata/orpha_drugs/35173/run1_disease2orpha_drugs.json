@@ -1,0 +1,42 @@
+{
+  "disease_name": "X-linked dominant chondrodysplasia punctata",
+  "orpha_code": "35173",
+  "drugs": [
+    {
+      "name": "Tazarotene",
+      "substance_url": "/en/drug/substance/86787?name=35173&mode=orpha&region=&status=all",
+      "substance_id": "86787",
+      "regulatory_url": "/en/drug/regulatory/134099?name=35173&mode=orpha&region=",
+      "regulatory_id": "134099",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "mRNA encoding Cas9-deaminase and single guide RNA against TGM1",
+      "substance_url": "/en/drug/substance/697604?name=35173&mode=orpha&region=&status=all",
+      "substance_id": "697604",
+      "regulatory_url": "/en/drug/regulatory/697877?name=35173&mode=orpha&region=",
+      "regulatory_id": "697877",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:42:59.681237",
+  "run_number": 1,
+  "total_drugs_found": 2,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=X-linked+dominant+chondrodysplasia+punctata&orphaCode=35173&name=35173&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "X-linked dominant chondrodysplasia punctata",
+    "orphaCode": "35173",
+    "name": "35173",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

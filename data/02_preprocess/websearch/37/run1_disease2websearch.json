@@ -1,0 +1,27 @@
+{
+  "disease_name": "Acrodermatitis enteropathica",
+  "orpha_code": "37",
+  "processing_timestamp": "2025-07-16T08:08:58.041659",
+  "run_number": 1,
+  "analysis_type": "socioeconomic",
+  "processing_duration": 27.09,
+  "success": true,
+  "error_details": null,
+  "socioeconomic_analysis": {
+    "orphacode": "37",
+    "disease_name": "Acrodermatitis enteropathica",
+    "socioeconomic_impact_studies": [
+      {
+        "cost": 0,
+        "measure": "Qualitative description of zinc therapy as inexpensive lifelong treatment",
+        "label": "Zinc therapy of acrodermatitis enteropathica",
+        "source": "https://www.nejm.org/doi/full/10.1056/NEJM197504242921702",
+        "country": "USA",
+        "year": "1975"
+      }
+    ],
+    "score": 0,
+    "evidence_level": "Low evidence",
+    "justification": "No quantitative cost-of-illness or economic burden studies specific to Acrodermatitis enteropathica were identified; only a qualitative case report noted zinc therapy is inexpensive. citeturn1search3"
+  }
+}

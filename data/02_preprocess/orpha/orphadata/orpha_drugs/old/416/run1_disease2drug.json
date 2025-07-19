@@ -1,0 +1,826 @@
+{
+  "disease_name": "Primary hyperoxaluria",
+  "orpha_code": "416",
+  "drugs": [
+    {
+      "name": "Stiripentol",
+      "substance_url": "/en/drug/substance/41778?name=416&mode=orpha&region=&status=all",
+      "substance_id": "41778",
+      "regulatory_url": "/en/drug/regulatory/589315?name=416&mode=orpha&region=",
+      "regulatory_id": "589315",
+      "orpha_substance_code": "ORPHA:416",
+      "details": [
+        "Stiripentol(Medicinal product                        - 26/06/2020)Disease(s) concernedORPHA:416 Primary hyperoxaluria",
+        "Stiripentol(Medicinal product                        - 26/06/2020)",
+        "(Medicinal product                        - 26/06/2020)",
+        "Disease(s) concernedORPHA:416 Primary hyperoxaluria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/41778?name=416&mode=orpha&region=&status=all",
+          "text": "Stiripentol",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/416",
+          "text": "ORPHA:416 Primary hyperoxaluria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/589315?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Nedosiran",
+      "substance_url": "/en/drug/substance/524602?name=416&mode=orpha&region=&status=all",
+      "substance_id": "524602",
+      "regulatory_url": "/en/drug/regulatory/528536?name=416&mode=orpha&region=",
+      "regulatory_id": "528536",
+      "orpha_substance_code": "ORPHA:416",
+      "details": [
+        "Nedosiran(Medicinal product                        - 31/07/2018)Disease(s) concernedORPHA:416 Primary hyperoxaluria",
+        "Nedosiran(Medicinal product                        - 31/07/2018)",
+        "(Medicinal product                        - 31/07/2018)",
+        "Disease(s) concernedORPHA:416 Primary hyperoxaluria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/524602?name=416&mode=orpha&region=&status=all",
+          "text": "Nedosiran",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/416",
+          "text": "ORPHA:416 Primary hyperoxaluria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/528536?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Bacillus subtilis oxalate decarboxylase",
+      "substance_url": "/en/drug/substance/493796?name=416&mode=orpha&region=&status=all",
+      "substance_id": "493796",
+      "regulatory_url": "/en/drug/regulatory/494616?name=416&mode=orpha&region=",
+      "regulatory_id": "494616",
+      "orpha_substance_code": "ORPHA:416",
+      "details": [
+        "Bacillus subtilis oxalate decarboxylase(Medicinal product                        - 17/07/2017)Disease(s) concernedORPHA:416 Primary hyperoxaluria",
+        "Bacillus subtilis oxalate decarboxylase(Medicinal product                        - 17/07/2017)",
+        "(Medicinal product                        - 17/07/2017)",
+        "Disease(s) concernedORPHA:416 Primary hyperoxaluria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/493796?name=416&mode=orpha&region=&status=all",
+          "text": "Bacillus subtilis oxalate decarboxylase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/416",
+          "text": "ORPHA:416 Primary hyperoxaluria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/494616?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Synthetic double-stranded siRNA oligonucleotide directed against hydroxyacid oxidase 1 mRNA and covalently linked to a ligand containing three N-acetylgalactosamine residues",
+      "substance_url": "/en/drug/substance/458734?name=416&mode=orpha&region=&status=all",
+      "substance_id": "458734",
+      "regulatory_url": "/en/drug/regulatory/458735?name=416&mode=orpha&region=",
+      "regulatory_id": "458735",
+      "orpha_substance_code": "ORPHA:416",
+      "details": [
+        "Synthetic double-stranded siRNA oligonucleotide directed against hydroxyacid oxidase 1 mRNA and covalently linked to a ligand containing three N-acetylgalactosamine residues(Medicinal product                        - 21/03/2016)Disease(s) concernedORPHA:416 Primary hyperoxaluria",
+        "Synthetic double-stranded siRNA oligonucleotide directed against hydroxyacid oxidase 1 mRNA and covalently linked to a ligand containing three N-acetylgalactosamine residues(Medicinal product                        - 21/03/2016)",
+        "(Medicinal product                        - 21/03/2016)",
+        "Disease(s) concernedORPHA:416 Primary hyperoxaluria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/458734?name=416&mode=orpha&region=&status=all",
+          "text": "Synthetic double-stranded siRNA oligonucleotide directed against hydroxyacid oxidase 1 mRNA and covalently linked to a ligand containing three N-acetylgalactosamine residues",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/416",
+          "text": "ORPHA:416 Primary hyperoxaluria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/458735?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "5-((4'-(3,3-difluorocyclobutyl)-[1,1'-biphenyl]-4-yl)oxy)-1H-1,2,3-triazole-4-carboxylic acid",
+      "substance_url": "/en/drug/substance/628274?name=416&mode=orpha&region=&status=all",
+      "substance_id": "628274",
+      "regulatory_url": "/en/drug/regulatory/628275?name=416&mode=orpha&region=",
+      "regulatory_id": "628275",
+      "orpha_substance_code": "ORPHA:416",
+      "details": [
+        "5-((4'-(3,3-difluorocyclobutyl)-[1,1'-biphenyl]-4-yl)oxy)-1H-1,2,3-triazole-4-carboxylic acid(Medicinal product                        - 14/01/2022)Disease(s) concernedORPHA:416 Primary hyperoxaluria",
+        "5-((4'-(3,3-difluorocyclobutyl)-[1,1'-biphenyl]-4-yl)oxy)-1H-1,2,3-triazole-4-carboxylic acid(Medicinal product                        - 14/01/2022)",
+        "(Medicinal product                        - 14/01/2022)",
+        "Disease(s) concernedORPHA:416 Primary hyperoxaluria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/628274?name=416&mode=orpha&region=&status=all",
+          "text": "5-((4'-(3,3-difluorocyclobutyl)-[1,1'-biphenyl]-4-yl)oxy)-1H-1,2,3-triazole-4-carboxylic acid",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/416",
+          "text": "ORPHA:416 Primary hyperoxaluria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/628275?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Lipid nanoparticle encapsulating a messenger RNA for the CRISPR-based gene editor Cas12i2v2.1, and an HAO1- specific guide RNA",
+      "substance_url": "/en/drug/substance/695311?name=416&mode=orpha&region=&status=all",
+      "substance_id": "695311",
+      "regulatory_url": "/en/drug/regulatory/695440?name=416&mode=orpha&region=",
+      "regulatory_id": "695440",
+      "orpha_substance_code": "ORPHA:416",
+      "details": [
+        "Lipid nanoparticle encapsulating a messenger RNA for the CRISPR-based gene editor Cas12i2v2.1, and an HAO1- specific guide RNA(Medicinal product                        - 02/02/2025)Disease(s) concernedORPHA:416 Primary hyperoxaluria",
+        "Lipid nanoparticle encapsulating a messenger RNA for the CRISPR-based gene editor Cas12i2v2.1, and an HAO1- specific guide RNA(Medicinal product                        - 02/02/2025)",
+        "(Medicinal product                        - 02/02/2025)",
+        "Disease(s) concernedORPHA:416 Primary hyperoxaluria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/695311?name=416&mode=orpha&region=&status=all",
+          "text": "Lipid nanoparticle encapsulating a messenger RNA for the CRISPR-based gene editor Cas12i2v2.1, and an HAO1- specific guide RNA",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/416",
+          "text": "ORPHA:416 Primary hyperoxaluria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/695440?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Lipid nanoparticles containing CRISPR/Cas12HF mRNA and a CRISPR RNA (crRNA) targeting the HAO1 gene",
+      "substance_url": "/en/drug/substance/688334?name=416&mode=orpha&region=&status=all",
+      "substance_id": "688334",
+      "regulatory_url": "/en/drug/regulatory/688472?name=416&mode=orpha&region=",
+      "regulatory_id": "688472",
+      "orpha_substance_code": "ORPHA:416",
+      "details": [
+        "Lipid nanoparticles containing CRISPR/Cas12HF mRNA and a CRISPR RNA (crRNA) targeting the HAO1 gene(Medicinal product                        - 20/09/2024)Disease(s) concernedORPHA:416 Primary hyperoxaluria",
+        "Lipid nanoparticles containing CRISPR/Cas12HF mRNA and a CRISPR RNA (crRNA) targeting the HAO1 gene(Medicinal product                        - 20/09/2024)",
+        "(Medicinal product                        - 20/09/2024)",
+        "Disease(s) concernedORPHA:416 Primary hyperoxaluria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/688334?name=416&mode=orpha&region=&status=all",
+          "text": "Lipid nanoparticles containing CRISPR/Cas12HF mRNA and a CRISPR RNA (crRNA) targeting the HAO1 gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/416",
+          "text": "ORPHA:416 Primary hyperoxaluria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/688472?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "2-(2-(cyclopropylmethyl)-1-(3-fluoro-4-sulfamoylbenzyl)-5-(4-fluorophenyl)-1H-pyrrol-3-yl)-6-methylpyrimidine-4-carboxylic acid",
+      "substance_url": "/en/drug/substance/687138?name=416&mode=orpha&region=&status=all",
+      "substance_id": "687138",
+      "regulatory_url": "/en/drug/regulatory/687314?name=416&mode=orpha&region=",
+      "regulatory_id": "687314",
+      "orpha_substance_code": "ORPHA:416",
+      "details": [
+        "2-(2-(cyclopropylmethyl)-1-(3-fluoro-4-sulfamoylbenzyl)-5-(4-fluorophenyl)-1H-pyrrol-3-yl)-6-methylpyrimidine-4-carboxylic acid(Medicinal product                        - 21/08/2024)Disease(s) concernedORPHA:416 Primary hyperoxaluria",
+        "2-(2-(cyclopropylmethyl)-1-(3-fluoro-4-sulfamoylbenzyl)-5-(4-fluorophenyl)-1H-pyrrol-3-yl)-6-methylpyrimidine-4-carboxylic acid(Medicinal product                        - 21/08/2024)",
+        "(Medicinal product                        - 21/08/2024)",
+        "Disease(s) concernedORPHA:416 Primary hyperoxaluria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/687138?name=416&mode=orpha&region=&status=all",
+          "text": "2-(2-(cyclopropylmethyl)-1-(3-fluoro-4-sulfamoylbenzyl)-5-(4-fluorophenyl)-1H-pyrrol-3-yl)-6-methylpyrimidine-4-carboxylic acid",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/416",
+          "text": "ORPHA:416 Primary hyperoxaluria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/687314?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Oxlumo",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/596200?name=416&mode=orpha&region=",
+      "regulatory_id": "596200",
+      "orpha_substance_code": "ORPHA:93598",
+      "details": [
+        "Oxlumo(Tradename                        - 19/11/2020)Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "Oxlumo(Tradename                        - 19/11/2020)",
+        "(Tradename                        - 19/11/2020)",
+        "Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/596199?name=416&mode=orpha&region=&status=all",
+          "text": "Oxlumo",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/93598",
+          "text": "ORPHA:93598 Primary hyperoxaluria type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/596200?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Oxalobacter formigenes strain HC-1",
+      "substance_url": "/en/drug/substance/75716?name=416&mode=orpha&region=&status=all",
+      "substance_id": "75716",
+      "regulatory_url": "/en/drug/regulatory/134032?name=416&mode=orpha&region=",
+      "regulatory_id": "134032",
+      "orpha_substance_code": "ORPHA:93599",
+      "details": [
+        "Oxalobacter formigenes strain HC-1(Medicinal product                        - 17/02/2006)Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1ORPHA:93599 Primary hyperoxaluria type 2",
+        "Oxalobacter formigenes strain HC-1(Medicinal product                        - 17/02/2006)",
+        "(Medicinal product                        - 17/02/2006)",
+        "Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1ORPHA:93599 Primary hyperoxaluria type 2",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/75716?name=416&mode=orpha&region=&status=all",
+          "text": "Oxalobacter formigenes strain HC-1",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/93598",
+          "text": "ORPHA:93598 Primary hyperoxaluria type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/93599",
+          "text": "ORPHA:93599 Primary hyperoxaluria type 2",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/134032?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Synthetic double-stranded RNA oligonucleotide specific to hydroxyacid oxidase 1 gene",
+      "substance_url": "/en/drug/substance/444886?name=416&mode=orpha&region=&status=all",
+      "substance_id": "444886",
+      "regulatory_url": "/en/drug/regulatory/444890?name=416&mode=orpha&region=",
+      "regulatory_id": "444890",
+      "orpha_substance_code": "ORPHA:93598",
+      "details": [
+        "Synthetic double-stranded RNA oligonucleotide specific to hydroxyacid oxidase 1 gene(Medicinal product                        - 28/07/2015)Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "Synthetic double-stranded RNA oligonucleotide specific to hydroxyacid oxidase 1 gene(Medicinal product                        - 28/07/2015)",
+        "(Medicinal product                        - 28/07/2015)",
+        "Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/444886?name=416&mode=orpha&region=&status=all",
+          "text": "Synthetic double-stranded RNA oligonucleotide specific to hydroxyacid oxidase 1 gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/93598",
+          "text": "ORPHA:93598 Primary hyperoxaluria type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/444890?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector of serotype 5 containing the human alanine-glyoxylate aminotransferase gene",
+      "substance_url": "/en/drug/substance/299531?name=416&mode=orpha&region=&status=all",
+      "substance_id": "299531",
+      "regulatory_url": "/en/drug/regulatory/301092?name=416&mode=orpha&region=",
+      "regulatory_id": "301092",
+      "orpha_substance_code": "ORPHA:93598",
+      "details": [
+        "Adeno-associated viral vector of serotype 5 containing the human alanine-glyoxylate aminotransferase gene(Medicinal product                        - 21/03/2012)Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "Adeno-associated viral vector of serotype 5 containing the human alanine-glyoxylate aminotransferase gene(Medicinal product                        - 21/03/2012)",
+        "(Medicinal product                        - 21/03/2012)",
+        "Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/299531?name=416&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector of serotype 5 containing the human alanine-glyoxylate aminotransferase gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/93598",
+          "text": "ORPHA:93598 Primary hyperoxaluria type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/301092?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "RIVFLOZA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/697177?name=416&mode=orpha&region=",
+      "regulatory_id": "697177",
+      "orpha_substance_code": "ORPHA:93598",
+      "details": [
+        "RIVFLOZA(Tradename                        - 27/03/2025)Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "RIVFLOZA(Tradename                        - 27/03/2025)",
+        "(Tradename                        - 27/03/2025)",
+        "Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/660417?name=416&mode=orpha&region=&status=all",
+          "text": "RIVFLOZA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/93598",
+          "text": "ORPHA:93598 Primary hyperoxaluria type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/697177?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "RIVFLOZA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/660486?name=416&mode=orpha&region=",
+      "regulatory_id": "660486",
+      "orpha_substance_code": "ORPHA:93598",
+      "details": [
+        "RIVFLOZA(Tradename                        - 29/09/2023)Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "RIVFLOZA(Tradename                        - 29/09/2023)",
+        "(Tradename                        - 29/09/2023)",
+        "Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/660417?name=416&mode=orpha&region=&status=all",
+          "text": "RIVFLOZA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/93598",
+          "text": "ORPHA:93598 Primary hyperoxaluria type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/660486?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Oxlumo",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/633622?name=416&mode=orpha&region=",
+      "regulatory_id": "633622",
+      "orpha_substance_code": "ORPHA:93598",
+      "details": [
+        "Oxlumo(Tradename                        - 06/10/2022)Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "Oxlumo(Tradename                        - 06/10/2022)",
+        "(Tradename                        - 06/10/2022)",
+        "Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/596199?name=416&mode=orpha&region=&status=all",
+          "text": "Oxlumo",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/93598",
+          "text": "ORPHA:93598 Primary hyperoxaluria type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/633622?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Oxlumo",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/623117?name=416&mode=orpha&region=",
+      "regulatory_id": "623117",
+      "orpha_substance_code": "ORPHA:93598",
+      "details": [
+        "Oxlumo(Tradename                        - 23/11/2020)Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "Oxlumo(Tradename                        - 23/11/2020)",
+        "(Tradename                        - 23/11/2020)",
+        "Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/596199?name=416&mode=orpha&region=&status=all",
+          "text": "Oxlumo",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/93598",
+          "text": "ORPHA:93598 Primary hyperoxaluria type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/623117?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "5-[[trans-4-[(trifluoromethoxy)phenyl]cyclohexyl]oxy]-1H-1,2,3-triazole-4-carboxylic acid",
+      "substance_url": "/en/drug/substance/643876?name=416&mode=orpha&region=&status=all",
+      "substance_id": "643876",
+      "regulatory_url": "/en/drug/regulatory/643877?name=416&mode=orpha&region=",
+      "regulatory_id": "643877",
+      "orpha_substance_code": "ORPHA:93598",
+      "details": [
+        "5-[[trans-4-[(trifluoromethoxy)phenyl]cyclohexyl]oxy]-1H-1,2,3-triazole-4-carboxylic acid(Medicinal product                        - 08/06/2022)Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "5-[[trans-4-[(trifluoromethoxy)phenyl]cyclohexyl]oxy]-1H-1,2,3-triazole-4-carboxylic acid(Medicinal product                        - 08/06/2022)",
+        "(Medicinal product                        - 08/06/2022)",
+        "Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/643876?name=416&mode=orpha&region=&status=all",
+          "text": "5-[[trans-4-[(trifluoromethoxy)phenyl]cyclohexyl]oxy]-1H-1,2,3-triazole-4-carboxylic acid",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/93598",
+          "text": "ORPHA:93598 Primary hyperoxaluria type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/643877?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Glycolate oxidase inhibitor",
+      "substance_url": "/en/drug/substance/651177?name=416&mode=orpha&region=&status=all",
+      "substance_id": "651177",
+      "regulatory_url": "/en/drug/regulatory/651178?name=416&mode=orpha&region=",
+      "regulatory_id": "651178",
+      "orpha_substance_code": "ORPHA:93598",
+      "details": [
+        "Glycolate oxidase inhibitor(Medicinal product                        - 10/09/2020)Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "Glycolate oxidase inhibitor(Medicinal product                        - 10/09/2020)",
+        "(Medicinal product                        - 10/09/2020)",
+        "Disease(s) concernedORPHA:93598 Primary hyperoxaluria type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/651177?name=416&mode=orpha&region=&status=all",
+          "text": "Glycolate oxidase inhibitor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/93598",
+          "text": "ORPHA:93598 Primary hyperoxaluria type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/651178?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=416&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=416&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Burixafor(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Burixafor(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689505?name=416&mode=orpha&region=&status=all",
+          "text": "Burixafor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689915?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=416&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=416&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Treosulfan(Medicinal product                        - 08/04/2015)Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Treosulfan(Medicinal product                        - 08/04/2015)",
+        "(Medicinal product                        - 08/04/2015)",
+        "Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90799?name=416&mode=orpha&region=&status=all",
+          "text": "Treosulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/213500",
+          "text": "ORPHA:213500 Rare ovarian cancer",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136690?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=416&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=416&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "busulfan(Medicinal product                        - 21/04/1994)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "busulfan(Medicinal product                        - 21/04/1994)",
+        "(Medicinal product                        - 21/04/1994)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/46335?name=416&mode=orpha&region=&status=all",
+          "text": "busulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131973?name=416&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:01:48.271206",
+  "run_number": 1,
+  "total_drugs_found": 21,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Primary+hyperoxaluria&orphaCode=416&name=416&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Primary hyperoxaluria",
+    "orphaCode": "416",
+    "name": "416",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

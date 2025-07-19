@@ -1,0 +1,102 @@
+{
+  "disease_name": "X-linked Charcot-Marie-Tooth disease type 5",
+  "orpha_code": "99014",
+  "drugs": [
+    {
+      "name": "Govorestat",
+      "substance_url": "/en/drug/substance/628466?name=99014&mode=orpha&region=&status=all",
+      "substance_id": "628466",
+      "regulatory_url": "/en/drug/regulatory/650310?name=99014&mode=orpha&region=",
+      "regulatory_id": "650310",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "2-[N-(2-hydroxyethyl)]-N-(4-methoxybenzenesulfonyl)]amino-N-(4-chlorocinnamyl)-N-methylbenzylamine",
+      "substance_url": "/en/drug/substance/499387?name=99014&mode=orpha&region=&status=all",
+      "substance_id": "499387",
+      "regulatory_url": "/en/drug/regulatory/499392?name=99014&mode=orpha&region=",
+      "regulatory_id": "499392",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Icerguastat acetate",
+      "substance_url": "/en/drug/substance/449585?name=99014&mode=orpha&region=&status=all",
+      "substance_id": "449585",
+      "regulatory_url": "/en/drug/regulatory/449589?name=99014&mode=orpha&region=",
+      "regulatory_id": "449589",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Human Wharton's jelly-derived mesenchymal stem cells",
+      "substance_url": "/en/drug/substance/695327?name=99014&mode=orpha&region=&status=all",
+      "substance_id": "695327",
+      "regulatory_url": "/en/drug/regulatory/695543?name=99014&mode=orpha&region=",
+      "regulatory_id": "695543",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Bromophenoxyazole propanoic acid",
+      "substance_url": "/en/drug/substance/631561?name=99014&mode=orpha&region=&status=all",
+      "substance_id": "631561",
+      "regulatory_url": "/en/drug/regulatory/692595?name=99014&mode=orpha&region=",
+      "regulatory_id": "692595",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Small molecule allosteric mitofusin activator",
+      "substance_url": "/en/drug/substance/684495?name=99014&mode=orpha&region=&status=all",
+      "substance_id": "684495",
+      "regulatory_url": "/en/drug/regulatory/684706?name=99014&mode=orpha&region=",
+      "regulatory_id": "684706",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Alpha 1 anti-trypsin (AAT), human alpha 1 anti-trypsin, alpha 1 proteinase inhibitor",
+      "substance_url": "/en/drug/substance/661978?name=99014&mode=orpha&region=&status=all",
+      "substance_id": "661978",
+      "regulatory_url": "/en/drug/regulatory/661983?name=99014&mode=orpha&region=",
+      "regulatory_id": "661983",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:22:00.932835",
+  "run_number": 1,
+  "total_drugs_found": 7,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=X-linked+Charcot-Marie-Tooth+disease+type+5&orphaCode=99014&name=99014&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "X-linked Charcot-Marie-Tooth disease type 5",
+    "orphaCode": "99014",
+    "name": "99014",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

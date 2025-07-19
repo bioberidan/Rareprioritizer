@@ -1,0 +1,56 @@
+{
+  "disease_name": "Congenital atransferrinemia",
+  "orpha_code": "1195",
+  "drugs": [
+    {
+      "name": "Human apotransferrin",
+      "substance_url": "/en/drug/substance/300660?name=1195&mode=orpha&region=&status=all",
+      "substance_id": "300660",
+      "regulatory_url": "/en/drug/regulatory/326996?name=1195&mode=orpha&region=",
+      "regulatory_id": "326996",
+      "orpha_substance_code": "ORPHA:1195",
+      "details": [
+        "Human apotransferrin(Medicinal product                        - 17/07/2012)Disease(s) concernedORPHA:1195 Congenital atransferrinemia",
+        "Human apotransferrin(Medicinal product                        - 17/07/2012)",
+        "(Medicinal product                        - 17/07/2012)",
+        "Disease(s) concernedORPHA:1195 Congenital atransferrinemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/300660?name=1195&mode=orpha&region=&status=all",
+          "text": "Human apotransferrin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/1195",
+          "text": "ORPHA:1195 Congenital atransferrinemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/326996?name=1195&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:04:57.116199",
+  "run_number": 1,
+  "total_drugs_found": 1,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Congenital+atransferrinemia&orphaCode=1195&name=1195&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Congenital atransferrinemia",
+    "orphaCode": "1195",
+    "name": "1195",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

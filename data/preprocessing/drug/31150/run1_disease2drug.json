@@ -1,0 +1,30 @@
+{
+  "disease_name": "Tangier disease",
+  "orpha_code": "31150",
+  "drugs": [
+    {
+      "name": "Recombinant human apolipoprotein A-I in a complex with phospholipids",
+      "substance_url": "/en/drug/substance/406518?name=31150&mode=orpha&region=&status=all",
+      "substance_id": "406518",
+      "regulatory_url": "/en/drug/regulatory/412150?name=31150&mode=orpha&region=",
+      "regulatory_id": "412150",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:22:24.853834",
+  "run_number": 1,
+  "total_drugs_found": 1,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Tangier+disease&orphaCode=31150&name=31150&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Tangier disease",
+    "orphaCode": "31150",
+    "name": "31150",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

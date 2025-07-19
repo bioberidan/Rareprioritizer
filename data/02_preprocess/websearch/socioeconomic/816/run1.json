@@ -1,0 +1,22 @@
+{
+  "orphacode": "816",
+  "disease_name": "Sjögren-Larsson syndrome",
+  "socioeconomic_impact_studies": [
+    {
+      "cost": 0,
+      "measure": "",
+      "label": "Daily Functioning and Quality of Life in Patients with Sjögren-Larsson Syndrome",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/30609437/",
+      "country": "The Netherlands",
+      "year": "2019"
+    }
+  ],
+  "score": 3,
+  "evidence_level": "Low evidence",
+  "justification": "Only qualitative evidence exists, notably a 2019 Dutch study reporting quality of life and daily functioning without cost data, indicating severe burden but no quantitative cost estimates.citeturn4view0",
+  "metadata": {
+    "processing_timestamp": "2025-07-18T19:12:26.272011",
+    "run_number": 1,
+    "orphacode": "816"
+  }
+}

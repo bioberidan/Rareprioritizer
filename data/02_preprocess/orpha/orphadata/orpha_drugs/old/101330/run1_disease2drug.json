@@ -1,0 +1,147 @@
+{
+  "disease_name": "Porphyria cutanea tarda",
+  "orpha_code": "101330",
+  "drugs": [
+    {
+      "name": "Titanium dioxide and bisoctrizole",
+      "substance_url": "/en/drug/substance/66148?name=101330&mode=orpha&region=&status=all",
+      "substance_id": "66148",
+      "regulatory_url": "/en/drug/regulatory/133941?name=101330&mode=orpha&region=",
+      "regulatory_id": "133941",
+      "orpha_substance_code": "ORPHA:659698",
+      "details": [
+        "Titanium dioxide and bisoctrizole(Medicinal product                        - 03/03/2005)Disease(s) concernedORPHA:97230 Solar urticariaORPHA:330061 Actinic prurigoORPHA:330064 Chronic actinic dermatitisORPHA:659698 Hepatic cutaneous porphyria",
+        "Titanium dioxide and bisoctrizole(Medicinal product                        - 03/03/2005)",
+        "(Medicinal product                        - 03/03/2005)",
+        "Disease(s) concernedORPHA:97230 Solar urticariaORPHA:330061 Actinic prurigoORPHA:330064 Chronic actinic dermatitisORPHA:659698 Hepatic cutaneous porphyria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/66148?name=101330&mode=orpha&region=&status=all",
+          "text": "Titanium dioxide and bisoctrizole",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/97230",
+          "text": "ORPHA:97230 Solar urticaria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/330061",
+          "text": "ORPHA:330061 Actinic prurigo",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/330064",
+          "text": "ORPHA:330064 Chronic actinic dermatitis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/659698",
+          "text": "ORPHA:659698 Hepatic cutaneous porphyria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/133941?name=101330&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "PANHEMATIN",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131060?name=101330&mode=orpha&region=",
+      "regulatory_id": "131060",
+      "orpha_substance_code": "ORPHA:738",
+      "details": [
+        "PANHEMATIN(Tradename                        - 20/07/1990)Disease(s) concernedORPHA:738 Porphyria",
+        "PANHEMATIN(Tradename                        - 20/07/1990)",
+        "(Tradename                        - 20/07/1990)",
+        "Disease(s) concernedORPHA:738 Porphyria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/24989?name=101330&mode=orpha&region=&status=all",
+          "text": "PANHEMATIN",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/738",
+          "text": "ORPHA:738 Porphyria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131060?name=101330&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Hemin",
+      "substance_url": "/en/drug/substance/24990?name=101330&mode=orpha&region=&status=all",
+      "substance_id": "24990",
+      "regulatory_url": "/en/drug/regulatory/131924?name=101330&mode=orpha&region=",
+      "regulatory_id": "131924",
+      "orpha_substance_code": "ORPHA:738",
+      "details": [
+        "Hemin(Medicinal product                        - 16/03/1984)Disease(s) concernedORPHA:738 Porphyria",
+        "Hemin(Medicinal product                        - 16/03/1984)",
+        "(Medicinal product                        - 16/03/1984)",
+        "Disease(s) concernedORPHA:738 Porphyria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/24990?name=101330&mode=orpha&region=&status=all",
+          "text": "Hemin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/738",
+          "text": "ORPHA:738 Porphyria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131924?name=101330&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:04:36.399851",
+  "run_number": 1,
+  "total_drugs_found": 3,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Porphyria+cutanea+tarda&orphaCode=101330&name=101330&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Porphyria cutanea tarda",
+    "orphaCode": "101330",
+    "name": "101330",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

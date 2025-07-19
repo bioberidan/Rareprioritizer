@@ -1,0 +1,17 @@
+{
+  "disease_name": "Ribose-5-P isomerase deficiency",
+  "orpha_code": "440706",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:20:15.602723",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Ribose-5-P+isomerase+deficiency&orphaCode=440706&name=440706&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Ribose-5-P isomerase deficiency",
+    "orphaCode": "440706",
+    "name": "440706",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

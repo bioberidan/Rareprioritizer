@@ -1,0 +1,38 @@
+{
+  "orphacode": "103909",
+  "disease_name": "Trehalase deficiency",
+  "socioeconomic_impact_studies": [
+    {
+      "cost": 0,
+      "measure": "Qualitative description of clinical burden: osmotic diarrhea, abdominal pain, rectal flatulence",
+      "label": "Trehalase deficiency",
+      "source": "https://www.orpha.net/en/disease/detail/103909",
+      "country": "",
+      "year": ""
+    },
+    {
+      "cost": 37187,
+      "measure": "Total cost per rare disease patient per year (societal perspective)",
+      "label": "Socio-economic costs of rare diseases and the risk of financial hardship: a cross-sectional study",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/37283971/",
+      "country": "Spain",
+      "year": "2023"
+    },
+    {
+      "cost": 107000,
+      "measure": "Average cost burden per rare disease patient per year",
+      "label": "Chiesi Global Rare Diseases Releases Report on the Burden of Care for Rare Diseases and Its Economic Impact on European Citizens",
+      "source": "https://chiesirarediseases.com/media/report-on-the-burden",
+      "country": "Europe",
+      "year": "2023"
+    }
+  ],
+  "score": 7,
+  "evidence_level": "Medium-High evidence",
+  "justification": "No specific cost-of-illness study for Trehalase deficiency was identified, but a peer-reviewed pan-European analysis reported an average annual cost of €37,187 per rare disease patient in Spain, and a European industry report estimated a €107,000 per patient per year burden across 23 rare diseases, providing medium-high evidence for significant economic impact.",
+  "metadata": {
+    "processing_timestamp": "2025-07-18T19:03:33.996725",
+    "run_number": 1,
+    "orphacode": "103909"
+  }
+}

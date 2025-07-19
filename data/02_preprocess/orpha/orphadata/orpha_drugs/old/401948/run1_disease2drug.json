@@ -1,0 +1,132 @@
+{
+  "disease_name": "Hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency",
+  "orpha_code": "401948",
+  "drugs": [
+    {
+      "name": "Allogeneic adult liver-derived stem cells",
+      "substance_url": "/en/drug/substance/629851?name=401948&mode=orpha&region=&status=all",
+      "substance_id": "629851",
+      "regulatory_url": "/en/drug/regulatory/629852?name=401948&mode=orpha&region=",
+      "regulatory_id": "629852",
+      "orpha_substance_code": "ORPHA:79167",
+      "details": [
+        "Allogeneic adult liver-derived stem cells(Medicinal product                        - 10/08/2022)Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "Allogeneic adult liver-derived stem cells(Medicinal product                        - 10/08/2022)",
+        "(Medicinal product                        - 10/08/2022)",
+        "Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/629851?name=401948&mode=orpha&region=&status=all",
+          "text": "Allogeneic adult liver-derived stem cells",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79167",
+          "text": "ORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/629852?name=401948&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "of urea cycle metabolism and ammonia detoxification\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end",
+      "substance_url": "/en/drug/substance/688360?name=401948&mode=orpha&region=&status=all",
+      "substance_id": "688360",
+      "regulatory_url": "/en/drug/regulatory/688517?name=401948&mode=orpha&region=",
+      "regulatory_id": "688517",
+      "orpha_substance_code": "ORPHA:79167",
+      "details": [
+        "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end(Medicinal product                        - 11/09/2024)Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end(Medicinal product                        - 11/09/2024)",
+        "(Medicinal product                        - 11/09/2024)",
+        "Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/688360?name=401948&mode=orpha&region=&status=all",
+          "text": "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79167",
+          "text": "ORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/688517?name=401948&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "of urea cycle metabolism and ammonia detoxification\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Glycerol phenylbutyrate",
+      "substance_url": "/en/drug/substance/222387?name=401948&mode=orpha&region=&status=all",
+      "substance_id": "222387",
+      "regulatory_url": "/en/drug/regulatory/238146?name=401948&mode=orpha&region=",
+      "regulatory_id": "238146",
+      "orpha_substance_code": "ORPHA:79167",
+      "details": [
+        "Glycerol phenylbutyrate(Medicinal product                        - 27/04/2009)Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "Glycerol phenylbutyrate(Medicinal product                        - 27/04/2009)",
+        "(Medicinal product                        - 27/04/2009)",
+        "Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/222387?name=401948&mode=orpha&region=&status=all",
+          "text": "Glycerol phenylbutyrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79167",
+          "text": "ORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/238146?name=401948&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "of urea cycle metabolism and ammonia detoxification\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:00:33.483161",
+  "run_number": 1,
+  "total_drugs_found": 3,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Hyperammonemic+encephalopathy+due+to+carbonic+anhydrase+VA+deficiency&orphaCode=401948&name=401948&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency",
+    "orphaCode": "401948",
+    "name": "401948",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

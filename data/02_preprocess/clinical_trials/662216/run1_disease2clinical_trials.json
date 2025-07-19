@@ -1,0 +1,73 @@
+{
+  "disease_name": "Mucopolysaccharidosis type 10",
+  "orpha_code": "662216",
+  "trials": [
+    {
+      "nctId": "NCT02716246",
+      "briefTitle": "Phase I/II/III Gene Transfer Clinical Trial of scAAV9.U1a.hSGSH",
+      "officialTitle": "Phase I/II/III Gene Transfer Clinical Trial of scAAV9.U1a.hSGSH for Mucopolysaccharidosis (MPS) IIIA",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "conditions": [
+        "MPS IIIA",
+        "Sanfilippo Syndrome",
+        "Sanfilippo A",
+        "Mucopolysaccharidosis III"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "UX111"
+        },
+        {
+          "type": "DRUG",
+          "name": "Prophylactic Immunomodulatory (IM) Therapy"
+        },
+        {
+          "type": "DRUG",
+          "name": "Optimized Prophylactic IM Therapy"
+        },
+        {
+          "type": "DRUG",
+          "name": "Adjuvant IM Therapy"
+        }
+      ],
+      "enrollment": 36,
+      "locations": [
+        {
+          "facility": "Nationwide Children's Hospital",
+          "city": "Columbus",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Pittsburgh",
+          "city": "Pittsburgh",
+          "country": "United States"
+        },
+        {
+          "facility": "Women's and Children's Hospital",
+          "city": "North Adelaide",
+          "country": "Australia"
+        },
+        {
+          "facility": "Vall d'Hebron Barcelona Hospital Campus",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Clínico Universitario de Santiago",
+          "city": "Santiago De Compostela",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-06-15"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:13:04.314623",
+  "run_number": 1,
+  "total_trials_found": 1
+}

@@ -1,0 +1,78 @@
+{
+  "disease_name": "Citrullinemia type II",
+  "orpha_code": "247585",
+  "drugs": [
+    {
+      "name": "Heterologous human adult liver-derived progenitor cells",
+      "substance_url": "/en/drug/substance/356372?name=247585&mode=orpha&region=&status=all",
+      "substance_id": "356372",
+      "regulatory_url": "/en/drug/regulatory/364070?name=247585&mode=orpha&region=",
+      "regulatory_id": "364070",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Glycerol phenylbutyrate",
+      "substance_url": "/en/drug/substance/222387?name=247585&mode=orpha&region=&status=all",
+      "substance_id": "222387",
+      "regulatory_url": "/en/drug/regulatory/240241?name=247585&mode=orpha&region=",
+      "regulatory_id": "240241",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "AMMONAPS",
+      "substance_url": "/en/drug/trade_name/34205?name=247585&mode=orpha&region=&status=all",
+      "substance_id": "34205",
+      "regulatory_url": "/en/drug/regulatory/131255?name=247585&mode=orpha&region=",
+      "regulatory_id": "131255",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Allogeneic adult liver-derived stem cells",
+      "substance_url": "/en/drug/substance/629851?name=247585&mode=orpha&region=&status=all",
+      "substance_id": "629851",
+      "regulatory_url": "/en/drug/regulatory/629852?name=247585&mode=orpha&region=",
+      "regulatory_id": "629852",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end",
+      "substance_url": "/en/drug/substance/688360?name=247585&mode=orpha&region=&status=all",
+      "substance_id": "688360",
+      "regulatory_url": "/en/drug/regulatory/688517?name=247585&mode=orpha&region=",
+      "regulatory_id": "688517",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:18:58.700724",
+  "run_number": 1,
+  "total_drugs_found": 5,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Citrullinemia+type+II&orphaCode=247585&name=247585&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Citrullinemia type II",
+    "orphaCode": "247585",
+    "name": "247585",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

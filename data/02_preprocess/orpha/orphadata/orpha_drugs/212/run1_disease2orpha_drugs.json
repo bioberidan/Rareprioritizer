@@ -1,0 +1,17 @@
+{
+  "disease_name": "Cystathioninuria",
+  "orpha_code": "212",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:39:42.812380",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Cystathioninuria&orphaCode=212&name=212&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Cystathioninuria",
+    "orphaCode": "212",
+    "name": "212",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

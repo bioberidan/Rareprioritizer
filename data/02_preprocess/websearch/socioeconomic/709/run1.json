@@ -1,0 +1,30 @@
+{
+  "orphacode": "709",
+  "disease_name": "Peters plus syndrome",
+  "socioeconomic_impact_studies": [
+    {
+      "cost": 0,
+      "measure": "",
+      "label": "Peters plus syndrome",
+      "source": "https://www.orpha.net/en/disease/detail/709",
+      "country": "Europe",
+      "year": ""
+    },
+    {
+      "cost": 0,
+      "measure": "",
+      "label": "GeneReviews: Peters plus syndrome",
+      "source": "https://www.ncbi.nlm.nih.gov/books/NBK1464/",
+      "country": "International",
+      "year": "2017"
+    }
+  ],
+  "score": 3,
+  "evidence_level": "Low evidence",
+  "justification": "Only qualitative descriptions of severe disease burden were identified in clinical reviews without any quantitative cost estimates provided.",
+  "metadata": {
+    "processing_timestamp": "2025-07-18T19:17:21.196784",
+    "run_number": 1,
+    "orphacode": "709"
+  }
+}

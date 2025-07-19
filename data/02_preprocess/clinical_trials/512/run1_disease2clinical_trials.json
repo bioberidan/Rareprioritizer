@@ -1,0 +1,182 @@
+{
+  "disease_name": "Metachromatic leukodystrophy",
+  "orpha_code": "512",
+  "trials": [
+    {
+      "nctId": "NCT03771898",
+      "briefTitle": "A Study of Intrathecal SHP611 in Children With Metachromatic Leukodystrophy",
+      "officialTitle": "A Global, Multicenter, Single-arm, Matched External Control Study of Intrathecal SHP611 in Subjects With Late Infantile Metachromatic Leukodystrophy",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Metachromatic Leukodystrophy (MLD)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "SHP611"
+        }
+      ],
+      "enrollment": 36,
+      "locations": [
+        {
+          "facility": "Los Angeles Biomedical Research Institute at Harbor-UCLA",
+          "city": "Torrance",
+          "country": "United States"
+        },
+        {
+          "facility": "Childrens Hospital Colorado",
+          "city": "Aurora",
+          "country": "United States"
+        },
+        {
+          "facility": "Rare Disease Research, LLC",
+          "city": "Atlanta",
+          "country": "United States"
+        },
+        {
+          "facility": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Iowa Stead Family Children's Hospital",
+          "city": "Iowa City",
+          "country": "United States"
+        },
+        {
+          "facility": "Mayo Clinic - PPDS",
+          "city": "Rochester",
+          "country": "United States"
+        },
+        {
+          "facility": "New York University Langone Medical Center",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Cincinnati Children's Hospital Medical Center",
+          "city": "Cincinnati",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Philadelphia",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Pittsburgh",
+          "city": "Pittsburgh",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Utah",
+          "city": "Salt Lake City",
+          "country": "United States"
+        },
+        {
+          "facility": "Hospital Universitario Austral - PIN",
+          "city": "Ciudad Autónoma Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "UZ Antwerpen",
+          "city": "Edegem",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Hospital de Clínicas de Porto Alegre",
+          "city": "Porto Alegre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Stollery Children's Hospital University of Alberta",
+          "city": "Edmonton",
+          "country": "Canada"
+        },
+        {
+          "facility": "British Columbia Children's Hospital",
+          "city": "Vancouver",
+          "country": "Canada"
+        },
+        {
+          "facility": "Hospital for Sick Children",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Montreal Children's Hospital",
+          "city": "Montreal",
+          "country": "Canada"
+        },
+        {
+          "facility": "Hôpital Bicêtre - Paris Sud",
+          "city": "Le Kremlin-bicetre",
+          "country": "France"
+        },
+        {
+          "facility": "CHU Lenval",
+          "city": "Nice",
+          "country": "France"
+        },
+        {
+          "facility": "Universitätsklinikum Hamburg Eppendorf",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitätsklinikum Tübingen",
+          "city": "Tubingen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Attikon University General Hospital",
+          "city": "Chaidari",
+          "country": "Greece"
+        },
+        {
+          "facility": "Tel Aviv Sourasky Medical Center",
+          "city": "Tel Aviv",
+          "country": "Israel"
+        },
+        {
+          "facility": "IRCCS Ospedale Pediatrico Bambino Gesù - INCIPIT - PIN",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "Kanazawa University Hospital",
+          "city": "Kanazawa",
+          "country": "Japan"
+        },
+        {
+          "facility": "VU Medisch Centrum",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Hospital Universitario Cruces",
+          "city": "Barakaldo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Vall d'Hebrón",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Birmingham Children's Hospital NHS Foundation Trust",
+          "city": "Birmingham",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-03-07"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:13:06.723855",
+  "run_number": 1,
+  "total_trials_found": 1
+}

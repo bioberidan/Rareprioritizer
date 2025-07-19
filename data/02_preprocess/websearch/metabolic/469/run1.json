@@ -1,0 +1,56 @@
+{
+  "orphacode": "469",
+  "disease_name": "Hereditary fructose intolerance",
+  "groups": [
+    {
+      "unit_name": "U723",
+      "sources": [
+        {
+          "label": "Transferrin Isoforms, Old but New Biomarkers in Hereditary Fructose Intolerance",
+          "url": "https://www.mdpi.com/2077-0383/10/13/2932"
+        }
+      ]
+    },
+    {
+      "unit_name": "GCV 5",
+      "sources": [
+        {
+          "label": "11 grupos de investigación del CIBERER se han incorporado a las Redes Europeas de Referencia",
+          "url": "https://www.ciberisciii.es/noticias/11-grupos-de-investigacion-del-ciberer-se-han-incorporado-a-las-redes-europeas-de-referencia"
+        }
+      ]
+    },
+    {
+      "unit_name": "GCV 10",
+      "sources": [
+        {
+          "label": "11 grupos de investigación del CIBERER se han incorporado a las Redes Europeas de Referencia",
+          "url": "https://www.ciberisciii.es/noticias/11-grupos-de-investigacion-del-ciberer-se-han-incorporado-a-las-redes-europeas-de-referencia"
+        }
+      ]
+    },
+    {
+      "unit_name": "GCV 9",
+      "sources": [
+        {
+          "label": "11 grupos de investigación del CIBERER se han incorporado a las Redes Europeas de Referencia",
+          "url": "https://www.ciberisciii.es/noticias/11-grupos-de-investigacion-del-ciberer-se-han-incorporado-a-las-redes-europeas-de-referencia"
+        }
+      ]
+    },
+    {
+      "unit_name": "U703",
+      "sources": [
+        {
+          "label": "11 grupos de investigación del CIBERER se han incorporado a las Redes Europeas de Referencia",
+          "url": "https://www.ciberisciii.es/noticias/11-grupos-de-investigacion-del-ciberer-se-han-incorporado-a-las-redes-europeas-de-referencia"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "processing_timestamp": "2025-07-18T18:23:14.368975",
+    "run_number": 1,
+    "orphacode": "469"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "disease_name": "Glycogen storage disease due to glucose-6-phosphatase deficiency",
+  "orpha_code": "364",
+  "trials": [
+    {
+      "nctId": "NCT05139316",
+      "briefTitle": "A Study of Adeno-Associated Virus Serotype 8-Mediated Gene Transfer of Glucose-6-Phosphatase in Patients With Glycogen Storage Disease Type Ia (GSDIa)",
+      "officialTitle": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study of Adeno-Associated Virus Serotype 8-Mediated Gene Transfer of Glucose-6-Phosphatase in Patients With Glycogen Storage Disease Type Ia",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Glycogen Storage Disease Type IA"
+      ],
+      "interventions": [
+        {
+          "type": "GENETIC",
+          "name": "DTX401"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        },
+        {
+          "type": "DRUG",
+          "name": "Oral corticosteroids"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo for oral corticosteroids"
+        }
+      ],
+      "enrollment": 49,
+      "locations": [
+        {
+          "facility": "Children's Hospital of Orange County",
+          "city": "Orange",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital Colorado",
+          "city": "Aurora",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Connecticut Health Center",
+          "city": "Farmington",
+          "country": "United States"
+        },
+        {
+          "facility": "Mount Sinai",
+          "city": "Bronx",
+          "country": "United States"
+        },
+        {
+          "facility": "Duke University",
+          "city": "Durham",
+          "country": "United States"
+        },
+        {
+          "facility": "Cleveland Clinic",
+          "city": "Cleveland",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Philadelphia",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Texas",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "Primary Children's Hospital",
+          "city": "Salt Lake City",
+          "country": "United States"
+        },
+        {
+          "facility": "Hospital de Clinicas de Porto Alegre",
+          "city": "Porto Alegre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "McGill University",
+          "city": "Montréal",
+          "country": "Canada"
+        },
+        {
+          "facility": "Righospitalet",
+          "city": "Kopenhagen",
+          "country": "Denmark"
+        },
+        {
+          "facility": "University Medical Center Eppendorf",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Istituto Giannina Gaslini",
+          "city": "Genova",
+          "country": "Italy"
+        },
+        {
+          "facility": "University of Naples",
+          "city": "Naples",
+          "country": "Italy"
+        },
+        {
+          "facility": "Kumamoto University Hospital",
+          "city": "Kumamoto",
+          "country": "Japan"
+        },
+        {
+          "facility": "Osaka City General Hospital",
+          "city": "Osaka",
+          "country": "Japan"
+        },
+        {
+          "facility": "Fujita Health University Hospital",
+          "city": "Toyoake",
+          "country": "Japan"
+        },
+        {
+          "facility": "Groningen University",
+          "city": "Groningen",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Hospital Clinico Universitario de Santiago",
+          "city": "Santiago De Compostela",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-02-21"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:13:54.556380",
+  "run_number": 1,
+  "total_trials_found": 1
+}

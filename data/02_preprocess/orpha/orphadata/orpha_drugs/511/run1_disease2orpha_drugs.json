@@ -1,0 +1,66 @@
+{
+  "disease_name": "Maple syrup urine disease",
+  "orpha_code": "511",
+  "drugs": [
+    {
+      "name": "Sodium phenylbutyrate",
+      "substance_url": "/en/drug/substance/25062?name=511&mode=orpha&region=&status=all",
+      "substance_id": "25062",
+      "regulatory_url": "/en/drug/regulatory/629590?name=511&mode=orpha&region=",
+      "regulatory_id": "629590",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Glycine, L-alanine, L-arginine, L-aspartic acid, L -cysteine, L-cystine, L- glutamic acid, L-histidine, L-lysine monohydrate, L -methionine, L- phenylalanine, L-proline, L-serine, L-threonine, L-tryptophan, L-tyrosine, taurine",
+      "substance_url": "/en/drug/substance/531812?name=511&mode=orpha&region=&status=all",
+      "substance_id": "531812",
+      "regulatory_url": "/en/drug/regulatory/531813?name=511&mode=orpha&region=",
+      "regulatory_id": "531813",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Recombinant AAV9 vector expressing functional, codon-optimized, human BCKDHA and BCKDHB genes which encode for catalytic E1alpha and E1beta subunits, respectively, of the BCKDH holoenzyme",
+      "substance_url": "/en/drug/substance/704655?name=511&mode=orpha&region=&status=all",
+      "substance_id": "704655",
+      "regulatory_url": "/en/drug/regulatory/704791?name=511&mode=orpha&region=",
+      "regulatory_id": "704791",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Modified version of a leucine decarboxylase enzyme from Planctomycetaceae bacterium",
+      "substance_url": "/en/drug/substance/638953?name=511&mode=orpha&region=&status=all",
+      "substance_id": "638953",
+      "regulatory_url": "/en/drug/regulatory/638957?name=511&mode=orpha&region=",
+      "regulatory_id": "638957",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:40:00.508277",
+  "run_number": 1,
+  "total_drugs_found": 4,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Maple+syrup+urine+disease&orphaCode=511&name=511&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Maple syrup urine disease",
+    "orphaCode": "511",
+    "name": "511",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

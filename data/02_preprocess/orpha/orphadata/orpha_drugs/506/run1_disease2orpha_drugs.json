@@ -1,0 +1,138 @@
+{
+  "disease_name": "Leigh syndrome",
+  "orpha_code": "506",
+  "drugs": [
+    {
+      "name": "Methyl 4-(2-acetamidoethylsulfanyl)-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/661174?name=506&mode=orpha&region=&status=all",
+      "substance_id": "661174",
+      "regulatory_url": "/en/drug/regulatory/661270?name=506&mode=orpha&region=",
+      "regulatory_id": "661270",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Sildenafil citrate",
+      "substance_url": "/en/drug/substance/65861?name=506&mode=orpha&region=&status=all",
+      "substance_id": "65861",
+      "regulatory_url": "/en/drug/regulatory/661066?name=506&mode=orpha&region=",
+      "regulatory_id": "661066",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Cannabidiol",
+      "substance_url": "/en/drug/substance/398846?name=506&mode=orpha&region=&status=all",
+      "substance_id": "398846",
+      "regulatory_url": "/en/drug/regulatory/654062?name=506&mode=orpha&region=",
+      "regulatory_id": "654062",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Adeno-associated viral vector serotype 9 containing the human SURF1 gene",
+      "substance_url": "/en/drug/substance/628149?name=506&mode=orpha&region=&status=all",
+      "substance_id": "628149",
+      "regulatory_url": "/en/drug/regulatory/628151?name=506&mode=orpha&region=",
+      "regulatory_id": "628151",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "(S)-6-hydroxy-2,5,7,8-tetramethyl-N-((R)-piperidin-3-yl)chroman-2-carboxamide hydrochloride",
+      "substance_url": "/en/drug/substance/410354?name=506&mode=orpha&region=&status=all",
+      "substance_id": "410354",
+      "regulatory_url": "/en/drug/regulatory/414139?name=506&mode=orpha&region=",
+      "regulatory_id": "414139",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Vatiquinone",
+      "substance_url": "/en/drug/substance/285822?name=506&mode=orpha&region=&status=all",
+      "substance_id": "285822",
+      "regulatory_url": "/en/drug/regulatory/299934?name=506&mode=orpha&region=",
+      "regulatory_id": "299934",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Adeno-associated virus 9 human NADH:ubiquinone oxidoreductase subunit S4",
+      "substance_url": "/en/drug/substance/689481?name=506&mode=orpha&region=&status=all",
+      "substance_id": "689481",
+      "regulatory_url": "/en/drug/regulatory/689639?name=506&mode=orpha&region=",
+      "regulatory_id": "689639",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "2-((hydroxy((R)-2-(((5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoyl)oxy)-3-(((E)-octadec-2-en-1-yl)oxy)propoxy)phosphoryl)oxy)ethan-1-ammonium",
+      "substance_url": "/en/drug/substance/688278?name=506&mode=orpha&region=&status=all",
+      "substance_id": "688278",
+      "regulatory_url": "/en/drug/regulatory/688364?name=506&mode=orpha&region=",
+      "regulatory_id": "688364",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/646586?name=506&mode=orpha&region=&status=all",
+      "substance_id": "646586",
+      "regulatory_url": "/en/drug/regulatory/646683?name=506&mode=orpha&region=",
+      "regulatory_id": "646683",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Zagociguat",
+      "substance_url": "/en/drug/substance/644348?name=506&mode=orpha&region=&status=all",
+      "substance_id": "644348",
+      "regulatory_url": "/en/drug/regulatory/644353?name=506&mode=orpha&region=",
+      "regulatory_id": "644353",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:41:01.340387",
+  "run_number": 1,
+  "total_drugs_found": 10,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Leigh+syndrome&orphaCode=506&name=506&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Leigh syndrome",
+    "orphaCode": "506",
+    "name": "506",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

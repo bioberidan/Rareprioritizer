@@ -1,0 +1,156 @@
+{
+  "url": "https://www.orpha.net/en/drug?diseaseName=Mucopolysaccharidosis+type+7&orphaCode=584&name=584&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Mucopolysaccharidosis type 7",
+    "orphaCode": "584",
+    "name": "584",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  },
+  "status_code": 200,
+  "timestamp": 1752753245.7223623,
+  "drugs": [
+    {
+      "name": "MEPSEVII",
+      "substance_url": "/en/drug/trade_name/501414?name=584&mode=orpha&region=&status=all",
+      "substance_id": "501414",
+      "regulatory_url": "/en/drug/regulatory/527322?name=584&mode=orpha&region=",
+      "regulatory_id": "527322",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "vestronidase alfa",
+      "substance_url": "/en/drug/substance/299541?name=584&mode=orpha&region=&status=all",
+      "substance_id": "299541",
+      "regulatory_url": "/en/drug/regulatory/301158?name=584&mode=orpha&region=",
+      "regulatory_id": "301158",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "PLERIXAFOR ACCORD",
+      "substance_url": "/en/drug/trade_name/642316?name=584&mode=orpha&region=&status=all",
+      "substance_id": "642316",
+      "regulatory_url": "/en/drug/regulatory/642317?name=584&mode=orpha&region=",
+      "regulatory_id": "642317",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Thiotepa Riemser",
+      "substance_url": "/en/drug/trade_name/610616?name=584&mode=orpha&region=&status=all",
+      "substance_id": "610616",
+      "regulatory_url": "/en/drug/regulatory/610636?name=584&mode=orpha&region=",
+      "regulatory_id": "610636",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "motixafortide",
+      "substance_url": "/en/drug/substance/588874?name=584&mode=orpha&region=&status=all",
+      "substance_id": "588874",
+      "regulatory_url": "/en/drug/regulatory/661036?name=584&mode=orpha&region=",
+      "regulatory_id": "661036",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate",
+      "substance_url": "/en/drug/substance/589233?name=584&mode=orpha&region=&status=all",
+      "substance_id": "589233",
+      "regulatory_url": "/en/drug/regulatory/589234?name=584&mode=orpha&region=",
+      "regulatory_id": "589234",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus",
+      "substance_url": "/en/drug/substance/589056?name=584&mode=orpha&region=&status=all",
+      "substance_id": "589056",
+      "regulatory_url": "/en/drug/regulatory/589057?name=584&mode=orpha&region=",
+      "regulatory_id": "589057",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=584&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=584&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Besilesomab",
+      "substance_url": "/en/drug/substance/571152?name=584&mode=orpha&region=&status=all",
+      "substance_id": "571152",
+      "regulatory_url": "/en/drug/regulatory/641081?name=584&mode=orpha&region=",
+      "regulatory_id": "641081",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=584&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=584&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=584&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=584&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "disease_info": {
+    "name": "13 Result(s)",
+    "orphan_code": "ORPHA:584"
+  },
+  "total_results": null,
+  "page_info": {
+    "page_title": "Orphanet : Search for an orphan drug",
+    "has_pagination": false
+  }
+}

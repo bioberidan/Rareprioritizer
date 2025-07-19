@@ -1,0 +1,18 @@
+[
+  {
+    "prevalence_id": "16924",
+    "orpha_code": "15",
+    "disease_name": "Achondroplasia",
+    "source": "32803853[PMID]",
+    "prevalence_type": "Prevalence at birth",
+    "prevalence_class": "1-5 / 10 000",
+    "qualification": "Value and class",
+    "geographic_area": "Cameroon",
+    "validation_status": "Validated",
+    "reliability_score": 9.8,
+    "is_fiable": true,
+    "per_million_estimate": 300.0,
+    "confidence_level": "high",
+    "estimate_source": "class_midpoint"
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "<1 / 1 000 000": {
+    "per_million_estimate": 0.5,
+    "confidence": "medium",
+    "source": "class_estimate",
+    "range": {
+      "min": 0,
+      "max": 1
+    }
+  },
+  "Unknown": {
+    "per_million_estimate": 0.0,
+    "confidence": "none",
+    "source": "no_data"
+  },
+  "1-9 / 1 000 000": {
+    "per_million_estimate": 5.0,
+    "confidence": "high",
+    "source": "class_midpoint",
+    "range": {
+      "min": 1,
+      "max": 9
+    }
+  },
+  "1-9 / 100 000": {
+    "per_million_estimate": 50.0,
+    "confidence": "high",
+    "source": "class_midpoint",
+    "range": {
+      "min": 10,
+      "max": 90
+    }
+  },
+  "1-5 / 10 000": {
+    "per_million_estimate": 300.0,
+    "confidence": "high",
+    "source": "class_midpoint",
+    "range": {
+      "min": 100,
+      "max": 500
+    }
+  },
+  "6-9 / 10 000": {
+    "per_million_estimate": 750.0,
+    "confidence": "high",
+    "source": "class_midpoint",
+    "range": {
+      "min": 600,
+      "max": 900
+    }
+  },
+  ">1 / 1000": {
+    "per_million_estimate": 5000.0,
+    "confidence": "high",
+    "source": "class_midpoint",
+    "range": {
+      "min": 1000,
+      "max": 9000
+    }
+  },
+  "Not yet documented": {
+    "per_million_estimate": 0.0,
+    "confidence": "none",
+    "source": "no_data"
+  }
+}

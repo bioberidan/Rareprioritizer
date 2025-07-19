@@ -1,0 +1,320 @@
+{
+  "disease_name": "Homozygous familial hypercholesterolemia",
+  "orpha_code": "391665",
+  "trials": [
+    {
+      "nctId": "NCT05682378",
+      "briefTitle": "Long-term Safety and Tolerability of Inclisiran in Participants With HeFH or HoFH Who Have Completed the Adolescent ORION-16 or ORION-13 Studies",
+      "officialTitle": "An Open-label, Single Arm, Multicenter Extension Study to Evaluate Long-term Safety and Tolerability of Inclisiran in Participants With Heterozygous or Homozygous Familial Hypercholesterolemia Who Have Completed the Adolescent ORION-16 or ORION-13 Studies (VICTORION-PEDS-OLE)",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Heterozygous or Homozygous Familial Hypercholesterolemia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Inclisiran"
+        }
+      ],
+      "enrollment": 154,
+      "locations": [
+        {
+          "facility": "Excel Medical Clinical Trials LLC",
+          "city": "Boca Raton",
+          "country": "United States"
+        },
+        {
+          "facility": "Icahn School of Med at Mt Sinai",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Cincinnati Childrens Hospital MC",
+          "city": "Cincinnati",
+          "country": "United States"
+        },
+        {
+          "facility": "Childrens Hosp Pittsburgh UPMC",
+          "city": "Pittsburgh",
+          "country": "United States"
+        },
+        {
+          "facility": "Primary Childrens Medical Center",
+          "city": "Salt Lake City",
+          "country": "United States"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ciudad de Formosa",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Fortaleza",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sao Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sao Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Quebec",
+          "country": "Canada"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Praha 5",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Praha",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Besancon Cedex",
+          "country": "France"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Toulouse Cedex",
+          "country": "France"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Frankfurt am Main",
+          "country": "Germany"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Freiburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Athens",
+          "country": "Greece"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Athens",
+          "country": "Greece"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Pecs",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Jerusalem",
+          "country": "Israel"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ramat Gan",
+          "country": "Israel"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Modena",
+          "country": "Italy"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Irbid",
+          "country": "Jordan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ashrafieh",
+          "country": "Lebanon"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sungai Buloh",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kuala Lumpur",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Rotterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Oslo",
+          "country": "Norway"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Gdansk",
+          "country": "Poland"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Lodz",
+          "country": "Poland"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kemerovo",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Moscow",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Poprad",
+          "country": "Slovakia"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ljubljana",
+          "country": "Slovenia"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bloemfontein",
+          "country": "South Africa"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Cape Town",
+          "country": "South Africa"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Cordoba",
+          "country": "Spain"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Oviedo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Pamplona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "A Coruna",
+          "country": "Spain"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Geneve 14",
+          "country": "Switzerland"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Taipei",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Istanbul",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Adana",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ankara",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Izmir",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Middlesex",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-03-19"
+    },
+    {
+      "nctId": "NCT04370899",
+      "briefTitle": "Early Detection of Familial Hypercholesterolemia in Children",
+      "officialTitle": "Early Detection of Familial Hypercholesterolemia in Children in Tarragona Province",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Familial Hypercholesterolemia",
+        "Familial Hypercholesterolemia - Heterozygous",
+        "Familial Hypercholesterolemia - Homozygous"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "lifestyle assessment"
+        }
+      ],
+      "enrollment": 400,
+      "locations": [
+        {
+          "facility": "Hospital Universitari Sant Joan de Reus",
+          "city": "Reus",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitari Sant Joan",
+          "city": "Reus",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-04-18"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:15:15.078225",
+  "run_number": 1,
+  "total_trials_found": 2
+}

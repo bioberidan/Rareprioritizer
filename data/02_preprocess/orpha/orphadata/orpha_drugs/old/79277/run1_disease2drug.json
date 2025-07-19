@@ -1,0 +1,170 @@
+{
+  "disease_name": "Congenital erythropoietic porphyria",
+  "orpha_code": "79277",
+  "drugs": [
+    {
+      "name": "Ciclopirox",
+      "substance_url": "/en/drug/substance/510758?name=79277&mode=orpha&region=&status=all",
+      "substance_id": "510758",
+      "regulatory_url": "/en/drug/regulatory/510762?name=79277&mode=orpha&region=",
+      "regulatory_id": "510762",
+      "orpha_substance_code": "ORPHA:79277",
+      "details": [
+        "Ciclopirox(Medicinal product                        - 17/01/2018)Disease(s) concernedORPHA:79277 Congenital erythropoietic porphyria",
+        "Ciclopirox(Medicinal product                        - 17/01/2018)",
+        "(Medicinal product                        - 17/01/2018)",
+        "Disease(s) concernedORPHA:79277 Congenital erythropoietic porphyria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/510758?name=79277&mode=orpha&region=&status=all",
+          "text": "Ciclopirox",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79277",
+          "text": "ORPHA:79277 Congenital erythropoietic porphyria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/510762?name=79277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Afamelanotide",
+      "substance_url": "/en/drug/substance/189146?name=79277&mode=orpha&region=&status=all",
+      "substance_id": "189146",
+      "regulatory_url": "/en/drug/regulatory/138002?name=79277&mode=orpha&region=",
+      "regulatory_id": "138002",
+      "orpha_substance_code": "ORPHA:79277",
+      "details": [
+        "Afamelanotide(Medicinal product                        - 08/05/2008)Disease(s) concernedORPHA:79277 Congenital erythropoietic porphyria",
+        "Afamelanotide(Medicinal product                        - 08/05/2008)",
+        "(Medicinal product                        - 08/05/2008)",
+        "Disease(s) concernedORPHA:79277 Congenital erythropoietic porphyria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/189146?name=79277&mode=orpha&region=&status=all",
+          "text": "Afamelanotide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79277",
+          "text": "ORPHA:79277 Congenital erythropoietic porphyria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/138002?name=79277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "PANHEMATIN",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131060?name=79277&mode=orpha&region=",
+      "regulatory_id": "131060",
+      "orpha_substance_code": "ORPHA:738",
+      "details": [
+        "PANHEMATIN(Tradename                        - 20/07/1990)Disease(s) concernedORPHA:738 Porphyria",
+        "PANHEMATIN(Tradename                        - 20/07/1990)",
+        "(Tradename                        - 20/07/1990)",
+        "Disease(s) concernedORPHA:738 Porphyria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/24989?name=79277&mode=orpha&region=&status=all",
+          "text": "PANHEMATIN",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/738",
+          "text": "ORPHA:738 Porphyria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131060?name=79277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Hemin",
+      "substance_url": "/en/drug/substance/24990?name=79277&mode=orpha&region=&status=all",
+      "substance_id": "24990",
+      "regulatory_url": "/en/drug/regulatory/131924?name=79277&mode=orpha&region=",
+      "regulatory_id": "131924",
+      "orpha_substance_code": "ORPHA:738",
+      "details": [
+        "Hemin(Medicinal product                        - 16/03/1984)Disease(s) concernedORPHA:738 Porphyria",
+        "Hemin(Medicinal product                        - 16/03/1984)",
+        "(Medicinal product                        - 16/03/1984)",
+        "Disease(s) concernedORPHA:738 Porphyria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/24990?name=79277&mode=orpha&region=&status=all",
+          "text": "Hemin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/738",
+          "text": "ORPHA:738 Porphyria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131924?name=79277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:04:30.608483",
+  "run_number": 1,
+  "total_drugs_found": 4,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Congenital+erythropoietic+porphyria&orphaCode=79277&name=79277&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Congenital erythropoietic porphyria",
+    "orphaCode": "79277",
+    "name": "79277",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

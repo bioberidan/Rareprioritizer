@@ -1,0 +1,333 @@
+{
+  "disease_name": "Neonatal adrenoleukodystrophy",
+  "orpha_code": "44",
+  "drugs": [
+    {
+      "name": "Dimethyl fumarate",
+      "substance_url": "/en/drug/substance/480330?name=44&mode=orpha&region=&status=all",
+      "substance_id": "480330",
+      "regulatory_url": "/en/drug/regulatory/626988?name=44&mode=orpha&region=",
+      "regulatory_id": "626988",
+      "orpha_substance_code": "ORPHA:43",
+      "details": [
+        "Dimethyl fumarate(Medicinal product                        - 09/01/2020)Disease(s) concernedORPHA:44 Neonatal adrenoleukodystrophyORPHA:2971 Peroxisomal acyl-CoA oxidase deficiencyORPHA:43 X-linked adrenoleukodystrophy",
+        "Dimethyl fumarate(Medicinal product                        - 09/01/2020)",
+        "(Medicinal product                        - 09/01/2020)",
+        "Disease(s) concernedORPHA:44 Neonatal adrenoleukodystrophyORPHA:2971 Peroxisomal acyl-CoA oxidase deficiencyORPHA:43 X-linked adrenoleukodystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/480330?name=44&mode=orpha&region=&status=all",
+          "text": "Dimethyl fumarate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/44",
+          "text": "ORPHA:44 Neonatal adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2971",
+          "text": "ORPHA:2971 Peroxisomal acyl-CoA oxidase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/43",
+          "text": "ORPHA:43 X-linked adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/626988?name=44&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "ALKINDI",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/505896?name=44&mode=orpha&region=",
+      "regulatory_id": "505896",
+      "orpha_substance_code": "ORPHA:101958",
+      "details": [
+        "ALKINDI(Tradename                        - 09/02/2018)Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "ALKINDI(Tradename                        - 09/02/2018)",
+        "(Tradename                        - 09/02/2018)",
+        "Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/505888?name=44&mode=orpha&region=&status=all",
+          "text": "ALKINDI",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101958",
+          "text": "ORPHA:101958 Primary adrenal insufficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/505896?name=44&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "PLENADREN",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/352529?name=44&mode=orpha&region=",
+      "regulatory_id": "352529",
+      "orpha_substance_code": "ORPHA:101958",
+      "details": [
+        "PLENADREN(Tradename                        - 03/11/2011)Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "PLENADREN(Tradename                        - 03/11/2011)",
+        "(Tradename                        - 03/11/2011)",
+        "Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/352513?name=44&mode=orpha&region=&status=all",
+          "text": "PLENADREN",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101958",
+          "text": "ORPHA:101958 Primary adrenal insufficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/352529?name=44&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Hydrocortisone",
+      "substance_url": "/en/drug/substance/505909?name=44&mode=orpha&region=&status=all",
+      "substance_id": "505909",
+      "regulatory_url": "/en/drug/regulatory/134118?name=44&mode=orpha&region=",
+      "regulatory_id": "134118",
+      "orpha_substance_code": "ORPHA:101958",
+      "details": [
+        "Hydrocortisone(Medicinal product                        - 20/03/2007)Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "Hydrocortisone(Medicinal product                        - 20/03/2007)",
+        "(Medicinal product                        - 20/03/2007)",
+        "Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/505909?name=44&mode=orpha&region=&status=all",
+          "text": "Hydrocortisone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101958",
+          "text": "ORPHA:101958 Primary adrenal insufficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/134118?name=44&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Prasterone",
+      "substance_url": "/en/drug/substance/97925?name=44&mode=orpha&region=&status=all",
+      "substance_id": "97925",
+      "regulatory_url": "/en/drug/regulatory/133836?name=44&mode=orpha&region=",
+      "regulatory_id": "133836",
+      "orpha_substance_code": "ORPHA:101958",
+      "details": [
+        "Prasterone(Medicinal product                        - 28/07/2003)Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "Prasterone(Medicinal product                        - 28/07/2003)",
+        "(Medicinal product                        - 28/07/2003)",
+        "Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/97925?name=44&mode=orpha&region=&status=all",
+          "text": "Prasterone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101958",
+          "text": "ORPHA:101958 Primary adrenal insufficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/133836?name=44&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Hydrocortisone (modified release tablet)",
+      "substance_url": "/en/drug/substance/65883?name=44&mode=orpha&region=&status=all",
+      "substance_id": "65883",
+      "regulatory_url": "/en/drug/regulatory/134049?name=44&mode=orpha&region=",
+      "regulatory_id": "134049",
+      "orpha_substance_code": "ORPHA:101958",
+      "details": [
+        "Hydrocortisone (modified release tablet)(Medicinal product                        - 22/05/2006)Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "Hydrocortisone (modified release tablet)(Medicinal product                        - 22/05/2006)",
+        "(Medicinal product                        - 22/05/2006)",
+        "Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/65883?name=44&mode=orpha&region=&status=all",
+          "text": "Hydrocortisone (modified release tablet)",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101958",
+          "text": "ORPHA:101958 Primary adrenal insufficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/134049?name=44&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "KHINDIVI",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/704611?name=44&mode=orpha&region=",
+      "regulatory_id": "704611",
+      "orpha_substance_code": "ORPHA:101958",
+      "details": [
+        "KHINDIVI(Tradename                        - 28/05/2025)Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "KHINDIVI(Tradename                        - 28/05/2025)",
+        "(Tradename                        - 28/05/2025)",
+        "Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/704608?name=44&mode=orpha&region=&status=all",
+          "text": "KHINDIVI",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101958",
+          "text": "ORPHA:101958 Primary adrenal insufficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/704611?name=44&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Alkindi Sprinkle",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/623088?name=44&mode=orpha&region=",
+      "regulatory_id": "623088",
+      "orpha_substance_code": "ORPHA:101958",
+      "details": [
+        "Alkindi Sprinkle(Tradename                        - 29/09/2020)Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "Alkindi Sprinkle(Tradename                        - 29/09/2020)",
+        "(Tradename                        - 29/09/2020)",
+        "Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/623087?name=44&mode=orpha&region=&status=all",
+          "text": "Alkindi Sprinkle",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101958",
+          "text": "ORPHA:101958 Primary adrenal insufficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/623088?name=44&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:00:16.421074",
+  "run_number": 1,
+  "total_drugs_found": 8,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Neonatal+adrenoleukodystrophy&orphaCode=44&name=44&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Neonatal adrenoleukodystrophy",
+    "orphaCode": "44",
+    "name": "44",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

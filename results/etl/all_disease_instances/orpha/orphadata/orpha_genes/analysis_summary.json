@@ -1,0 +1,8 @@
+{
+  "dataset_type": "all_diseases",
+  "total_diseases": 4078,
+  "diseases_with_genes": 4078,
+  "coverage_percentage": 100.0,
+  "unique_genes": 4521,
+  "total_associations": 8300
+}

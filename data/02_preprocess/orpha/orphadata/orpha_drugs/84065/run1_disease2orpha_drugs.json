@@ -1,0 +1,42 @@
+{
+  "disease_name": "Idiopathic malabsorption due to bile acid synthesis defects",
+  "orpha_code": "84065",
+  "drugs": [
+    {
+      "name": "Cholic acid",
+      "substance_url": "/en/drug/substance/133573?name=84065&mode=orpha&region=&status=all",
+      "substance_id": "133573",
+      "regulatory_url": "/en/drug/regulatory/133807?name=84065&mode=orpha&region=",
+      "regulatory_id": "133807",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "CHOLBAM",
+      "substance_url": "/en/drug/trade_name/464955?name=84065&mode=orpha&region=&status=all",
+      "substance_id": "464955",
+      "regulatory_url": "/en/drug/regulatory/465123?name=84065&mode=orpha&region=",
+      "regulatory_id": "465123",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:42:53.141462",
+  "run_number": 1,
+  "total_drugs_found": 2,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Idiopathic+malabsorption+due+to+bile+acid+synthesis+defects&orphaCode=84065&name=84065&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Idiopathic malabsorption due to bile acid synthesis defects",
+    "orphaCode": "84065",
+    "name": "84065",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

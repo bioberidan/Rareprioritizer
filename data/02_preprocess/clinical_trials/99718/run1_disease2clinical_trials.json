@@ -1,0 +1,295 @@
+{
+  "disease_name": "Leber plus disease",
+  "orpha_code": "99718",
+  "trials": [
+    {
+      "nctId": "NCT05718700",
+      "briefTitle": "Study of Bulevirtide in Participants With Chronic Hepatitis D Infection",
+      "officialTitle": "A Registry Study of Treatment With Bulevirtide in Participants With Chronic Hepatitis D Infection",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Chronic Hepatitis D Infection"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Bulevirtide"
+        }
+      ],
+      "enrollment": 170,
+      "locations": [
+        {
+          "facility": "Medizinische Universität Graz Universitätsklinik für Innere Medizin, Klinische Abteilung für Gastroenterologie und Hepatologie",
+          "city": "Graz",
+          "country": "Austria"
+        },
+        {
+          "facility": "Aö Landeskrankenhaus Hall",
+          "city": "Hall in Tirol",
+          "country": "Austria"
+        },
+        {
+          "facility": "Universitätsklinik für Innere Medizin I Innsbruck",
+          "city": "Innsbruck",
+          "country": "Austria"
+        },
+        {
+          "facility": "Medizinische Universitat Wien",
+          "city": "Wien",
+          "country": "Austria"
+        },
+        {
+          "facility": "Centre Hospitalier Universitaire D'Angers",
+          "city": "Angers",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Avicenne - APHP",
+          "city": "Bobigny",
+          "country": "France"
+        },
+        {
+          "facility": "Hopital Beaujon",
+          "city": "Clichy",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpitaux Universitaires Henri Mondor",
+          "city": "Creteil",
+          "country": "France"
+        },
+        {
+          "facility": "CHU Grenoble Alpes",
+          "city": "Grenoble",
+          "country": "France"
+        },
+        {
+          "facility": "Centre Hospitalier Universitaire De Lille- Hôpital Huriez",
+          "city": "Lille",
+          "country": "France"
+        },
+        {
+          "facility": "CHU de Limoges - Hopital Dupuytren",
+          "city": "Limoges",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital de la Croix-Rousse",
+          "city": "Lyon",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Saint Eloit",
+          "city": "Montpellier",
+          "country": "France"
+        },
+        {
+          "facility": "APHP Hôpital Pitié Salpêtrière",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Haut-Lévêque",
+          "city": "Pessac",
+          "country": "France"
+        },
+        {
+          "facility": "Centre Hospitalier Annecy Genevois",
+          "city": "Pringy",
+          "country": "France"
+        },
+        {
+          "facility": "Centre Hospitalier De Perigueux",
+          "city": "Périgueux",
+          "country": "France"
+        },
+        {
+          "facility": "CHU Rennes - Hôpital Pontchaillou",
+          "city": "Rennes",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Charles-Nicolle - CHU de Rouen",
+          "city": "Rouen",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Rangueil - CHU de Toulouse",
+          "city": "Toulouse",
+          "country": "France"
+        },
+        {
+          "facility": "Leber- und Studienzentrum Checkpoint",
+          "city": "Berlin",
+          "country": "Germany"
+        },
+        {
+          "facility": "Charité. Univeritätsmedizin Berlin, CMM & CVK, Department of Hepatology and Gastroenterology",
+          "city": "Berlin",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitätsklinikum Bonn, Medizinische Klinik und Poliklinik I",
+          "city": "Bonn",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitätsklinikum Düsseldorf, Klinik für Gastroenterologie, Hepatologie und Infektiologie",
+          "city": "Duesseldorf",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitätsklinikum Essen",
+          "city": "Essen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitätsklinikum Frankfurt Goethe-Universität",
+          "city": "Frankfurt",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitätsklinikum Gießen und Marburg - Gießen, Medizinisch Klinik V",
+          "city": "Gießen",
+          "country": "Germany"
+        },
+        {
+          "facility": "IFI- Institut für interdisziplinäre Medizin",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Medizinische Hochschule Hannover",
+          "city": "Hannover",
+          "country": "Germany"
+        },
+        {
+          "facility": "Liver Study Centre Kiel",
+          "city": "Kiel",
+          "country": "Germany"
+        },
+        {
+          "facility": "Klinikum rechts der Isar der Technischen Universität München",
+          "city": "Munich",
+          "country": "Germany"
+        },
+        {
+          "facility": "St Josephs-Hospital Wiesbaden, Med Klinik 2",
+          "city": "Wiesbaden",
+          "country": "Germany"
+        },
+        {
+          "facility": "Dr. Victor Babes Clinical Hospital for Infectious and Tropical Diseases",
+          "city": "Bucharest",
+          "country": "Romania"
+        },
+        {
+          "facility": "Spitalul Universitar de Urgenta Bucuresti",
+          "city": "Bucharest",
+          "country": "Romania"
+        },
+        {
+          "facility": "Prof. Dr. Agrippa Ionescu Emergency Clinical Hospital",
+          "city": "Bucharest",
+          "country": "Romania"
+        },
+        {
+          "facility": "National Institute of Infectious Diseases \"Prof. Dr. Matei Balş\"",
+          "city": "Bucharest",
+          "country": "Romania"
+        },
+        {
+          "facility": "Fundeni Clinical Institute",
+          "city": "Bucharest",
+          "country": "Romania"
+        },
+        {
+          "facility": "Fundeni Clinical Institute",
+          "city": "Bucharest",
+          "country": "Romania"
+        },
+        {
+          "facility": "Spitalul Clinic Judetean de Urgenta Craiova",
+          "city": "Craiova",
+          "country": "Romania"
+        },
+        {
+          "facility": "GastroMedica SRL",
+          "city": "Iasi",
+          "country": "Romania"
+        },
+        {
+          "facility": "Hospital for Infectious Diseases St. Cuvioasa Paraschiva",
+          "city": "Iasi",
+          "country": "Romania"
+        },
+        {
+          "facility": "Clinical Hospital for Infectious Diseases and Pneumophthisiology Dr. Victor Babe",
+          "city": "Timisoara",
+          "country": "Romania"
+        },
+        {
+          "facility": "Emergency County Clinical Hospital \"Pius Brînzeu\" Timişoara",
+          "city": "Timisoara",
+          "country": "Romania"
+        },
+        {
+          "facility": "Complejo Hospitalario Torrecárdena",
+          "city": "Almeria",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitari Vall d'Hebrón",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Clinic de Barcelona",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Reina Sofía",
+          "city": "Córdoba",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario La Paz. Paseo de la Castellana 261",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Puerta de Hierro - Majadahonda",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Nuestra Señora de Candelaria",
+          "city": "Santa Cruz de Tenerife",
+          "country": "Spain"
+        },
+        {
+          "facility": "Barts Health NHS Trust",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Royal Free London NHS Foundation Trust",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "King's College Hospital NHS Foundation Trust",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-03-21"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:14:38.294032",
+  "run_number": 1,
+  "total_trials_found": 1
+}

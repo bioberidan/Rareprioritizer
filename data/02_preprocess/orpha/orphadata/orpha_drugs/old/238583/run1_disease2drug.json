@@ -1,0 +1,465 @@
+{
+  "disease_name": "Hyperphenylalaninemia due to tetrahydrobiopterin deficiency",
+  "orpha_code": "238583",
+  "drugs": [
+    {
+      "name": "SAPROPTERIN DIPHARMA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/642262?name=238583&mode=orpha&region=",
+      "regulatory_id": "642262",
+      "orpha_substance_code": "ORPHA:238583",
+      "details": [
+        "SAPROPTERIN DIPHARMA(Tradename                        - 16/02/2022)Disease(s) concernedORPHA:716 PhenylketonuriaORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiency",
+        "SAPROPTERIN DIPHARMA(Tradename                        - 16/02/2022)",
+        "(Tradename                        - 16/02/2022)",
+        "Disease(s) concernedORPHA:716 PhenylketonuriaORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/642261?name=238583&mode=orpha&region=&status=all",
+          "text": "SAPROPTERIN DIPHARMA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/716",
+          "text": "ORPHA:716 Phenylketonuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/238583",
+          "text": "ORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/642262?name=238583&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated virus vector serotype SNY001 containing the human PAH gene",
+      "substance_url": "/en/drug/substance/695211?name=238583&mode=orpha&region=&status=all",
+      "substance_id": "695211",
+      "regulatory_url": "/en/drug/regulatory/695273?name=238583&mode=orpha&region=",
+      "regulatory_id": "695273",
+      "orpha_substance_code": "ORPHA:508523",
+      "details": [
+        "Adeno-associated virus vector serotype SNY001 containing the human PAH gene(Medicinal product                        - 26/02/2025)Disease(s) concernedORPHA:79651 Mild hyperphenylalaninemiaORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiencyORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuriaORPHA:508523 Hyperphenylalaninemia due to DNAJC12 deficiency",
+        "Adeno-associated virus vector serotype SNY001 containing the human PAH gene(Medicinal product                        - 26/02/2025)",
+        "(Medicinal product                        - 26/02/2025)",
+        "Disease(s) concernedORPHA:79651 Mild hyperphenylalaninemiaORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiencyORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuriaORPHA:508523 Hyperphenylalaninemia due to DNAJC12 deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/695211?name=238583&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus vector serotype SNY001 containing the human PAH gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79651",
+          "text": "ORPHA:79651 Mild hyperphenylalaninemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/238583",
+          "text": "ORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293284",
+          "text": "ORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/508523",
+          "text": "ORPHA:508523 Hyperphenylalaninemia due to DNAJC12 deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/695273?name=238583&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "2,4-Diamino-5-[[5-(1H-pyrazol-5-yl)-2-thienyl]methyl]-1H-pyrimidin-6-one",
+      "substance_url": "/en/drug/substance/676581?name=238583&mode=orpha&region=&status=all",
+      "substance_id": "676581",
+      "regulatory_url": "/en/drug/regulatory/676596?name=238583&mode=orpha&region=",
+      "regulatory_id": "676596",
+      "orpha_substance_code": "ORPHA:508523",
+      "details": [
+        "2,4-Diamino-5-[[5-(1H-pyrazol-5-yl)-2-thienyl]methyl]-1H-pyrimidin-6-one(Medicinal product                        - 24/05/2024)Disease(s) concernedORPHA:79651 Mild hyperphenylalaninemiaORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiencyORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuriaORPHA:508523 Hyperphenylalaninemia due to DNAJC12 deficiency",
+        "2,4-Diamino-5-[[5-(1H-pyrazol-5-yl)-2-thienyl]methyl]-1H-pyrimidin-6-one(Medicinal product                        - 24/05/2024)",
+        "(Medicinal product                        - 24/05/2024)",
+        "Disease(s) concernedORPHA:79651 Mild hyperphenylalaninemiaORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiencyORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuriaORPHA:508523 Hyperphenylalaninemia due to DNAJC12 deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/676581?name=238583&mode=orpha&region=&status=all",
+          "text": "2,4-Diamino-5-[[5-(1H-pyrazol-5-yl)-2-thienyl]methyl]-1H-pyrimidin-6-one",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79651",
+          "text": "ORPHA:79651 Mild hyperphenylalaninemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/238583",
+          "text": "ORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293284",
+          "text": "ORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/508523",
+          "text": "ORPHA:508523 Hyperphenylalaninemia due to DNAJC12 deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/676596?name=238583&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Escherichia coli, strain Nissle 1917, expressing high affinity phenylalanine transporter, modified phenylalanine ammonia lyase (S92G, H133M, I167K, L432I, V470A) and L-amino acid deaminase",
+      "substance_url": "/en/drug/substance/646345?name=238583&mode=orpha&region=&status=all",
+      "substance_id": "646345",
+      "regulatory_url": "/en/drug/regulatory/646346?name=238583&mode=orpha&region=",
+      "regulatory_id": "646346",
+      "orpha_substance_code": "ORPHA:508523",
+      "details": [
+        "Escherichia coli, strain Nissle 1917, expressing high affinity phenylalanine transporter, modified phenylalanine ammonia lyase (S92G, H133M, I167K, L432I, V470A) and L-amino acid deaminase(Medicinal product                        - 21/04/2023)Disease(s) concernedORPHA:79651 Mild hyperphenylalaninemiaORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiencyORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuriaORPHA:508523 Hyperphenylalaninemia due to DNAJC12 deficiency",
+        "Escherichia coli, strain Nissle 1917, expressing high affinity phenylalanine transporter, modified phenylalanine ammonia lyase (S92G, H133M, I167K, L432I, V470A) and L-amino acid deaminase(Medicinal product                        - 21/04/2023)",
+        "(Medicinal product                        - 21/04/2023)",
+        "Disease(s) concernedORPHA:79651 Mild hyperphenylalaninemiaORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiencyORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuriaORPHA:508523 Hyperphenylalaninemia due to DNAJC12 deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/646345?name=238583&mode=orpha&region=&status=all",
+          "text": "Escherichia coli, strain Nissle 1917, expressing high affinity phenylalanine transporter, modified phenylalanine ammonia lyase (S92G, H133M, I167K, L432I, V470A) and L-amino acid deaminase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79651",
+          "text": "ORPHA:79651 Mild hyperphenylalaninemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/238583",
+          "text": "ORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293284",
+          "text": "ORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/508523",
+          "text": "ORPHA:508523 Hyperphenylalaninemia due to DNAJC12 deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/646346?name=238583&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Sepiapterin",
+      "substance_url": "/en/drug/substance/627485?name=238583&mode=orpha&region=&status=all",
+      "substance_id": "627485",
+      "regulatory_url": "/en/drug/regulatory/627490?name=238583&mode=orpha&region=",
+      "regulatory_id": "627490",
+      "orpha_substance_code": "ORPHA:508523",
+      "details": [
+        "Sepiapterin(Medicinal product                        - 20/05/2021)Disease(s) concernedORPHA:79651 Mild hyperphenylalaninemiaORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiencyORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuriaORPHA:508523 Hyperphenylalaninemia due to DNAJC12 deficiency",
+        "Sepiapterin(Medicinal product                        - 20/05/2021)",
+        "(Medicinal product                        - 20/05/2021)",
+        "Disease(s) concernedORPHA:79651 Mild hyperphenylalaninemiaORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiencyORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuriaORPHA:508523 Hyperphenylalaninemia due to DNAJC12 deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/627485?name=238583&mode=orpha&region=&status=all",
+          "text": "Sepiapterin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79651",
+          "text": "ORPHA:79651 Mild hyperphenylalaninemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/238583",
+          "text": "ORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293284",
+          "text": "ORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/508523",
+          "text": "ORPHA:508523 Hyperphenylalaninemia due to DNAJC12 deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/627490?name=238583&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Phelimin",
+      "substance_url": "/en/drug/substance/485095?name=238583&mode=orpha&region=&status=all",
+      "substance_id": "485095",
+      "regulatory_url": "/en/drug/regulatory/485099?name=238583&mode=orpha&region=",
+      "regulatory_id": "485099",
+      "orpha_substance_code": "ORPHA:238583",
+      "details": [
+        "Phelimin(Medicinal product                        - 18/11/2016)Disease(s) concernedORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiency",
+        "Phelimin(Medicinal product                        - 18/11/2016)",
+        "(Medicinal product                        - 18/11/2016)",
+        "Disease(s) concernedORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/485095?name=238583&mode=orpha&region=&status=all",
+          "text": "Phelimin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/238583",
+          "text": "ORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/485099?name=238583&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Escherichia coli, strain Nissle 1917, expressing high affinity phenylalanine transporter, phenylalanine ammonia lyase and L-amino acid deaminase",
+      "substance_url": "/en/drug/substance/628462?name=238583&mode=orpha&region=&status=all",
+      "substance_id": "628462",
+      "regulatory_url": "/en/drug/regulatory/628464?name=238583&mode=orpha&region=",
+      "regulatory_id": "628464",
+      "orpha_substance_code": "ORPHA:508523",
+      "details": [
+        "Escherichia coli, strain Nissle 1917, expressing high affinity phenylalanine transporter, phenylalanine ammonia lyase and L-amino acid deaminase(Medicinal product                        - 21/06/2022)Disease(s) concernedORPHA:79651 Mild hyperphenylalaninemiaORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiencyORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuriaORPHA:508523 Hyperphenylalaninemia due to DNAJC12 deficiency",
+        "Escherichia coli, strain Nissle 1917, expressing high affinity phenylalanine transporter, phenylalanine ammonia lyase and L-amino acid deaminase(Medicinal product                        - 21/06/2022)",
+        "(Medicinal product                        - 21/06/2022)",
+        "Disease(s) concernedORPHA:79651 Mild hyperphenylalaninemiaORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiencyORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuriaORPHA:508523 Hyperphenylalaninemia due to DNAJC12 deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/628462?name=238583&mode=orpha&region=&status=all",
+          "text": "Escherichia coli, strain Nissle 1917, expressing high affinity phenylalanine transporter, phenylalanine ammonia lyase and L-amino acid deaminase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79651",
+          "text": "ORPHA:79651 Mild hyperphenylalaninemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/238583",
+          "text": "ORPHA:238583 Hyperphenylalaninemia due to tetrahydrobiopterin deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293284",
+          "text": "ORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/508523",
+          "text": "ORPHA:508523 Hyperphenylalaninemia due to DNAJC12 deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/628464?name=238583&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "KUVAN",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/170109?name=238583&mode=orpha&region=",
+      "regulatory_id": "170109",
+      "orpha_substance_code": "ORPHA:293284",
+      "details": [
+        "KUVAN(Tradename                        - 02/12/2008)Disease(s) concernedORPHA:226 Dihydropteridine reductase deficiencyORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria",
+        "KUVAN(Tradename                        - 02/12/2008)",
+        "(Tradename                        - 02/12/2008)",
+        "Disease(s) concernedORPHA:226 Dihydropteridine reductase deficiencyORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/84936?name=238583&mode=orpha&region=&status=all",
+          "text": "KUVAN",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/226",
+          "text": "ORPHA:226 Dihydropteridine reductase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293284",
+          "text": "ORPHA:293284 Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/170109?name=238583&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "KUVAN",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131176?name=238583&mode=orpha&region=",
+      "regulatory_id": "131176",
+      "orpha_substance_code": "ORPHA:1578",
+      "details": [
+        "KUVAN(Tradename                        - 13/12/2007)Disease(s) concernedORPHA:226 Dihydropteridine reductase deficiencyORPHA:716 PhenylketonuriaORPHA:13 6-pyruvoyl-tetrahydropterin synthase deficiencyORPHA:2102 GTP cyclohydrolase I deficiencyORPHA:1578 Pterin-4 alpha-carbinolamine dehydratase deficiency",
+        "KUVAN(Tradename                        - 13/12/2007)",
+        "(Tradename                        - 13/12/2007)",
+        "Disease(s) concernedORPHA:226 Dihydropteridine reductase deficiencyORPHA:716 PhenylketonuriaORPHA:13 6-pyruvoyl-tetrahydropterin synthase deficiencyORPHA:2102 GTP cyclohydrolase I deficiencyORPHA:1578 Pterin-4 alpha-carbinolamine dehydratase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/84936?name=238583&mode=orpha&region=&status=all",
+          "text": "KUVAN",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/226",
+          "text": "ORPHA:226 Dihydropteridine reductase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/716",
+          "text": "ORPHA:716 Phenylketonuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/13",
+          "text": "ORPHA:13 6-pyruvoyl-tetrahydropterin synthase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2102",
+          "text": "ORPHA:2102 GTP cyclohydrolase I deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/1578",
+          "text": "ORPHA:1578 Pterin-4 alpha-carbinolamine dehydratase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131176?name=238583&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:03:37.857702",
+  "run_number": 1,
+  "total_drugs_found": 9,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Hyperphenylalaninemia+due+to+tetrahydrobiopterin+deficiency&orphaCode=238583&name=238583&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Hyperphenylalaninemia due to tetrahydrobiopterin deficiency",
+    "orphaCode": "238583",
+    "name": "238583",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

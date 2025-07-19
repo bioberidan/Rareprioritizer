@@ -1,0 +1,17 @@
+{
+  "disease_name": "COG8-CDG",
+  "orpha_code": "95428",
+  "drugs": [],
+  "processing_timestamp": "2025-07-07T05:59:34.518603",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=COG8-CDG&orphaCode=95428&name=95428&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "COG8-CDG",
+    "orphaCode": "95428",
+    "name": "95428",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

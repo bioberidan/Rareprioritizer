@@ -1,0 +1,170 @@
+{
+  "disease_name": "Encephalopathy due to sulfite oxidase deficiency",
+  "orpha_code": "833",
+  "drugs": [
+    {
+      "name": "Nulibry",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/631432?name=833&mode=orpha&region=",
+      "regulatory_id": "631432",
+      "orpha_substance_code": "ORPHA:308386",
+      "details": [
+        "Nulibry(Tradename                        - 15/09/2022)Disease(s) concernedORPHA:308386 Sulfite oxidase deficiency due to molybdenum cofactor deficiency type A",
+        "Nulibry(Tradename                        - 15/09/2022)",
+        "(Tradename                        - 15/09/2022)",
+        "Disease(s) concernedORPHA:308386 Sulfite oxidase deficiency due to molybdenum cofactor deficiency type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/616452?name=833&mode=orpha&region=&status=all",
+          "text": "Nulibry",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/308386",
+          "text": "ORPHA:308386 Sulfite oxidase deficiency due to molybdenum cofactor deficiency type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/631432?name=833&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Fosdenopterin",
+      "substance_url": "/en/drug/substance/230780?name=833&mode=orpha&region=&status=all",
+      "substance_id": "230780",
+      "regulatory_url": "/en/drug/regulatory/246952?name=833&mode=orpha&region=",
+      "regulatory_id": "246952",
+      "orpha_substance_code": "ORPHA:308386",
+      "details": [
+        "Fosdenopterin(Medicinal product                        - 20/09/2010)Disease(s) concernedORPHA:308386 Sulfite oxidase deficiency due to molybdenum cofactor deficiency type A",
+        "Fosdenopterin(Medicinal product                        - 20/09/2010)",
+        "(Medicinal product                        - 20/09/2010)",
+        "Disease(s) concernedORPHA:308386 Sulfite oxidase deficiency due to molybdenum cofactor deficiency type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/230780?name=833&mode=orpha&region=&status=all",
+          "text": "Fosdenopterin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/308386",
+          "text": "ORPHA:308386 Sulfite oxidase deficiency due to molybdenum cofactor deficiency type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/246952?name=833&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Nulibry",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/623071?name=833&mode=orpha&region=",
+      "regulatory_id": "623071",
+      "orpha_substance_code": "ORPHA:308386",
+      "details": [
+        "Nulibry(Tradename                        - 26/02/2021)Disease(s) concernedORPHA:308386 Sulfite oxidase deficiency due to molybdenum cofactor deficiency type A",
+        "Nulibry(Tradename                        - 26/02/2021)",
+        "(Tradename                        - 26/02/2021)",
+        "Disease(s) concernedORPHA:308386 Sulfite oxidase deficiency due to molybdenum cofactor deficiency type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/616452?name=833&mode=orpha&region=&status=all",
+          "text": "Nulibry",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/308386",
+          "text": "ORPHA:308386 Sulfite oxidase deficiency due to molybdenum cofactor deficiency type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/623071?name=833&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Fosdenopterin",
+      "substance_url": "/en/drug/substance/230780?name=833&mode=orpha&region=&status=all",
+      "substance_id": "230780",
+      "regulatory_url": "/en/drug/regulatory/246956?name=833&mode=orpha&region=",
+      "regulatory_id": "246956",
+      "orpha_substance_code": "ORPHA:99732",
+      "details": [
+        "Fosdenopterin(Medicinal product                        - 05/11/2009)Disease(s) concernedORPHA:99732 Sulfite oxidase deficiency due to molybdenum cofactor deficiency",
+        "Fosdenopterin(Medicinal product                        - 05/11/2009)",
+        "(Medicinal product                        - 05/11/2009)",
+        "Disease(s) concernedORPHA:99732 Sulfite oxidase deficiency due to molybdenum cofactor deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/230780?name=833&mode=orpha&region=&status=all",
+          "text": "Fosdenopterin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/99732",
+          "text": "ORPHA:99732 Sulfite oxidase deficiency due to molybdenum cofactor deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/246956?name=833&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:00:36.985176",
+  "run_number": 1,
+  "total_drugs_found": 4,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Encephalopathy+due+to+sulfite+oxidase+deficiency&orphaCode=833&name=833&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Encephalopathy due to sulfite oxidase deficiency",
+    "orphaCode": "833",
+    "name": "833",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

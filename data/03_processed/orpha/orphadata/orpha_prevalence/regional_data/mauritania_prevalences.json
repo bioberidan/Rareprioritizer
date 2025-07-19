@@ -1,0 +1,18 @@
+[
+  {
+    "prevalence_id": "17827",
+    "orpha_code": "2583",
+    "disease_name": "Mycetoma",
+    "source": "24244780[PMID]_ORPHANET",
+    "prevalence_type": "Point prevalence",
+    "prevalence_class": "1-9 / 100 000",
+    "qualification": "Value and class",
+    "geographic_area": "Mauritania",
+    "validation_status": "Validated",
+    "reliability_score": 10.0,
+    "is_fiable": true,
+    "per_million_estimate": 50.0,
+    "confidence_level": "high",
+    "estimate_source": "class_midpoint"
+  }
+]

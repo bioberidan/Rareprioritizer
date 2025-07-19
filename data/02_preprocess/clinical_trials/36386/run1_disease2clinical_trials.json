@@ -1,0 +1,226 @@
+{
+  "disease_name": "Hereditary sensory and autonomic neuropathy type 1",
+  "orpha_code": "36386",
+  "trials": [
+    {
+      "nctId": "NCT04561518",
+      "briefTitle": "ConTTRibute: A Global Observational Study of Patients With Transthyretin (TTR)-Mediated Amyloidosis (ATTR Amyloidosis)",
+      "officialTitle": "ConTTRibute: A Global Observational Multicenter Long-Term Study of Patients With Transthyretin (TTR)-Mediated Amyloidosis (ATTR Amyloidosis)",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Transthyretin-Mediated Amyloidosis",
+        "ATTR Amyloidosis"
+      ],
+      "interventions": [],
+      "enrollment": 1500,
+      "locations": [
+        {
+          "facility": "Clinical Trial Site",
+          "city": "La Jolla",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Jacksonville",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Iowa City",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Kansas City",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Baltimore",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Durham",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Columbus",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Austin",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Salvador",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Sao Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Sofia",
+          "country": "Bulgaria"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Arhus",
+          "country": "Denmark"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Copenhagen",
+          "country": "Denmark"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Bordeaux",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Bron",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Créteil",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Le Kremlin-Bicêtre",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Marseille",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Berlin",
+          "country": "Germany"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Giessen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Hanover",
+          "country": "Germany"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Jerusalem",
+          "country": "Israel"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Ramat Gan",
+          "country": "Israel"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Naples",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Palermo",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Groningen",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Lisbon",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Porto",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Palma",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "New Taipei City",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Taipei",
+          "country": "Taiwan"
+        }
+      ],
+      "lastUpdateDate": "2025-06-18"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:15:20.866293",
+  "run_number": 1,
+  "total_trials_found": 1
+}

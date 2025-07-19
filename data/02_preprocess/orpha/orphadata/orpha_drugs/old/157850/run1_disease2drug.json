@@ -1,0 +1,213 @@
+{
+  "disease_name": "Pantothenate kinase-associated neurodegeneration",
+  "orpha_code": "157850",
+  "drugs": [
+    {
+      "name": "S-acetyl-(S)-4'-phosphopantetheine, calcium salt",
+      "substance_url": "/en/drug/substance/459199?name=157850&mode=orpha&region=&status=all",
+      "substance_id": "459199",
+      "regulatory_url": "/en/drug/regulatory/459203?name=157850&mode=orpha&region=",
+      "regulatory_id": "459203",
+      "orpha_substance_code": "ORPHA:157850",
+      "details": [
+        "S-acetyl-(S)-4'-phosphopantetheine, calcium salt(Medicinal product                        - 28/04/2016)Disease(s) concernedORPHA:157850 Pantothenate kinase-associated neurodegeneration",
+        "S-acetyl-(S)-4'-phosphopantetheine, calcium salt(Medicinal product                        - 28/04/2016)",
+        "(Medicinal product                        - 28/04/2016)",
+        "Disease(s) concernedORPHA:157850 Pantothenate kinase-associated neurodegeneration",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/459199?name=157850&mode=orpha&region=&status=all",
+          "text": "S-acetyl-(S)-4'-phosphopantetheine, calcium salt",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/157850",
+          "text": "ORPHA:157850 Pantothenate kinase-associated neurodegeneration",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/459203?name=157850&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "1-(4-(6-chloropyridazin-3-yl)piperazin-1-yl)-2-(4-cyclopropyl-3-fluorophenyl)ethan-1-one",
+      "substance_url": "/en/drug/substance/627847?name=157850&mode=orpha&region=&status=all",
+      "substance_id": "627847",
+      "regulatory_url": "/en/drug/regulatory/627850?name=157850&mode=orpha&region=",
+      "regulatory_id": "627850",
+      "orpha_substance_code": "ORPHA:157850",
+      "details": [
+        "1-(4-(6-chloropyridazin-3-yl)piperazin-1-yl)-2-(4-cyclopropyl-3-fluorophenyl)ethan-1-one(Medicinal product                        - 19/07/2021)Disease(s) concernedORPHA:157850 Pantothenate kinase-associated neurodegeneration",
+        "1-(4-(6-chloropyridazin-3-yl)piperazin-1-yl)-2-(4-cyclopropyl-3-fluorophenyl)ethan-1-one(Medicinal product                        - 19/07/2021)",
+        "(Medicinal product                        - 19/07/2021)",
+        "Disease(s) concernedORPHA:157850 Pantothenate kinase-associated neurodegeneration",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/627847?name=157850&mode=orpha&region=&status=all",
+          "text": "1-(4-(6-chloropyridazin-3-yl)piperazin-1-yl)-2-(4-cyclopropyl-3-fluorophenyl)ethan-1-one",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/157850",
+          "text": "ORPHA:157850 Pantothenate kinase-associated neurodegeneration",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/627850?name=157850&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Fosmetpantotenate",
+      "substance_url": "/en/drug/substance/456120?name=157850&mode=orpha&region=&status=all",
+      "substance_id": "456120",
+      "regulatory_url": "/en/drug/regulatory/456121?name=157850&mode=orpha&region=",
+      "regulatory_id": "456121",
+      "orpha_substance_code": "ORPHA:157850",
+      "details": [
+        "Fosmetpantotenate(Medicinal product                        - 17/02/2016)Disease(s) concernedORPHA:157850 Pantothenate kinase-associated neurodegeneration",
+        "Fosmetpantotenate(Medicinal product                        - 17/02/2016)",
+        "(Medicinal product                        - 17/02/2016)",
+        "Disease(s) concernedORPHA:157850 Pantothenate kinase-associated neurodegeneration",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/456120?name=157850&mode=orpha&region=&status=all",
+          "text": "Fosmetpantotenate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/157850",
+          "text": "ORPHA:157850 Pantothenate kinase-associated neurodegeneration",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/456121?name=157850&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Small molecule activator of pantothenate kinases",
+      "substance_url": "/en/drug/substance/651182?name=157850&mode=orpha&region=&status=all",
+      "substance_id": "651182",
+      "regulatory_url": "/en/drug/regulatory/651184?name=157850&mode=orpha&region=",
+      "regulatory_id": "651184",
+      "orpha_substance_code": "ORPHA:157850",
+      "details": [
+        "Small molecule activator of pantothenate kinases(Medicinal product                        - 07/10/2020)Disease(s) concernedORPHA:157850 Pantothenate kinase-associated neurodegeneration",
+        "Small molecule activator of pantothenate kinases(Medicinal product                        - 07/10/2020)",
+        "(Medicinal product                        - 07/10/2020)",
+        "Disease(s) concernedORPHA:157850 Pantothenate kinase-associated neurodegeneration",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/651182?name=157850&mode=orpha&region=&status=all",
+          "text": "Small molecule activator of pantothenate kinases",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/157850",
+          "text": "ORPHA:157850 Pantothenate kinase-associated neurodegeneration",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/651184?name=157850&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Deferiprone",
+      "substance_url": "/en/drug/substance/42568?name=157850&mode=orpha&region=&status=all",
+      "substance_id": "42568",
+      "regulatory_url": "/en/drug/regulatory/520903?name=157850&mode=orpha&region=",
+      "regulatory_id": "520903",
+      "orpha_substance_code": "ORPHA:385",
+      "details": [
+        "Deferiprone(Medicinal product                        - 27/06/2018)Disease(s) concernedORPHA:385 Neurodegeneration with brain iron accumulation",
+        "Deferiprone(Medicinal product                        - 27/06/2018)",
+        "(Medicinal product                        - 27/06/2018)",
+        "Disease(s) concernedORPHA:385 Neurodegeneration with brain iron accumulation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/42568?name=157850&mode=orpha&region=&status=all",
+          "text": "Deferiprone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/385",
+          "text": "ORPHA:385 Neurodegeneration with brain iron accumulation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/520903?name=157850&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:04:21.348297",
+  "run_number": 1,
+  "total_drugs_found": 5,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Pantothenate+kinase-associated+neurodegeneration&orphaCode=157850&name=157850&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Pantothenate kinase-associated neurodegeneration",
+    "orphaCode": "157850",
+    "name": "157850",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

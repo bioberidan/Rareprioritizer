@@ -1,0 +1,1125 @@
+{
+  "disease_name": "Glycogen storage disease due to acid maltase deficiency",
+  "orpha_code": "365",
+  "drugs": [
+    {
+      "name": "NEXVIADYME",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/642385?name=365&mode=orpha&region=",
+      "regulatory_id": "642385",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "NEXVIADYME(Tradename                        - 24/06/2022)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "NEXVIADYME(Tradename                        - 24/06/2022)",
+        "(Tradename                        - 24/06/2022)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/642384?name=365&mode=orpha&region=&status=all",
+          "text": "NEXVIADYME",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/642385?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "MYOZYME",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131364?name=365&mode=orpha&region=",
+      "regulatory_id": "131364",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "MYOZYME(Tradename                        - 29/03/2006)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "MYOZYME(Tradename                        - 29/03/2006)",
+        "(Tradename                        - 29/03/2006)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/71308?name=365&mode=orpha&region=&status=all",
+          "text": "MYOZYME",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131364?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Autologous CD34+ cells transduced with a lentiviral vector containing the human GAA gene",
+      "substance_url": "/en/drug/substance/642483?name=365&mode=orpha&region=&status=all",
+      "substance_id": "642483",
+      "regulatory_url": "/en/drug/regulatory/642481?name=365&mode=orpha&region=",
+      "regulatory_id": "642481",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Autologous CD34+ cells transduced with a lentiviral vector containing the human GAA gene(Medicinal product                        - 15/02/2023)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Autologous CD34+ cells transduced with a lentiviral vector containing the human GAA gene(Medicinal product                        - 15/02/2023)",
+        "(Medicinal product                        - 15/02/2023)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/642483?name=365&mode=orpha&region=&status=all",
+          "text": "Autologous CD34+ cells transduced with a lentiviral vector containing the human GAA gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/642481?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant adeno-associated viral vector containing a bioengineered capsid serotype AAV-rh74 and a codon-optimised expression cassette to drive the expression of a secretable form of human acid alpha-glucosidase",
+      "substance_url": "/en/drug/substance/563469?name=365&mode=orpha&region=&status=all",
+      "substance_id": "563469",
+      "regulatory_url": "/en/drug/regulatory/563470?name=365&mode=orpha&region=",
+      "regulatory_id": "563470",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Recombinant adeno-associated viral vector containing a bioengineered capsid serotype AAV-rh74 and a codon-optimised expression cassette to drive the expression of a secretable form of human acid alpha-glucosidase(Medicinal product                        - 28/06/2019)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Recombinant adeno-associated viral vector containing a bioengineered capsid serotype AAV-rh74 and a codon-optimised expression cassette to drive the expression of a secretable form of human acid alpha-glucosidase(Medicinal product                        - 28/06/2019)",
+        "(Medicinal product                        - 28/06/2019)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/563469?name=365&mode=orpha&region=&status=all",
+          "text": "Recombinant adeno-associated viral vector containing a bioengineered capsid serotype AAV-rh74 and a codon-optimised expression cassette to drive the expression of a secretable form of human acid alpha-glucosidase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/563470?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant human acid alpha-glucosidase conjugated with mannose-6-phosphate analogues",
+      "substance_url": "/en/drug/substance/480884?name=365&mode=orpha&region=&status=all",
+      "substance_id": "480884",
+      "regulatory_url": "/en/drug/regulatory/480894?name=365&mode=orpha&region=",
+      "regulatory_id": "480894",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Recombinant human acid alpha-glucosidase conjugated with mannose-6-phosphate analogues(Medicinal product                        - 29/08/2016)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Recombinant human acid alpha-glucosidase conjugated with mannose-6-phosphate analogues(Medicinal product                        - 29/08/2016)",
+        "(Medicinal product                        - 29/08/2016)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/480884?name=365&mode=orpha&region=&status=all",
+          "text": "Recombinant human acid alpha-glucosidase conjugated with mannose-6-phosphate analogues",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/480894?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant adeno-associated viral vector containing human acid alfa-glucosidase-gene",
+      "substance_url": "/en/drug/substance/95343?name=365&mode=orpha&region=&status=all",
+      "substance_id": "95343",
+      "regulatory_url": "/en/drug/regulatory/327150?name=365&mode=orpha&region=",
+      "regulatory_id": "327150",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Recombinant adeno-associated viral vector containing human acid alfa-glucosidase-gene(Medicinal product                        - 04/07/2012)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Recombinant adeno-associated viral vector containing human acid alfa-glucosidase-gene(Medicinal product                        - 04/07/2012)",
+        "(Medicinal product                        - 04/07/2012)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/95343?name=365&mode=orpha&region=&status=all",
+          "text": "Recombinant adeno-associated viral vector containing human acid alfa-glucosidase-gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/327150?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Glycosylation independent lysosomal targeting (GILT)-tagged recombinant human acid alpha glucosidase",
+      "substance_url": "/en/drug/substance/275665?name=365&mode=orpha&region=&status=all",
+      "substance_id": "275665",
+      "regulatory_url": "/en/drug/regulatory/286433?name=365&mode=orpha&region=",
+      "regulatory_id": "286433",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Glycosylation independent lysosomal targeting (GILT)-tagged recombinant human acid alpha glucosidase(Medicinal product                        - 27/10/2011)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Glycosylation independent lysosomal targeting (GILT)-tagged recombinant human acid alpha glucosidase(Medicinal product                        - 27/10/2011)",
+        "(Medicinal product                        - 27/10/2011)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/275665?name=365&mode=orpha&region=&status=all",
+          "text": "Glycosylation independent lysosomal targeting (GILT)-tagged recombinant human acid alpha glucosidase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/286433?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Miglustat",
+      "substance_url": "/en/drug/substance/65934?name=365&mode=orpha&region=&status=all",
+      "substance_id": "65934",
+      "regulatory_url": "/en/drug/regulatory/558895?name=365&mode=orpha&region=",
+      "regulatory_id": "558895",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Miglustat(Medicinal product                        - 11/01/2019)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Miglustat(Medicinal product                        - 11/01/2019)",
+        "(Medicinal product                        - 11/01/2019)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/65934?name=365&mode=orpha&region=&status=all",
+          "text": "Miglustat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/558895?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector serotype 8 containing the human acid alpha-glucosidase gene",
+      "substance_url": "/en/drug/substance/511722?name=365&mode=orpha&region=&status=all",
+      "substance_id": "511722",
+      "regulatory_url": "/en/drug/regulatory/511723?name=365&mode=orpha&region=",
+      "regulatory_id": "511723",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Adeno-associated viral vector serotype 8 containing the human acid alpha-glucosidase gene(Medicinal product                        - 16/04/2018)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Adeno-associated viral vector serotype 8 containing the human acid alpha-glucosidase gene(Medicinal product                        - 16/04/2018)",
+        "(Medicinal product                        - 16/04/2018)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/511722?name=365&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector serotype 8 containing the human acid alpha-glucosidase gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/511723?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Cipaglucosidase alfa",
+      "substance_url": "/en/drug/substance/511219?name=365&mode=orpha&region=&status=all",
+      "substance_id": "511219",
+      "regulatory_url": "/en/drug/regulatory/511220?name=365&mode=orpha&region=",
+      "regulatory_id": "511220",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Cipaglucosidase alfa(Medicinal product                        - 21/03/2018)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Cipaglucosidase alfa(Medicinal product                        - 21/03/2018)",
+        "(Medicinal product                        - 21/03/2018)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/511219?name=365&mode=orpha&region=&status=all",
+          "text": "Cipaglucosidase alfa",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/511220?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant human alpha-glucosidase conjugated with multiple copies of synthetic bismannose-6-phosphate-tetra-mannose glycan",
+      "substance_url": "/en/drug/substance/392969?name=365&mode=orpha&region=&status=all",
+      "substance_id": "392969",
+      "regulatory_url": "/en/drug/regulatory/401794?name=365&mode=orpha&region=",
+      "regulatory_id": "401794",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Recombinant human alpha-glucosidase conjugated with multiple copies of synthetic bismannose-6-phosphate-tetra-mannose glycan(Medicinal product                        - 26/03/2014)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Recombinant human alpha-glucosidase conjugated with multiple copies of synthetic bismannose-6-phosphate-tetra-mannose glycan(Medicinal product                        - 26/03/2014)",
+        "(Medicinal product                        - 26/03/2014)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/392969?name=365&mode=orpha&region=&status=all",
+          "text": "Recombinant human alpha-glucosidase conjugated with multiple copies of synthetic bismannose-6-phosphate-tetra-mannose glycan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/401794?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant adeno-associated viral vector containing human acid alfa-glucosidase-gene",
+      "substance_url": "/en/drug/substance/95343?name=365&mode=orpha&region=&status=all",
+      "substance_id": "95343",
+      "regulatory_url": "/en/drug/regulatory/133680?name=365&mode=orpha&region=",
+      "regulatory_id": "133680",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Recombinant adeno-associated viral vector containing human acid alfa-glucosidase-gene(Medicinal product                        - 09/07/2007)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Recombinant adeno-associated viral vector containing human acid alfa-glucosidase-gene(Medicinal product                        - 09/07/2007)",
+        "(Medicinal product                        - 09/07/2007)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/95343?name=365&mode=orpha&region=&status=all",
+          "text": "Recombinant adeno-associated viral vector containing human acid alfa-glucosidase-gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/133680?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Alglucosidase alfa",
+      "substance_url": "/en/drug/substance/58406?name=365&mode=orpha&region=&status=all",
+      "substance_id": "58406",
+      "regulatory_url": "/en/drug/regulatory/133703?name=365&mode=orpha&region=",
+      "regulatory_id": "133703",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Alglucosidase alfa(Medicinal product                        - 14/02/2001)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Alglucosidase alfa(Medicinal product                        - 14/02/2001)",
+        "(Medicinal product                        - 14/02/2001)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/58406?name=365&mode=orpha&region=&status=all",
+          "text": "Alglucosidase alfa",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/133703?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Nexviazyme",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/622306?name=365&mode=orpha&region=",
+      "regulatory_id": "622306",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Nexviazyme(Tradename                        - 06/08/2021)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Nexviazyme(Tradename                        - 06/08/2021)",
+        "(Tradename                        - 06/08/2021)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/622305?name=365&mode=orpha&region=&status=all",
+          "text": "Nexviazyme",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/622306?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "LUMIZYME",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/365791?name=365&mode=orpha&region=",
+      "regulatory_id": "365791",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "LUMIZYME(Tradename                        - 24/05/2010)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "LUMIZYME(Tradename                        - 24/05/2010)",
+        "(Tradename                        - 24/05/2010)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/365790?name=365&mode=orpha&region=&status=all",
+          "text": "LUMIZYME",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/365791?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant adeno-associated virus serotype 9 vector expressing codon optimized human GAA gene",
+      "substance_url": "/en/drug/substance/695340?name=365&mode=orpha&region=&status=all",
+      "substance_id": "695340",
+      "regulatory_url": "/en/drug/regulatory/695572?name=365&mode=orpha&region=",
+      "regulatory_id": "695572",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Recombinant adeno-associated virus serotype 9 vector expressing codon optimized human GAA gene(Medicinal product                        - 28/02/2025)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Recombinant adeno-associated virus serotype 9 vector expressing codon optimized human GAA gene(Medicinal product                        - 28/02/2025)",
+        "(Medicinal product                        - 28/02/2025)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/695340?name=365&mode=orpha&region=&status=all",
+          "text": "Recombinant adeno-associated virus serotype 9 vector expressing codon optimized human GAA gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/695572?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Selective inhibitor of GYS1",
+      "substance_url": "/en/drug/substance/630481?name=365&mode=orpha&region=&status=all",
+      "substance_id": "630481",
+      "regulatory_url": "/en/drug/regulatory/630485?name=365&mode=orpha&region=",
+      "regulatory_id": "630485",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Selective inhibitor of GYS1(Medicinal product                        - 12/08/2022)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Selective inhibitor of GYS1(Medicinal product                        - 12/08/2022)",
+        "(Medicinal product                        - 12/08/2022)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/630481?name=365&mode=orpha&region=&status=all",
+          "text": "Selective inhibitor of GYS1",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/630485?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "CD71 Binding Centyrin-GYS1 siRNA",
+      "substance_url": "/en/drug/substance/644142?name=365&mode=orpha&region=&status=all",
+      "substance_id": "644142",
+      "regulatory_url": "/en/drug/regulatory/644143?name=365&mode=orpha&region=",
+      "regulatory_id": "644143",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "CD71 Binding Centyrin-GYS1 siRNA(Medicinal product                        - 01/08/2022)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "CD71 Binding Centyrin-GYS1 siRNA(Medicinal product                        - 01/08/2022)",
+        "(Medicinal product                        - 01/08/2022)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/644142?name=365&mode=orpha&region=&status=all",
+          "text": "CD71 Binding Centyrin-GYS1 siRNA",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/644143?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Clenbuterol",
+      "substance_url": "/en/drug/substance/371630?name=365&mode=orpha&region=&status=all",
+      "substance_id": "371630",
+      "regulatory_url": "/en/drug/regulatory/412905?name=365&mode=orpha&region=",
+      "regulatory_id": "412905",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Clenbuterol(Medicinal product                        - 27/10/2014)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Clenbuterol(Medicinal product                        - 27/10/2014)",
+        "(Medicinal product                        - 27/10/2014)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/371630?name=365&mode=orpha&region=&status=all",
+          "text": "Clenbuterol",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/412905?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Glycosylation independent lysosomal targeting (GILT)-tagged recombinant human acid alpha glucosidase",
+      "substance_url": "/en/drug/substance/275665?name=365&mode=orpha&region=&status=all",
+      "substance_id": "275665",
+      "regulatory_url": "/en/drug/regulatory/286434?name=365&mode=orpha&region=",
+      "regulatory_id": "286434",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Glycosylation independent lysosomal targeting (GILT)-tagged recombinant human acid alpha glucosidase(Medicinal product                        - 19/08/1997)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Glycosylation independent lysosomal targeting (GILT)-tagged recombinant human acid alpha glucosidase(Medicinal product                        - 19/08/1997)",
+        "(Medicinal product                        - 19/08/1997)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/275665?name=365&mode=orpha&region=&status=all",
+          "text": "Glycosylation independent lysosomal targeting (GILT)-tagged recombinant human acid alpha glucosidase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/286434?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Alglucosidase alfa",
+      "substance_url": "/en/drug/substance/58406?name=365&mode=orpha&region=&status=all",
+      "substance_id": "58406",
+      "regulatory_url": "/en/drug/regulatory/131984?name=365&mode=orpha&region=",
+      "regulatory_id": "131984",
+      "orpha_substance_code": "ORPHA:365",
+      "details": [
+        "Alglucosidase alfa(Medicinal product                        - 19/08/1997)Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "Alglucosidase alfa(Medicinal product                        - 19/08/1997)",
+        "(Medicinal product                        - 19/08/1997)",
+        "Disease(s) concernedORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/58406?name=365&mode=orpha&region=&status=all",
+          "text": "Alglucosidase alfa",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/365",
+          "text": "ORPHA:365 Glycogen storage disease due to acid maltase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131984?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "OPFOLDA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/653357?name=365&mode=orpha&region=",
+      "regulatory_id": "653357",
+      "orpha_substance_code": "ORPHA:420429",
+      "details": [
+        "OPFOLDA(Tradename                        - 26/06/2023)Disease(s) concernedORPHA:420429 Glycogen storage disease due to acid maltase deficiency, late-onset",
+        "OPFOLDA(Tradename                        - 26/06/2023)",
+        "(Tradename                        - 26/06/2023)",
+        "Disease(s) concernedORPHA:420429 Glycogen storage disease due to acid maltase deficiency, late-onset",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/653356?name=365&mode=orpha&region=&status=all",
+          "text": "OPFOLDA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/420429",
+          "text": "ORPHA:420429 Glycogen storage disease due to acid maltase deficiency, late-onset",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/653357?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency, late-onset\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "POMBILITI",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/650359?name=365&mode=orpha&region=",
+      "regulatory_id": "650359",
+      "orpha_substance_code": "ORPHA:420429",
+      "details": [
+        "POMBILITI(Tradename                        - 20/03/2023)Disease(s) concernedORPHA:420429 Glycogen storage disease due to acid maltase deficiency, late-onset",
+        "POMBILITI(Tradename                        - 20/03/2023)",
+        "(Tradename                        - 20/03/2023)",
+        "Disease(s) concernedORPHA:420429 Glycogen storage disease due to acid maltase deficiency, late-onset",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/650357?name=365&mode=orpha&region=&status=all",
+          "text": "POMBILITI",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/420429",
+          "text": "ORPHA:420429 Glycogen storage disease due to acid maltase deficiency, late-onset",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/650359?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency, late-onset\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "POMBILITI",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/660349?name=365&mode=orpha&region=",
+      "regulatory_id": "660349",
+      "orpha_substance_code": "ORPHA:420429",
+      "details": [
+        "POMBILITI(Tradename                        - 28/09/2023)Disease(s) concernedORPHA:420429 Glycogen storage disease due to acid maltase deficiency, late-onset",
+        "POMBILITI(Tradename                        - 28/09/2023)",
+        "(Tradename                        - 28/09/2023)",
+        "Disease(s) concernedORPHA:420429 Glycogen storage disease due to acid maltase deficiency, late-onset",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/650357?name=365&mode=orpha&region=&status=all",
+          "text": "POMBILITI",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/420429",
+          "text": "ORPHA:420429 Glycogen storage disease due to acid maltase deficiency, late-onset",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/660349?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency, late-onset\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "OPFOLDA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/660357?name=365&mode=orpha&region=",
+      "regulatory_id": "660357",
+      "orpha_substance_code": "ORPHA:420429",
+      "details": [
+        "OPFOLDA(Tradename                        - 28/09/2023)Disease(s) concernedORPHA:420429 Glycogen storage disease due to acid maltase deficiency, late-onset",
+        "OPFOLDA(Tradename                        - 28/09/2023)",
+        "(Tradename                        - 28/09/2023)",
+        "Disease(s) concernedORPHA:420429 Glycogen storage disease due to acid maltase deficiency, late-onset",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/653356?name=365&mode=orpha&region=&status=all",
+          "text": "OPFOLDA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/420429",
+          "text": "ORPHA:420429 Glycogen storage disease due to acid maltase deficiency, late-onset",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/660357?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency, late-onset\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "MYOZYME",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131152?name=365&mode=orpha&region=",
+      "regulatory_id": "131152",
+      "orpha_substance_code": "ORPHA:308552",
+      "details": [
+        "MYOZYME(Tradename                        - 28/04/2006)Disease(s) concernedORPHA:308552 Glycogen storage disease due to acid maltase deficiency, infantile onset",
+        "MYOZYME(Tradename                        - 28/04/2006)",
+        "(Tradename                        - 28/04/2006)",
+        "Disease(s) concernedORPHA:308552 Glycogen storage disease due to acid maltase deficiency, infantile onset",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/71308?name=365&mode=orpha&region=&status=all",
+          "text": "MYOZYME",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/308552",
+          "text": "ORPHA:308552 Glycogen storage disease due to acid maltase deficiency, infantile onset",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131152?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "due to acid maltase deficiency, infantile onset\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=365&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=365&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Burixafor(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Burixafor(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689505?name=365&mode=orpha&region=&status=all",
+          "text": "Burixafor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689915?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=365&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=365&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Treosulfan(Medicinal product                        - 08/04/2015)Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Treosulfan(Medicinal product                        - 08/04/2015)",
+        "(Medicinal product                        - 08/04/2015)",
+        "Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90799?name=365&mode=orpha&region=&status=all",
+          "text": "Treosulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/213500",
+          "text": "ORPHA:213500 Rare ovarian cancer",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136690?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=365&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=365&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "busulfan(Medicinal product                        - 21/04/1994)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "busulfan(Medicinal product                        - 21/04/1994)",
+        "(Medicinal product                        - 21/04/1994)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/46335?name=365&mode=orpha&region=&status=all",
+          "text": "busulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131973?name=365&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:00:14.378069",
+  "run_number": 1,
+  "total_drugs_found": 29,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Glycogen+storage+disease+due+to+acid+maltase+deficiency&orphaCode=365&name=365&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Glycogen storage disease due to acid maltase deficiency",
+    "orphaCode": "365",
+    "name": "365",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

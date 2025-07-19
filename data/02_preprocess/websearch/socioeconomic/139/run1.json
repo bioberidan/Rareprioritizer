@@ -1,0 +1,38 @@
+{
+  "orphacode": "139",
+  "disease_name": "CHILD syndrome",
+  "socioeconomic_impact_studies": [
+    {
+      "cost": 0,
+      "measure": "Qualitative description of severe unilateral skin lesions, limb defects, organ involvement, requiring lifelong multidisciplinary care",
+      "label": "The CHILD syndrome. Congenital hemidysplasia with ichthyosiform erythroderma and limb defects",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/7408908/",
+      "country": "Germany",
+      "year": "1980"
+    },
+    {
+      "cost": 0,
+      "measure": "Qualitative case report of skin lesions improvement and surgical interventions",
+      "label": "Novel variant in NSDHL gene associated with CHILD syndrome and syndactyly- a case report",
+      "source": "https://bmcmedgenet.biomedcentral.com/articles/10.1186/s12881-020-01094-y",
+      "country": "Sri Lanka",
+      "year": "2020"
+    },
+    {
+      "cost": 0,
+      "measure": "Qualitative report on topical simvastatin treatment and chronic skin management",
+      "label": "5% Simvastatin Ointment as Treatment for Congenital Hemidysplasia with Ichthyosiform Erythroderma and Limb Defects (CHILD) Syndrome in a 4-year-old Female: A Case Report",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11484598/",
+      "country": "Philippines",
+      "year": "2024"
+    }
+  ],
+  "score": 3,
+  "evidence_level": "Low evidence",
+  "justification": "No peer-reviewed cost-of-illness studies were found; evidence is limited to qualitative case reports describing severe unilateral skin lesions, limb defects, and chronic management needs indicating high clinical burden; therefore, a low evidence score was assigned.",
+  "metadata": {
+    "processing_timestamp": "2025-07-18T19:18:56.523888",
+    "run_number": 1,
+    "orphacode": "139"
+  }
+}

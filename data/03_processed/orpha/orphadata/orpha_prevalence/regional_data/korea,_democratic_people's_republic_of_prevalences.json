@@ -1,0 +1,18 @@
+[
+  {
+    "prevalence_id": "17883",
+    "orpha_code": "650077",
+    "disease_name": "Genetic central precocious puberty in female",
+    "source": "38857188[PMID]_26539988[PMID]_ORPHANET",
+    "prevalence_type": "Point prevalence",
+    "prevalence_class": "1-9 / 100 000",
+    "qualification": "Value and class",
+    "geographic_area": "Korea, Democratic People's Republic of",
+    "validation_status": "Validated",
+    "reliability_score": 10.0,
+    "is_fiable": true,
+    "per_million_estimate": 50.0,
+    "confidence_level": "high",
+    "estimate_source": "class_midpoint"
+  }
+]

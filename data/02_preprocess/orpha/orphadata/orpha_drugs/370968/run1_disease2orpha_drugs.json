@@ -1,0 +1,42 @@
+{
+  "disease_name": "Congenital muscular dystrophy with intellectual disability",
+  "orpha_code": "370968",
+  "drugs": [
+    {
+      "name": "Human laminin-111, recombinant",
+      "substance_url": "/en/drug/substance/604968?name=370968&mode=orpha&region=&status=all",
+      "substance_id": "604968",
+      "regulatory_url": "/en/drug/regulatory/604969?name=370968&mode=orpha&region=",
+      "regulatory_id": "604969",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Insulin-like Growth Factor-1",
+      "substance_url": "/en/drug/substance/632336?name=370968&mode=orpha&region=&status=all",
+      "substance_id": "632336",
+      "regulatory_url": "/en/drug/regulatory/632337?name=370968&mode=orpha&region=",
+      "regulatory_id": "632337",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:38:30.633121",
+  "run_number": 1,
+  "total_drugs_found": 2,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Congenital+muscular+dystrophy+with+intellectual+disability&orphaCode=370968&name=370968&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Congenital muscular dystrophy with intellectual disability",
+    "orphaCode": "370968",
+    "name": "370968",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

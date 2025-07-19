@@ -1,0 +1,43 @@
+{
+  "disease_name": "Mucopolysaccharidosis type 3",
+  "orpha_code": "581",
+  "processing_timestamp": "2025-07-16T08:15:15.626278",
+  "run_number": 1,
+  "analysis_type": "socioeconomic",
+  "processing_duration": 68.61,
+  "success": true,
+  "error_details": null,
+  "socioeconomic_analysis": {
+    "orphacode": "581",
+    "disease_name": "Mucopolysaccharidosis type 3",
+    "socioeconomic_impact_studies": [
+      {
+        "cost": 94384,
+        "measure": "Mean total annual cost per patient (reference year 2012), including direct, indirect and patient-incurred costs",
+        "label": "Social/economic costs and health-related quality of life of mucopolysaccharidosis patients and their caregivers in Europe",
+        "source": "https://pubmed.ncbi.nlm.nih.gov/27062257/",
+        "country": "Spain",
+        "year": "2016"
+      },
+      {
+        "cost": 126784,
+        "measure": "Total cost of lysosomal storage disorders per patient-year, including direct SHS costs, indirect costs, and direct patient costs",
+        "label": "Humanistic, Economic, and Social Impact of Lysosomal Storage Disorders in Spain (ISPOR Europe 2024 Poster)",
+        "source": "https://www.ispor.org/heor-resources/presentations-database/presentation/euro2024-4015/143370",
+        "country": "Spain",
+        "year": "2024"
+      },
+      {
+        "cost": 12000,
+        "measure": "Estimated annual out-of-pocket expenses (e.g., vitamins, physiotherapies) based on reported €1,000/month",
+        "label": "La dura lucha de 70 familias españolas para que sus hijos no mueran antes de cumplir los 20",
+        "source": "https://www.lavanguardia.com/vida/20161220/412728249161/lucha-familias-espanolas-sindrome-sanfilippo.html",
+        "country": "Spain",
+        "year": "2016"
+      }
+    ],
+    "score": 7,
+    "evidence_level": "Medium-High evidence",
+    "justification": "The Burqol-RD multicountry European peer-reviewed study provides Spain-specific cost-of-illness data, supported by recent Spanish conference data, but no Spain-only cost-of-illness study for MPS III was identified."
+  }
+}

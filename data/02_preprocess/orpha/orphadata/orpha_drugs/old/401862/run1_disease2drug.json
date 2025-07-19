@@ -1,0 +1,94 @@
+{
+  "disease_name": "Lipoyl transferase 1 deficiency",
+  "orpha_code": "401862",
+  "drugs": [
+    {
+      "name": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/646586?name=401862&mode=orpha&region=&status=all",
+      "substance_id": "646586",
+      "regulatory_url": "/en/drug/regulatory/646683?name=401862&mode=orpha&region=",
+      "regulatory_id": "646683",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)",
+        "(Medicinal product                        - 14/04/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/646586?name=401862&mode=orpha&region=&status=all",
+          "text": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/646683?name=401862&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Zagociguat",
+      "substance_url": "/en/drug/substance/644348?name=401862&mode=orpha&region=&status=all",
+      "substance_id": "644348",
+      "regulatory_url": "/en/drug/regulatory/644353?name=401862&mode=orpha&region=",
+      "regulatory_id": "644353",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Zagociguat(Medicinal product                        - 23/03/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Zagociguat(Medicinal product                        - 23/03/2023)",
+        "(Medicinal product                        - 23/03/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/644348?name=401862&mode=orpha&region=&status=all",
+          "text": "Zagociguat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/644353?name=401862&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:03:20.518382",
+  "run_number": 1,
+  "total_drugs_found": 2,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Lipoyl+transferase+1+deficiency&orphaCode=401862&name=401862&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Lipoyl transferase 1 deficiency",
+    "orphaCode": "401862",
+    "name": "401862",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

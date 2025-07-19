@@ -1,0 +1,441 @@
+{
+  "disease_name": "Leigh syndrome",
+  "orpha_code": "506",
+  "drugs": [
+    {
+      "name": "Methyl 4-(2-acetamidoethylsulfanyl)-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/661174?name=506&mode=orpha&region=&status=all",
+      "substance_id": "661174",
+      "regulatory_url": "/en/drug/regulatory/661270?name=506&mode=orpha&region=",
+      "regulatory_id": "661270",
+      "orpha_substance_code": "ORPHA:506",
+      "details": [
+        "Methyl 4-(2-acetamidoethylsulfanyl)-4-oxobutanoate(Medicinal product                        - 13/12/2023)Disease(s) concernedORPHA:506 Leigh syndrome",
+        "Methyl 4-(2-acetamidoethylsulfanyl)-4-oxobutanoate(Medicinal product                        - 13/12/2023)",
+        "(Medicinal product                        - 13/12/2023)",
+        "Disease(s) concernedORPHA:506 Leigh syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/661174?name=506&mode=orpha&region=&status=all",
+          "text": "Methyl 4-(2-acetamidoethylsulfanyl)-4-oxobutanoate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506",
+          "text": "ORPHA:506 Leigh syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/661270?name=506&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Sildenafil citrate",
+      "substance_url": "/en/drug/substance/65861?name=506&mode=orpha&region=&status=all",
+      "substance_id": "65861",
+      "regulatory_url": "/en/drug/regulatory/661066?name=506&mode=orpha&region=",
+      "regulatory_id": "661066",
+      "orpha_substance_code": "ORPHA:506",
+      "details": [
+        "Sildenafil citrate(Medicinal product                        - 13/10/2023)Disease(s) concernedORPHA:506 Leigh syndrome",
+        "Sildenafil citrate(Medicinal product                        - 13/10/2023)",
+        "(Medicinal product                        - 13/10/2023)",
+        "Disease(s) concernedORPHA:506 Leigh syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/65861?name=506&mode=orpha&region=&status=all",
+          "text": "Sildenafil citrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506",
+          "text": "ORPHA:506 Leigh syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/661066?name=506&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Cannabidiol",
+      "substance_url": "/en/drug/substance/398846?name=506&mode=orpha&region=&status=all",
+      "substance_id": "398846",
+      "regulatory_url": "/en/drug/regulatory/654062?name=506&mode=orpha&region=",
+      "regulatory_id": "654062",
+      "orpha_substance_code": "ORPHA:506",
+      "details": [
+        "Cannabidiol(Medicinal product                        - 25/07/2023)Disease(s) concernedORPHA:506 Leigh syndrome",
+        "Cannabidiol(Medicinal product                        - 25/07/2023)",
+        "(Medicinal product                        - 25/07/2023)",
+        "Disease(s) concernedORPHA:506 Leigh syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/398846?name=506&mode=orpha&region=&status=all",
+          "text": "Cannabidiol",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506",
+          "text": "ORPHA:506 Leigh syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/654062?name=506&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector serotype 9 containing the human SURF1 gene",
+      "substance_url": "/en/drug/substance/628149?name=506&mode=orpha&region=&status=all",
+      "substance_id": "628149",
+      "regulatory_url": "/en/drug/regulatory/628151?name=506&mode=orpha&region=",
+      "regulatory_id": "628151",
+      "orpha_substance_code": "ORPHA:506",
+      "details": [
+        "Adeno-associated viral vector serotype 9 containing the human SURF1 gene(Medicinal product                        - 12/11/2021)Disease(s) concernedORPHA:506 Leigh syndrome",
+        "Adeno-associated viral vector serotype 9 containing the human SURF1 gene(Medicinal product                        - 12/11/2021)",
+        "(Medicinal product                        - 12/11/2021)",
+        "Disease(s) concernedORPHA:506 Leigh syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/628149?name=506&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector serotype 9 containing the human SURF1 gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506",
+          "text": "ORPHA:506 Leigh syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/628151?name=506&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "(S)-6-hydroxy-2,5,7,8-tetramethyl-N-((R)-piperidin-3-yl)chroman-2-carboxamide hydrochloride",
+      "substance_url": "/en/drug/substance/410354?name=506&mode=orpha&region=&status=all",
+      "substance_id": "410354",
+      "regulatory_url": "/en/drug/regulatory/414139?name=506&mode=orpha&region=",
+      "regulatory_id": "414139",
+      "orpha_substance_code": "ORPHA:506",
+      "details": [
+        "(S)-6-hydroxy-2,5,7,8-tetramethyl-N-((R)-piperidin-3-yl)chroman-2-carboxamide hydrochloride(Medicinal product                        - 15/10/2014)Disease(s) concernedORPHA:506 Leigh syndrome",
+        "(S)-6-hydroxy-2,5,7,8-tetramethyl-N-((R)-piperidin-3-yl)chroman-2-carboxamide hydrochloride(Medicinal product                        - 15/10/2014)",
+        "(Medicinal product                        - 15/10/2014)",
+        "Disease(s) concernedORPHA:506 Leigh syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/410354?name=506&mode=orpha&region=&status=all",
+          "text": "(S)-6-hydroxy-2,5,7,8-tetramethyl-N-((R)-piperidin-3-yl)chroman-2-carboxamide hydrochloride",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506",
+          "text": "ORPHA:506 Leigh syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/414139?name=506&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Vatiquinone",
+      "substance_url": "/en/drug/substance/285822?name=506&mode=orpha&region=&status=all",
+      "substance_id": "285822",
+      "regulatory_url": "/en/drug/regulatory/299934?name=506&mode=orpha&region=",
+      "regulatory_id": "299934",
+      "orpha_substance_code": "ORPHA:506",
+      "details": [
+        "Vatiquinone(Medicinal product                        - 09/12/2011)Disease(s) concernedORPHA:506 Leigh syndrome",
+        "Vatiquinone(Medicinal product                        - 09/12/2011)",
+        "(Medicinal product                        - 09/12/2011)",
+        "Disease(s) concernedORPHA:506 Leigh syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/285822?name=506&mode=orpha&region=&status=all",
+          "text": "Vatiquinone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506",
+          "text": "ORPHA:506 Leigh syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/299934?name=506&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated virus 9 human NADH:ubiquinone oxidoreductase subunit S4",
+      "substance_url": "/en/drug/substance/689481?name=506&mode=orpha&region=&status=all",
+      "substance_id": "689481",
+      "regulatory_url": "/en/drug/regulatory/689639?name=506&mode=orpha&region=",
+      "regulatory_id": "689639",
+      "orpha_substance_code": "ORPHA:506",
+      "details": [
+        "Adeno-associated virus 9 human NADH:ubiquinone oxidoreductase subunit S4(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:506 Leigh syndrome",
+        "Adeno-associated virus 9 human NADH:ubiquinone oxidoreductase subunit S4(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:506 Leigh syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689481?name=506&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus 9 human NADH:ubiquinone oxidoreductase subunit S4",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506",
+          "text": "ORPHA:506 Leigh syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689639?name=506&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "2-((hydroxy((R)-2-(((5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoyl)oxy)-3-(((E)-octadec-2-en-1-yl)oxy)propoxy)phosphoryl)oxy)ethan-1-ammonium",
+      "substance_url": "/en/drug/substance/688278?name=506&mode=orpha&region=&status=all",
+      "substance_id": "688278",
+      "regulatory_url": "/en/drug/regulatory/688364?name=506&mode=orpha&region=",
+      "regulatory_id": "688364",
+      "orpha_substance_code": "ORPHA:506",
+      "details": [
+        "2-((hydroxy((R)-2-(((5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoyl)oxy)-3-(((E)-octadec-2-en-1-yl)oxy)propoxy)phosphoryl)oxy)ethan-1-ammonium(Medicinal product                        - 26/09/2024)Disease(s) concernedORPHA:506 Leigh syndrome",
+        "2-((hydroxy((R)-2-(((5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoyl)oxy)-3-(((E)-octadec-2-en-1-yl)oxy)propoxy)phosphoryl)oxy)ethan-1-ammonium(Medicinal product                        - 26/09/2024)",
+        "(Medicinal product                        - 26/09/2024)",
+        "Disease(s) concernedORPHA:506 Leigh syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/688278?name=506&mode=orpha&region=&status=all",
+          "text": "2-((hydroxy((R)-2-(((5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoyl)oxy)-3-(((E)-octadec-2-en-1-yl)oxy)propoxy)phosphoryl)oxy)ethan-1-ammonium",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506",
+          "text": "ORPHA:506 Leigh syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/688364?name=506&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/646586?name=506&mode=orpha&region=&status=all",
+      "substance_id": "646586",
+      "regulatory_url": "/en/drug/regulatory/646683?name=506&mode=orpha&region=",
+      "regulatory_id": "646683",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)",
+        "(Medicinal product                        - 14/04/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/646586?name=506&mode=orpha&region=&status=all",
+          "text": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/646683?name=506&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Zagociguat",
+      "substance_url": "/en/drug/substance/644348?name=506&mode=orpha&region=&status=all",
+      "substance_id": "644348",
+      "regulatory_url": "/en/drug/regulatory/644353?name=506&mode=orpha&region=",
+      "regulatory_id": "644353",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Zagociguat(Medicinal product                        - 23/03/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Zagociguat(Medicinal product                        - 23/03/2023)",
+        "(Medicinal product                        - 23/03/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/644348?name=506&mode=orpha&region=&status=all",
+          "text": "Zagociguat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/644353?name=506&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Vatiquinone",
+      "substance_url": "/en/drug/substance/285822?name=506&mode=orpha&region=&status=all",
+      "substance_id": "285822",
+      "regulatory_url": "/en/drug/regulatory/299940?name=506&mode=orpha&region=",
+      "regulatory_id": "299940",
+      "orpha_substance_code": "ORPHA:254827",
+      "details": [
+        "Vatiquinone(Medicinal product                        - 21/12/2010)Disease(s) concernedORPHA:223713 Mitochondrial oxidative phosphorylation disorderORPHA:254827 Mitochondrial membrane transport disorder",
+        "Vatiquinone(Medicinal product                        - 21/12/2010)",
+        "(Medicinal product                        - 21/12/2010)",
+        "Disease(s) concernedORPHA:223713 Mitochondrial oxidative phosphorylation disorderORPHA:254827 Mitochondrial membrane transport disorder",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/285822?name=506&mode=orpha&region=&status=all",
+          "text": "Vatiquinone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/223713",
+          "text": "ORPHA:223713 Mitochondrial oxidative phosphorylation disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/254827",
+          "text": "ORPHA:254827 Mitochondrial membrane transport disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/299940?name=506&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "ORPHA:254827 Mitochondrial membrane transport disorder\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:01:58.304334",
+  "run_number": 1,
+  "total_drugs_found": 11,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Leigh+syndrome&orphaCode=506&name=506&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Leigh syndrome",
+    "orphaCode": "506",
+    "name": "506",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "disease_name": "Mitochondrial trifunctional protein deficiency",
+  "orpha_code": "746",
+  "trials": [
+    {
+      "nctId": "NCT05933200",
+      "briefTitle": "A Study to Determine the Effect of Triheptanoin Compared With Even-Chain MCT on MCEs in Pediatric Patients With LC-FAOD",
+      "officialTitle": "A Randomized, Double-blind, Multicenter Study to Determine the Effect of Triheptanoin Compared With Even-chain, Medium-chain Triglycerides (MCT) on Major Clinical Events (MCEs) in Pediatric Patients With Long-chain Fatty Acid Oxidation Disorders (LC-FAOD)",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Long-chain Fatty Acid Oxidation Disorders (LC-FAOD)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Triheptanoin"
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "MCT Oil"
+        }
+      ],
+      "enrollment": 60,
+      "locations": [
+        {
+          "facility": "General University Hospital in Prague-GUH (Všeobecná fakultní nemocnice v Praze- VFN)",
+          "city": "Prague",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Universitätsklinikum Freiburg",
+          "city": "Freiburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Juntendo University Hospital",
+          "city": "Bunkyo City",
+          "country": "Japan"
+        },
+        {
+          "facility": "The Jikei University Hospital",
+          "city": "Minato City",
+          "country": "Japan"
+        },
+        {
+          "facility": "Instytut Pomnik-Centrum Zdrowia Dziecka",
+          "city": "Warszawa",
+          "country": "Poland"
+        },
+        {
+          "facility": "Gdańksi Uniwersytet Medyczny",
+          "city": "Gdańsk",
+          "country": "Poland"
+        },
+        {
+          "facility": "King Faisal Specialist Hospital & Research Centre",
+          "city": "Riyadh",
+          "country": "Saudi Arabia"
+        },
+        {
+          "facility": "Sant Joan de Deu Hospital (SJD)",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "University Hospital Santiago de Compostela",
+          "city": "A Coruña",
+          "country": "Spain"
+        },
+        {
+          "facility": "University Hospital 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Cukurova University",
+          "city": "Adana",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Gazi University",
+          "city": "Ankara",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Ege University",
+          "city": "Bornova-İzmir",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Istanbul Universitesi Istanbul Tip Fakultesi Hastanesi",
+          "city": "Istanbul",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Cerrahpasa Medical Faculty",
+          "city": "Istanbul",
+          "country": "Turkey"
+        }
+      ],
+      "lastUpdateDate": "2025-06-12"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:14:48.348855",
+  "run_number": 1,
+  "total_trials_found": 1
+}

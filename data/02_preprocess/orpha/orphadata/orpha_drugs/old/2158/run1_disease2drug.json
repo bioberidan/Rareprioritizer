@@ -1,0 +1,17 @@
+{
+  "disease_name": "Histidinuria-renal tubular defect syndrome",
+  "orpha_code": "2158",
+  "drugs": [],
+  "processing_timestamp": "2025-07-07T06:00:41.759642",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Histidinuria-renal+tubular+defect+syndrome&orphaCode=2158&name=2158&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Histidinuria-renal tubular defect syndrome",
+    "orphaCode": "2158",
+    "name": "2158",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

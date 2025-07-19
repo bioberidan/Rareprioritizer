@@ -1,0 +1,126 @@
+{
+  "disease_name": "Acute intermittent porphyria",
+  "orpha_code": "79276",
+  "drugs": [
+    {
+      "name": "Adeno-associated viral vector containing porphobilinogen deaminase gene",
+      "substance_url": "/en/drug/substance/178058?name=79276&mode=orpha&region=&status=all",
+      "substance_id": "178058",
+      "regulatory_url": "/en/drug/regulatory/189191?name=79276&mode=orpha&region=",
+      "regulatory_id": "189191",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Recombinant human porphobilinogen deaminase",
+      "substance_url": "/en/drug/substance/133637?name=79276&mode=orpha&region=&status=all",
+      "substance_id": "133637",
+      "regulatory_url": "/en/drug/regulatory/133784?name=79276&mode=orpha&region=",
+      "regulatory_id": "133784",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "GIVLAARI",
+      "substance_url": "/en/drug/trade_name/573500?name=79276&mode=orpha&region=&status=all",
+      "substance_id": "573500",
+      "regulatory_url": "/en/drug/regulatory/573501?name=79276&mode=orpha&region=",
+      "regulatory_id": "573501",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Givosiran",
+      "substance_url": "/en/drug/substance/480914?name=79276&mode=orpha&region=&status=all",
+      "substance_id": "480914",
+      "regulatory_url": "/en/drug/regulatory/480915?name=79276&mode=orpha&region=",
+      "regulatory_id": "480915",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "PANHEMATIN",
+      "substance_url": "/en/drug/trade_name/24989?name=79276&mode=orpha&region=&status=all",
+      "substance_id": "24989",
+      "regulatory_url": "/en/drug/regulatory/131060?name=79276&mode=orpha&region=",
+      "regulatory_id": "131060",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=79276&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=79276&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=79276&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=79276&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=79276&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=79276&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Hemin",
+      "substance_url": "/en/drug/substance/24990?name=79276&mode=orpha&region=&status=all",
+      "substance_id": "24990",
+      "regulatory_url": "/en/drug/regulatory/131924?name=79276&mode=orpha&region=",
+      "regulatory_id": "131924",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:22:43.398439",
+  "run_number": 1,
+  "total_drugs_found": 9,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Acute+intermittent+porphyria&orphaCode=79276&name=79276&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Acute intermittent porphyria",
+    "orphaCode": "79276",
+    "name": "79276",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

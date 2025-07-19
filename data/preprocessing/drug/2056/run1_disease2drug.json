@@ -1,0 +1,17 @@
+{
+  "disease_name": "Essential fructosuria",
+  "orpha_code": "2056",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:20:06.063859",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Essential+fructosuria&orphaCode=2056&name=2056&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Essential fructosuria",
+    "orphaCode": "2056",
+    "name": "2056",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

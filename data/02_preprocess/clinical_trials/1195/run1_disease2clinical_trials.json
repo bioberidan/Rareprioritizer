@@ -1,0 +1,48 @@
+{
+  "disease_name": "Congenital atransferrinemia",
+  "orpha_code": "1195",
+  "trials": [
+    {
+      "nctId": "NCT01797055",
+      "briefTitle": "Apotransferrin in Atransferrinemia",
+      "officialTitle": "Dose Escalating Study to Evaluate Pharmacokinetics, Efficacy and Safety of Apotransferrin in Atransferrinemia Patients",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "conditions": [
+        "Congenital Atransferrinemia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Human apotransferrin"
+        }
+      ],
+      "enrollment": 5,
+      "locations": [
+        {
+          "facility": "Klinikum Aschaffenburg",
+          "city": "Aschaffenburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "AO San Gerardo",
+          "city": "Monza",
+          "country": "Italy"
+        },
+        {
+          "facility": "Vall d'Hebron Hospital",
+          "city": "Barcelona",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2024-07-16"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:15:37.933667",
+  "run_number": 1,
+  "total_trials_found": 1
+}

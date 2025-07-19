@@ -1,0 +1,151 @@
+{
+  "disease_name": "Myopathy and diabetes mellitus",
+  "orpha_code": "2596",
+  "trials": [
+    {
+      "nctId": "NCT05650229",
+      "briefTitle": "Efficacy of KL1333 in Adult Patients With Primary Mitochondrial Disease",
+      "officialTitle": "An Interventional, Randomised, Double-blind, Parallel-group, Placebo-controlled, Flexible-dose, Adaptive Study of the Efficacy of KL1333 in Adult Patients With Primary Mitochondrial Disease",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Primary Mitochondrial Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "KL1333"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "enrollment": 180,
+      "locations": [
+        {
+          "facility": "Akron Children's Hospital",
+          "city": "Akron",
+          "country": "United States"
+        },
+        {
+          "facility": "The University of Texas Health Science Center at Houston",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "Hopital Universitaire de Bruxelles (H.U.B)/ Academisch Ziekenhuis Brussel",
+          "city": "Brussel",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Universitair Ziekenhuis Gent",
+          "city": "Gent",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Universitair Ziekenhuis Leuven Gasthuisberg Campus",
+          "city": "Leuven",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Copenhagen Neuromuscular Center, Rigshospitalet",
+          "city": "Copenhagen",
+          "country": "Denmark"
+        },
+        {
+          "facility": "Centre Hospitalier Universitaire (CHU) de Bordeaux - Groupe Hospitalier Pellegrin",
+          "city": "Bordeaux",
+          "country": "France"
+        },
+        {
+          "facility": "Hopital Roger Salengro, CHRU de Lille",
+          "city": "Lille",
+          "country": "France"
+        },
+        {
+          "facility": "Centre Hospitalier Universitaire de Nice, Hopital Pasteur 2",
+          "city": "Nice",
+          "country": "France"
+        },
+        {
+          "facility": "CHU de NICE - Hôpital Archet 2",
+          "city": "Nice",
+          "country": "France"
+        },
+        {
+          "facility": "Groupe Hospitalier Pitie-Salpetriere",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "IRCCS Institute of Neurological Sciences of Bologna- Universita di Bologna",
+          "city": "Bologna",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera Universitaria Gaetano Martino Messina",
+          "city": "Messina",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione IRCCS Istituto Neurologico Carlo Besta",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliero Universitaria Pisana",
+          "city": "Pisa",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS - Universita Cattolica del Sacro Cuore",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "CIBERER- IDIBAPS, Faculty of Medicine, University of Barcelona",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital de la Santa Creu i Sant Pau",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital General Universitario de Catalunya",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Department of Clinical Neurosciences, Addenbrooke's Hospital",
+          "city": "Cambridge",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "University College London Hospitals Nhs Foundation Trust",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Royal Victoria Infirmary - The Newcastle Upon Tyne Hospitals NHS Foundation Trust",
+          "city": "Newcastle",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-06-22"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:14:38.545629",
+  "run_number": 1,
+  "total_trials_found": 1
+}

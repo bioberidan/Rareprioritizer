@@ -1,0 +1,412 @@
+{
+  "disease_name": "Propionic acidemia",
+  "orpha_code": "35",
+  "trials": [
+    {
+      "nctId": "NCT04176523",
+      "briefTitle": "Understanding the Long-Term Management of Organic Acidemia Patients With CARBAGLU®: A Mixed Methods Approach",
+      "officialTitle": "Understanding the Long-Term Management of Organic Acidemia Patients With CARBAGLU®: A Mixed Methods Approach",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Methylmalonic Acidemia",
+        "Propionic Acidemia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Carglumic Acid"
+        }
+      ],
+      "enrollment": 95,
+      "locations": [
+        {
+          "facility": "Hopital Des Enfants, CHU de Bordeaux-GH Pellegrin",
+          "city": "Bordeaux",
+          "country": "France"
+        },
+        {
+          "facility": "Hopital de la Conception",
+          "city": "Marseille",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital de la Timone",
+          "city": "Marseille",
+          "country": "France"
+        },
+        {
+          "facility": "CHU de Nancy - Hopitaux de Brabois",
+          "city": "Nancy",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Necker Enfants Malades",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "CHU de Rouen",
+          "city": "Rouen",
+          "country": "France"
+        },
+        {
+          "facility": "Nouvel Hopital Civil",
+          "city": "Strasbourg",
+          "country": "France"
+        },
+        {
+          "facility": "Hopital de Hautepierre",
+          "city": "Strasbourg",
+          "country": "France"
+        },
+        {
+          "facility": "Klinikum Bremen Mitte, Prof. Hess Kinderklinik",
+          "city": "Bremen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Azienda Ospedaliero Universitaria Meyer",
+          "city": "Firenze",
+          "country": "Italy"
+        },
+        {
+          "facility": "San Paola Hospital, ASST Santi Paolo e Carlo",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        {
+          "facility": "Milan Policlinico University",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera San Gerardo Monza",
+          "city": "Monza",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera Universitaria Federico II",
+          "city": "Napoli",
+          "country": "Italy"
+        },
+        {
+          "facility": "University Hospital of Padova",
+          "city": "Padova",
+          "country": "Italy"
+        },
+        {
+          "facility": "Turin University Hospital",
+          "city": "Turin",
+          "country": "Italy"
+        },
+        {
+          "facility": "Oslo University Hospital",
+          "city": "Oslo",
+          "country": "Norway"
+        },
+        {
+          "facility": "AMM hospital val d'hebron",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Sant Joan de Deu",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Universitario de Cruces",
+          "city": "Bilbao",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Infantil Universitario Nino Jesus",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario La Paz",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Universitario Ramon y Cajal Madrid",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen de la Arrixaca",
+          "city": "Murcia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Son Espases",
+          "city": "Palma De Mallorca",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen del Rocio",
+          "city": "Sevilla",
+          "country": "Spain"
+        },
+        {
+          "facility": "Universitario Miguel Servet",
+          "city": "Zaragoza",
+          "country": "Spain"
+        },
+        {
+          "facility": "NÄL",
+          "city": "Trollhattan",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Guy's and St. Thomas' Hospital NHS Foundation Trust",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Great Ormond Street Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Sheffield Children's Hospital NHS Foundation Trust",
+          "city": "Sheffield",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2024-02-05"
+    },
+    {
+      "nctId": "NCT05769621",
+      "briefTitle": "A Retrospective Study to Characterize Participants With Propionic Acidemia and Methylmalonic Acidemia",
+      "officialTitle": "A Retrospective Cohort Study to Characterize Propionic Acidemia Patients and Methylmalonic Acidemia",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Propionic Acidemia",
+        "Methylmalonic Acidemia"
+      ],
+      "interventions": [],
+      "enrollment": 200,
+      "locations": [
+        {
+          "facility": "University of Stanford Medical Center",
+          "city": "Stanford",
+          "country": "United States"
+        },
+        {
+          "facility": "Johns Hopkins University",
+          "city": "Lutherville",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Michigan Hospital",
+          "city": "Ann Arbor",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Philadelphia",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Texas Children's Hospital",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "Seattle Children's Hospital",
+          "city": "Seattle",
+          "country": "United States"
+        },
+        {
+          "facility": "Royal Children's Hospital Melbourne",
+          "city": "Melbourne",
+          "country": "Australia"
+        },
+        {
+          "facility": "Stollery Children's Hospital University of Alberta",
+          "city": "Edmonton",
+          "country": "Canada"
+        },
+        {
+          "facility": "CHRU Nancy Hôpital des Enfants",
+          "city": "Vandœuvre-lès-Nancy",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Necker - Enfants Malades",
+          "city": "Paris Cedex 15",
+          "country": "France"
+        },
+        {
+          "facility": "CHU de Marseille - Hôpital de la Timone",
+          "city": "Marseille",
+          "country": "France"
+        },
+        {
+          "facility": "CHU Toulouse",
+          "city": "Toulouse",
+          "country": "France"
+        },
+        {
+          "facility": "Azienda Ospedale Pediatrico Bambino Gesu - INCIPIT - PIN",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "ASST di Monza - Azienda Ospedaliera San Gerardo",
+          "city": "Monza",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliero Universitaria A Meyer - INCIPIT - PIN",
+          "city": "Firenze",
+          "country": "Italy"
+        },
+        {
+          "facility": "Erasmus MC",
+          "city": "Rotterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Hospital Universitario Marques de Valdecilla",
+          "city": "Santander",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Cruces",
+          "city": "Barakaldo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Sant Joan de Deu",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Raymon y Cajal",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen del Rocio - PPDS",
+          "city": "Sevilla",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitari I Politecnic La Fe de Valencia",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Victoria Hospital",
+          "city": "Kirkcaldy",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "St Mary's Hospital - PPDS",
+          "city": "Manchester",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Great Ormond Street Hospital",
+          "city": "City of London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2024-10-01"
+    },
+    {
+      "nctId": "NCT05295433",
+      "briefTitle": "An Extension Study to Evaluate the Long-Term Safety and Clinical Activity of mRNA-3705 in Participants Previously Enrolled in Other Clinical Studies of mRNA-3705",
+      "officialTitle": "A Phase 1/2, Global, Open-Label, Extension Study to Evaluate the Long-Term Safety and Clinical Activity of mRNA-3705 in Participants Previously Enrolled in Other Clinical Studies of mRNA-3705",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Methylmalonic Acidemia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "mRNA-3705"
+        }
+      ],
+      "enrollment": 63,
+      "locations": [
+        {
+          "facility": "UCLA Medical Center",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "Lucile Packard Children's Hospital at Stanford",
+          "city": "Palo Alto",
+          "country": "United States"
+        },
+        {
+          "facility": "Stollery Children's Hospital University of Alberta",
+          "city": "Edmonton",
+          "country": "Canada"
+        },
+        {
+          "facility": "Hospital For Sick Children",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Hôpital Necker - Enfants Malades APHP",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Erasmus MC",
+          "city": "Rotterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Universitair Medisch Centrum Utrecht",
+          "city": "Utrecht",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Hospital Universitario Cruces",
+          "city": "Barakaldo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Birmingham Children's Hospital NHS Foundation Trust",
+          "city": "Birmingham",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Royal Manchester Childrens Hospital",
+          "city": "Manchester",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-03-13"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:13:43.492394",
+  "run_number": 1,
+  "total_trials_found": 3
+}

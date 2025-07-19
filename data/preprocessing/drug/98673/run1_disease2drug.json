@@ -1,0 +1,78 @@
+{
+  "disease_name": "Autosomal dominant optic atrophy, classic form",
+  "orpha_code": "98673",
+  "drugs": [
+    {
+      "name": "Peptide-oligonucleotide conjugate that targets OPA1 mRNA",
+      "substance_url": "/en/drug/substance/676678?name=98673&mode=orpha&region=&status=all",
+      "substance_id": "676678",
+      "regulatory_url": "/en/drug/regulatory/676730?name=98673&mode=orpha&region=",
+      "regulatory_id": "676730",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/646586?name=98673&mode=orpha&region=&status=all",
+      "substance_id": "646586",
+      "regulatory_url": "/en/drug/regulatory/646683?name=98673&mode=orpha&region=",
+      "regulatory_id": "646683",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Zagociguat",
+      "substance_url": "/en/drug/substance/644348?name=98673&mode=orpha&region=&status=all",
+      "substance_id": "644348",
+      "regulatory_url": "/en/drug/regulatory/644353?name=98673&mode=orpha&region=",
+      "regulatory_id": "644353",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "18-mer antisense oligonucleotide complementary to OPA1 pre-mRNA",
+      "substance_url": "/en/drug/substance/637248?name=98673&mode=orpha&region=&status=all",
+      "substance_id": "637248",
+      "regulatory_url": "/en/drug/regulatory/637253?name=98673&mode=orpha&region=",
+      "regulatory_id": "637253",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Vatiquinone",
+      "substance_url": "/en/drug/substance/285822?name=98673&mode=orpha&region=&status=all",
+      "substance_id": "285822",
+      "regulatory_url": "/en/drug/regulatory/708703?name=98673&mode=orpha&region=",
+      "regulatory_id": "708703",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:20:46.478897",
+  "run_number": 1,
+  "total_drugs_found": 5,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Autosomal+dominant+optic+atrophy%2C+classic+form&orphaCode=98673&name=98673&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Autosomal dominant optic atrophy, classic form",
+    "orphaCode": "98673",
+    "name": "98673",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

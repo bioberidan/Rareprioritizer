@@ -1,0 +1,17 @@
+{
+  "disease_name": "Pentosuria",
+  "orpha_code": "2843",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:40:57.784343",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Pentosuria&orphaCode=2843&name=2843&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Pentosuria",
+    "orphaCode": "2843",
+    "name": "2843",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

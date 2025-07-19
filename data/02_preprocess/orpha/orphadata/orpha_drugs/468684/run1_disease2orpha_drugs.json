@@ -1,0 +1,17 @@
+{
+  "disease_name": "CCDC115-CDG",
+  "orpha_code": "468684",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:38:50.492219",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=CCDC115-CDG&orphaCode=468684&name=468684&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "CCDC115-CDG",
+    "orphaCode": "468684",
+    "name": "468684",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

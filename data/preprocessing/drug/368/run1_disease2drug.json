@@ -1,0 +1,42 @@
+{
+  "disease_name": "Glycogen storage disease due to muscle glycogen phosphorylase deficiency",
+  "orpha_code": "368",
+  "drugs": [
+    {
+      "name": "Valproic acid, sodium",
+      "substance_url": "/en/drug/substance/97923?name=368&mode=orpha&region=&status=all",
+      "substance_id": "97923",
+      "regulatory_url": "/en/drug/regulatory/480689?name=368&mode=orpha&region=",
+      "regulatory_id": "480689",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Triheptanoin",
+      "substance_url": "/en/drug/substance/317333?name=368&mode=orpha&region=&status=all",
+      "substance_id": "317333",
+      "regulatory_url": "/en/drug/regulatory/480535?name=368&mode=orpha&region=",
+      "regulatory_id": "480535",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:19:54.646774",
+  "run_number": 1,
+  "total_drugs_found": 2,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Glycogen+storage+disease+due+to+muscle+glycogen+phosphorylase+deficiency&orphaCode=368&name=368&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Glycogen storage disease due to muscle glycogen phosphorylase deficiency",
+    "orphaCode": "368",
+    "name": "368",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

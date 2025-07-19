@@ -1,0 +1,496 @@
+{
+  "disease_name": "X-linked erythropoietic protoporphyria",
+  "orpha_code": "443197",
+  "trials": [
+    {
+      "nctId": "NCT06144840",
+      "briefTitle": "INcreased Sun Exposure Without Pain In Research Participants With EPP or XLP",
+      "officialTitle": "A Phase 3, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate Efficacy, Safety, and Tolerability of MT-7117 in Adults and Adolescents With Erythropoietic Protoporphyria or X-Linked Protoporphyria",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Erythropoietic Protoporphyria (EPP)",
+        "X-Linked Protoporphyria (XLP)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Dersimelagon"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "enrollment": 165,
+      "locations": [
+        {
+          "facility": "Marvel Clinical Research, LLC",
+          "city": "Huntington Beach",
+          "country": "United States"
+        },
+        {
+          "facility": "University of California at San Francisco",
+          "city": "San Francisco",
+          "country": "United States"
+        },
+        {
+          "facility": "University Of Miami School Of Medicine, Center For Liver Diseases",
+          "city": "Miami",
+          "country": "United States"
+        },
+        {
+          "facility": "MGH",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "MetroBoston Clinical Partners, LLC",
+          "city": "Brighton",
+          "country": "United States"
+        },
+        {
+          "facility": "Henry Ford Health System",
+          "city": "Detroit",
+          "country": "United States"
+        },
+        {
+          "facility": "Kansas City Research Institute",
+          "city": "Kansas City",
+          "country": "United States"
+        },
+        {
+          "facility": "Icahn School of Medicine at Mount Sinai (ISMMS) - The Mount Sinai Hospital (MSH)",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Wake Forest University Baptist Health",
+          "city": "Winston-Salem",
+          "country": "United States"
+        },
+        {
+          "facility": "Remington-Davis Clinical Research",
+          "city": "Columbus",
+          "country": "United States"
+        },
+        {
+          "facility": "Einstein Medical Center (EMC)",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "The University of Texas Medical Branch (UTMB)",
+          "city": "Galveston",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Washington",
+          "city": "Seattle",
+          "country": "United States"
+        },
+        {
+          "facility": "Royal Melbourne Hospital (RMH)",
+          "city": "Parkville",
+          "country": "Australia"
+        },
+        {
+          "facility": "University Multi-Profile Hospital for Active Treatment (UMHAT) St. Ivan Rilski - Porphyria Center",
+          "city": "Sofia",
+          "country": "Bulgaria"
+        },
+        {
+          "facility": "Institute for Clinical and Experimental Medicine - IKEM",
+          "city": "Prague",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Centre Hospitalier Universitaire de Bordeaux - Hopital Saint - Andre",
+          "city": "Bordeaux",
+          "country": "France"
+        },
+        {
+          "facility": "CHU Nantes",
+          "city": "Nantes",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Bichat - Hospital Bichat-Hopitaux Universitaires Paris Nord Val de Seine",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Assistance Publique-Hopitaux de Paris (AP-HP) - Hopital Louis-Mourier",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Azienda Ospedaliera Spedali Civili di Brescia-Universita degli Studi Di Brescia",
+          "city": "Brescia",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Sanitaria Ospedaliera Santa Croce E Carle - Cuneo",
+          "city": "Cuneo",
+          "country": "Italy"
+        },
+        {
+          "facility": "Ospedalle Galliera",
+          "city": "Genova",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione IRCCS Ca Granda Ospedale Maggiore Policlinico di Milano",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        {
+          "facility": "U.O.C. Medicina Interna Azienda ospedaliero Universitaria Policlinico di Modena",
+          "city": "Modena",
+          "country": "Italy"
+        },
+        {
+          "facility": "IFO-San Gallicano IRCCS",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        {
+          "facility": "Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS) Materno-Infantile - Burlo Garofolo - Clinica Pediatrica",
+          "city": "Trieste",
+          "country": "Italy"
+        },
+        {
+          "facility": "Mazda Hospital",
+          "city": "Aki-gun",
+          "country": "Japan"
+        },
+        {
+          "facility": "Hamamatsu University Hospital",
+          "city": "Hamamatsu",
+          "country": "Japan"
+        },
+        {
+          "facility": "Tokyo Saiseikai Central Hospital",
+          "city": "Tokyo",
+          "country": "Japan"
+        },
+        {
+          "facility": "Universitair Medisch Centrum Rotterdam",
+          "city": "Rotterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Instytut Hematologii I Transfuzjologii",
+          "city": "Warsaw",
+          "country": "Poland"
+        },
+        {
+          "facility": "Hospital Universitario 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital General Universitario De Valencia",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Guy's Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Southampton General Hospital - University Hospital Southampton NHS Foundation Trust",
+          "city": "Southamption",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-04-18"
+    },
+    {
+      "nctId": "NCT05005975",
+      "briefTitle": "Extension Study to Evaluate Safety and Tolerability of Oral Dersimelagon (MT-7117) in Subjects With Erythropoietic Protoporphyria (EPP) or X-Linked Protoporphyria (XLP)",
+      "officialTitle": "A Phase 3, Multicenter, Open-label, Long-term, Extension Study to Evaluate Safety and Tolerability of Oral Dersimelagon (MT-7117) in Subjects With Erythropoietic Protoporphyria (EPP) or X-Linked Protoporphyria (XLP)",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "EPP",
+        "XLP"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "MT-7117"
+        }
+      ],
+      "enrollment": 301,
+      "locations": [
+        {
+          "facility": "Marvel Clinical Research, LLC",
+          "city": "Huntington Beach",
+          "country": "United States"
+        },
+        {
+          "facility": "University of California at San Francisco - CSF Porphyria Center",
+          "city": "San Francisco",
+          "country": "United States"
+        },
+        {
+          "facility": "University Of Miami School Of Medicine, Center For Liver Diseases",
+          "city": "Miami",
+          "country": "United States"
+        },
+        {
+          "facility": "Massachusetts General Hospital",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "MetroBoston Clinical Partners, LLC",
+          "city": "Brighton",
+          "country": "United States"
+        },
+        {
+          "facility": "Henry Ford Health System",
+          "city": "Detroit",
+          "country": "United States"
+        },
+        {
+          "facility": "Kansas City Research Institute",
+          "city": "Kansas City",
+          "country": "United States"
+        },
+        {
+          "facility": "Icahn School of Medicine at Mount Sinai (ISSMS)-The Mount Sinai Hospital (MSH)",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Wake Forest University Baptist Health",
+          "city": "Winston-Salem",
+          "country": "United States"
+        },
+        {
+          "facility": "Cleveland Clinic - Taussig Cancer Institute",
+          "city": "Cleveland",
+          "country": "United States"
+        },
+        {
+          "facility": "Remington-Davis Clinical Research",
+          "city": "Columbus",
+          "country": "United States"
+        },
+        {
+          "facility": "Thomas Jefferson University",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Einstein Medical Center, Philadelphia",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "The University of Texas Medical Branch (UTMB)",
+          "city": "Galveston",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Washington-Seattle Cancer Care Alliance",
+          "city": "Seattle",
+          "country": "United States"
+        },
+        {
+          "facility": "Royal Prince Alfred Hospital",
+          "city": "Camperdown",
+          "country": "Australia"
+        },
+        {
+          "facility": "Wesley Medical Research",
+          "city": "Brisbane",
+          "country": "Australia"
+        },
+        {
+          "facility": "Royal Melbourne Hospital (RMH)",
+          "city": "Parkville",
+          "country": "Australia"
+        },
+        {
+          "facility": "University Multi-Profile Hospital for Active Treatment (UMHAT) St. Ivan Rilski",
+          "city": "Sophia",
+          "country": "Belgium"
+        },
+        {
+          "facility": "University of Alberta Hospital",
+          "city": "Edmonton",
+          "country": "Canada"
+        },
+        {
+          "facility": "Institute for Clinical and Experimental Medicine - IKEM",
+          "city": "Praha",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Centre Hospitalier Universitaire de Bordeaux - Hopital Saint - Andre",
+          "city": "Bordeaux",
+          "country": "France"
+        },
+        {
+          "facility": "Assistance Publique-Hopitaux de Paris (AP-HP) - Hopital Louis-Mourier",
+          "city": "Colombes",
+          "country": "France"
+        },
+        {
+          "facility": "CHU Nantes",
+          "city": "Nantes",
+          "country": "France"
+        },
+        {
+          "facility": "Hospital Bichat-Hopitaux Universitaires Paris Nord Val de Seine",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Charite - Universitaetsmedizin Berlin",
+          "city": "Berlin",
+          "country": "Germany"
+        },
+        {
+          "facility": "Azienda Ospedaliera Spedali Civili di Brescia-Universita degli Studi Di Brescia",
+          "city": "Brescia BS",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Sanitaria Ospedaliera Santa Croce E Carle - Cuneo",
+          "city": "Cuneo CN",
+          "country": "Italy"
+        },
+        {
+          "facility": "Ospedalle Galliera",
+          "city": "Genova GE",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione IRCCS Ca Granda Ospedale Maggiore Policlinico di Milano",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        {
+          "facility": "U.O.C. Medicina Interna Azienda ospedaliero Universitaria Policlinico di Modena",
+          "city": "Modena",
+          "country": "Italy"
+        },
+        {
+          "facility": "IFO-San Gallicano IRCCS",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        {
+          "facility": "Istituto di Ricovero e Cura a Carattere Scientifico (IRCCS) Materno-Infantile - Burlo Garofolo - Clinica Pediatrica",
+          "city": "Trieste TS",
+          "country": "Italy"
+        },
+        {
+          "facility": "Kobe University Hospital",
+          "city": "Kobe",
+          "country": "Japan"
+        },
+        {
+          "facility": "Sophia Dermatology Clinic",
+          "city": "Kanazawa",
+          "country": "Japan"
+        },
+        {
+          "facility": "Osaka Medical College Hospital",
+          "city": "Takatsuki",
+          "country": "Japan"
+        },
+        {
+          "facility": "Tokyo Saiseikai Central Hospital",
+          "city": "Minato-ku",
+          "country": "Japan"
+        },
+        {
+          "facility": "Toyama University Hospital",
+          "city": "Sugitani",
+          "country": "Japan"
+        },
+        {
+          "facility": "Mazda Hospital of Mazda Motor Corporation",
+          "city": "Hiroshima",
+          "country": "Japan"
+        },
+        {
+          "facility": "Hamamatsu University Hospital",
+          "city": "Shizuoka",
+          "country": "Japan"
+        },
+        {
+          "facility": "Erasmus MC, Universitair Medisch Centrum Rotterdam",
+          "city": "Rotterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Haukeland University Hospital",
+          "city": "Bergen",
+          "country": "Norway"
+        },
+        {
+          "facility": "Instytut hematologii i Transfuzjologii",
+          "city": "Warszawa",
+          "country": "Poland"
+        },
+        {
+          "facility": "Hospital Clínic de Barcelona",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital General Universitario De Valencia",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Karolinska University Hospital",
+          "city": "Stockholm",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Salford Royal NHS Foundation Trust",
+          "city": "Manchester",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "St. John's Institute of Dermatology-Guy's & St Thomas' NHS Foundation Trust",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Evelina London Children's Hospital - Guy's & St Thomas' NHS Foundation Trust",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Southampton General Hospital - University Hospital Southampton NHS Foundation Trust",
+          "city": "Southampton",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-04-22"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:15:24.866744",
+  "run_number": 1,
+  "total_trials_found": 2
+}

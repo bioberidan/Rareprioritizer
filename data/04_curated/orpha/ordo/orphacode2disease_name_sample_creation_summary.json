@@ -1,0 +1,25 @@
+{
+  "creation_metadata": {
+    "timestamp": "2025-07-12T06:40:47.999694",
+    "input_path": "data\\04_curated\\orpha\\ordo\\metabolic_disease_instances_sample_10.json",
+    "output_path": "data\\04_curated\\orpha\\ordo\\orphacode2disease_name_sample.json",
+    "script_version": "1.0.0"
+  },
+  "mapping_statistics": {
+    "total_diseases": 10,
+    "unique_names": 10,
+    "sample_mappings": {
+      "37": "Acrodermatitis enteropathica",
+      "646": "Niemann-Pick disease type C",
+      "480682": "POGLUT1-related limb-girdle muscular dystrophy R21",
+      "79240": "Glycogen storage disease due to liver and muscle phosphorylase kinase deficiency",
+      "67047": "3-methylglutaconic aciduria type 3"
+    }
+  },
+  "data_quality": {
+    "empty_names": 0,
+    "average_name_length": 33.9,
+    "shortest_name": "CK syndrome",
+    "longest_name": "Glycogen storage disease due to liver and muscle phosphorylase kinase deficiency"
+  }
+}

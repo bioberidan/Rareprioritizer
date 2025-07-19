@@ -1,0 +1,17 @@
+{
+  "disease_name": "Spastic tetraplegia-thin corpus callosum-progressive postnatal microcephaly syndrome",
+  "orpha_code": "447997",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:19:18.875931",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Spastic+tetraplegia-thin+corpus+callosum-progressive+postnatal+microcephaly+syndrome&orphaCode=447997&name=447997&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Spastic tetraplegia-thin corpus callosum-progressive postnatal microcephaly syndrome",
+    "orphaCode": "447997",
+    "name": "447997",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

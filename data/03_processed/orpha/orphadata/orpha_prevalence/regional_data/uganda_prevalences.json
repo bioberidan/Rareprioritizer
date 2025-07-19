@@ -1,0 +1,18 @@
+[
+  {
+    "prevalence_id": "11055",
+    "orpha_code": "398043",
+    "disease_name": "Malignant tumor of penis",
+    "source": "26076979[PMID]_10789729[PMID]",
+    "prevalence_type": "Annual incidence",
+    "prevalence_class": "1-9 / 100 000",
+    "qualification": "Value and class",
+    "geographic_area": "Uganda",
+    "validation_status": "Validated",
+    "reliability_score": 9.5,
+    "is_fiable": true,
+    "per_million_estimate": 50.0,
+    "confidence_level": "high",
+    "estimate_source": "class_midpoint"
+  }
+]

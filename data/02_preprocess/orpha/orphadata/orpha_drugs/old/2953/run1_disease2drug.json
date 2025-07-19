@@ -1,0 +1,94 @@
+{
+  "disease_name": "Musculocontractural Ehlers-Danlos syndrome",
+  "orpha_code": "2953",
+  "drugs": [
+    {
+      "name": "Enzastaurin",
+      "substance_url": "/en/drug/substance/76236?name=2953&mode=orpha&region=&status=all",
+      "substance_id": "76236",
+      "regulatory_url": "/en/drug/regulatory/627654?name=2953&mode=orpha&region=",
+      "regulatory_id": "627654",
+      "orpha_substance_code": "ORPHA:98249",
+      "details": [
+        "Enzastaurin(Medicinal product                        - 24/02/2022)Disease(s) concernedORPHA:98249 Ehlers-Danlos syndrome",
+        "Enzastaurin(Medicinal product                        - 24/02/2022)",
+        "(Medicinal product                        - 24/02/2022)",
+        "Disease(s) concernedORPHA:98249 Ehlers-Danlos syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/76236?name=2953&mode=orpha&region=&status=all",
+          "text": "Enzastaurin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/98249",
+          "text": "ORPHA:98249 Ehlers-Danlos syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/627654?name=2953&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Enzastaurin",
+      "substance_url": "/en/drug/substance/76236?name=2953&mode=orpha&region=&status=all",
+      "substance_id": "76236",
+      "regulatory_url": "/en/drug/regulatory/682683?name=2953&mode=orpha&region=",
+      "regulatory_id": "682683",
+      "orpha_substance_code": "ORPHA:98249",
+      "details": [
+        "Enzastaurin(Medicinal product                        - 07/12/2021)Disease(s) concernedORPHA:98249 Ehlers-Danlos syndrome",
+        "Enzastaurin(Medicinal product                        - 07/12/2021)",
+        "(Medicinal product                        - 07/12/2021)",
+        "Disease(s) concernedORPHA:98249 Ehlers-Danlos syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/76236?name=2953&mode=orpha&region=&status=all",
+          "text": "Enzastaurin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/98249",
+          "text": "ORPHA:98249 Ehlers-Danlos syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/682683?name=2953&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T05:59:10.223886",
+  "run_number": 1,
+  "total_drugs_found": 2,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Musculocontractural+Ehlers-Danlos+syndrome&orphaCode=2953&name=2953&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Musculocontractural Ehlers-Danlos syndrome",
+    "orphaCode": "2953",
+    "name": "2953",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "disease_name": "Menkes disease",
+  "orpha_code": "565",
+  "drugs": [
+    {
+      "name": "Elesclomol-copper",
+      "substance_url": "/en/drug/substance/661180?name=565&mode=orpha&region=&status=all",
+      "substance_id": "661180",
+      "regulatory_url": "/en/drug/regulatory/661273?name=565&mode=orpha&region=",
+      "regulatory_id": "661273",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Copper nanocluster conjugated to acetate, histidinate and ascorbate",
+      "substance_url": "/en/drug/substance/635863?name=565&mode=orpha&region=&status=all",
+      "substance_id": "635863",
+      "regulatory_url": "/en/drug/regulatory/635867?name=565&mode=orpha&region=",
+      "regulatory_id": "635867",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Copper histidinate",
+      "substance_url": "/en/drug/substance/604837?name=565&mode=orpha&region=&status=all",
+      "substance_id": "604837",
+      "regulatory_url": "/en/drug/regulatory/604838?name=565&mode=orpha&region=",
+      "regulatory_id": "604838",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Recombinant adeno-associated virus vector serotype-9 carrying the human ATP7A transgene",
+      "substance_url": "/en/drug/substance/687224?name=565&mode=orpha&region=&status=all",
+      "substance_id": "687224",
+      "regulatory_url": "/en/drug/regulatory/687566?name=565&mode=orpha&region=",
+      "regulatory_id": "687566",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "rsATP7A cDNA",
+      "substance_url": "/en/drug/substance/399726?name=565&mode=orpha&region=&status=all",
+      "substance_id": "399726",
+      "regulatory_url": "/en/drug/regulatory/399743?name=565&mode=orpha&region=",
+      "regulatory_id": "399743",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:23:00.749503",
+  "run_number": 1,
+  "total_drugs_found": 5,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Menkes+disease&orphaCode=565&name=565&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Menkes disease",
+    "orphaCode": "565",
+    "name": "565",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

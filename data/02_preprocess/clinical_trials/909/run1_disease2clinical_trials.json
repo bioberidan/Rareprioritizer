@@ -1,0 +1,48 @@
+{
+  "disease_name": "Cerebrotendinous xanthomatosis",
+  "orpha_code": "909",
+  "trials": [
+    {
+      "nctId": "NCT06934681",
+      "briefTitle": "Exercise to Fight Obesity",
+      "officialTitle": "Impact of a Structured Physical Exercise Program on Body Composition in Morbid Obesity: A Randomized Controlled Trial",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Morbid Obesity",
+        "Bariatric Surgery",
+        "Telerehabilitation"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Usual Care Group"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Controlled exercise with telerehabilitation"
+        }
+      ],
+      "enrollment": 72,
+      "locations": [
+        {
+          "facility": "Facultad de Fisioterapia, universidad de Valencia",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital La Fe",
+          "city": "Valencia",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-06-04"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:15:08.985076",
+  "run_number": 1,
+  "total_trials_found": 1
+}

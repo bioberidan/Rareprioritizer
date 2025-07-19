@@ -1,0 +1,30 @@
+{
+  "disease_name": "Dietary iron overload disease",
+  "orpha_code": "139507",
+  "drugs": [
+    {
+      "name": "(S)-3'-(OH)-desazadesferrithiocin-polyether, magnesium salt",
+      "substance_url": "/en/drug/substance/189142?name=139507&mode=orpha&region=&status=all",
+      "substance_id": "189142",
+      "regulatory_url": "/en/drug/regulatory/208572?name=139507&mode=orpha&region=",
+      "regulatory_id": "208572",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:43:44.772111",
+  "run_number": 1,
+  "total_drugs_found": 1,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Dietary+iron+overload+disease&orphaCode=139507&name=139507&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Dietary iron overload disease",
+    "orphaCode": "139507",
+    "name": "139507",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "orphacode": "469",
+  "disease_name": "Hereditary fructose intolerance",
+  "socioeconomic_impact_studies": [
+    {
+      "cost": 0,
+      "measure": "percentage of household income allocated to disease-related care",
+      "label": "Social and health care needs in patients with hereditary fructose intolerance in Spain",
+      "source": "https://doi.org/10.1016/j.endien.2020.06.004",
+      "country": "Spain",
+      "year": "2020"
+    },
+    {
+      "cost": 0,
+      "measure": "quality of life impact",
+      "label": "Quality of life of adult patients with hereditary fructose intolerance",
+      "source": "https://doi.org/10.1016/j.ymgme.2023.107701",
+      "country": "Netherlands and Belgium",
+      "year": "2023"
+    }
+  ],
+  "score": 3,
+  "evidence_level": "Low evidence",
+  "justification": "No peer-reviewed cost-of-illness studies specific to hereditary fructose intolerance were identified; available evidence is limited to qualitative and indirect quantitative data from patient surveys and quality-of-life assessments without direct cost figures in euros.",
+  "metadata": {
+    "processing_timestamp": "2025-07-18T19:31:06.635635",
+    "run_number": 1,
+    "orphacode": "469"
+  }
+}

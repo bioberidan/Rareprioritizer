@@ -1,0 +1,17 @@
+{
+  "disease_name": "Dicarboxylic aminoaciduria",
+  "orpha_code": "2195",
+  "drugs": [],
+  "processing_timestamp": "2025-07-07T06:00:23.675444",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Dicarboxylic+aminoaciduria&orphaCode=2195&name=2195&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Dicarboxylic aminoaciduria",
+    "orphaCode": "2195",
+    "name": "2195",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

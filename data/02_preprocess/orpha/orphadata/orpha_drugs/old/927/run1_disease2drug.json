@@ -1,0 +1,398 @@
+{
+  "disease_name": "Hyperammonemia due to N-acetylglutamate synthase deficiency",
+  "orpha_code": "927",
+  "drugs": [
+    {
+      "name": "UCEDANE",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/489568?name=927&mode=orpha&region=",
+      "regulatory_id": "489568",
+      "orpha_substance_code": "ORPHA:927",
+      "details": [
+        "UCEDANE(Tradename                        - 23/06/2017)Disease(s) concernedORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+        "UCEDANE(Tradename                        - 23/06/2017)",
+        "(Tradename                        - 23/06/2017)",
+        "Disease(s) concernedORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/489567?name=927&mode=orpha&region=&status=all",
+          "text": "UCEDANE",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/927",
+          "text": "ORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/489568?name=927&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "CARBAGLU",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/439222?name=927&mode=orpha&region=",
+      "regulatory_id": "439222",
+      "orpha_substance_code": "ORPHA:927",
+      "details": [
+        "CARBAGLU(Tradename                        - 28/01/2003)Disease(s) concernedORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+        "CARBAGLU(Tradename                        - 28/01/2003)",
+        "(Tradename                        - 28/01/2003)",
+        "Disease(s) concernedORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/35160?name=927&mode=orpha&region=&status=all",
+          "text": "CARBAGLU",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/927",
+          "text": "ORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/439222?name=927&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Sodium benzoate",
+      "substance_url": "/en/drug/substance/83694?name=927&mode=orpha&region=&status=all",
+      "substance_id": "83694",
+      "regulatory_url": "/en/drug/regulatory/480497?name=927&mode=orpha&region=",
+      "regulatory_id": "480497",
+      "orpha_substance_code": "ORPHA:927",
+      "details": [
+        "Sodium benzoate(Medicinal product                        - 18/11/2016)Disease(s) concernedORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+        "Sodium benzoate(Medicinal product                        - 18/11/2016)",
+        "(Medicinal product                        - 18/11/2016)",
+        "Disease(s) concernedORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/83694?name=927&mode=orpha&region=&status=all",
+          "text": "Sodium benzoate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/927",
+          "text": "ORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/480497?name=927&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Heterologous human adult liver-derived progenitor cells",
+      "substance_url": "/en/drug/substance/356372?name=927&mode=orpha&region=&status=all",
+      "substance_id": "356372",
+      "regulatory_url": "/en/drug/regulatory/364072?name=927&mode=orpha&region=",
+      "regulatory_id": "364072",
+      "orpha_substance_code": "ORPHA:927",
+      "details": [
+        "Heterologous human adult liver-derived progenitor cells(Medicinal product                        - 17/07/2013)Disease(s) concernedORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+        "Heterologous human adult liver-derived progenitor cells(Medicinal product                        - 17/07/2013)",
+        "(Medicinal product                        - 17/07/2013)",
+        "Disease(s) concernedORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/356372?name=927&mode=orpha&region=&status=all",
+          "text": "Heterologous human adult liver-derived progenitor cells",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/927",
+          "text": "ORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/364072?name=927&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Carglumic acid",
+      "substance_url": "/en/drug/substance/35161?name=927&mode=orpha&region=&status=all",
+      "substance_id": "35161",
+      "regulatory_url": "/en/drug/regulatory/133693?name=927&mode=orpha&region=",
+      "regulatory_id": "133693",
+      "orpha_substance_code": "ORPHA:927",
+      "details": [
+        "Carglumic acid(Medicinal product                        - 18/10/2000)Disease(s) concernedORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+        "Carglumic acid(Medicinal product                        - 18/10/2000)",
+        "(Medicinal product                        - 18/10/2000)",
+        "Disease(s) concernedORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/35161?name=927&mode=orpha&region=&status=all",
+          "text": "Carglumic acid",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/927",
+          "text": "ORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/133693?name=927&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "CARBAGLU",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/465048?name=927&mode=orpha&region=",
+      "regulatory_id": "465048",
+      "orpha_substance_code": "ORPHA:927",
+      "details": [
+        "CARBAGLU(Tradename                        - 18/03/2010)Disease(s) concernedORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+        "CARBAGLU(Tradename                        - 18/03/2010)",
+        "(Tradename                        - 18/03/2010)",
+        "Disease(s) concernedORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/35160?name=927&mode=orpha&region=&status=all",
+          "text": "CARBAGLU",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/927",
+          "text": "ORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/465048?name=927&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "AMMONUL",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131189?name=927&mode=orpha&region=",
+      "regulatory_id": "131189",
+      "orpha_substance_code": "ORPHA:927",
+      "details": [
+        "AMMONUL(Tradename                        - 17/02/2005)Disease(s) concernedORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+        "AMMONUL(Tradename                        - 17/02/2005)",
+        "(Tradename                        - 17/02/2005)",
+        "Disease(s) concernedORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/87863?name=927&mode=orpha&region=&status=all",
+          "text": "AMMONUL",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/927",
+          "text": "ORPHA:927 Hyperammonemia due to N-acetylglutamate synthase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131189?name=927&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Allogeneic adult liver-derived stem cells",
+      "substance_url": "/en/drug/substance/629851?name=927&mode=orpha&region=&status=all",
+      "substance_id": "629851",
+      "regulatory_url": "/en/drug/regulatory/629852?name=927&mode=orpha&region=",
+      "regulatory_id": "629852",
+      "orpha_substance_code": "ORPHA:79167",
+      "details": [
+        "Allogeneic adult liver-derived stem cells(Medicinal product                        - 10/08/2022)Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "Allogeneic adult liver-derived stem cells(Medicinal product                        - 10/08/2022)",
+        "(Medicinal product                        - 10/08/2022)",
+        "Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/629851?name=927&mode=orpha&region=&status=all",
+          "text": "Allogeneic adult liver-derived stem cells",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79167",
+          "text": "ORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/629852?name=927&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "of urea cycle metabolism and ammonia detoxification\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end",
+      "substance_url": "/en/drug/substance/688360?name=927&mode=orpha&region=&status=all",
+      "substance_id": "688360",
+      "regulatory_url": "/en/drug/regulatory/688517?name=927&mode=orpha&region=",
+      "regulatory_id": "688517",
+      "orpha_substance_code": "ORPHA:79167",
+      "details": [
+        "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end(Medicinal product                        - 11/09/2024)Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end(Medicinal product                        - 11/09/2024)",
+        "(Medicinal product                        - 11/09/2024)",
+        "Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/688360?name=927&mode=orpha&region=&status=all",
+          "text": "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79167",
+          "text": "ORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/688517?name=927&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "of urea cycle metabolism and ammonia detoxification\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Glycerol phenylbutyrate",
+      "substance_url": "/en/drug/substance/222387?name=927&mode=orpha&region=&status=all",
+      "substance_id": "222387",
+      "regulatory_url": "/en/drug/regulatory/238146?name=927&mode=orpha&region=",
+      "regulatory_id": "238146",
+      "orpha_substance_code": "ORPHA:79167",
+      "details": [
+        "Glycerol phenylbutyrate(Medicinal product                        - 27/04/2009)Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "Glycerol phenylbutyrate(Medicinal product                        - 27/04/2009)",
+        "(Medicinal product                        - 27/04/2009)",
+        "Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/222387?name=927&mode=orpha&region=&status=all",
+          "text": "Glycerol phenylbutyrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79167",
+          "text": "ORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/238146?name=927&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "of urea cycle metabolism and ammonia detoxification\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:00:32.630688",
+  "run_number": 1,
+  "total_drugs_found": 10,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Hyperammonemia+due+to+N-acetylglutamate+synthase+deficiency&orphaCode=927&name=927&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Hyperammonemia due to N-acetylglutamate synthase deficiency",
+    "orphaCode": "927",
+    "name": "927",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

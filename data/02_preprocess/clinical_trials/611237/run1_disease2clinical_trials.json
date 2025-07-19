@@ -1,0 +1,595 @@
+{
+  "disease_name": "Parkinsonism with polyneuropathy",
+  "orpha_code": "611237",
+  "trials": [
+    {
+      "nctId": "NCT02726386",
+      "briefTitle": "A Long Term Safety Study of ND0612 Administered as a Continuous SC Infusion in Advanced Parkinson's Disease",
+      "officialTitle": "A Multicenter, International, Open-label, Safety Study of ND0612, a Solution of Levodopa/Carbidopa Delivered Via a Pump System as a Continuous Subcutaneous Infusion in Subjects With Advanced Parkinson's Disease",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Parkinson's Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "ND0612"
+        }
+      ],
+      "enrollment": 214,
+      "locations": [
+        {
+          "facility": "Xenoscience",
+          "city": "Phoenix",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trials Inc.",
+          "city": "Little Rock",
+          "country": "United States"
+        },
+        {
+          "facility": "The Parkinsons and Movement Disorder Institute",
+          "city": "Fountain Valley",
+          "country": "United States"
+        },
+        {
+          "facility": "Neuro Pain Medical Center",
+          "city": "Fresno",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Colorado Denver",
+          "city": "Aurora",
+          "country": "United States"
+        },
+        {
+          "facility": "Rocky Mountain Movement Disorders Center",
+          "city": "Englewood",
+          "country": "United States"
+        },
+        {
+          "facility": "Parkinson's Disease and Movement Disorder Center of Boca Raton",
+          "city": "Boca Raton",
+          "country": "United States"
+        },
+        {
+          "facility": "MD Clinical",
+          "city": "Hallandale Beach",
+          "country": "United States"
+        },
+        {
+          "facility": "Infinity Clinical Research, LLC",
+          "city": "Hollywood",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Florida Health at Jacksonville",
+          "city": "Jacksonville",
+          "country": "United States"
+        },
+        {
+          "facility": "Neurology Associates, PA",
+          "city": "Maitland",
+          "country": "United States"
+        },
+        {
+          "facility": "Parkinsons Disease Treatment Center of Southwest Florida",
+          "city": "Port Charlotte",
+          "country": "United States"
+        },
+        {
+          "facility": "Suncoast Neuroscience Associates",
+          "city": "Saint Petersburg",
+          "country": "United States"
+        },
+        {
+          "facility": "Infinity Clinical Research, LLC",
+          "city": "Sunrise",
+          "country": "United States"
+        },
+        {
+          "facility": "USF Health Parkinson's Disease and Movement Disorders",
+          "city": "Tampa",
+          "country": "United States"
+        },
+        {
+          "facility": "Northwestern University",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "Unity Point Health",
+          "city": "Des Moines",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Maryland, Neurology",
+          "city": "Baltimore",
+          "country": "United States"
+        },
+        {
+          "facility": "QUEST Research Institute",
+          "city": "Farmington Hills",
+          "country": "United States"
+        },
+        {
+          "facility": "Henry Ford Hospital",
+          "city": "West Bloomfield",
+          "country": "United States"
+        },
+        {
+          "facility": "Pyramid Clinical Research",
+          "city": "Somerset",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Cincinnati",
+          "city": "Cincinnati",
+          "country": "United States"
+        },
+        {
+          "facility": "The Movement Disorder Clinic of Oklahoma",
+          "city": "Tulsa",
+          "country": "United States"
+        },
+        {
+          "facility": "Synergy Trials",
+          "city": "Richmond",
+          "country": "United States"
+        },
+        {
+          "facility": "Sentara Neuroscience Institute",
+          "city": "Virginia Beach",
+          "country": "United States"
+        },
+        {
+          "facility": "Premier Research",
+          "city": "Spokane",
+          "country": "United States"
+        },
+        {
+          "facility": "Medical University Innsbruck",
+          "city": "Innsbruck",
+          "country": "Austria"
+        },
+        {
+          "facility": "NEUROHK, s.r.o.",
+          "city": "Chocen",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Clintrial s.r.o.",
+          "city": "Praha",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Vestra Clinics, s.r.o.",
+          "city": "Rychnov nad Kněžnou",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Centre Hospitalier d'Aix",
+          "city": "Aix-en-Provence",
+          "country": "France"
+        },
+        {
+          "facility": "CHU d'Amiens, Hopital Sud",
+          "city": "Amiens Cedex 1",
+          "country": "France"
+        },
+        {
+          "facility": "Hopital Neurologique Pierre Wertheimer",
+          "city": "BRON Cedex",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Gabriel Montpied",
+          "city": "Clermont-Ferrand Cedex 1",
+          "country": "France"
+        },
+        {
+          "facility": "Hopital Roger Salengro",
+          "city": "Lille Cedex",
+          "country": "France"
+        },
+        {
+          "facility": "Hopital de la Timone",
+          "city": "Marseille",
+          "country": "France"
+        },
+        {
+          "facility": "CHU de Poitiers",
+          "city": "Poitiers",
+          "country": "France"
+        },
+        {
+          "facility": "Kliniken Beelitz GmbH",
+          "city": "Beelitz-Heilstätten",
+          "country": "Germany"
+        },
+        {
+          "facility": "St. Josefs Hospital",
+          "city": "Bochum",
+          "country": "Germany"
+        },
+        {
+          "facility": "Klinikum-Bremerhaven Reinkenheide",
+          "city": "Bremerhaven",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitaetsklinikum Carl Gustav Carus an der Technischen Universitaet Dresden",
+          "city": "Dresden",
+          "country": "Germany"
+        },
+        {
+          "facility": "Klinik Haag",
+          "city": "Haag in Oberbayern",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitaets-und Rehabilitationskliniken Ulm",
+          "city": "Ulm",
+          "country": "Germany"
+        },
+        {
+          "facility": "Barzilai MC",
+          "city": "Ashkelon",
+          "country": "Israel"
+        },
+        {
+          "facility": "Hadassah Medical Center, Ein-Kerem Campus",
+          "city": "Jerusalem",
+          "country": "Israel"
+        },
+        {
+          "facility": "Rabin Medical Center",
+          "city": "Petah Tikva",
+          "country": "Israel"
+        },
+        {
+          "facility": "Chaim Sheba Medical Center",
+          "city": "Ramat Gan",
+          "country": "Israel"
+        },
+        {
+          "facility": "Sourasky Medical Center",
+          "city": "Tel Aviv",
+          "country": "Israel"
+        },
+        {
+          "facility": "University Foundation",
+          "city": "Chieti",
+          "country": "Italy"
+        },
+        {
+          "facility": "AOU Pisa",
+          "city": "Pisa",
+          "country": "Italy"
+        },
+        {
+          "facility": "IRCCS San Raffaele Pisana",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        {
+          "facility": "IRCCS Hospital San Camillo Venice",
+          "city": "Venice",
+          "country": "Italy"
+        },
+        {
+          "facility": "Centrum Medyczne PLEJADY",
+          "city": "Kraków",
+          "country": "Poland"
+        },
+        {
+          "facility": "Krakowska Akademia Neurologii Sp. z o.o.",
+          "city": "Kraków",
+          "country": "Poland"
+        },
+        {
+          "facility": "Indywidualna Praktyka Lekarska prof. dr hab",
+          "city": "Lublin",
+          "country": "Poland"
+        },
+        {
+          "facility": "Hospital Clinic de Barcelona",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de la Princesa",
+          "city": "Madrid",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-05-30"
+    },
+    {
+      "nctId": "NCT04379050",
+      "briefTitle": "Extension Study To Evaluate Safety And Tolerability Of 24-Hour Daily Exposure Of Continuous Subcutaneous Infusion of ABBV-951 In Adult Participants With Parkinson's Disease",
+      "officialTitle": "An Open-label Extension of Study M15-741 to Evaluate the Safety and Tolerability of 24-hour Daily Exposure of Continuous Subcutaneous Infusion of ABBV-951 in Subjects With Parkinson's Disease",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Parkinson's Disease (PD)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "ABBV-951"
+        }
+      ],
+      "enrollment": 130,
+      "locations": [
+        {
+          "facility": "University of Alabama at Birmingham - Main /ID# 215597",
+          "city": "Birmingham",
+          "country": "United States"
+        },
+        {
+          "facility": "Banner Sun Health Research Institute /ID# 215579",
+          "city": "Sun City",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Colorado Hospital /ID# 215625",
+          "city": "Aurora",
+          "country": "United States"
+        },
+        {
+          "facility": "Parkinson's Disease and Movement Disorders Center of Boca Raton /ID# 215412",
+          "city": "Boca Raton",
+          "country": "United States"
+        },
+        {
+          "facility": "Indiana Clinical Research Cent /ID# 216490",
+          "city": "Indianapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "Univ Kansas Med Ctr /ID# 215624",
+          "city": "Kansas City",
+          "country": "United States"
+        },
+        {
+          "facility": "Washington University-School of Medicine /ID# 215472",
+          "city": "Saint Louis",
+          "country": "United States"
+        },
+        {
+          "facility": "Dartmouth-Hitchcock Medical Center /ID# 216834",
+          "city": "Lebanon",
+          "country": "United States"
+        },
+        {
+          "facility": "M3 Wake Research Inc. /ID# 215596",
+          "city": "Raleigh",
+          "country": "United States"
+        },
+        {
+          "facility": "Legacy Medical Group - Neurology /ID# 215536",
+          "city": "Portland",
+          "country": "United States"
+        },
+        {
+          "facility": "Baylor College of Medicine /ID# 215401",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "Central Texas Neurology Consul /ID# 217013",
+          "city": "Round Rock",
+          "country": "United States"
+        },
+        {
+          "facility": "Univ Texas HSC San Antonio /ID# 215400",
+          "city": "San Antonio",
+          "country": "United States"
+        },
+        {
+          "facility": "Booth Gardner Parkinson's Care Center /ID# 215535",
+          "city": "Kirkland",
+          "country": "United States"
+        },
+        {
+          "facility": "Inland Northwest Research /ID# 215533",
+          "city": "Spokane",
+          "country": "United States"
+        },
+        {
+          "facility": "Concord Repatriation General Hospital /ID# 215943",
+          "city": "Concord",
+          "country": "Australia"
+        },
+        {
+          "facility": "Westmead Hospital /ID# 215941",
+          "city": "Westmead",
+          "country": "Australia"
+        },
+        {
+          "facility": "Royal Adelaide Hospital /ID# 215940",
+          "city": "Adelaide",
+          "country": "Australia"
+        },
+        {
+          "facility": "The Alfred Hospital /ID# 215942",
+          "city": "Melbourne",
+          "country": "Australia"
+        },
+        {
+          "facility": "Perron Institute /ID# 215944",
+          "city": "Nedlands",
+          "country": "Australia"
+        },
+        {
+          "facility": "Universitair Ziekenhuis Leuven /ID# 215684",
+          "city": "Leuven",
+          "country": "Belgium"
+        },
+        {
+          "facility": "AZ Sint-Jan Brugge /ID# 215686",
+          "city": "Brugge",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Groupe Sante CHC - Clinique du MontLegia /ID# 215685",
+          "city": "Liege",
+          "country": "Belgium"
+        },
+        {
+          "facility": "University of Calgary - Movement Disorders Clinic /ID# 215369",
+          "city": "Calgary",
+          "country": "Canada"
+        },
+        {
+          "facility": "Clinique Neuro Levis /ID# 215371",
+          "city": "Lévis",
+          "country": "Canada"
+        },
+        {
+          "facility": "Bispebjerg and Frederiksberg Hospital /ID# 215391",
+          "city": "Copenhagen NV",
+          "country": "Denmark"
+        },
+        {
+          "facility": "Aarhus Universitetshospital - Skejby /ID# 215392",
+          "city": "Aarhus",
+          "country": "Denmark"
+        },
+        {
+          "facility": "Odense University Hospital /ID# 215390",
+          "city": "Odense",
+          "country": "Denmark"
+        },
+        {
+          "facility": "Universitaetsklinikum Ulm /ID# 215405",
+          "city": "Ulm",
+          "country": "Germany"
+        },
+        {
+          "facility": "curiositas ad sanum /ID# 215404",
+          "city": "Haag i.OB",
+          "country": "Germany"
+        },
+        {
+          "facility": "Kliniken Beelitz GmbH /ID# 215403",
+          "city": "Beelitz-Heilstaetten",
+          "country": "Germany"
+        },
+        {
+          "facility": "IRCCS Centro Neurolesi Bonino Pulejo /ID# 215422",
+          "city": "Messina",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera di Padova /ID# 215421",
+          "city": "Padova",
+          "country": "Italy"
+        },
+        {
+          "facility": "National Hospital Organization Asahikawa Medical Center /ID# 218762",
+          "city": "Asahikawa-shi",
+          "country": "Japan"
+        },
+        {
+          "facility": "Osaka University Hospital /ID# 217415",
+          "city": "Suita-shi",
+          "country": "Japan"
+        },
+        {
+          "facility": "National Center of Neurology and Psychiatry /ID# 218763",
+          "city": "Kodaira-shi",
+          "country": "Japan"
+        },
+        {
+          "facility": "St. Antonius Ziekenhuis /ID# 215396",
+          "city": "Nieuwegein",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "City Clinical Hospital #40 /ID# 218870",
+          "city": "Sestroretsk",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Academician I.P. Pavlov First St. Petersburg State Medical University /ID# 218869",
+          "city": "St. Petersburg",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Complejo Hospitalario Universitario A Coruña /ID# 215426",
+          "city": "A Coruña",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital General Universitario de Elche /ID# 215425",
+          "city": "Elche",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitari de Bellvitge /ID# 215427",
+          "city": "L'Hospitalet de Llobregat",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Santa Creu i Sant Pau /ID# 215429",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen de las Nieves /ID# 215431",
+          "city": "Granada",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen del Rocio /ID# 215428",
+          "city": "Sevilla",
+          "country": "Spain"
+        },
+        {
+          "facility": "Skane University Hospital Lund /ID# 215385",
+          "city": "Lund",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Karolinska Universitetssjukhuset - Huddinge /ID# 215386",
+          "city": "Huddinge",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Sahlgrenska Universitetssjukhuset /ID# 215387",
+          "city": "Göteborg",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Derriford Hospital and the Royal Eye Infirmary /ID# 217390",
+          "city": "Plymouth",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "NHS Tayside /ID# 217389",
+          "city": "Dundee",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "King's College Hospital NHS Foundation Trust /ID# 217388",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2024-06-18"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:14:05.551673",
+  "run_number": 1,
+  "total_trials_found": 2
+}

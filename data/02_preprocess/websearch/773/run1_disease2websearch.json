@@ -1,0 +1,43 @@
+{
+  "disease_name": "Refsum disease",
+  "orpha_code": "773",
+  "processing_timestamp": "2025-07-16T08:14:07.009618",
+  "run_number": 1,
+  "analysis_type": "socioeconomic",
+  "processing_duration": 56.17,
+  "success": true,
+  "error_details": null,
+  "socioeconomic_analysis": {
+    "orphacode": "773",
+    "disease_name": "Refsum disease",
+    "socioeconomic_impact_studies": [
+      {
+        "cost": 11250,
+        "measure": "annual maintenance cost of patient-driven registry",
+        "label": "Patient-driven rare disease registry maintenance cost",
+        "source": "https://www.medscape.com/viewarticle/837851",
+        "country": "USA",
+        "year": "2015"
+      },
+      {
+        "cost": 0,
+        "measure": "cost to participants for registry enrollment",
+        "label": "Cost to participants of Global DARE Foundation patient registry",
+        "source": "https://www.defeatadultrefsumeverywhere.org/refsum-patient-registry",
+        "country": "Global",
+        "year": "2024"
+      },
+      {
+        "cost": 0,
+        "measure": "qualitative description of dietary and plasmapheresis treatment burden",
+        "label": "Treatment burden qualitative description",
+        "source": "https://www.lybrate.com/topic/refsum-disease",
+        "country": "India",
+        "year": "2023"
+      }
+    ],
+    "score": 5,
+    "evidence_level": "Medium evidence",
+    "justification": "No peer-reviewed cost-of-illness studies specific to Refsum disease were found; only patient organization registry cost estimates and qualitative treatment burden descriptions are available, supporting a score of 5."
+  }
+}

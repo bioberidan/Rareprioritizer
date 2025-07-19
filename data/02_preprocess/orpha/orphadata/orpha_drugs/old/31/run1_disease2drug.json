@@ -1,0 +1,17 @@
+{
+  "disease_name": "Oxoglutaric aciduria",
+  "orpha_code": "31",
+  "drugs": [],
+  "processing_timestamp": "2025-07-07T06:03:34.561134",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Oxoglutaric+aciduria&orphaCode=31&name=31&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Oxoglutaric aciduria",
+    "orphaCode": "31",
+    "name": "31",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

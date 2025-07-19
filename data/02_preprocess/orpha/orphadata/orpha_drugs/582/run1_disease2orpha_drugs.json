@@ -1,0 +1,138 @@
+{
+  "disease_name": "Mucopolysaccharidosis type 4",
+  "orpha_code": "582",
+  "drugs": [
+    {
+      "name": "N-terminal hexaglutamine-tagged recombinant human N-acetylgalactosamine-6-sulfate sulfatase",
+      "substance_url": "/en/drug/substance/170129?name=582&mode=orpha&region=&status=all",
+      "substance_id": "170129",
+      "regulatory_url": "/en/drug/regulatory/180793?name=582&mode=orpha&region=",
+      "regulatory_id": "180793",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "PLERIXAFOR ACCORD",
+      "substance_url": "/en/drug/trade_name/642316?name=582&mode=orpha&region=&status=all",
+      "substance_id": "642316",
+      "regulatory_url": "/en/drug/regulatory/642317?name=582&mode=orpha&region=",
+      "regulatory_id": "642317",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Thiotepa Riemser",
+      "substance_url": "/en/drug/trade_name/610616?name=582&mode=orpha&region=&status=all",
+      "substance_id": "610616",
+      "regulatory_url": "/en/drug/regulatory/610636?name=582&mode=orpha&region=",
+      "regulatory_id": "610636",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "motixafortide",
+      "substance_url": "/en/drug/substance/588874?name=582&mode=orpha&region=&status=all",
+      "substance_id": "588874",
+      "regulatory_url": "/en/drug/regulatory/661036?name=582&mode=orpha&region=",
+      "regulatory_id": "661036",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate",
+      "substance_url": "/en/drug/substance/589233?name=582&mode=orpha&region=&status=all",
+      "substance_id": "589233",
+      "regulatory_url": "/en/drug/regulatory/589234?name=582&mode=orpha&region=",
+      "regulatory_id": "589234",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus",
+      "substance_url": "/en/drug/substance/589056?name=582&mode=orpha&region=&status=all",
+      "substance_id": "589056",
+      "regulatory_url": "/en/drug/regulatory/589057?name=582&mode=orpha&region=",
+      "regulatory_id": "589057",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=582&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=582&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Besilesomab",
+      "substance_url": "/en/drug/substance/571152?name=582&mode=orpha&region=&status=all",
+      "substance_id": "571152",
+      "regulatory_url": "/en/drug/regulatory/641081?name=582&mode=orpha&region=",
+      "regulatory_id": "641081",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=582&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=582&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=582&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=582&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:39:01.578132",
+  "run_number": 1,
+  "total_drugs_found": 10,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Mucopolysaccharidosis+type+4&orphaCode=582&name=582&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Mucopolysaccharidosis type 4",
+    "orphaCode": "582",
+    "name": "582",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

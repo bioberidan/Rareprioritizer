@@ -1,0 +1,126 @@
+{
+  "disease_name": "Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency",
+  "orpha_code": "5",
+  "drugs": [
+    {
+      "name": "Triheptanoin",
+      "substance_url": "/en/drug/substance/317333?name=5&mode=orpha&region=&status=all",
+      "substance_id": "317333",
+      "regulatory_url": "/en/drug/regulatory/444892?name=5&mode=orpha&region=",
+      "regulatory_id": "444892",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Sodium (4-{(E)-3-(4-fluorophenyl)-3-[4-(3-morpholin-4-yl-prop1ynyl)phenyl]allyloxy}-2-methylphenoxy)acetate",
+      "substance_url": "/en/drug/substance/604812?name=5&mode=orpha&region=&status=all",
+      "substance_id": "604812",
+      "regulatory_url": "/en/drug/regulatory/604835?name=5&mode=orpha&region=",
+      "regulatory_id": "604835",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "DOJOLVI",
+      "substance_url": "/en/drug/trade_name/615857?name=5&mode=orpha&region=&status=all",
+      "substance_id": "615857",
+      "regulatory_url": "/en/drug/regulatory/623538?name=5&mode=orpha&region=",
+      "regulatory_id": "623538",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Encaleret sulfate",
+      "substance_url": "/en/drug/substance/627727?name=5&mode=orpha&region=&status=all",
+      "substance_id": "627727",
+      "regulatory_url": "/en/drug/regulatory/627728?name=5&mode=orpha&region=",
+      "regulatory_id": "627728",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Palopegteriparatide",
+      "substance_url": "/en/drug/substance/604906?name=5&mode=orpha&region=&status=all",
+      "substance_id": "604906",
+      "regulatory_url": "/en/drug/regulatory/604907?name=5&mode=orpha&region=",
+      "regulatory_id": "604907",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Recombinant human parathyroid hormone",
+      "substance_url": "/en/drug/substance/367963?name=5&mode=orpha&region=&status=all",
+      "substance_id": "367963",
+      "regulatory_url": "/en/drug/regulatory/377573?name=5&mode=orpha&region=",
+      "regulatory_id": "377573",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=5&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=5&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=5&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=5&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=5&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=5&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:42:22.322954",
+  "run_number": 1,
+  "total_drugs_found": 9,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Long+chain+3-hydroxyacyl-CoA+dehydrogenase+deficiency&orphaCode=5&name=5&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency",
+    "orphaCode": "5",
+    "name": "5",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

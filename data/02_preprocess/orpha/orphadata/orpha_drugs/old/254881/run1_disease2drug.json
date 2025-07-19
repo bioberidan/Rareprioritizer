@@ -1,0 +1,137 @@
+{
+  "disease_name": "Spinocerebellar ataxia with epilepsy",
+  "orpha_code": "254881",
+  "drugs": [
+    {
+      "name": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/646586?name=254881&mode=orpha&region=&status=all",
+      "substance_id": "646586",
+      "regulatory_url": "/en/drug/regulatory/646683?name=254881&mode=orpha&region=",
+      "regulatory_id": "646683",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)",
+        "(Medicinal product                        - 14/04/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/646586?name=254881&mode=orpha&region=&status=all",
+          "text": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/646683?name=254881&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Zagociguat",
+      "substance_url": "/en/drug/substance/644348?name=254881&mode=orpha&region=&status=all",
+      "substance_id": "644348",
+      "regulatory_url": "/en/drug/regulatory/644353?name=254881&mode=orpha&region=",
+      "regulatory_id": "644353",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Zagociguat(Medicinal product                        - 23/03/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Zagociguat(Medicinal product                        - 23/03/2023)",
+        "(Medicinal product                        - 23/03/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/644348?name=254881&mode=orpha&region=&status=all",
+          "text": "Zagociguat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/644353?name=254881&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Vatiquinone",
+      "substance_url": "/en/drug/substance/285822?name=254881&mode=orpha&region=&status=all",
+      "substance_id": "285822",
+      "regulatory_url": "/en/drug/regulatory/299940?name=254881&mode=orpha&region=",
+      "regulatory_id": "299940",
+      "orpha_substance_code": "ORPHA:254827",
+      "details": [
+        "Vatiquinone(Medicinal product                        - 21/12/2010)Disease(s) concernedORPHA:223713 Mitochondrial oxidative phosphorylation disorderORPHA:254827 Mitochondrial membrane transport disorder",
+        "Vatiquinone(Medicinal product                        - 21/12/2010)",
+        "(Medicinal product                        - 21/12/2010)",
+        "Disease(s) concernedORPHA:223713 Mitochondrial oxidative phosphorylation disorderORPHA:254827 Mitochondrial membrane transport disorder",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/285822?name=254881&mode=orpha&region=&status=all",
+          "text": "Vatiquinone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/223713",
+          "text": "ORPHA:223713 Mitochondrial oxidative phosphorylation disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/254827",
+          "text": "ORPHA:254827 Mitochondrial membrane transport disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/299940?name=254881&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "ORPHA:254827 Mitochondrial membrane transport disorder\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:02:53.409589",
+  "run_number": 1,
+  "total_drugs_found": 3,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Spinocerebellar+ataxia+with+epilepsy&orphaCode=254881&name=254881&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Spinocerebellar ataxia with epilepsy",
+    "orphaCode": "254881",
+    "name": "254881",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

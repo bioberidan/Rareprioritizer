@@ -1,0 +1,17 @@
+{
+  "disease_name": "Autosomal recessive complex spastic paraplegia due to Kennedy pathway dysfunction",
+  "orpha_code": "506353",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:22:28.961152",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Autosomal+recessive+complex+spastic+paraplegia+due+to+Kennedy+pathway+dysfunction&orphaCode=506353&name=506353&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Autosomal recessive complex spastic paraplegia due to Kennedy pathway dysfunction",
+    "orphaCode": "506353",
+    "name": "506353",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "prevalence_id": "11223",
+    "orpha_code": "232",
+    "disease_name": "Sickle cell anemia",
+    "source": "Institut de Veille Sanitaire 2015[INST]",
+    "prevalence_type": "Prevalence at birth",
+    "prevalence_class": ">1 / 1000",
+    "qualification": "Value and class",
+    "geographic_area": "Guyana",
+    "validation_status": "Not yet validated",
+    "reliability_score": 4.8,
+    "is_fiable": false,
+    "per_million_estimate": 5000.0,
+    "confidence_level": "high",
+    "estimate_source": "class_midpoint"
+  }
+]

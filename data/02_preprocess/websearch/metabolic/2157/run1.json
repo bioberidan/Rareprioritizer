@@ -1,0 +1,24 @@
+{
+  "orphacode": "2157",
+  "disease_name": "Histidinemia",
+  "groups": [
+    {
+      "unit_name": "U746",
+      "sources": [
+        {
+          "label": "RARE.META-CBM group description",
+          "url": "https://www.rare-genomics.com/es/sobre-nosotros/rare-meta-cbm"
+        },
+        {
+          "label": "La U746 CIBERER desarrollará un proyecto de mejora del diagnóstico de enfermedades metabólicas",
+          "url": "https://www.ciberer.es/noticias/la-u746-ciberer-desarrollara-un-proyecto-de-mejora-del-diagnostico-de-enfermedades-metabolicas"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "processing_timestamp": "2025-07-18T18:12:53.469460",
+    "run_number": 1,
+    "orphacode": "2157"
+  }
+}

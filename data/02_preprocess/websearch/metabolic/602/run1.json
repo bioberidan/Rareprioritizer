@@ -1,0 +1,38 @@
+{
+  "orphacode": "602",
+  "disease_name": "GNE myopathy",
+  "groups": [
+    {
+      "unit_name": "U770",
+      "sources": [
+        {
+          "label": "XVII Reunión Anual CIBERER 2024: Presentación grupos nuevos",
+          "url": "https://reunionanual.ciberer.es/programa"
+        }
+      ]
+    },
+    {
+      "unit_name": "U762",
+      "sources": [
+        {
+          "label": "CIBERER news: Designadas como CSUR de Enfermedades Neuromusculares las Unidades 762 y 763 del CIBERER",
+          "url": "https://www.ciberer.es/noticias/designadas-como-csur-de-enfermedades-neuromusculares-las-unidades-762-y-763-del-ciberer"
+        }
+      ]
+    },
+    {
+      "unit_name": "U763",
+      "sources": [
+        {
+          "label": "CIBERER news: Designadas como CSUR de Enfermedades Neuromusculares las Unidades 762 y 763 del CIBERER",
+          "url": "https://www.ciberer.es/noticias/designadas-como-csur-de-enfermedades-neuromusculares-las-unidades-762-y-763-del-ciberer"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "processing_timestamp": "2025-07-18T16:26:15.657777",
+    "run_number": 1,
+    "orphacode": "602"
+  }
+}

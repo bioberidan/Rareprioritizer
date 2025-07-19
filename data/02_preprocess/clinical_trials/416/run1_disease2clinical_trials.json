@@ -1,0 +1,432 @@
+{
+  "disease_name": "Primary hyperoxaluria",
+  "orpha_code": "416",
+  "trials": [
+    {
+      "nctId": "NCT04580420",
+      "briefTitle": "Safety & Efficacy of DCR-PHXC in Patients With PH1 and ESRD",
+      "officialTitle": "A Phase 2 Open-Label Study to Evaluate the Safety and Efficacy of DCR-PHXC in Patients With Primary Hyperoxaluria Type 1 and Severe Renal Impairment, With or Without Dialysis",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Primary Hyperoxaluria Type 1",
+        "End Stage Renal Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "DCR-PHXC"
+        }
+      ],
+      "enrollment": 28,
+      "locations": [
+        {
+          "facility": "Clinical Trial Site",
+          "city": "San Francisco",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Rochester",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Bron",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Bonn",
+          "country": "Germany"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Heidelberg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Beirut",
+          "country": "Lebanon"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Casablanca",
+          "country": "Morocco"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Oradea",
+          "country": "Romania"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Oradea",
+          "country": "Romania"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Santa Cruz De Tenerife",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Dubai",
+          "country": "United Arab Emirates"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-05-15"
+    },
+    {
+      "nctId": "NCT04042402",
+      "briefTitle": "Long Term Extension Study in Patients With Primary Hyperoxaluria",
+      "officialTitle": "An Open-Label Roll-Over Study to Evaluate the Long-Term Safety and Efficacy of DCR-PHXC Solution for Injection (Subcutaneous Use) in Patients With Primary Hyperoxaluria",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Primary Hyperoxaluria Type 1 (PH1)",
+        "Primary Hyperoxaluria Type 2 (PH2)",
+        "Kidney Diseases",
+        "Urologic Diseases",
+        "Genetic Disease",
+        "Primary Hyperoxaluria Type 3 (PH3)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "DCR-PHXC"
+        }
+      ],
+      "enrollment": 75,
+      "locations": [
+        {
+          "facility": "Clinical Research Site",
+          "city": "San Francisco",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Rochester",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Research Site",
+          "city": "Herston",
+          "country": "Australia"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Melbourne",
+          "country": "Australia"
+        },
+        {
+          "facility": "Clinical Research Site",
+          "city": "Hamilton",
+          "country": "Canada"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Bron",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Bonn",
+          "country": "Germany"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Heidelberg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Clinical Research Site",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Fukuoka",
+          "country": "Japan"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Nagoya",
+          "country": "Japan"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Tokyo",
+          "country": "Japan"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Beirut",
+          "country": "Lebanon"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Tromsø",
+          "country": "Norway"
+        },
+        {
+          "facility": "Clinical Research Site",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Ankara",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Hampstead",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Birmingham",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-05-30"
+    },
+    {
+      "nctId": "NCT04982393",
+      "briefTitle": "BONAPH1DE, A Prospective Observational Study of Patients With Primary Hyperoxaluria Type 1 (PH1)",
+      "officialTitle": "BONAPH1DE, A Prospective Observational Study of Patients With Primary Hyperoxaluria Type 1 (PH1)",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Primary Hyperoxaluria Type 1"
+      ],
+      "interventions": [],
+      "enrollment": 200,
+      "locations": [
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Phoenix",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Washington",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Rochester",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Cincinnati",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Pittsburgh",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Gent",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Liège",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Hamilton",
+          "country": "Canada"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Laurier",
+          "country": "Canada"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Bordeaux",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Lyon",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Berlin",
+          "country": "Germany"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Cologne",
+          "country": "Germany"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Jerusalem",
+          "country": "Israel"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Orbassano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Verona",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Santa Cruz de Tenerife",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Las Palmas",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Bern",
+          "country": "Switzerland"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-05-13"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:14:00.404504",
+  "run_number": 1,
+  "total_trials_found": 3
+}

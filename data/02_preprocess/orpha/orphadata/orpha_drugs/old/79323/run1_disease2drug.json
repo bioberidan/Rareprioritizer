@@ -1,0 +1,17 @@
+{
+  "disease_name": "MPDU1-CDG",
+  "orpha_code": "79323",
+  "drugs": [],
+  "processing_timestamp": "2025-07-07T05:59:30.282473",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=MPDU1-CDG&orphaCode=79323&name=79323&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "MPDU1-CDG",
+    "orphaCode": "79323",
+    "name": "79323",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,664 @@
+{
+  "disease_name": "Homozygous familial hypercholesterolemia",
+  "orpha_code": "391665",
+  "drugs": [
+    {
+      "name": "Evkeeza",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/650254?name=391665&mode=orpha&region=",
+      "regulatory_id": "650254",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "Evkeeza(Tradename                        - 17/06/2021)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "Evkeeza(Tradename                        - 17/06/2021)",
+        "(Tradename                        - 17/06/2021)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/616444?name=391665&mode=orpha&region=&status=all",
+          "text": "Evkeeza",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/650254?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "REPATHA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/440968?name=391665&mode=orpha&region=",
+      "regulatory_id": "440968",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "REPATHA(Tradename                        - 17/07/2015)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "REPATHA(Tradename                        - 17/07/2015)",
+        "(Tradename                        - 17/07/2015)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/440880?name=391665&mode=orpha&region=&status=all",
+          "text": "REPATHA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/440968?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "LOJUXTA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/392189?name=391665&mode=orpha&region=",
+      "regulatory_id": "392189",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "LOJUXTA(Tradename                        - 31/07/2013)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "LOJUXTA(Tradename                        - 31/07/2013)",
+        "(Tradename                        - 31/07/2013)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/360696?name=391665&mode=orpha&region=&status=all",
+          "text": "LOJUXTA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/392189?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Evkeeza",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/644262?name=391665&mode=orpha&region=",
+      "regulatory_id": "644262",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "Evkeeza(Tradename                        - 21/03/2023)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "Evkeeza(Tradename                        - 21/03/2023)",
+        "(Tradename                        - 21/03/2023)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/616444?name=391665&mode=orpha&region=&status=all",
+          "text": "Evkeeza",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/644262?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "REPATHA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/622253?name=391665&mode=orpha&region=",
+      "regulatory_id": "622253",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "REPATHA(Tradename                        - 24/09/2021)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "REPATHA(Tradename                        - 24/09/2021)",
+        "(Tradename                        - 24/09/2021)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/440880?name=391665&mode=orpha&region=&status=all",
+          "text": "REPATHA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/622253?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Praluent",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/622166?name=391665&mode=orpha&region=",
+      "regulatory_id": "622166",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "Praluent(Tradename                        - 01/04/2021)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "Praluent(Tradename                        - 01/04/2021)",
+        "(Tradename                        - 01/04/2021)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/622165?name=391665&mode=orpha&region=&status=all",
+          "text": "Praluent",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/622166?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Evkeeza",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/623059?name=391665&mode=orpha&region=",
+      "regulatory_id": "623059",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "Evkeeza(Tradename                        - 11/02/2021)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "Evkeeza(Tradename                        - 11/02/2021)",
+        "(Tradename                        - 11/02/2021)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/616444?name=391665&mode=orpha&region=&status=all",
+          "text": "Evkeeza",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/623059?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "CRESTOR",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/479947?name=391665&mode=orpha&region=",
+      "regulatory_id": "479947",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "CRESTOR(Tradename                        - 27/05/2016)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "CRESTOR(Tradename                        - 27/05/2016)",
+        "(Tradename                        - 27/05/2016)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/479943?name=391665&mode=orpha&region=&status=all",
+          "text": "CRESTOR",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/479947?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "REPATHA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/440960?name=391665&mode=orpha&region=",
+      "regulatory_id": "440960",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "REPATHA(Tradename                        - 27/08/2015)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "REPATHA(Tradename                        - 27/08/2015)",
+        "(Tradename                        - 27/08/2015)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/440880?name=391665&mode=orpha&region=&status=all",
+          "text": "REPATHA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/440960?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "KYNAMRO",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/465151?name=391665&mode=orpha&region=",
+      "regulatory_id": "465151",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "KYNAMRO(Tradename                        - 29/01/2013)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "KYNAMRO(Tradename                        - 29/01/2013)",
+        "(Tradename                        - 29/01/2013)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/464985?name=391665&mode=orpha&region=&status=all",
+          "text": "KYNAMRO",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/465151?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "JUXTAPID",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/392193?name=391665&mode=orpha&region=",
+      "regulatory_id": "392193",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "JUXTAPID(Tradename                        - 21/12/2012)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "JUXTAPID(Tradename                        - 21/12/2012)",
+        "(Tradename                        - 21/12/2012)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/460515?name=391665&mode=orpha&region=&status=all",
+          "text": "JUXTAPID",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/392193?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "mRNA encoding the cholesterol degrading platform (CDP) fusion protein",
+      "substance_url": "/en/drug/substance/704647?name=391665&mode=orpha&region=&status=all",
+      "substance_id": "704647",
+      "regulatory_url": "/en/drug/regulatory/704748?name=391665&mode=orpha&region=",
+      "regulatory_id": "704748",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "mRNA encoding the cholesterol degrading platform (CDP) fusion protein(Medicinal product                        - 15/05/2025)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "mRNA encoding the cholesterol degrading platform (CDP) fusion protein(Medicinal product                        - 15/05/2025)",
+        "(Medicinal product                        - 15/05/2025)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/704647?name=391665&mode=orpha&region=&status=all",
+          "text": "mRNA encoding the cholesterol degrading platform (CDP) fusion protein",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/704748?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Alirocumab",
+      "substance_url": "/en/drug/substance/564109?name=391665&mode=orpha&region=&status=all",
+      "substance_id": "564109",
+      "regulatory_url": "/en/drug/regulatory/564111?name=391665&mode=orpha&region=",
+      "regulatory_id": "564111",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "Alirocumab(Medicinal product                        - 15/06/2017)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "Alirocumab(Medicinal product                        - 15/06/2017)",
+        "(Medicinal product                        - 15/06/2017)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/564109?name=391665&mode=orpha&region=&status=all",
+          "text": "Alirocumab",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/564111?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Seladelpar",
+      "substance_url": "/en/drug/substance/441035?name=391665&mode=orpha&region=&status=all",
+      "substance_id": "441035",
+      "regulatory_url": "/en/drug/regulatory/441043?name=391665&mode=orpha&region=",
+      "regulatory_id": "441043",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "Seladelpar(Medicinal product                        - 18/03/2015)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "Seladelpar(Medicinal product                        - 18/03/2015)",
+        "(Medicinal product                        - 18/03/2015)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/441035?name=391665&mode=orpha&region=&status=all",
+          "text": "Seladelpar",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/441043?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Rosuvastatin",
+      "substance_url": "/en/drug/substance/479941?name=391665&mode=orpha&region=&status=all",
+      "substance_id": "479941",
+      "regulatory_url": "/en/drug/regulatory/479954?name=391665&mode=orpha&region=",
+      "regulatory_id": "479954",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "Rosuvastatin(Medicinal product                        - 14/02/2014)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "Rosuvastatin(Medicinal product                        - 14/02/2014)",
+        "(Medicinal product                        - 14/02/2014)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/479941?name=391665&mode=orpha&region=&status=all",
+          "text": "Rosuvastatin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/479954?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Gemcabene",
+      "substance_url": "/en/drug/substance/398923?name=391665&mode=orpha&region=&status=all",
+      "substance_id": "398923",
+      "regulatory_url": "/en/drug/regulatory/398931?name=391665&mode=orpha&region=",
+      "regulatory_id": "398931",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "Gemcabene(Medicinal product                        - 06/02/2014)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "Gemcabene(Medicinal product                        - 06/02/2014)",
+        "(Medicinal product                        - 06/02/2014)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/398923?name=391665&mode=orpha&region=&status=all",
+          "text": "Gemcabene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/398931?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "evolocumab",
+      "substance_url": "/en/drug/substance/396217?name=391665&mode=orpha&region=&status=all",
+      "substance_id": "396217",
+      "regulatory_url": "/en/drug/regulatory/440957?name=391665&mode=orpha&region=",
+      "regulatory_id": "440957",
+      "orpha_substance_code": "ORPHA:391665",
+      "details": [
+        "evolocumab(Medicinal product                        - 12/09/2013)Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "evolocumab(Medicinal product                        - 12/09/2013)",
+        "(Medicinal product                        - 12/09/2013)",
+        "Disease(s) concernedORPHA:391665 Homozygous familial hypercholesterolemia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/396217?name=391665&mode=orpha&region=&status=all",
+          "text": "evolocumab",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/391665",
+          "text": "ORPHA:391665 Homozygous familial hypercholesterolemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/440957?name=391665&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:04:13.746358",
+  "run_number": 1,
+  "total_drugs_found": 17,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Homozygous+familial+hypercholesterolemia&orphaCode=391665&name=391665&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Homozygous familial hypercholesterolemia",
+    "orphaCode": "391665",
+    "name": "391665",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

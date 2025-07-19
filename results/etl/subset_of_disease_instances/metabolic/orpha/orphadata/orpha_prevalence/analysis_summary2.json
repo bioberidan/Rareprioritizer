@@ -1,0 +1,17 @@
+{
+  "generation_timestamp": "2025-07-12T10:34:38.158612",
+  "data_overview": {
+    "total_diseases": 532,
+    "diseases_with_known_prevalence": 532,
+    "diseases_with_unknown_prevalence": 0,
+    "coverage_percentage": 100.0
+  },
+  "key_insights": [
+    "Data coverage: 100.0% of diseases have known prevalence classes",
+    "Most common prevalence class: '<1 / 1 000 000' (392 diseases)",
+    "Point prevalence data available for 75.0% of diseases with data"
+  ],
+  "recommendations": [
+    "Review 84 diseases using fallback methods for potential point prevalence data"
+  ]
+}

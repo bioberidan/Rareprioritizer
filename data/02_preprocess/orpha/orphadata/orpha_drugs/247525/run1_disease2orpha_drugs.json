@@ -1,0 +1,138 @@
+{
+  "disease_name": "Citrullinemia type I",
+  "orpha_code": "247525",
+  "drugs": [
+    {
+      "name": "RAVICTI",
+      "substance_url": "/en/drug/trade_name/445605?name=247525&mode=orpha&region=&status=all",
+      "substance_id": "445605",
+      "regulatory_url": "/en/drug/regulatory/445606?name=247525&mode=orpha&region=",
+      "regulatory_id": "445606",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "sodium phenylacetate / sodium benzoate",
+      "substance_url": "/en/drug/substance/87861?name=247525&mode=orpha&region=&status=all",
+      "substance_id": "87861",
+      "regulatory_url": "/en/drug/regulatory/559564?name=247525&mode=orpha&region=",
+      "regulatory_id": "559564",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Sodium benzoate",
+      "substance_url": "/en/drug/substance/83694?name=247525&mode=orpha&region=&status=all",
+      "substance_id": "83694",
+      "regulatory_url": "/en/drug/regulatory/480442?name=247525&mode=orpha&region=",
+      "regulatory_id": "480442",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Heterologous human adult liver-derived progenitor cells",
+      "substance_url": "/en/drug/substance/356372?name=247525&mode=orpha&region=&status=all",
+      "substance_id": "356372",
+      "regulatory_url": "/en/drug/regulatory/364069?name=247525&mode=orpha&region=",
+      "regulatory_id": "364069",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Human heterologous liver cells (for infusion)",
+      "substance_url": "/en/drug/substance/90800?name=247525&mode=orpha&region=&status=all",
+      "substance_id": "90800",
+      "regulatory_url": "/en/drug/regulatory/260284?name=247525&mode=orpha&region=",
+      "regulatory_id": "260284",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Glycerol phenylbutyrate",
+      "substance_url": "/en/drug/substance/222387?name=247525&mode=orpha&region=&status=all",
+      "substance_id": "222387",
+      "regulatory_url": "/en/drug/regulatory/238151?name=247525&mode=orpha&region=",
+      "regulatory_id": "238151",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Sodium phenylbutyrate",
+      "substance_url": "/en/drug/substance/25062?name=247525&mode=orpha&region=&status=all",
+      "substance_id": "25062",
+      "regulatory_url": "/en/drug/regulatory/301035?name=247525&mode=orpha&region=",
+      "regulatory_id": "301035",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "AMMONAPS",
+      "substance_url": "/en/drug/trade_name/34205?name=247525&mode=orpha&region=&status=all",
+      "substance_id": "34205",
+      "regulatory_url": "/en/drug/regulatory/131255?name=247525&mode=orpha&region=",
+      "regulatory_id": "131255",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Allogeneic adult liver-derived stem cells",
+      "substance_url": "/en/drug/substance/629851?name=247525&mode=orpha&region=&status=all",
+      "substance_id": "629851",
+      "regulatory_url": "/en/drug/regulatory/629852?name=247525&mode=orpha&region=",
+      "regulatory_id": "629852",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end",
+      "substance_url": "/en/drug/substance/688360?name=247525&mode=orpha&region=&status=all",
+      "substance_id": "688360",
+      "regulatory_url": "/en/drug/regulatory/688517?name=247525&mode=orpha&region=",
+      "regulatory_id": "688517",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:39:36.784789",
+  "run_number": 1,
+  "total_drugs_found": 10,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Citrullinemia+type+I&orphaCode=247525&name=247525&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Citrullinemia type I",
+    "orphaCode": "247525",
+    "name": "247525",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

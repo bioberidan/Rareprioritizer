@@ -1,0 +1,433 @@
+{
+  "disease_name": "Kearns-Sayre syndrome",
+  "orpha_code": "480",
+  "drugs": [
+    {
+      "name": "Encaleret sulfate",
+      "substance_url": "/en/drug/substance/627727?name=480&mode=orpha&region=&status=all",
+      "substance_id": "627727",
+      "regulatory_url": "/en/drug/regulatory/627728?name=480&mode=orpha&region=",
+      "regulatory_id": "627728",
+      "orpha_substance_code": "ORPHA:208593",
+      "details": [
+        "Encaleret sulfate(Medicinal product                        - 15/10/2021)Disease(s) concernedORPHA:181405 Rare hypoparathyroidismORPHA:208593 Genetic hypoparathyroidism",
+        "Encaleret sulfate(Medicinal product                        - 15/10/2021)",
+        "(Medicinal product                        - 15/10/2021)",
+        "Disease(s) concernedORPHA:181405 Rare hypoparathyroidismORPHA:208593 Genetic hypoparathyroidism",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/627727?name=480&mode=orpha&region=&status=all",
+          "text": "Encaleret sulfate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/181405",
+          "text": "ORPHA:181405 Rare hypoparathyroidism",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/208593",
+          "text": "ORPHA:208593 Genetic hypoparathyroidism",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/627728?name=480&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Palopegteriparatide",
+      "substance_url": "/en/drug/substance/604906?name=480&mode=orpha&region=&status=all",
+      "substance_id": "604906",
+      "regulatory_url": "/en/drug/regulatory/604907?name=480&mode=orpha&region=",
+      "regulatory_id": "604907",
+      "orpha_substance_code": "ORPHA:208593",
+      "details": [
+        "Palopegteriparatide(Medicinal product                        - 19/10/2020)Disease(s) concernedORPHA:2238 Familial isolated hypoparathyroidismORPHA:181405 Rare hypoparathyroidismORPHA:208593 Genetic hypoparathyroidism",
+        "Palopegteriparatide(Medicinal product                        - 19/10/2020)",
+        "(Medicinal product                        - 19/10/2020)",
+        "Disease(s) concernedORPHA:2238 Familial isolated hypoparathyroidismORPHA:181405 Rare hypoparathyroidismORPHA:208593 Genetic hypoparathyroidism",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/604906?name=480&mode=orpha&region=&status=all",
+          "text": "Palopegteriparatide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2238",
+          "text": "ORPHA:2238 Familial isolated hypoparathyroidism",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/181405",
+          "text": "ORPHA:181405 Rare hypoparathyroidism",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/208593",
+          "text": "ORPHA:208593 Genetic hypoparathyroidism",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/604907?name=480&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant human parathyroid hormone",
+      "substance_url": "/en/drug/substance/367963?name=480&mode=orpha&region=&status=all",
+      "substance_id": "367963",
+      "regulatory_url": "/en/drug/regulatory/377573?name=480&mode=orpha&region=",
+      "regulatory_id": "377573",
+      "orpha_substance_code": "ORPHA:181402",
+      "details": [
+        "Recombinant human parathyroid hormone(Medicinal product                        - 16/01/2014)Disease(s) concernedORPHA:2238 Familial isolated hypoparathyroidismORPHA:3453 Autoimmune polyendocrinopathy type 1ORPHA:181402 Syndrome with hypoparathyroidism",
+        "Recombinant human parathyroid hormone(Medicinal product                        - 16/01/2014)",
+        "(Medicinal product                        - 16/01/2014)",
+        "Disease(s) concernedORPHA:2238 Familial isolated hypoparathyroidismORPHA:3453 Autoimmune polyendocrinopathy type 1ORPHA:181402 Syndrome with hypoparathyroidism",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/367963?name=480&mode=orpha&region=&status=all",
+          "text": "Recombinant human parathyroid hormone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2238",
+          "text": "ORPHA:2238 Familial isolated hypoparathyroidism",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/3453",
+          "text": "ORPHA:3453 Autoimmune polyendocrinopathy type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/181402",
+          "text": "ORPHA:181402 Syndrome with hypoparathyroidism",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/377573?name=480&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "with hypoparathyroidism\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=480&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=480&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Burixafor(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Burixafor(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689505?name=480&mode=orpha&region=&status=all",
+          "text": "Burixafor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689915?name=480&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "2-(1H-imidazol-1-yl)-N-(2-(2-methoxyethoxy) pyrimidin-5-yl)-6-(trifluoromethyl) pyrimidine-4-carboxamide",
+      "substance_url": "/en/drug/substance/687120?name=480&mode=orpha&region=&status=all",
+      "substance_id": "687120",
+      "regulatory_url": "/en/drug/regulatory/687279?name=480&mode=orpha&region=",
+      "regulatory_id": "687279",
+      "orpha_substance_code": "ORPHA:206966",
+      "details": [
+        "2-(1H-imidazol-1-yl)-N-(2-(2-methoxyethoxy) pyrimidin-5-yl)-6-(trifluoromethyl) pyrimidine-4-carboxamide(Medicinal product                        - 26/08/2024)Disease(s) concernedORPHA:206966 Mitochondrial myopathy",
+        "2-(1H-imidazol-1-yl)-N-(2-(2-methoxyethoxy) pyrimidin-5-yl)-6-(trifluoromethyl) pyrimidine-4-carboxamide(Medicinal product                        - 26/08/2024)",
+        "(Medicinal product                        - 26/08/2024)",
+        "Disease(s) concernedORPHA:206966 Mitochondrial myopathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/687120?name=480&mode=orpha&region=&status=all",
+          "text": "2-(1H-imidazol-1-yl)-N-(2-(2-methoxyethoxy) pyrimidin-5-yl)-6-(trifluoromethyl) pyrimidine-4-carboxamide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/206966",
+          "text": "ORPHA:206966 Mitochondrial myopathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/687279?name=480&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/646586?name=480&mode=orpha&region=&status=all",
+      "substance_id": "646586",
+      "regulatory_url": "/en/drug/regulatory/646683?name=480&mode=orpha&region=",
+      "regulatory_id": "646683",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)",
+        "(Medicinal product                        - 14/04/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/646586?name=480&mode=orpha&region=&status=all",
+          "text": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/646683?name=480&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Zagociguat",
+      "substance_url": "/en/drug/substance/644348?name=480&mode=orpha&region=&status=all",
+      "substance_id": "644348",
+      "regulatory_url": "/en/drug/regulatory/644353?name=480&mode=orpha&region=",
+      "regulatory_id": "644353",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Zagociguat(Medicinal product                        - 23/03/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Zagociguat(Medicinal product                        - 23/03/2023)",
+        "(Medicinal product                        - 23/03/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/644348?name=480&mode=orpha&region=&status=all",
+          "text": "Zagociguat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/644353?name=480&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=480&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=480&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Treosulfan(Medicinal product                        - 08/04/2015)Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Treosulfan(Medicinal product                        - 08/04/2015)",
+        "(Medicinal product                        - 08/04/2015)",
+        "Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90799?name=480&mode=orpha&region=&status=all",
+          "text": "Treosulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/213500",
+          "text": "ORPHA:213500 Rare ovarian cancer",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136690?name=480&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Vatiquinone",
+      "substance_url": "/en/drug/substance/285822?name=480&mode=orpha&region=&status=all",
+      "substance_id": "285822",
+      "regulatory_url": "/en/drug/regulatory/299940?name=480&mode=orpha&region=",
+      "regulatory_id": "299940",
+      "orpha_substance_code": "ORPHA:254827",
+      "details": [
+        "Vatiquinone(Medicinal product                        - 21/12/2010)Disease(s) concernedORPHA:223713 Mitochondrial oxidative phosphorylation disorderORPHA:254827 Mitochondrial membrane transport disorder",
+        "Vatiquinone(Medicinal product                        - 21/12/2010)",
+        "(Medicinal product                        - 21/12/2010)",
+        "Disease(s) concernedORPHA:223713 Mitochondrial oxidative phosphorylation disorderORPHA:254827 Mitochondrial membrane transport disorder",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/285822?name=480&mode=orpha&region=&status=all",
+          "text": "Vatiquinone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/223713",
+          "text": "ORPHA:223713 Mitochondrial oxidative phosphorylation disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/254827",
+          "text": "ORPHA:254827 Mitochondrial membrane transport disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/299940?name=480&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "ORPHA:254827 Mitochondrial membrane transport disorder\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=480&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=480&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "busulfan(Medicinal product                        - 21/04/1994)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "busulfan(Medicinal product                        - 21/04/1994)",
+        "(Medicinal product                        - 21/04/1994)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/46335?name=480&mode=orpha&region=&status=all",
+          "text": "busulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131973?name=480&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:02:59.166304",
+  "run_number": 1,
+  "total_drugs_found": 10,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Kearns-Sayre+syndrome&orphaCode=480&name=480&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Kearns-Sayre syndrome",
+    "orphaCode": "480",
+    "name": "480",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "disease_name": "CHIME syndrome",
+  "orpha_code": "3474",
+  "drugs": [],
+  "processing_timestamp": "2025-07-07T05:59:26.261366",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=CHIME+syndrome&orphaCode=3474&name=3474&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "CHIME syndrome",
+    "orphaCode": "3474",
+    "name": "3474",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "disease_name": "Digenic hemochromatosis",
+  "orpha_code": "648581",
+  "drugs": [
+    {
+      "name": "(S)-3'-(OH)-desazadesferrithiocin-polyether, magnesium salt",
+      "substance_url": "/en/drug/substance/189142?name=648581&mode=orpha&region=&status=all",
+      "substance_id": "189142",
+      "regulatory_url": "/en/drug/regulatory/208572?name=648581&mode=orpha&region=",
+      "regulatory_id": "208572",
+      "orpha_substance_code": "ORPHA:220489",
+      "details": [
+        "(S)-3'-(OH)-desazadesferrithiocin-polyether, magnesium salt(Medicinal product                        - 24/07/2009)Disease(s) concernedORPHA:846 Alpha-thalassemiaORPHA:848 Beta-thalassemiaORPHA:232 Sickle cell anemiaORPHA:85 Congenital dyserythropoietic anemiaORPHA:75563 X-linked sideroblastic anemiaORPHA:139507 Dietary iron overload diseaseORPHA:220489 Rare hereditary hemochromatosis",
+        "(S)-3'-(OH)-desazadesferrithiocin-polyether, magnesium salt(Medicinal product                        - 24/07/2009)",
+        "(Medicinal product                        - 24/07/2009)",
+        "Disease(s) concernedORPHA:846 Alpha-thalassemiaORPHA:848 Beta-thalassemiaORPHA:232 Sickle cell anemiaORPHA:85 Congenital dyserythropoietic anemiaORPHA:75563 X-linked sideroblastic anemiaORPHA:139507 Dietary iron overload diseaseORPHA:220489 Rare hereditary hemochromatosis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/189142?name=648581&mode=orpha&region=&status=all",
+          "text": "(S)-3'-(OH)-desazadesferrithiocin-polyether, magnesium salt",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/846",
+          "text": "ORPHA:846 Alpha-thalassemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/848",
+          "text": "ORPHA:848 Beta-thalassemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/232",
+          "text": "ORPHA:232 Sickle cell anemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/85",
+          "text": "ORPHA:85 Congenital dyserythropoietic anemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/75563",
+          "text": "ORPHA:75563 X-linked sideroblastic anemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/139507",
+          "text": "ORPHA:139507 Dietary iron overload disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/220489",
+          "text": "ORPHA:220489 Rare hereditary hemochromatosis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/208572?name=648581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "ORPHA:220489 Rare hereditary hemochromatosis\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "4,5-dihydro-2-(2,4-dihydroxyphenyl)-4-methylthiazole-4(S)-carboxylic acid",
+      "substance_url": "/en/drug/substance/82350?name=648581&mode=orpha&region=&status=all",
+      "substance_id": "82350",
+      "regulatory_url": "/en/drug/regulatory/133860?name=648581&mode=orpha&region=",
+      "regulatory_id": "133860",
+      "orpha_substance_code": "ORPHA:220489",
+      "details": [
+        "4,5-dihydro-2-(2,4-dihydroxyphenyl)-4-methylthiazole-4(S)-carboxylic acid(Medicinal product                        - 12/12/2003)Disease(s) concernedORPHA:846 Alpha-thalassemiaORPHA:848 Beta-thalassemiaORPHA:232 Sickle cell anemiaORPHA:53693 GRACILE syndromeORPHA:220489 Rare hereditary hemochromatosis",
+        "4,5-dihydro-2-(2,4-dihydroxyphenyl)-4-methylthiazole-4(S)-carboxylic acid(Medicinal product                        - 12/12/2003)",
+        "(Medicinal product                        - 12/12/2003)",
+        "Disease(s) concernedORPHA:846 Alpha-thalassemiaORPHA:848 Beta-thalassemiaORPHA:232 Sickle cell anemiaORPHA:53693 GRACILE syndromeORPHA:220489 Rare hereditary hemochromatosis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/82350?name=648581&mode=orpha&region=&status=all",
+          "text": "4,5-dihydro-2-(2,4-dihydroxyphenyl)-4-methylthiazole-4(S)-carboxylic acid",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/846",
+          "text": "ORPHA:846 Alpha-thalassemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/848",
+          "text": "ORPHA:848 Beta-thalassemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/232",
+          "text": "ORPHA:232 Sickle cell anemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/53693",
+          "text": "ORPHA:53693 GRACILE syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/220489",
+          "text": "ORPHA:220489 Rare hereditary hemochromatosis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/133860?name=648581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "ORPHA:220489 Rare hereditary hemochromatosis\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Deferasirox",
+      "substance_url": "/en/drug/substance/69829?name=648581&mode=orpha&region=&status=all",
+      "substance_id": "69829",
+      "regulatory_url": "/en/drug/regulatory/133773?name=648581&mode=orpha&region=",
+      "regulatory_id": "133773",
+      "orpha_substance_code": "ORPHA:220489",
+      "details": [
+        "Deferasirox(Medicinal product                        - 13/03/2002)Disease(s) concernedORPHA:846 Alpha-thalassemiaORPHA:848 Beta-thalassemiaORPHA:232 Sickle cell anemiaORPHA:220489 Rare hereditary hemochromatosis",
+        "Deferasirox(Medicinal product                        - 13/03/2002)",
+        "(Medicinal product                        - 13/03/2002)",
+        "Disease(s) concernedORPHA:846 Alpha-thalassemiaORPHA:848 Beta-thalassemiaORPHA:232 Sickle cell anemiaORPHA:220489 Rare hereditary hemochromatosis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/69829?name=648581&mode=orpha&region=&status=all",
+          "text": "Deferasirox",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/846",
+          "text": "ORPHA:846 Alpha-thalassemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/848",
+          "text": "ORPHA:848 Beta-thalassemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/232",
+          "text": "ORPHA:232 Sickle cell anemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/220489",
+          "text": "ORPHA:220489 Rare hereditary hemochromatosis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/133773?name=648581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=648581&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=648581&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Burixafor(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Burixafor(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689505?name=648581&mode=orpha&region=&status=all",
+          "text": "Burixafor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689915?name=648581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=648581&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=648581&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Treosulfan(Medicinal product                        - 08/04/2015)Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Treosulfan(Medicinal product                        - 08/04/2015)",
+        "(Medicinal product                        - 08/04/2015)",
+        "Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90799?name=648581&mode=orpha&region=&status=all",
+          "text": "Treosulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/213500",
+          "text": "ORPHA:213500 Rare ovarian cancer",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136690?name=648581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=648581&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=648581&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "busulfan(Medicinal product                        - 21/04/1994)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "busulfan(Medicinal product                        - 21/04/1994)",
+        "(Medicinal product                        - 21/04/1994)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/46335?name=648581&mode=orpha&region=&status=all",
+          "text": "busulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131973?name=648581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:05:01.904389",
+  "run_number": 1,
+  "total_drugs_found": 6,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Digenic+hemochromatosis&orphaCode=648581&name=648581&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Digenic hemochromatosis",
+    "orphaCode": "648581",
+    "name": "648581",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

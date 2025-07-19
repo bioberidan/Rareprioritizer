@@ -1,0 +1,54 @@
+{
+  "disease_name": "Pyridoxine-dependent epilepsy",
+  "orpha_code": "3006",
+  "drugs": [
+    {
+      "name": "BUCCOLAM",
+      "substance_url": "/en/drug/trade_name/325618?name=3006&mode=orpha&region=&status=all",
+      "substance_id": "325618",
+      "regulatory_url": "/en/drug/regulatory/325650?name=3006&mode=orpha&region=",
+      "regulatory_id": "325650",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "LIBERVANT",
+      "substance_url": "/en/drug/trade_name/673890?name=3006&mode=orpha&region=&status=all",
+      "substance_id": "673890",
+      "regulatory_url": "/en/drug/regulatory/673903?name=3006&mode=orpha&region=",
+      "regulatory_id": "673903",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "SEZABY",
+      "substance_url": "/en/drug/trade_name/635897?name=3006&mode=orpha&region=&status=all",
+      "substance_id": "635897",
+      "regulatory_url": "/en/drug/regulatory/635898?name=3006&mode=orpha&region=",
+      "regulatory_id": "635898",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:21:53.862636",
+  "run_number": 1,
+  "total_drugs_found": 3,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Pyridoxine-dependent+epilepsy&orphaCode=3006&name=3006&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Pyridoxine-dependent epilepsy",
+    "orphaCode": "3006",
+    "name": "3006",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

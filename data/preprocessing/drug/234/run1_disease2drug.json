@@ -1,0 +1,17 @@
+{
+  "disease_name": "Dubin-Johnson syndrome",
+  "orpha_code": "234",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:22:45.543219",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Dubin-Johnson+syndrome&orphaCode=234&name=234&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Dubin-Johnson syndrome",
+    "orphaCode": "234",
+    "name": "234",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

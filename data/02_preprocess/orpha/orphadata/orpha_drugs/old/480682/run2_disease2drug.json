@@ -1,0 +1,360 @@
+{
+  "disease_name": "POGLUT1-related limb-girdle muscular dystrophy R21",
+  "orpha_code": "480682",
+  "drugs": [
+    {
+      "name": "Adeno-associated virus vector serotype 9/rh74 containing the human CAPN3 gene and a target sequence of cardiac-specific microRNA",
+      "substance_url": "/en/drug/substance/661199?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "661199",
+      "regulatory_url": "/en/drug/regulatory/661293?name=480682&mode=orpha&region=",
+      "regulatory_id": "661293",
+      "orpha_substance_code": "ORPHA:263",
+      "details": [
+        "Adeno-associated virus vector serotype 9/rh74 containing the human CAPN3 gene and a target sequence of cardiac-specific microRNA(Medicinal product                        - 13/10/2023)Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "Adeno-associated virus vector serotype 9/rh74 containing the human CAPN3 gene and a target sequence of cardiac-specific microRNA(Medicinal product                        - 13/10/2023)",
+        "(Medicinal product                        - 13/10/2023)",
+        "Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/661199?name=480682&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus vector serotype 9/rh74 containing the human CAPN3 gene and a target sequence of cardiac-specific microRNA",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/263",
+          "text": "ORPHA:263 Limb-girdle muscular dystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/661293?name=480682&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Patidistrogene bexoparvovec",
+      "substance_url": "/en/drug/substance/642490?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "642490",
+      "regulatory_url": "/en/drug/regulatory/642492?name=480682&mode=orpha&region=",
+      "regulatory_id": "642492",
+      "orpha_substance_code": "ORPHA:263",
+      "details": [
+        "Patidistrogene bexoparvovec(Medicinal product                        - 15/02/2023)Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "Patidistrogene bexoparvovec(Medicinal product                        - 15/02/2023)",
+        "(Medicinal product                        - 15/02/2023)",
+        "Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/642490?name=480682&mode=orpha&region=&status=all",
+          "text": "Patidistrogene bexoparvovec",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/263",
+          "text": "ORPHA:263 Limb-girdle muscular dystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/642492?name=480682&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector serotype 9 expressing fukutin-related protein",
+      "substance_url": "/en/drug/substance/642474?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "642474",
+      "regulatory_url": "/en/drug/regulatory/642475?name=480682&mode=orpha&region=",
+      "regulatory_id": "642475",
+      "orpha_substance_code": "ORPHA:263",
+      "details": [
+        "Adeno-associated viral vector serotype 9 expressing fukutin-related protein(Medicinal product                        - 15/02/2023)Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "Adeno-associated viral vector serotype 9 expressing fukutin-related protein(Medicinal product                        - 15/02/2023)",
+        "(Medicinal product                        - 15/02/2023)",
+        "Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/642474?name=480682&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector serotype 9 expressing fukutin-related protein",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/263",
+          "text": "ORPHA:263 Limb-girdle muscular dystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/642475?name=480682&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated virus serotype 8 expressing the human gamma-sarcoglycan gene",
+      "substance_url": "/en/drug/substance/626934?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "626934",
+      "regulatory_url": "/en/drug/regulatory/626946?name=480682&mode=orpha&region=",
+      "regulatory_id": "626946",
+      "orpha_substance_code": "ORPHA:263",
+      "details": [
+        "Adeno-associated virus serotype 8 expressing the human gamma-sarcoglycan gene(Medicinal product                        - 16/05/2022)Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "Adeno-associated virus serotype 8 expressing the human gamma-sarcoglycan gene(Medicinal product                        - 16/05/2022)",
+        "(Medicinal product                        - 16/05/2022)",
+        "Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/626934?name=480682&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus serotype 8 expressing the human gamma-sarcoglycan gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/263",
+          "text": "ORPHA:263 Limb-girdle muscular dystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/626946?name=480682&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated virus serotype 9 expressing the human fukutin related protein and target sequence of the miR-208a",
+      "substance_url": "/en/drug/substance/628271?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "628271",
+      "regulatory_url": "/en/drug/regulatory/628272?name=480682&mode=orpha&region=",
+      "regulatory_id": "628272",
+      "orpha_substance_code": "ORPHA:263",
+      "details": [
+        "Adeno-associated virus serotype 9 expressing the human fukutin related protein and target sequence of the miR-208a(Medicinal product                        - 14/01/2022)Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "Adeno-associated virus serotype 9 expressing the human fukutin related protein and target sequence of the miR-208a(Medicinal product                        - 14/01/2022)",
+        "(Medicinal product                        - 14/01/2022)",
+        "Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/628271?name=480682&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus serotype 9 expressing the human fukutin related protein and target sequence of the miR-208a",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/263",
+          "text": "ORPHA:263 Limb-girdle muscular dystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/628272?name=480682&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated virus serotype rh74 containing the human sarcoglycan beta gene",
+      "substance_url": "/en/drug/substance/605071?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "605071",
+      "regulatory_url": "/en/drug/regulatory/605072?name=480682&mode=orpha&region=",
+      "regulatory_id": "605072",
+      "orpha_substance_code": "ORPHA:263",
+      "details": [
+        "Adeno-associated virus serotype rh74 containing the human sarcoglycan beta gene(Medicinal product                        - 09/12/2020)Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "Adeno-associated virus serotype rh74 containing the human sarcoglycan beta gene(Medicinal product                        - 09/12/2020)",
+        "(Medicinal product                        - 09/12/2020)",
+        "Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/605071?name=480682&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus serotype rh74 containing the human sarcoglycan beta gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/263",
+          "text": "ORPHA:263 Limb-girdle muscular dystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/605072?name=480682&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "ribitol",
+      "substance_url": "/en/drug/substance/604874?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "604874",
+      "regulatory_url": "/en/drug/regulatory/604875?name=480682&mode=orpha&region=",
+      "regulatory_id": "604875",
+      "orpha_substance_code": "ORPHA:263",
+      "details": [
+        "ribitol(Medicinal product                        - 19/10/2020)Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "ribitol(Medicinal product                        - 19/10/2020)",
+        "(Medicinal product                        - 19/10/2020)",
+        "Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/604874?name=480682&mode=orpha&region=&status=all",
+          "text": "ribitol",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/263",
+          "text": "ORPHA:263 Limb-girdle muscular dystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/604875?name=480682&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "505 amino acid protein, corresponding to amino acids 2-506 of the wild type human histidyl-tRNA synthetase",
+      "substance_url": "/en/drug/substance/442799?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "442799",
+      "regulatory_url": "/en/drug/regulatory/486674?name=480682&mode=orpha&region=",
+      "regulatory_id": "486674",
+      "orpha_substance_code": "ORPHA:263",
+      "details": [
+        "505 amino acid protein, corresponding to amino acids 2-506 of the wild type human histidyl-tRNA synthetase(Medicinal product                        - 27/02/2017)Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "505 amino acid protein, corresponding to amino acids 2-506 of the wild type human histidyl-tRNA synthetase(Medicinal product                        - 27/02/2017)",
+        "(Medicinal product                        - 27/02/2017)",
+        "Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/442799?name=480682&mode=orpha&region=&status=all",
+          "text": "505 amino acid protein, corresponding to amino acids 2-506 of the wild type human histidyl-tRNA synthetase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/263",
+          "text": "ORPHA:263 Limb-girdle muscular dystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/486674?name=480682&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Prednisone",
+      "substance_url": "/en/drug/substance/371723?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "371723",
+      "regulatory_url": "/en/drug/regulatory/665278?name=480682&mode=orpha&region=",
+      "regulatory_id": "665278",
+      "orpha_substance_code": "ORPHA:263",
+      "details": [
+        "Prednisone(Medicinal product                        - 05/03/2024)Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "Prednisone(Medicinal product                        - 05/03/2024)",
+        "(Medicinal product                        - 05/03/2024)",
+        "Disease(s) concernedORPHA:263 Limb-girdle muscular dystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/371723?name=480682&mode=orpha&region=&status=all",
+          "text": "Prednisone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/263",
+          "text": "ORPHA:263 Limb-girdle muscular dystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/665278?name=480682&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T05:59:09.226361",
+  "run_number": 2,
+  "total_drugs_found": 9,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=POGLUT1-related+limb-girdle+muscular+dystrophy+R21&orphaCode=480682&name=480682&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "POGLUT1-related limb-girdle muscular dystrophy R21",
+    "orphaCode": "480682",
+    "name": "480682",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "disease_name": "X-linked adrenoleukodystrophy",
+  "orpha_code": "43",
+  "trials": [
+    {
+      "nctId": "NCT05819866",
+      "briefTitle": "A Clinical Study to Assess the Efficacy and Safety of Leriglitazone in Adult Male Subjects With Cerebral Adrenoleukodystrophy",
+      "officialTitle": "A Clinical Study to Assess the Efficacy and Safety of Leriglitazone in Adult Male Subjects With Cerebral Adrenoleukodystrophy",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Cerebral Adrenoleukodystrophy (cALD)"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Leriglitazone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "enrollment": 40,
+      "locations": [
+        {
+          "facility": "Stanford University Medical Center",
+          "city": "Palo Alto",
+          "country": "United States"
+        },
+        {
+          "facility": "Neuro Medicine Hospital / UF Health",
+          "city": "Gainesville",
+          "country": "United States"
+        },
+        {
+          "facility": "Kennedy Krieger Institute",
+          "city": "Baltimore",
+          "country": "United States"
+        },
+        {
+          "facility": "Massachusetts General Hospital",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Minnesota",
+          "city": "Minnesota",
+          "country": "United States"
+        },
+        {
+          "facility": "Health University of Utah",
+          "city": "Salt Lake City",
+          "country": "United States"
+        },
+        {
+          "facility": "Hospital Austral",
+          "city": "Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Federal University of Sao Paulo",
+          "city": "São Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "ICM La Pitie Salpetriere",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Klinik und Poliklinik für Neurologie-Leipzig",
+          "city": "Leipzig",
+          "country": "Germany"
+        },
+        {
+          "facility": "Sir Ganga Ram Hospital",
+          "city": "New Delhi",
+          "country": "India"
+        },
+        {
+          "facility": "Hospital 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "National Hospital for Neurology and Neurosurgery",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-04-08"
+    },
+    {
+      "nctId": "NCT06513533",
+      "briefTitle": "Dimethyl Fumarate in Adrenomyeloneuropathy",
+      "officialTitle": "Effect of Dimethyl Fumarate Administered to Patients With Adrenomyeloneuropathy: a Multicenter, Placebo Controlled, Phase IIb/III Trial",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "conditions": [
+        "Adrenomyeloneuropathy Without Cerebral Involvement"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        },
+        {
+          "type": "DRUG",
+          "name": "Dimethyl fumarate"
+        }
+      ],
+      "enrollment": 40,
+      "locations": [
+        {
+          "facility": "Bellvitge University Hospital",
+          "city": "L'Hospitalet De Llobregat",
+          "country": "Spain"
+        },
+        {
+          "facility": "Donostia University Hospital",
+          "city": "Donostia",
+          "country": "Spain"
+        },
+        {
+          "facility": "University Hospital 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2024-07-25"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:13:16.387834",
+  "run_number": 1,
+  "total_trials_found": 2
+}

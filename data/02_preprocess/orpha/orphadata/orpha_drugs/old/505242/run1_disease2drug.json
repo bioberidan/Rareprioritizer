@@ -1,0 +1,101 @@
+{
+  "disease_name": "Psychomotor regression-oculomotor apraxia-movement disorder-nephropathy syndrome",
+  "orpha_code": "505242",
+  "drugs": [
+    {
+      "name": "3-{[2,3,5,6-tetrafluoro-3'-(trifluoromethoxy)biphenyl-4-yl]carbamoyl}thiophene-2-carboxylic acid",
+      "substance_url": "/en/drug/substance/444708?name=505242&mode=orpha&region=&status=all",
+      "substance_id": "444708",
+      "regulatory_url": "/en/drug/regulatory/444712?name=505242&mode=orpha&region=",
+      "regulatory_id": "444712",
+      "orpha_substance_code": "ORPHA:306648",
+      "details": [
+        "3-{[2,3,5,6-tetrafluoro-3'-(trifluoromethoxy)biphenyl-4-yl]carbamoyl}thiophene-2-carboxylic acid(Medicinal product                        - 19/06/2015)Disease(s) concernedORPHA:892 Von Hippel-Lindau diseaseORPHA:730 Autosomal dominant polycystic kidney diseaseORPHA:34149 Autosomal dominant tubulointerstitial kidney diseaseORPHA:88924 Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosisORPHA:90061 Non-infectious posterior uveitisORPHA:93545 Renal or urinary tract malformationORPHA:93548 Glomerular diseaseORPHA:93587 Genetic cystic renal diseaseORPHA:93603 Rare renal tubular diseaseORPHA:306648 Non-infectious anterior uveitis",
+        "3-{[2,3,5,6-tetrafluoro-3'-(trifluoromethoxy)biphenyl-4-yl]carbamoyl}thiophene-2-carboxylic acid(Medicinal product                        - 19/06/2015)",
+        "(Medicinal product                        - 19/06/2015)",
+        "Disease(s) concernedORPHA:892 Von Hippel-Lindau diseaseORPHA:730 Autosomal dominant polycystic kidney diseaseORPHA:34149 Autosomal dominant tubulointerstitial kidney diseaseORPHA:88924 Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosisORPHA:90061 Non-infectious posterior uveitisORPHA:93545 Renal or urinary tract malformationORPHA:93548 Glomerular diseaseORPHA:93587 Genetic cystic renal diseaseORPHA:93603 Rare renal tubular diseaseORPHA:306648 Non-infectious anterior uveitis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/444708?name=505242&mode=orpha&region=&status=all",
+          "text": "3-{[2,3,5,6-tetrafluoro-3'-(trifluoromethoxy)biphenyl-4-yl]carbamoyl}thiophene-2-carboxylic acid",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/892",
+          "text": "ORPHA:892 Von Hippel-Lindau disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/730",
+          "text": "ORPHA:730 Autosomal dominant polycystic kidney disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/34149",
+          "text": "ORPHA:34149 Autosomal dominant tubulointerstitial kidney disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/88924",
+          "text": "ORPHA:88924 Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/90061",
+          "text": "ORPHA:90061 Non-infectious posterior uveitis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/93545",
+          "text": "ORPHA:93545 Renal or urinary tract malformation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/93548",
+          "text": "ORPHA:93548 Glomerular disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/93587",
+          "text": "ORPHA:93587 Genetic cystic renal disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/93603",
+          "text": "ORPHA:93603 Rare renal tubular disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/306648",
+          "text": "ORPHA:306648 Non-infectious anterior uveitis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/444712?name=505242&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "ORPHA:730 Autosomal dominant polycystic kidney disease\n                                \n\n\n\n\n                                    ORPHA:34149 Autosomal dominant tubulointerstitial kidney disease\n                                \n\n\n\n\n                                    ORPHA:88924 Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis\n                                \n\n\n\n\n                                    ORPHA:90061 Non-infectious posterior uveitis\n                                \n\n\n\n\n                                    ORPHA:93545 Renal or urinary tract malformation\n                                \n\n\n\n\n                                    ORPHA:93548 Glomerular disease\n                                \n\n\n\n\n                                    ORPHA:93587 Genetic cystic renal disease\n                                \n\n\n\n\n                                    ORPHA:93603 Rare renal tubular disease\n                                \n\n\n\n\n                                    ORPHA:306648 Non-infectious anterior uveitis\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:05:03.804544",
+  "run_number": 1,
+  "total_drugs_found": 1,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Psychomotor+regression-oculomotor+apraxia-movement+disorder-nephropathy+syndrome&orphaCode=505242&name=505242&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Psychomotor regression-oculomotor apraxia-movement disorder-nephropathy syndrome",
+    "orphaCode": "505242",
+    "name": "505242",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

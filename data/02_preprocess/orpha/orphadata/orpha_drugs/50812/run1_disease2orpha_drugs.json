@@ -1,0 +1,54 @@
+{
+  "disease_name": "Zellweger-like syndrome without peroxisomal anomalies",
+  "orpha_code": "50812",
+  "drugs": [
+    {
+      "name": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/646586?name=50812&mode=orpha&region=&status=all",
+      "substance_id": "646586",
+      "regulatory_url": "/en/drug/regulatory/646683?name=50812&mode=orpha&region=",
+      "regulatory_id": "646683",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Zagociguat",
+      "substance_url": "/en/drug/substance/644348?name=50812&mode=orpha&region=&status=all",
+      "substance_id": "644348",
+      "regulatory_url": "/en/drug/regulatory/644353?name=50812&mode=orpha&region=",
+      "regulatory_id": "644353",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Vatiquinone",
+      "substance_url": "/en/drug/substance/285822?name=50812&mode=orpha&region=&status=all",
+      "substance_id": "285822",
+      "regulatory_url": "/en/drug/regulatory/708703?name=50812&mode=orpha&region=",
+      "regulatory_id": "708703",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:41:29.966958",
+  "run_number": 1,
+  "total_drugs_found": 3,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Zellweger-like+syndrome+without+peroxisomal+anomalies&orphaCode=50812&name=50812&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Zellweger-like syndrome without peroxisomal anomalies",
+    "orphaCode": "50812",
+    "name": "50812",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

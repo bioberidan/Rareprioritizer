@@ -1,0 +1,138 @@
+{
+  "disease_name": "Cerebrotendinous xanthomatosis",
+  "orpha_code": "909",
+  "drugs": [
+    {
+      "name": "CHENODEOXYCHOLIC ACID LEADIANT",
+      "substance_url": "/en/drug/trade_name/484324?name=909&mode=orpha&region=&status=all",
+      "substance_id": "484324",
+      "regulatory_url": "/en/drug/regulatory/484325?name=909&mode=orpha&region=",
+      "regulatory_id": "484325",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "KOLBAM",
+      "substance_url": "/en/drug/trade_name/399978?name=909&mode=orpha&region=&status=all",
+      "substance_id": "399978",
+      "regulatory_url": "/en/drug/regulatory/399979?name=909&mode=orpha&region=",
+      "regulatory_id": "399979",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Chenodeoxycholic acid",
+      "substance_url": "/en/drug/substance/414121?name=909&mode=orpha&region=&status=all",
+      "substance_id": "414121",
+      "regulatory_url": "/en/drug/regulatory/441322?name=909&mode=orpha&region=",
+      "regulatory_id": "441322",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "CTEXLI",
+      "substance_url": "/en/drug/trade_name/695293?name=909&mode=orpha&region=&status=all",
+      "substance_id": "695293",
+      "regulatory_url": "/en/drug/regulatory/695300?name=909&mode=orpha&region=",
+      "regulatory_id": "695300",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "VEDROP",
+      "substance_url": "/en/drug/trade_name/211746?name=909&mode=orpha&region=&status=all",
+      "substance_id": "211746",
+      "regulatory_url": "/en/drug/regulatory/213892?name=909&mode=orpha&region=",
+      "regulatory_id": "213892",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Cholic acid",
+      "substance_url": "/en/drug/substance/133573?name=909&mode=orpha&region=&status=all",
+      "substance_id": "133573",
+      "regulatory_url": "/en/drug/regulatory/133807?name=909&mode=orpha&region=",
+      "regulatory_id": "133807",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "CHOLBAM",
+      "substance_url": "/en/drug/trade_name/464955?name=909&mode=orpha&region=&status=all",
+      "substance_id": "464955",
+      "regulatory_url": "/en/drug/regulatory/465123?name=909&mode=orpha&region=",
+      "regulatory_id": "465123",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=909&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=909&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=909&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=909&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=909&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=909&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:42:55.184637",
+  "run_number": 1,
+  "total_drugs_found": 10,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Cerebrotendinous+xanthomatosis&orphaCode=909&name=909&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Cerebrotendinous xanthomatosis",
+    "orphaCode": "909",
+    "name": "909",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,579 @@
+{
+  "disease_name": "Methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency",
+  "orpha_code": "308425",
+  "drugs": [
+    {
+      "name": "CARBAGLU",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131343?name=308425&mode=orpha&region=",
+      "regulatory_id": "131343",
+      "orpha_substance_code": "ORPHA:293355",
+      "details": [
+        "CARBAGLU(Tradename                        - 27/05/2011)Disease(s) concernedORPHA:33 Isovaleric acidemiaORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:35 Propionic acidemiaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "CARBAGLU(Tradename                        - 27/05/2011)",
+        "(Tradename                        - 27/05/2011)",
+        "Disease(s) concernedORPHA:33 Isovaleric acidemiaORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:35 Propionic acidemiaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/35160?name=308425&mode=orpha&region=&status=all",
+          "text": "CARBAGLU",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/33",
+          "text": "ORPHA:33 Isovaleric acidemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/26",
+          "text": "ORPHA:26 Methylmalonic acidemia with homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/35",
+          "text": "ORPHA:35 Propionic acidemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293355",
+          "text": "ORPHA:293355 Methylmalonic acidemia without homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131343?name=308425&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Modified mRNA encoding human methylmalonyl-coenzyme A mutase containing a polymorphism at position 671",
+      "substance_url": "/en/drug/substance/628481?name=308425&mode=orpha&region=&status=all",
+      "substance_id": "628481",
+      "regulatory_url": "/en/drug/regulatory/628485?name=308425&mode=orpha&region=",
+      "regulatory_id": "628485",
+      "orpha_substance_code": "ORPHA:293355",
+      "details": [
+        "Modified mRNA encoding human methylmalonyl-coenzyme A mutase containing a polymorphism at position 671(Medicinal product                        - 21/06/2022)Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:280183 Methylmalonic aciduria due to transcobalamin receptor defectORPHA:289504 Combined malonic and methylmalonic acidemiaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "Modified mRNA encoding human methylmalonyl-coenzyme A mutase containing a polymorphism at position 671(Medicinal product                        - 21/06/2022)",
+        "(Medicinal product                        - 21/06/2022)",
+        "Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:280183 Methylmalonic aciduria due to transcobalamin receptor defectORPHA:289504 Combined malonic and methylmalonic acidemiaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/628481?name=308425&mode=orpha&region=&status=all",
+          "text": "Modified mRNA encoding human methylmalonyl-coenzyme A mutase containing a polymorphism at position 671",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/26",
+          "text": "ORPHA:26 Methylmalonic acidemia with homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/280183",
+          "text": "ORPHA:280183 Methylmalonic aciduria due to transcobalamin receptor defect",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/289504",
+          "text": "ORPHA:289504 Combined malonic and methylmalonic acidemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293355",
+          "text": "ORPHA:293355 Methylmalonic acidemia without homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/628485?name=308425&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector LK03 encoding human methylmalonyl-CoA mutase",
+      "substance_url": "/en/drug/substance/627536?name=308425&mode=orpha&region=&status=all",
+      "substance_id": "627536",
+      "regulatory_url": "/en/drug/regulatory/628290?name=308425&mode=orpha&region=",
+      "regulatory_id": "628290",
+      "orpha_substance_code": "ORPHA:293355",
+      "details": [
+        "Adeno-associated viral vector LK03 encoding human methylmalonyl-CoA mutase(Medicinal product                        - 21/06/2021)Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:280183 Methylmalonic aciduria due to transcobalamin receptor defectORPHA:289504 Combined malonic and methylmalonic acidemiaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "Adeno-associated viral vector LK03 encoding human methylmalonyl-CoA mutase(Medicinal product                        - 21/06/2021)",
+        "(Medicinal product                        - 21/06/2021)",
+        "Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:280183 Methylmalonic aciduria due to transcobalamin receptor defectORPHA:289504 Combined malonic and methylmalonic acidemiaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/627536?name=308425&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector LK03 encoding human methylmalonyl-CoA mutase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/26",
+          "text": "ORPHA:26 Methylmalonic acidemia with homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/280183",
+          "text": "ORPHA:280183 Methylmalonic aciduria due to transcobalamin receptor defect",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/289504",
+          "text": "ORPHA:289504 Combined malonic and methylmalonic acidemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293355",
+          "text": "ORPHA:293355 Methylmalonic acidemia without homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/628290?name=308425&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Carglumic acid",
+      "substance_url": "/en/drug/substance/35161?name=308425&mode=orpha&region=&status=all",
+      "substance_id": "35161",
+      "regulatory_url": "/en/drug/regulatory/165067?name=308425&mode=orpha&region=",
+      "regulatory_id": "165067",
+      "orpha_substance_code": "ORPHA:293355",
+      "details": [
+        "Carglumic acid(Medicinal product                        - 07/11/2008)Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "Carglumic acid(Medicinal product                        - 07/11/2008)",
+        "(Medicinal product                        - 07/11/2008)",
+        "Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/35161?name=308425&mode=orpha&region=&status=all",
+          "text": "Carglumic acid",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/26",
+          "text": "ORPHA:26 Methylmalonic acidemia with homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293355",
+          "text": "ORPHA:293355 Methylmalonic acidemia without homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/165067?name=308425&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "CARBAGLU",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/622237?name=308425&mode=orpha&region=",
+      "regulatory_id": "622237",
+      "orpha_substance_code": "ORPHA:293355",
+      "details": [
+        "CARBAGLU(Tradename                        - 22/01/2021)Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:35 Propionic acidemiaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "CARBAGLU(Tradename                        - 22/01/2021)",
+        "(Tradename                        - 22/01/2021)",
+        "Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:35 Propionic acidemiaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/35160?name=308425&mode=orpha&region=&status=all",
+          "text": "CARBAGLU",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/26",
+          "text": "ORPHA:26 Methylmalonic acidemia with homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/35",
+          "text": "ORPHA:35 Propionic acidemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293355",
+          "text": "ORPHA:293355 Methylmalonic acidemia without homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/622237?name=308425&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Hydroxocobalamin, methylcobalamin",
+      "substance_url": "/en/drug/substance/689523?name=308425&mode=orpha&region=&status=all",
+      "substance_id": "689523",
+      "regulatory_url": "/en/drug/regulatory/689684?name=308425&mode=orpha&region=",
+      "regulatory_id": "689684",
+      "orpha_substance_code": "ORPHA:293355",
+      "details": [
+        "Hydroxocobalamin, methylcobalamin(Medicinal product                        - 25/10/2024)Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "Hydroxocobalamin, methylcobalamin(Medicinal product                        - 25/10/2024)",
+        "(Medicinal product                        - 25/10/2024)",
+        "Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689523?name=308425&mode=orpha&region=&status=all",
+          "text": "Hydroxocobalamin, methylcobalamin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/26",
+          "text": "ORPHA:26 Methylmalonic acidemia with homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293355",
+          "text": "ORPHA:293355 Methylmalonic acidemia without homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689684?name=308425&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated virus 9 methylmalonyl Co-A mutase",
+      "substance_url": "/en/drug/substance/689483?name=308425&mode=orpha&region=&status=all",
+      "substance_id": "689483",
+      "regulatory_url": "/en/drug/regulatory/689641?name=308425&mode=orpha&region=",
+      "regulatory_id": "689641",
+      "orpha_substance_code": "ORPHA:293355",
+      "details": [
+        "Adeno-associated virus 9 methylmalonyl Co-A mutase(Medicinal product                        - 25/10/2024)Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "Adeno-associated virus 9 methylmalonyl Co-A mutase(Medicinal product                        - 25/10/2024)",
+        "(Medicinal product                        - 25/10/2024)",
+        "Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689483?name=308425&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus 9 methylmalonyl Co-A mutase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/26",
+          "text": "ORPHA:26 Methylmalonic acidemia with homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293355",
+          "text": "ORPHA:293355 Methylmalonic acidemia without homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689641?name=308425&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Methylcobalamin",
+      "substance_url": "/en/drug/substance/689529?name=308425&mode=orpha&region=&status=all",
+      "substance_id": "689529",
+      "regulatory_url": "/en/drug/regulatory/689685?name=308425&mode=orpha&region=",
+      "regulatory_id": "689685",
+      "orpha_substance_code": "ORPHA:293355",
+      "details": [
+        "Methylcobalamin(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "Methylcobalamin(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689529?name=308425&mode=orpha&region=&status=all",
+          "text": "Methylcobalamin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/26",
+          "text": "ORPHA:26 Methylmalonic acidemia with homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293355",
+          "text": "ORPHA:293355 Methylmalonic acidemia without homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689685?name=308425&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated virus 9 vector expressing a functional human codon optimized cDNA encoding MMAB",
+      "substance_url": "/en/drug/substance/689485?name=308425&mode=orpha&region=&status=all",
+      "substance_id": "689485",
+      "regulatory_url": "/en/drug/regulatory/689643?name=308425&mode=orpha&region=",
+      "regulatory_id": "689643",
+      "orpha_substance_code": "ORPHA:293355",
+      "details": [
+        "Adeno-associated virus 9 vector expressing a functional human codon optimized cDNA encoding MMAB(Medicinal product                        - 16/10/2024)Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "Adeno-associated virus 9 vector expressing a functional human codon optimized cDNA encoding MMAB(Medicinal product                        - 16/10/2024)",
+        "(Medicinal product                        - 16/10/2024)",
+        "Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689485?name=308425&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus 9 vector expressing a functional human codon optimized cDNA encoding MMAB",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/26",
+          "text": "ORPHA:26 Methylmalonic acidemia with homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293355",
+          "text": "ORPHA:293355 Methylmalonic acidemia without homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689643?name=308425&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Hydroxocobalamin",
+      "substance_url": "/en/drug/substance/87836?name=308425&mode=orpha&region=&status=all",
+      "substance_id": "87836",
+      "regulatory_url": "/en/drug/regulatory/689683?name=308425&mode=orpha&region=",
+      "regulatory_id": "689683",
+      "orpha_substance_code": "ORPHA:293355",
+      "details": [
+        "Hydroxocobalamin(Medicinal product                        - 09/10/2024)Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "Hydroxocobalamin(Medicinal product                        - 09/10/2024)",
+        "(Medicinal product                        - 09/10/2024)",
+        "Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/87836?name=308425&mode=orpha&region=&status=all",
+          "text": "Hydroxocobalamin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/26",
+          "text": "ORPHA:26 Methylmalonic acidemia with homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293355",
+          "text": "ORPHA:293355 Methylmalonic acidemia without homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689683?name=308425&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-Associated Virus 9 vector expressing human Metabolism of Cobalamin Associated C gene",
+      "substance_url": "/en/drug/substance/689487?name=308425&mode=orpha&region=&status=all",
+      "substance_id": "689487",
+      "regulatory_url": "/en/drug/regulatory/689645?name=308425&mode=orpha&region=",
+      "regulatory_id": "689645",
+      "orpha_substance_code": "ORPHA:293355",
+      "details": [
+        "Adeno-Associated Virus 9 vector expressing human Metabolism of Cobalamin Associated C gene(Medicinal product                        - 09/10/2024)Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "Adeno-Associated Virus 9 vector expressing human Metabolism of Cobalamin Associated C gene(Medicinal product                        - 09/10/2024)",
+        "(Medicinal product                        - 09/10/2024)",
+        "Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689487?name=308425&mode=orpha&region=&status=all",
+          "text": "Adeno-Associated Virus 9 vector expressing human Metabolism of Cobalamin Associated C gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/26",
+          "text": "ORPHA:26 Methylmalonic acidemia with homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293355",
+          "text": "ORPHA:293355 Methylmalonic acidemia without homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689645?name=308425&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Carglumic acid",
+      "substance_url": "/en/drug/substance/35161?name=308425&mode=orpha&region=&status=all",
+      "substance_id": "35161",
+      "regulatory_url": "/en/drug/regulatory/413795?name=308425&mode=orpha&region=",
+      "regulatory_id": "413795",
+      "orpha_substance_code": "ORPHA:293355",
+      "details": [
+        "Carglumic acid(Medicinal product                        - 17/06/2014)Disease(s) concernedORPHA:33 Isovaleric acidemiaORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:35 Propionic acidemiaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "Carglumic acid(Medicinal product                        - 17/06/2014)",
+        "(Medicinal product                        - 17/06/2014)",
+        "Disease(s) concernedORPHA:33 Isovaleric acidemiaORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:35 Propionic acidemiaORPHA:293355 Methylmalonic acidemia without homocystinuria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/35161?name=308425&mode=orpha&region=&status=all",
+          "text": "Carglumic acid",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/33",
+          "text": "ORPHA:33 Isovaleric acidemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/26",
+          "text": "ORPHA:26 Methylmalonic acidemia with homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/35",
+          "text": "ORPHA:35 Propionic acidemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/293355",
+          "text": "ORPHA:293355 Methylmalonic acidemia without homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/413795?name=308425&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:01:21.283504",
+  "run_number": 1,
+  "total_drugs_found": 12,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Methylmalonic+acidemia+due+to+methylmalonyl-CoA+epimerase+deficiency&orphaCode=308425&name=308425&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency",
+    "orphaCode": "308425",
+    "name": "308425",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

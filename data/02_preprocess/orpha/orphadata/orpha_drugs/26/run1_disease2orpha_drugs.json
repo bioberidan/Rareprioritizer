@@ -1,0 +1,162 @@
+{
+  "disease_name": "Methylmalonic acidemia with homocystinuria",
+  "orpha_code": "26",
+  "drugs": [
+    {
+      "name": "CARBAGLU",
+      "substance_url": "/en/drug/trade_name/35160?name=26&mode=orpha&region=&status=all",
+      "substance_id": "35160",
+      "regulatory_url": "/en/drug/regulatory/131343?name=26&mode=orpha&region=",
+      "regulatory_id": "131343",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "CYSTADANE",
+      "substance_url": "/en/drug/trade_name/33514?name=26&mode=orpha&region=&status=all",
+      "substance_id": "33514",
+      "regulatory_url": "/en/drug/regulatory/131341?name=26&mode=orpha&region=",
+      "regulatory_id": "131341",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Hydroxocobalamin acetate",
+      "substance_url": "/en/drug/substance/695213?name=26&mode=orpha&region=&status=all",
+      "substance_id": "695213",
+      "regulatory_url": "/en/drug/regulatory/695282?name=26&mode=orpha&region=",
+      "regulatory_id": "695282",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Modified mRNA encoding human methylmalonyl-coenzyme A mutase containing a polymorphism at position 671",
+      "substance_url": "/en/drug/substance/628481?name=26&mode=orpha&region=&status=all",
+      "substance_id": "628481",
+      "regulatory_url": "/en/drug/regulatory/628485?name=26&mode=orpha&region=",
+      "regulatory_id": "628485",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Adeno-associated viral vector LK03 encoding human methylmalonyl-CoA mutase",
+      "substance_url": "/en/drug/substance/627536?name=26&mode=orpha&region=&status=all",
+      "substance_id": "627536",
+      "regulatory_url": "/en/drug/regulatory/628290?name=26&mode=orpha&region=",
+      "regulatory_id": "628290",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Carglumic acid",
+      "substance_url": "/en/drug/substance/35161?name=26&mode=orpha&region=&status=all",
+      "substance_id": "35161",
+      "regulatory_url": "/en/drug/regulatory/165067?name=26&mode=orpha&region=",
+      "regulatory_id": "165067",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Hydroxocobalamin, methylcobalamin",
+      "substance_url": "/en/drug/substance/689523?name=26&mode=orpha&region=&status=all",
+      "substance_id": "689523",
+      "regulatory_url": "/en/drug/regulatory/689684?name=26&mode=orpha&region=",
+      "regulatory_id": "689684",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Adeno-associated virus 9 methylmalonyl Co-A mutase",
+      "substance_url": "/en/drug/substance/689483?name=26&mode=orpha&region=&status=all",
+      "substance_id": "689483",
+      "regulatory_url": "/en/drug/regulatory/689641?name=26&mode=orpha&region=",
+      "regulatory_id": "689641",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Methylcobalamin",
+      "substance_url": "/en/drug/substance/689529?name=26&mode=orpha&region=&status=all",
+      "substance_id": "689529",
+      "regulatory_url": "/en/drug/regulatory/689685?name=26&mode=orpha&region=",
+      "regulatory_id": "689685",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Adeno-associated virus 9 vector expressing a functional human codon optimized cDNA encoding MMAB",
+      "substance_url": "/en/drug/substance/689485?name=26&mode=orpha&region=&status=all",
+      "substance_id": "689485",
+      "regulatory_url": "/en/drug/regulatory/689643?name=26&mode=orpha&region=",
+      "regulatory_id": "689643",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Hydroxocobalamin",
+      "substance_url": "/en/drug/substance/87836?name=26&mode=orpha&region=&status=all",
+      "substance_id": "87836",
+      "regulatory_url": "/en/drug/regulatory/689683?name=26&mode=orpha&region=",
+      "regulatory_id": "689683",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Adeno-Associated Virus 9 vector expressing human Metabolism of Cobalamin Associated C gene",
+      "substance_url": "/en/drug/substance/689487?name=26&mode=orpha&region=&status=all",
+      "substance_id": "689487",
+      "regulatory_url": "/en/drug/regulatory/689645?name=26&mode=orpha&region=",
+      "regulatory_id": "689645",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:40:12.181762",
+  "run_number": 1,
+  "total_drugs_found": 12,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Methylmalonic+acidemia+with+homocystinuria&orphaCode=26&name=26&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Methylmalonic acidemia with homocystinuria",
+    "orphaCode": "26",
+    "name": "26",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

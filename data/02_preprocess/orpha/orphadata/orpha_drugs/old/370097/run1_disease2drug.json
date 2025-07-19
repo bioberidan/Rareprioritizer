@@ -1,0 +1,17 @@
+{
+  "disease_name": "Oculocutaneous albinism type 6",
+  "orpha_code": "370097",
+  "drugs": [],
+  "processing_timestamp": "2025-07-07T06:01:25.625171",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Oculocutaneous+albinism+type+6&orphaCode=370097&name=370097&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Oculocutaneous albinism type 6",
+    "orphaCode": "370097",
+    "name": "370097",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

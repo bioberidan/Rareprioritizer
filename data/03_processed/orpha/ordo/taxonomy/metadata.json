@@ -1,0 +1,10 @@
+{
+  "version": "2.0.0",
+  "source_file": "Metabolicas.xml",
+  "generation_date": "2025-07-05T13:15:20.062368",
+  "xml_date": "2024-12-03 07:05:16",
+  "xml_version": "1.3.29 / 4.1.7 [2023-08-02] (orientdb version)",
+  "total_categories": 167,
+  "total_diseases": 999,
+  "max_depth": 8
+}

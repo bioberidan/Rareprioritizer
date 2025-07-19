@@ -1,0 +1,94 @@
+{
+  "disease_name": "Erythropoietic uroporphyria associated with myeloid malignancy",
+  "orpha_code": "280379",
+  "drugs": [
+    {
+      "name": "PANHEMATIN",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131060?name=280379&mode=orpha&region=",
+      "regulatory_id": "131060",
+      "orpha_substance_code": "ORPHA:738",
+      "details": [
+        "PANHEMATIN(Tradename                        - 20/07/1990)Disease(s) concernedORPHA:738 Porphyria",
+        "PANHEMATIN(Tradename                        - 20/07/1990)",
+        "(Tradename                        - 20/07/1990)",
+        "Disease(s) concernedORPHA:738 Porphyria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/24989?name=280379&mode=orpha&region=&status=all",
+          "text": "PANHEMATIN",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/738",
+          "text": "ORPHA:738 Porphyria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131060?name=280379&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Hemin",
+      "substance_url": "/en/drug/substance/24990?name=280379&mode=orpha&region=&status=all",
+      "substance_id": "24990",
+      "regulatory_url": "/en/drug/regulatory/131924?name=280379&mode=orpha&region=",
+      "regulatory_id": "131924",
+      "orpha_substance_code": "ORPHA:738",
+      "details": [
+        "Hemin(Medicinal product                        - 16/03/1984)Disease(s) concernedORPHA:738 Porphyria",
+        "Hemin(Medicinal product                        - 16/03/1984)",
+        "(Medicinal product                        - 16/03/1984)",
+        "Disease(s) concernedORPHA:738 Porphyria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/24990?name=280379&mode=orpha&region=&status=all",
+          "text": "Hemin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/738",
+          "text": "ORPHA:738 Porphyria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131924?name=280379&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:04:32.234314",
+  "run_number": 1,
+  "total_drugs_found": 2,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Erythropoietic+uroporphyria+associated+with+myeloid+malignancy&orphaCode=280379&name=280379&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Erythropoietic uroporphyria associated with myeloid malignancy",
+    "orphaCode": "280379",
+    "name": "280379",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

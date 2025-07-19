@@ -1,0 +1,30 @@
+{
+  "orphacode": "79432",
+  "disease_name": "Oculocutaneous albinism type 2",
+  "socioeconomic_impact_studies": [
+    {
+      "cost": 0,
+      "measure": "Qualitative description of quality of life (WHOQOL-BREF)",
+      "label": "Quality of life in patients with oculocutaneous albinism",
+      "source": "https://doi.org/10.1590/abd1806-4841.20153498",
+      "country": "Brazil",
+      "year": "2015"
+    },
+    {
+      "cost": 0,
+      "measure": "Qualitative description of financial burden and access challenges",
+      "label": "A case for the inclusion of oculocutaneous albinism as a skin-related Neglected Tropical Disease",
+      "source": "https://doi.org/10.48327/mtsi.v3i4.2023.434",
+      "country": "Sub-Saharan Africa",
+      "year": "2023"
+    }
+  ],
+  "score": 3,
+  "evidence_level": "Low evidence",
+  "justification": "Only qualitative studies describing impairment in quality of life and financial or access challenges were identified; no quantitative cost-of-illness data were available.",
+  "metadata": {
+    "processing_timestamp": "2025-07-18T19:04:14.325258",
+    "run_number": 1,
+    "orphacode": "79432"
+  }
+}

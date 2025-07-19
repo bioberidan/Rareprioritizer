@@ -249,21 +249,6 @@ temp/
 ehthumbs.db
 Thumbs.db
 
-# Project specific
-results/temp/
-*.tmp
-*.temp
-.run_*
-run_*/
-
-# Large data files (consider using Git LFS)
-*.csv
-*.xlsx
-*.json
-!conf/*.yaml
-!conf/*.json
-!**/examples/**/*.json
-!**/cookbook/**/*.json
 
 # API keys and secrets
 secrets/

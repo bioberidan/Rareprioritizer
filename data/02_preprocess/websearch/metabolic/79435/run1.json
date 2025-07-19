@@ -1,0 +1,20 @@
+{
+  "orphacode": "79435",
+  "disease_name": "Oculocutaneous albinism type 4",
+  "groups": [
+    {
+      "unit_name": "U756 CIBERER",
+      "sources": [
+        {
+          "label": "CIBERER news: Revisan el papel de la vía de pigmentación de la retina en el albinismo humano",
+          "url": "https://www.ciberer.es/noticias/revisan-el-papel-de-la-via-de-pigmentacion-de-la-retina-en-el-albinismo-humano"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "processing_timestamp": "2025-07-18T18:16:48.468526",
+    "run_number": 1,
+    "orphacode": "79435"
+  }
+}

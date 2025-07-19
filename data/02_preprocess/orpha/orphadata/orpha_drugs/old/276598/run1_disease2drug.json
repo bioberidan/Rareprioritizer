@@ -1,0 +1,322 @@
+{
+  "disease_name": "Diazoxide-resistant focal hyperinsulinism due to SUR1 deficiency",
+  "orpha_code": "276598",
+  "drugs": [
+    {
+      "name": "4-[(3S)-3-aminopyrrolidin-1-yl]-6-cyano-5-(3,5-difluorophenyl)-N-[(2S)-1,1,1-trifluoropropan-2-yl]pyridine-3-carboxamide",
+      "substance_url": "/en/drug/substance/605146?name=276598&mode=orpha&region=&status=all",
+      "substance_id": "605146",
+      "regulatory_url": "/en/drug/regulatory/605147?name=276598&mode=orpha&region=",
+      "regulatory_id": "605147",
+      "orpha_substance_code": "ORPHA:657",
+      "details": [
+        "4-[(3S)-3-aminopyrrolidin-1-yl]-6-cyano-5-(3,5-difluorophenyl)-N-[(2S)-1,1,1-trifluoropropan-2-yl]pyridine-3-carboxamide(Medicinal product                        - 09/12/2020)Disease(s) concernedORPHA:657 Congenital isolated hyperinsulinism",
+        "4-[(3S)-3-aminopyrrolidin-1-yl]-6-cyano-5-(3,5-difluorophenyl)-N-[(2S)-1,1,1-trifluoropropan-2-yl]pyridine-3-carboxamide(Medicinal product                        - 09/12/2020)",
+        "(Medicinal product                        - 09/12/2020)",
+        "Disease(s) concernedORPHA:657 Congenital isolated hyperinsulinism",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/605146?name=276598&mode=orpha&region=&status=all",
+          "text": "4-[(3S)-3-aminopyrrolidin-1-yl]-6-cyano-5-(3,5-difluorophenyl)-N-[(2S)-1,1,1-trifluoropropan-2-yl]pyridine-3-carboxamide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/657",
+          "text": "ORPHA:657 Congenital isolated hyperinsulinism",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/605147?name=276598&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Exendin-(9-39)",
+      "substance_url": "/en/drug/substance/371566?name=276598&mode=orpha&region=&status=all",
+      "substance_id": "371566",
+      "regulatory_url": "/en/drug/regulatory/572565?name=276598&mode=orpha&region=",
+      "regulatory_id": "572565",
+      "orpha_substance_code": "ORPHA:657",
+      "details": [
+        "Exendin-(9-39)(Medicinal product                        - 13/11/2019)Disease(s) concernedORPHA:657 Congenital isolated hyperinsulinism",
+        "Exendin-(9-39)(Medicinal product                        - 13/11/2019)",
+        "(Medicinal product                        - 13/11/2019)",
+        "Disease(s) concernedORPHA:657 Congenital isolated hyperinsulinism",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/371566?name=276598&mode=orpha&region=&status=all",
+          "text": "Exendin-(9-39)",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/657",
+          "text": "ORPHA:657 Congenital isolated hyperinsulinism",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/572565?name=276598&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Glucagon analogue linked to a human immunoglobulin Fc fragment",
+      "substance_url": "/en/drug/substance/527458?name=276598&mode=orpha&region=&status=all",
+      "substance_id": "527458",
+      "regulatory_url": "/en/drug/regulatory/527462?name=276598&mode=orpha&region=",
+      "regulatory_id": "527462",
+      "orpha_substance_code": "ORPHA:657",
+      "details": [
+        "Glucagon analogue linked to a human immunoglobulin Fc fragment(Medicinal product                        - 25/05/2018)Disease(s) concernedORPHA:657 Congenital isolated hyperinsulinism",
+        "Glucagon analogue linked to a human immunoglobulin Fc fragment(Medicinal product                        - 25/05/2018)",
+        "(Medicinal product                        - 25/05/2018)",
+        "Disease(s) concernedORPHA:657 Congenital isolated hyperinsulinism",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/527458?name=276598&mode=orpha&region=&status=all",
+          "text": "Glucagon analogue linked to a human immunoglobulin Fc fragment",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/657",
+          "text": "ORPHA:657 Congenital isolated hyperinsulinism",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/527462?name=276598&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Dasiglucagon",
+      "substance_url": "/en/drug/substance/489767?name=276598&mode=orpha&region=&status=all",
+      "substance_id": "489767",
+      "regulatory_url": "/en/drug/regulatory/489772?name=276598&mode=orpha&region=",
+      "regulatory_id": "489772",
+      "orpha_substance_code": "ORPHA:657",
+      "details": [
+        "Dasiglucagon(Medicinal product                        - 20/06/2017)Disease(s) concernedORPHA:657 Congenital isolated hyperinsulinism",
+        "Dasiglucagon(Medicinal product                        - 20/06/2017)",
+        "(Medicinal product                        - 20/06/2017)",
+        "Disease(s) concernedORPHA:657 Congenital isolated hyperinsulinism",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/489767?name=276598&mode=orpha&region=&status=all",
+          "text": "Dasiglucagon",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/657",
+          "text": "ORPHA:657 Congenital isolated hyperinsulinism",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/489772?name=276598&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Ersodetug",
+      "substance_url": "/en/drug/substance/480436?name=276598&mode=orpha&region=&status=all",
+      "substance_id": "480436",
+      "regulatory_url": "/en/drug/regulatory/480438?name=276598&mode=orpha&region=",
+      "regulatory_id": "480438",
+      "orpha_substance_code": "ORPHA:657",
+      "details": [
+        "Ersodetug(Medicinal product                        - 14/07/2016)Disease(s) concernedORPHA:657 Congenital isolated hyperinsulinism",
+        "Ersodetug(Medicinal product                        - 14/07/2016)",
+        "(Medicinal product                        - 14/07/2016)",
+        "Disease(s) concernedORPHA:657 Congenital isolated hyperinsulinism",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/480436?name=276598&mode=orpha&region=&status=all",
+          "text": "Ersodetug",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/657",
+          "text": "ORPHA:657 Congenital isolated hyperinsulinism",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/480438?name=276598&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Glucagon",
+      "substance_url": "/en/drug/substance/299535?name=276598&mode=orpha&region=&status=all",
+      "substance_id": "299535",
+      "regulatory_url": "/en/drug/regulatory/300868?name=276598&mode=orpha&region=",
+      "regulatory_id": "300868",
+      "orpha_substance_code": "ORPHA:657",
+      "details": [
+        "Glucagon(Medicinal product                        - 05/03/2012)Disease(s) concernedORPHA:657 Congenital isolated hyperinsulinism",
+        "Glucagon(Medicinal product                        - 05/03/2012)",
+        "(Medicinal product                        - 05/03/2012)",
+        "Disease(s) concernedORPHA:657 Congenital isolated hyperinsulinism",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/299535?name=276598&mode=orpha&region=&status=all",
+          "text": "Glucagon",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/657",
+          "text": "ORPHA:657 Congenital isolated hyperinsulinism",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/300868?name=276598&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Solution stable glucagon analog",
+      "substance_url": "/en/drug/substance/684497?name=276598&mode=orpha&region=&status=all",
+      "substance_id": "684497",
+      "regulatory_url": "/en/drug/regulatory/684707?name=276598&mode=orpha&region=",
+      "regulatory_id": "684707",
+      "orpha_substance_code": "ORPHA:657",
+      "details": [
+        "Solution stable glucagon analog(Medicinal product                        - 17/06/2024)Disease(s) concernedORPHA:657 Congenital isolated hyperinsulinism",
+        "Solution stable glucagon analog(Medicinal product                        - 17/06/2024)",
+        "(Medicinal product                        - 17/06/2024)",
+        "Disease(s) concernedORPHA:657 Congenital isolated hyperinsulinism",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/684497?name=276598&mode=orpha&region=&status=all",
+          "text": "Solution stable glucagon analog",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/657",
+          "text": "ORPHA:657 Congenital isolated hyperinsulinism",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/684707?name=276598&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Glucagon infusion",
+      "substance_url": "/en/drug/substance/413075?name=276598&mode=orpha&region=&status=all",
+      "substance_id": "413075",
+      "regulatory_url": "/en/drug/regulatory/413076?name=276598&mode=orpha&region=",
+      "regulatory_id": "413076",
+      "orpha_substance_code": "ORPHA:657",
+      "details": [
+        "Glucagon infusion(Medicinal product                        - 25/09/2014)Disease(s) concernedORPHA:657 Congenital isolated hyperinsulinism",
+        "Glucagon infusion(Medicinal product                        - 25/09/2014)",
+        "(Medicinal product                        - 25/09/2014)",
+        "Disease(s) concernedORPHA:657 Congenital isolated hyperinsulinism",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/413075?name=276598&mode=orpha&region=&status=all",
+          "text": "Glucagon infusion",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/657",
+          "text": "ORPHA:657 Congenital isolated hyperinsulinism",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/413076?name=276598&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:03:59.379925",
+  "run_number": 1,
+  "total_drugs_found": 8,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Diazoxide-resistant+focal+hyperinsulinism+due+to+SUR1+deficiency&orphaCode=276598&name=276598&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Diazoxide-resistant focal hyperinsulinism due to SUR1 deficiency",
+    "orphaCode": "276598",
+    "name": "276598",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

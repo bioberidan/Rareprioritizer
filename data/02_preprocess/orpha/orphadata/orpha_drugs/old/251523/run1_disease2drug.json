@@ -1,0 +1,17 @@
+{
+  "disease_name": "Hyperzincemia and hypercalprotectinemia",
+  "orpha_code": "251523",
+  "drugs": [],
+  "processing_timestamp": "2025-07-07T06:05:05.173291",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Hyperzincemia+and+hypercalprotectinemia&orphaCode=251523&name=251523&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Hyperzincemia and hypercalprotectinemia",
+    "orphaCode": "251523",
+    "name": "251523",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "disease_name": "Dopamine beta-hydroxylase deficiency",
+  "orpha_code": "230",
+  "drugs": [
+    {
+      "name": "NORTHERA",
+      "substance_url": "/en/drug/trade_name/393913?name=230&mode=orpha&region=&status=all",
+      "substance_id": "393913",
+      "regulatory_url": "/en/drug/regulatory/393920?name=230&mode=orpha&region=",
+      "regulatory_id": "393920",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Droxidopa",
+      "substance_url": "/en/drug/substance/393911?name=230&mode=orpha&region=&status=all",
+      "substance_id": "393911",
+      "regulatory_url": "/en/drug/regulatory/393921?name=230&mode=orpha&region=",
+      "regulatory_id": "393921",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "AMATINE",
+      "substance_url": "/en/drug/trade_name/33485?name=230&mode=orpha&region=&status=all",
+      "substance_id": "33485",
+      "regulatory_url": "/en/drug/regulatory/131101?name=230&mode=orpha&region=",
+      "regulatory_id": "131101",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Midodrine hydrochloride",
+      "substance_url": "/en/drug/substance/33486?name=230&mode=orpha&region=&status=all",
+      "substance_id": "33486",
+      "regulatory_url": "/en/drug/regulatory/136877?name=230&mode=orpha&region=",
+      "regulatory_id": "136877",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:21:51.840731",
+  "run_number": 1,
+  "total_drugs_found": 4,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Dopamine+beta-hydroxylase+deficiency&orphaCode=230&name=230&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Dopamine beta-hydroxylase deficiency",
+    "orphaCode": "230",
+    "name": "230",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

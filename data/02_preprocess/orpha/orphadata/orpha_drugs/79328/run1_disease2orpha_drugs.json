@@ -1,0 +1,17 @@
+{
+  "disease_name": "ALG9-CDG",
+  "orpha_code": "79328",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:38:12.431468",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=ALG9-CDG&orphaCode=79328&name=79328&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "ALG9-CDG",
+    "orphaCode": "79328",
+    "name": "79328",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

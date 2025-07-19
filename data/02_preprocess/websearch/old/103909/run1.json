@@ -1,0 +1,59 @@
+{
+  "orphacode": "103909",
+  "disease_name": "Trehalase deficiency",
+  "groups": [
+    {
+      "unit_id": "U703",
+      "official_name": "Metabolomics and Biochemical Genetics",
+      "host_institution": "Institut de Recerca Sant Joan de Déu, Hospital Sant Joan de Déu",
+      "city": "Esplugues de Llobregat",
+      "principal_investigators": [
+        {
+          "name": "Rafael Artuch Iriberri",
+          "role": "Group Leader"
+        }
+      ],
+      "justification": "Member of the European Reference Network for Rare Hereditary Metabolic Disorders (Metab-ERN), which includes trehalase deficiency under hereditary metabolic disorders",
+      "sources": [
+        {
+          "label": "Biotech Spain article on CIBERER incorporation into METAB-ERN",
+          "url": "https://biotech-spain.com/en/articles/8-grupos-de-investigaci-n-del-ciberer-se-han-incorporado-a-las-redes-europeas-de-referencia/"
+        },
+        {
+          "label": "Rafael Artuch Iriberri profile, Institut de Recerca Sant Joan de Déu",
+          "url": "https://www.irsjd.org/en/people/staff/280/rafael-artuch-iriberri"
+        }
+      ],
+      "disease_related_publications": []
+    },
+    {
+      "unit_id": "U723",
+      "official_name": "Unidad de Enfermedades Metabólicas Hereditarias y Trastornos Mitocondriales",
+      "host_institution": "Hospital Universitario 12 de Octubre",
+      "city": "Madrid",
+      "principal_investigators": [
+        {
+          "name": "Miguel Ángel Martín Casanueva",
+          "role": "Group Leader"
+        }
+      ],
+      "justification": "Member of the European Reference Network for Rare Hereditary Metabolic Disorders (Metab-ERN), which encompasses inborn errors of carbohydrate metabolism such as trehalase deficiency",
+      "sources": [
+        {
+          "label": "Biotech Spain article on CIBERER incorporation into METAB-ERN",
+          "url": "https://biotech-spain.com/en/articles/8-grupos-de-investigaci-n-del-ciberer-se-han-incorporado-a-las-redes-europeas-de-referencia/"
+        },
+        {
+          "label": "CIBERER news article on U723 led by Miguel Ángel Martín Casanueva",
+          "url": "https://www.ciberer.es/noticias/profundizan-en-la-comprension-de-la-funcion-del-complejo-iv-en-las-patologias-mitocondriales"
+        }
+      ],
+      "disease_related_publications": []
+    }
+  ],
+  "metadata": {
+    "processing_timestamp": "2025-07-18T12:03:02.995279",
+    "run_number": 1,
+    "orphacode": "103909"
+  }
+}

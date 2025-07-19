@@ -1,0 +1,71 @@
+{
+  "disease_name": "Pancreatic triacylglycerol lipase deficiency",
+  "orpha_code": "309031",
+  "drugs": [
+    {
+      "name": "Bacterial lipase",
+      "substance_url": "/en/drug/substance/83692?name=309031&mode=orpha&region=&status=all",
+      "substance_id": "83692",
+      "regulatory_url": "/en/drug/regulatory/134002?name=309031&mode=orpha&region=",
+      "regulatory_id": "134002",
+      "orpha_substance_code": "ORPHA:309031",
+      "details": [
+        "Bacterial lipase(Medicinal product                        - 07/11/2005)Disease(s) concernedORPHA:586 Cystic fibrosisORPHA:676 Autosomal dominant hereditary chronic pancreatitisORPHA:811 Shwachman-Diamond syndromeORPHA:309031 Pancreatic triacylglycerol lipase deficiency",
+        "Bacterial lipase(Medicinal product                        - 07/11/2005)",
+        "(Medicinal product                        - 07/11/2005)",
+        "Disease(s) concernedORPHA:586 Cystic fibrosisORPHA:676 Autosomal dominant hereditary chronic pancreatitisORPHA:811 Shwachman-Diamond syndromeORPHA:309031 Pancreatic triacylglycerol lipase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/83692?name=309031&mode=orpha&region=&status=all",
+          "text": "Bacterial lipase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/586",
+          "text": "ORPHA:586 Cystic fibrosis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/676",
+          "text": "ORPHA:676 Autosomal dominant hereditary chronic pancreatitis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/811",
+          "text": "ORPHA:811 Shwachman-Diamond syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/309031",
+          "text": "ORPHA:309031 Pancreatic triacylglycerol lipase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/134002?name=309031&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "ORPHA:309031 Pancreatic triacylglycerol lipase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:04:18.505980",
+  "run_number": 1,
+  "total_drugs_found": 1,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Pancreatic+triacylglycerol+lipase+deficiency&orphaCode=309031&name=309031&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Pancreatic triacylglycerol lipase deficiency",
+    "orphaCode": "309031",
+    "name": "309031",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

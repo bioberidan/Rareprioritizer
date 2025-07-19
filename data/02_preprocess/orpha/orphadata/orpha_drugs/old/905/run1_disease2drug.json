@@ -1,0 +1,935 @@
+{
+  "disease_name": "Wilson disease",
+  "orpha_code": "905",
+  "drugs": [
+    {
+      "name": "CUFENCE",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/562975?name=905&mode=orpha&region=",
+      "regulatory_id": "562975",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "CUFENCE(Tradename                        - 25/07/2019)Disease(s) concernedORPHA:905 Wilson disease",
+        "CUFENCE(Tradename                        - 25/07/2019)",
+        "(Tradename                        - 25/07/2019)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/562971?name=905&mode=orpha&region=&status=all",
+          "text": "CUFENCE",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/562975?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "CUPRIOR",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/494341?name=905&mode=orpha&region=",
+      "regulatory_id": "494341",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "CUPRIOR(Tradename                        - 05/09/2017)Disease(s) concernedORPHA:905 Wilson disease",
+        "CUPRIOR(Tradename                        - 05/09/2017)",
+        "(Tradename                        - 05/09/2017)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/494340?name=905&mode=orpha&region=&status=all",
+          "text": "CUPRIOR",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/494341?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "WILZIN",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131357?name=905&mode=orpha&region=",
+      "regulatory_id": "131357",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "WILZIN(Tradename                        - 18/10/2004)Disease(s) concernedORPHA:905 Wilson disease",
+        "WILZIN(Tradename                        - 18/10/2004)",
+        "(Tradename                        - 18/10/2004)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/56896?name=905&mode=orpha&region=&status=all",
+          "text": "WILZIN",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131357?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector serotype 9 encoding human ATP7B",
+      "substance_url": "/en/drug/substance/605131?name=905&mode=orpha&region=&status=all",
+      "substance_id": "605131",
+      "regulatory_url": "/en/drug/regulatory/605132?name=905&mode=orpha&region=",
+      "regulatory_id": "605132",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "Adeno-associated viral vector serotype 9 encoding human ATP7B(Medicinal product                        - 09/12/2020)Disease(s) concernedORPHA:905 Wilson disease",
+        "Adeno-associated viral vector serotype 9 encoding human ATP7B(Medicinal product                        - 09/12/2020)",
+        "(Medicinal product                        - 09/12/2020)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/605131?name=905&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector serotype 9 encoding human ATP7B",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/605132?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector serotype 3B encoding shortened human ATP7B",
+      "substance_url": "/en/drug/substance/604840?name=905&mode=orpha&region=&status=all",
+      "substance_id": "604840",
+      "regulatory_url": "/en/drug/regulatory/604841?name=905&mode=orpha&region=",
+      "regulatory_id": "604841",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "Adeno-associated viral vector serotype 3B encoding shortened human ATP7B(Medicinal product                        - 21/08/2020)Disease(s) concernedORPHA:905 Wilson disease",
+        "Adeno-associated viral vector serotype 3B encoding shortened human ATP7B(Medicinal product                        - 21/08/2020)",
+        "(Medicinal product                        - 21/08/2020)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/604840?name=905&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector serotype 3B encoding shortened human ATP7B",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/604841?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "adeno-associated viral vector serotype 8 encoding the human ATP7B gene under the control of the human alpha-1 antitrypsin promoter",
+      "substance_url": "/en/drug/substance/447658?name=905&mode=orpha&region=&status=all",
+      "substance_id": "447658",
+      "regulatory_url": "/en/drug/regulatory/447662?name=905&mode=orpha&region=",
+      "regulatory_id": "447662",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "adeno-associated viral vector serotype 8 encoding the human ATP7B gene under the control of the human alpha-1 antitrypsin promoter(Medicinal product                        - 11/11/2015)Disease(s) concernedORPHA:905 Wilson disease",
+        "adeno-associated viral vector serotype 8 encoding the human ATP7B gene under the control of the human alpha-1 antitrypsin promoter(Medicinal product                        - 11/11/2015)",
+        "(Medicinal product                        - 11/11/2015)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/447658?name=905&mode=orpha&region=&status=all",
+          "text": "adeno-associated viral vector serotype 8 encoding the human ATP7B gene under the control of the human alpha-1 antitrypsin promoter",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/447662?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Choline tetrathiomolybdate",
+      "substance_url": "/en/drug/substance/321503?name=905&mode=orpha&region=&status=all",
+      "substance_id": "321503",
+      "regulatory_url": "/en/drug/regulatory/323537?name=905&mode=orpha&region=",
+      "regulatory_id": "323537",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "Choline tetrathiomolybdate(Medicinal product                        - 24/01/2013)Disease(s) concernedORPHA:905 Wilson disease",
+        "Choline tetrathiomolybdate(Medicinal product                        - 24/01/2013)",
+        "(Medicinal product                        - 24/01/2013)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/321503?name=905&mode=orpha&region=&status=all",
+          "text": "Choline tetrathiomolybdate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/323537?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Ammonium tetrathiomolybdate",
+      "substance_url": "/en/drug/substance/137334?name=905&mode=orpha&region=&status=all",
+      "substance_id": "137334",
+      "regulatory_url": "/en/drug/regulatory/137335?name=905&mode=orpha&region=",
+      "regulatory_id": "137335",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "Ammonium tetrathiomolybdate(Medicinal product                        - 01/04/2008)Disease(s) concernedORPHA:905 Wilson disease",
+        "Ammonium tetrathiomolybdate(Medicinal product                        - 01/04/2008)",
+        "(Medicinal product                        - 01/04/2008)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/137334?name=905&mode=orpha&region=&status=all",
+          "text": "Ammonium tetrathiomolybdate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/137335?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector serotype Anc80 containing the truncated human ATP7B gene under the control of the human alpha-1 antitrypsin promoter",
+      "substance_url": "/en/drug/substance/496340?name=905&mode=orpha&region=&status=all",
+      "substance_id": "496340",
+      "regulatory_url": "/en/drug/regulatory/496344?name=905&mode=orpha&region=",
+      "regulatory_id": "496344",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "Adeno-associated viral vector serotype Anc80 containing the truncated human ATP7B gene under the control of the human alpha-1 antitrypsin promoter(Medicinal product                        - 23/08/2017)Disease(s) concernedORPHA:905 Wilson disease",
+        "Adeno-associated viral vector serotype Anc80 containing the truncated human ATP7B gene under the control of the human alpha-1 antitrypsin promoter(Medicinal product                        - 23/08/2017)",
+        "(Medicinal product                        - 23/08/2017)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/496340?name=905&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector serotype Anc80 containing the truncated human ATP7B gene under the control of the human alpha-1 antitrypsin promoter",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/496344?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "trientine tetrahydrochloride",
+      "substance_url": "/en/drug/substance/444360?name=905&mode=orpha&region=&status=all",
+      "substance_id": "444360",
+      "regulatory_url": "/en/drug/regulatory/444361?name=905&mode=orpha&region=",
+      "regulatory_id": "444361",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "trientine tetrahydrochloride(Medicinal product                        - 19/03/2015)Disease(s) concernedORPHA:905 Wilson disease",
+        "trientine tetrahydrochloride(Medicinal product                        - 19/03/2015)",
+        "(Medicinal product                        - 19/03/2015)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/444360?name=905&mode=orpha&region=&status=all",
+          "text": "trientine tetrahydrochloride",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/444361?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Trientine dihydrochloride",
+      "substance_url": "/en/drug/substance/24924?name=905&mode=orpha&region=&status=all",
+      "substance_id": "24924",
+      "regulatory_url": "/en/drug/regulatory/133852?name=905&mode=orpha&region=",
+      "regulatory_id": "133852",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "Trientine dihydrochloride(Medicinal product                        - 24/10/2003)Disease(s) concernedORPHA:905 Wilson disease",
+        "Trientine dihydrochloride(Medicinal product                        - 24/10/2003)",
+        "(Medicinal product                        - 24/10/2003)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/24924?name=905&mode=orpha&region=&status=all",
+          "text": "Trientine dihydrochloride",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/133852?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Zinc acetate",
+      "substance_url": "/en/drug/substance/56897?name=905&mode=orpha&region=&status=all",
+      "substance_id": "56897",
+      "regulatory_url": "/en/drug/regulatory/133733?name=905&mode=orpha&region=",
+      "regulatory_id": "133733",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "Zinc acetate(Medicinal product                        - 31/07/2001)Disease(s) concernedORPHA:905 Wilson disease",
+        "Zinc acetate(Medicinal product                        - 31/07/2001)",
+        "(Medicinal product                        - 31/07/2001)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/56897?name=905&mode=orpha&region=&status=all",
+          "text": "Zinc acetate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/133733?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "CUVRIOR",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/623591?name=905&mode=orpha&region=",
+      "regulatory_id": "623591",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "CUVRIOR(Tradename                        - 28/04/2022)Disease(s) concernedORPHA:905 Wilson disease",
+        "CUVRIOR(Tradename                        - 28/04/2022)",
+        "(Tradename                        - 28/04/2022)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/623586?name=905&mode=orpha&region=&status=all",
+          "text": "CUVRIOR",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/623591?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "GALZIN",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131083?name=905&mode=orpha&region=",
+      "regulatory_id": "131083",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "GALZIN(Tradename                        - 28/01/1997)Disease(s) concernedORPHA:905 Wilson disease",
+        "GALZIN(Tradename                        - 28/01/1997)",
+        "(Tradename                        - 28/01/1997)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/25082?name=905&mode=orpha&region=&status=all",
+          "text": "GALZIN",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131083?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "SYPRINE",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131121?name=905&mode=orpha&region=",
+      "regulatory_id": "131121",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "SYPRINE(Tradename                        - 08/11/1985)Disease(s) concernedORPHA:905 Wilson disease",
+        "SYPRINE(Tradename                        - 08/11/1985)",
+        "(Tradename                        - 08/11/1985)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/34566?name=905&mode=orpha&region=&status=all",
+          "text": "SYPRINE",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131121?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Modified human P-type copper transporting ATPase (hATP7B) messenger ribonucleic acid encapsulated in a lipid nanoparticle (hATP7B mRNA-LNP)",
+      "substance_url": "/en/drug/substance/697602?name=905&mode=orpha&region=&status=all",
+      "substance_id": "697602",
+      "regulatory_url": "/en/drug/regulatory/697875?name=905&mode=orpha&region=",
+      "regulatory_id": "697875",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "Modified human P-type copper transporting ATPase (hATP7B) messenger ribonucleic acid encapsulated in a lipid nanoparticle (hATP7B mRNA-LNP)(Medicinal product                        - 13/03/2025)Disease(s) concernedORPHA:905 Wilson disease",
+        "Modified human P-type copper transporting ATPase (hATP7B) messenger ribonucleic acid encapsulated in a lipid nanoparticle (hATP7B mRNA-LNP)(Medicinal product                        - 13/03/2025)",
+        "(Medicinal product                        - 13/03/2025)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/697602?name=905&mode=orpha&region=&status=all",
+          "text": "Modified human P-type copper transporting ATPase (hATP7B) messenger ribonucleic acid encapsulated in a lipid nanoparticle (hATP7B mRNA-LNP)",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/697875?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant adeno-associated viral vector of serotype 8 carrying the coding sequence of human ATP7B gene and a hepatic-specific promoter",
+      "substance_url": "/en/drug/substance/687222?name=905&mode=orpha&region=&status=all",
+      "substance_id": "687222",
+      "regulatory_url": "/en/drug/regulatory/687562?name=905&mode=orpha&region=",
+      "regulatory_id": "687562",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "Recombinant adeno-associated viral vector of serotype 8 carrying the coding sequence of human ATP7B gene and a hepatic-specific promoter(Medicinal product                        - 06/08/2024)Disease(s) concernedORPHA:905 Wilson disease",
+        "Recombinant adeno-associated viral vector of serotype 8 carrying the coding sequence of human ATP7B gene and a hepatic-specific promoter(Medicinal product                        - 06/08/2024)",
+        "(Medicinal product                        - 06/08/2024)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/687222?name=905&mode=orpha&region=&status=all",
+          "text": "Recombinant adeno-associated viral vector of serotype 8 carrying the coding sequence of human ATP7B gene and a hepatic-specific promoter",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/687562?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Methanobactin SB2",
+      "substance_url": "/en/drug/substance/687200?name=905&mode=orpha&region=&status=all",
+      "substance_id": "687200",
+      "regulatory_url": "/en/drug/regulatory/687529?name=905&mode=orpha&region=",
+      "regulatory_id": "687529",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "Methanobactin SB2(Medicinal product                        - 06/08/2024)Disease(s) concernedORPHA:905 Wilson disease",
+        "Methanobactin SB2(Medicinal product                        - 06/08/2024)",
+        "(Medicinal product                        - 06/08/2024)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/687200?name=905&mode=orpha&region=&status=all",
+          "text": "Methanobactin SB2",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/687529?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Methyl (R)-4-(3S,5R,7R,8R,9S,10S,13R,14S,17R)-7-hydroxy-10,13-dimethyl-3-((4-((pyridin-2-yl-methyl)amino)butyl)amino) hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl) pentan",
+      "substance_url": "/en/drug/substance/632181?name=905&mode=orpha&region=&status=all",
+      "substance_id": "632181",
+      "regulatory_url": "/en/drug/regulatory/632185?name=905&mode=orpha&region=",
+      "regulatory_id": "632185",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "Methyl (R)-4-(3S,5R,7R,8R,9S,10S,13R,14S,17R)-7-hydroxy-10,13-dimethyl-3-((4-((pyridin-2-yl-methyl)amino)butyl)amino) hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl) pentan(Medicinal product                        - 12/05/2022)Disease(s) concernedORPHA:905 Wilson disease",
+        "Methyl (R)-4-(3S,5R,7R,8R,9S,10S,13R,14S,17R)-7-hydroxy-10,13-dimethyl-3-((4-((pyridin-2-yl-methyl)amino)butyl)amino) hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl) pentan(Medicinal product                        - 12/05/2022)",
+        "(Medicinal product                        - 12/05/2022)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/632181?name=905&mode=orpha&region=&status=all",
+          "text": "Methyl (R)-4-(3S,5R,7R,8R,9S,10S,13R,14S,17R)-7-hydroxy-10,13-dimethyl-3-((4-((pyridin-2-yl-methyl)amino)butyl)amino) hexadecahydro-1H-cyclopenta[a]phenanthren-17-yl) pentan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/632185?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector serotype 9 encoding human ATP7B",
+      "substance_url": "/en/drug/substance/605131?name=905&mode=orpha&region=&status=all",
+      "substance_id": "605131",
+      "regulatory_url": "/en/drug/regulatory/707963?name=905&mode=orpha&region=",
+      "regulatory_id": "707963",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "Adeno-associated viral vector serotype 9 encoding human ATP7B(Medicinal product                        - 07/12/2020)Disease(s) concernedORPHA:905 Wilson disease",
+        "Adeno-associated viral vector serotype 9 encoding human ATP7B(Medicinal product                        - 07/12/2020)",
+        "(Medicinal product                        - 07/12/2020)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/605131?name=905&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector serotype 9 encoding human ATP7B",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/707963?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Zinc acetate",
+      "substance_url": "/en/drug/substance/56897?name=905&mode=orpha&region=&status=all",
+      "substance_id": "56897",
+      "regulatory_url": "/en/drug/regulatory/136864?name=905&mode=orpha&region=",
+      "regulatory_id": "136864",
+      "orpha_substance_code": "ORPHA:905",
+      "details": [
+        "Zinc acetate(Medicinal product                        - 06/11/1985)Disease(s) concernedORPHA:905 Wilson disease",
+        "Zinc acetate(Medicinal product                        - 06/11/1985)",
+        "(Medicinal product                        - 06/11/1985)",
+        "Disease(s) concernedORPHA:905 Wilson disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/56897?name=905&mode=orpha&region=&status=all",
+          "text": "Zinc acetate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/905",
+          "text": "ORPHA:905 Wilson disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136864?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=905&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=905&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Burixafor(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Burixafor(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689505?name=905&mode=orpha&region=&status=all",
+          "text": "Burixafor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689915?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=905&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=905&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Treosulfan(Medicinal product                        - 08/04/2015)Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Treosulfan(Medicinal product                        - 08/04/2015)",
+        "(Medicinal product                        - 08/04/2015)",
+        "Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90799?name=905&mode=orpha&region=&status=all",
+          "text": "Treosulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/213500",
+          "text": "ORPHA:213500 Rare ovarian cancer",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136690?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=905&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=905&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "busulfan(Medicinal product                        - 21/04/1994)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "busulfan(Medicinal product                        - 21/04/1994)",
+        "(Medicinal product                        - 21/04/1994)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/46335?name=905&mode=orpha&region=&status=all",
+          "text": "busulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131973?name=905&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:04:52.732752",
+  "run_number": 1,
+  "total_drugs_found": 24,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Wilson+disease&orphaCode=905&name=905&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Wilson disease",
+    "orphaCode": "905",
+    "name": "905",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

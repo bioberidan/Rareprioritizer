@@ -1,0 +1,257 @@
+{
+  "disease_name": "Phenylketonuria",
+  "orpha_code": "716",
+  "trials": [
+    {
+      "nctId": "NCT05166161",
+      "briefTitle": "A Long-Term Safety Study of PTC923 in Participants With Phenylketonuria",
+      "officialTitle": "A Phase 3 Open-Label Study of PTC923 (Sepiapterin) in Phenylketonuria",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Phenylketonuria"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "PTC923"
+        }
+      ],
+      "enrollment": 200,
+      "locations": [
+        {
+          "facility": "Children's Hospital Colorado",
+          "city": "Aurora",
+          "country": "United States"
+        },
+        {
+          "facility": "UF College of Medicine, Department of Pediatrics Division of Genetics and Metabolism",
+          "city": "Gainesville",
+          "country": "United States"
+        },
+        {
+          "facility": "Indiana University School of Medicine Department of Medical and Molecular Genetics",
+          "city": "Indianapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "Boston Children's Hospital",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "Icahn School of Medicine at Mount Sinai (ISMMS)",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "UPMC Children's Hospital of Pittsburgh",
+          "city": "Pittsburgh",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Utah",
+          "city": "Salt Lake City",
+          "country": "United States"
+        },
+        {
+          "facility": "Westmead Hospital",
+          "city": "Westmead",
+          "country": "Australia"
+        },
+        {
+          "facility": "PARC Clinical Research",
+          "city": "Adelaide",
+          "country": "Australia"
+        },
+        {
+          "facility": "Royal Children's Hospital",
+          "city": "Parkville",
+          "country": "Australia"
+        },
+        {
+          "facility": "Hospital de clinicas de Porto Alegre",
+          "city": "Porto Alegre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+          "city": "Ribeirão Preto",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Metabolics and Genetics in Calgary (MAGIC) Clinic, Ltd.",
+          "city": "Calgary",
+          "country": "Canada"
+        },
+        {
+          "facility": "McMaster Children's Hospital Hamilton Health Sciences",
+          "city": "Hamilton",
+          "country": "Canada"
+        },
+        {
+          "facility": "The Hospital for Sick Children University of Toronto Adult Clinic: The Fred A Litwin Family Centre in Genetic Medicine University Health Network & Mt. Sinai Hospital",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Fakultní nemocnice Královské Vinohrady Klinika dětí a dorostu Ambulance pro léčbu PKU a HPA",
+          "city": "Prague",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Copenhagen University Hospital, Rigshospitalet",
+          "city": "Copenhagen",
+          "country": "Denmark"
+        },
+        {
+          "facility": "Hôpital Necker-Enfants Malades - Centre de Référence des Maladies Héréditaires du Métabolisme",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Medical Genetics and Laboratory Diagnostics Center",
+          "city": "Tbilisi",
+          "country": "Georgia"
+        },
+        {
+          "facility": "University Children's Hospital Hamburg Eppendorf (Kinder-UKE) Klinik für Kinder- und Jugendmedizin (Kinder-UKE)",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitätsklinikum Heidelberg / Zentrum für Kinder- und Jugendmedizin / Sektion für Neuropädiatrie & Stoffwechselmedizin",
+          "city": "Heidelberg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitätsklinikum Münster",
+          "city": "Münster",
+          "country": "Germany"
+        },
+        {
+          "facility": "Azienda Ospedaliera-Universita Padova",
+          "city": "Padua",
+          "country": "Italy"
+        },
+        {
+          "facility": "Department of Human Neuroscience, Child and Adolescent Neuropsychiatry, Policlinico Umberto I",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        {
+          "facility": "PTC Clinical Site 1",
+          "city": "Multiple Locations",
+          "country": "Japan"
+        },
+        {
+          "facility": "PTC Clinical Site 2",
+          "city": "Multiple Locations",
+          "country": "Japan"
+        },
+        {
+          "facility": "PTC Clinical Site 3",
+          "city": "Multiple Locations",
+          "country": "Japan"
+        },
+        {
+          "facility": "PanAmerican Clinical Research",
+          "city": "Guadalajara",
+          "country": "Mexico"
+        },
+        {
+          "facility": "UMCG Beatrix Children's Hospital",
+          "city": "Groningen",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Pomorski Uniwersytet Medyczny w Szczecinie Centrum Wsparcia Badań Klinicznych",
+          "city": "Szczecin",
+          "country": "Poland"
+        },
+        {
+          "facility": "CENTRO HOSPITALAR UNIVERSITÁRIO LISBOA NORTE Hospital de Santa Maria,",
+          "city": "Lisboa",
+          "country": "Portugal"
+        },
+        {
+          "facility": "CENTRO HOSPITALAR UNIVERSITÁRIO LISBOA NORTE Hospital de Santa Maria",
+          "city": "Lisboa",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Centro Hospitalar Universitário Do Porto, Epe",
+          "city": "Porto",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Univerzitetni klinicni center Ljubljana",
+          "city": "Ljubljana",
+          "country": "Slovenia"
+        },
+        {
+          "facility": "Hospital Sant Joan de Déu",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Ramón y Cajal",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen del Rocío",
+          "city": "Sevilla",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hacettepe University Medical Faculty",
+          "city": "Altındağ",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Gazi Üniversitesi Tıp Fakültesi",
+          "city": "Yenimahalle",
+          "country": "Turkey"
+        },
+        {
+          "facility": "İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi",
+          "city": "Fatih",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Ege University Faculty of Medicine Children Hospital",
+          "city": "Bornova",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Çukurova Üniversitesi Tıp Fakültesi Balcalı Hastanesi",
+          "city": "Adana",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Birmingham Children's Hospital NHS Foundation Trust",
+          "city": "Birmingham",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "UNIVERSITY HOSPITALS BIRMINGHAM NHS Foundation Trust",
+          "city": "Birmingham",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Great Ormond Street Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-05-08"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:13:29.822077",
+  "run_number": 1,
+  "total_trials_found": 1
+}

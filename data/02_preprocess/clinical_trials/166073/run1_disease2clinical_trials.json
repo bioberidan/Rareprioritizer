@@ -1,0 +1,162 @@
+{
+  "disease_name": "Pontocerebellar hypoplasia type 6",
+  "orpha_code": "166073",
+  "trials": [
+    {
+      "nctId": "NCT05218655",
+      "briefTitle": "A Safety Study for Previously Treated Vatiquinone (PTC743) Participants With Inherited Mitochondrial Disease",
+      "officialTitle": "An Open-Label, Safety Study for Previously Treated Vatiquinone (PTC743) Subjects With Inherited Mitochondrial Disease",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Inherited Mitochondrial Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Vatiquinone"
+        }
+      ],
+      "enrollment": 102,
+      "locations": [
+        {
+          "facility": "University of California, San Diego Altman Clinical and Translational Research Institute",
+          "city": "La Jolla",
+          "country": "United States"
+        },
+        {
+          "facility": "Stanford University",
+          "city": "Stanford",
+          "country": "United States"
+        },
+        {
+          "facility": "Yale Medicine",
+          "city": "New Haven",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's National",
+          "city": "Washington",
+          "country": "United States"
+        },
+        {
+          "facility": "Child Neurology Center of Northwest Florida",
+          "city": "Gulf Breeze",
+          "country": "United States"
+        },
+        {
+          "facility": "The Johns Hopkins University",
+          "city": "Baltimore",
+          "country": "United States"
+        },
+        {
+          "facility": "Columbia University Medical Center - CUMC",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Akron Children's Hospital",
+          "city": "Akron",
+          "country": "United States"
+        },
+        {
+          "facility": "Cleveland Clinic",
+          "city": "Cleveland",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Philadelphia - CHOP",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Medical University of South Carolina - MUSC",
+          "city": "Charleston",
+          "country": "United States"
+        },
+        {
+          "facility": "Baylor College of Medicine",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "UT Health The University of Texas",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "Seattle Children Hospital",
+          "city": "Seattle",
+          "country": "United States"
+        },
+        {
+          "facility": "Chu Angers",
+          "city": "Angers Cedex 9",
+          "country": "France"
+        },
+        {
+          "facility": "CHU Montpellier - Hopital Saint-Eloi",
+          "city": "Montpellier Cedex 5",
+          "country": "France"
+        },
+        {
+          "facility": "Hopital Necker-Enfants Malades",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital de Hautepierre - Hôpitaux Universitaires de Strasbourg",
+          "city": "Strasbourg",
+          "country": "France"
+        },
+        {
+          "facility": "Ospedale Pediatrico Bambino Gesù",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "PTC Clinical Site",
+          "city": "Japanese City",
+          "country": "Japan"
+        },
+        {
+          "facility": "Instytut Pomnik - Centrum Zdrowia Dziecka",
+          "city": "Warszawa",
+          "country": "Poland"
+        },
+        {
+          "facility": "Hospital Sant Joan de Déu",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Ruber Internacional",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Great Ormond Street Hospital for Children NHS Foundation Trust",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "The Newcastle Upon Tyne Hospitals NHS Foundation Trust",
+          "city": "Newcastle Upon Tyne",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-03-04"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:14:09.703110",
+  "run_number": 1,
+  "total_trials_found": 1
+}

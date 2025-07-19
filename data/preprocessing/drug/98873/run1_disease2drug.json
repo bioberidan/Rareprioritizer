@@ -1,0 +1,30 @@
+{
+  "disease_name": "Congenital dyserythropoietic anemia type II",
+  "orpha_code": "98873",
+  "drugs": [
+    {
+      "name": "(S)-3'-(OH)-desazadesferrithiocin-polyether, magnesium salt",
+      "substance_url": "/en/drug/substance/189142?name=98873&mode=orpha&region=&status=all",
+      "substance_id": "189142",
+      "regulatory_url": "/en/drug/regulatory/208572?name=98873&mode=orpha&region=",
+      "regulatory_id": "208572",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:18:07.798655",
+  "run_number": 1,
+  "total_drugs_found": 1,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Congenital+dyserythropoietic+anemia+type+II&orphaCode=98873&name=98873&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Congenital dyserythropoietic anemia type II",
+    "orphaCode": "98873",
+    "name": "98873",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

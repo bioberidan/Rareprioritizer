@@ -1,0 +1,17 @@
+{
+  "disease_name": "Aminoacylase 1 deficiency",
+  "orpha_code": "137754",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:19:31.313276",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Aminoacylase+1+deficiency&orphaCode=137754&name=137754&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Aminoacylase 1 deficiency",
+    "orphaCode": "137754",
+    "name": "137754",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

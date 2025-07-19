@@ -1,0 +1,484 @@
+{
+  "disease_name": "Familial chylomicronemia syndrome",
+  "orpha_code": "444490",
+  "trials": [
+    {
+      "nctId": "NCT05130450",
+      "briefTitle": "A Study of Olezarsen (Formerly Known as AKCEA-APOCIII-LRx) in Participants With Familial Chylomicronemia Syndrome (FCS)",
+      "officialTitle": "An Open-Label Extension Study of AKCEA-APOCIII-LRx Administered Subcutaneously to Patients With Familial Chylomicronemia Syndrome (FCS)",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Familial Chylomicronemia Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Olezarsen"
+        }
+      ],
+      "enrollment": 60,
+      "locations": [
+        {
+          "facility": "Diabetes/Lipid Management & Research Center",
+          "city": "Huntington Beach",
+          "country": "United States"
+        },
+        {
+          "facility": "Excel Medical Clinical Trials, LLC",
+          "city": "Boca Raton",
+          "country": "United States"
+        },
+        {
+          "facility": "Department of Pharmacy",
+          "city": "Park Ridge",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Kansas Medical Center (KUMC)",
+          "city": "Kansas City",
+          "country": "United States"
+        },
+        {
+          "facility": "CTSI Investigational Pharmacy",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Milstein Hospital",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "IDS Central",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Ecogene-21",
+          "city": "Chicoutimi",
+          "country": "Canada"
+        },
+        {
+          "facility": "Institute de Recherches Cliniques de Montreal",
+          "city": "Montreal",
+          "country": "Canada"
+        },
+        {
+          "facility": "Nathalie Saint-Pierre",
+          "city": "Montréal",
+          "country": "Canada"
+        },
+        {
+          "facility": "Clinique des Maladies Lipidiques de Quebec Inc.",
+          "city": "Québec",
+          "country": "Canada"
+        },
+        {
+          "facility": "Groupement Hospitalier Est- Pharmacie Secteur Essais Clinique",
+          "city": "Bron",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Bicêtre",
+          "city": "Le Kremlin-Bicêtre",
+          "country": "France"
+        },
+        {
+          "facility": "Pharmacie Hopital de la Conception",
+          "city": "Marseille",
+          "country": "France"
+        },
+        {
+          "facility": "Via Sergio Pansini 5",
+          "city": "Napoli",
+          "country": "Italy"
+        },
+        {
+          "facility": "UOC di Farmacia AOUP PAOLO GIACCONE",
+          "city": "Palermo",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliero Universitaria Policlinico Umberto I",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        {
+          "facility": "Academisch Medisch Centrum Goederenontvangst Apotheek t.a.v. Kenniscentrum",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Oslo Hospital Pharmacy Rikshospitalet",
+          "city": "Oslo",
+          "country": "Norway"
+        },
+        {
+          "facility": "Hospital da Senhora da Oliveira Guimaraes",
+          "city": "Creixomil",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Dra Margarida Falcao Centro Hospitalar Lisboa Ocidental Hospital Egas Moniz",
+          "city": "Lisboa",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Metabolicke centrum MU",
+          "city": "Bratislava",
+          "country": "Slovakia"
+        },
+        {
+          "facility": "Hospital Clínic Barcelona C/ Villarroel",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen del Rocío",
+          "city": "Sevilla",
+          "country": "Spain"
+        },
+        {
+          "facility": "Apokteket AB",
+          "city": "Malmö",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Royal Manchester Children's Hospital",
+          "city": "Manchester",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-03-04"
+    },
+    {
+      "nctId": "NCT05089084",
+      "briefTitle": "Study of ARO-APOC3 (Plozasiran) in Adults With Familial Chylomicronemia Syndrome (FCS)",
+      "officialTitle": "A Phase 3 Study to Evaluate the Efficacy and Safety of ARO-APOC3 in Adults With Familial Chylomicronemia Syndrome",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Familial Chylomicronemia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Plozasiran"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "enrollment": 75,
+      "locations": [
+        {
+          "facility": "Excel Medical Clinical Trials, LLC",
+          "city": "Boca Raton",
+          "country": "United States"
+        },
+        {
+          "facility": "Herman Clinical Research, LLC",
+          "city": "Suwanee",
+          "country": "United States"
+        },
+        {
+          "facility": "Ascension St. Vincent Cardiovascular Research Institute",
+          "city": "Indianapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "Centennial Medical Group",
+          "city": "Elkridge",
+          "country": "United States"
+        },
+        {
+          "facility": "Washington University School of Medicine, Division of Endocrinology, Metabolism and Lipid Research",
+          "city": "Saint Louis",
+          "country": "United States"
+        },
+        {
+          "facility": "New York University Langone Medical Center",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Icahn School of Medicine at Mt. Sinai",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Texas Diabetes and Endocrinology",
+          "city": "Austin",
+          "country": "United States"
+        },
+        {
+          "facility": "York Clinical Research, LLC",
+          "city": "Norfolk",
+          "country": "United States"
+        },
+        {
+          "facility": "Instituto Medico DAMIC",
+          "city": "Córdoba",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Instituto Modelo de Gastroenterologia",
+          "city": "Formosa",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Royal Prince Alfred Hospital",
+          "city": "Camperdown",
+          "country": "Australia"
+        },
+        {
+          "facility": "Royal North Shore Hospital",
+          "city": "St. Leonards",
+          "country": "Australia"
+        },
+        {
+          "facility": "Baker Heart and Diabetes Institute",
+          "city": "Melbourne",
+          "country": "Australia"
+        },
+        {
+          "facility": "Austin Health",
+          "city": "Melbourne",
+          "country": "Australia"
+        },
+        {
+          "facility": "Linear Clinical Research Ltd",
+          "city": "Nedlands",
+          "country": "Australia"
+        },
+        {
+          "facility": "Medizinische Universitaet Graz",
+          "city": "Graz",
+          "country": "Austria"
+        },
+        {
+          "facility": "Universitair Ziekenhuis Antwerpen (UZA)",
+          "city": "Edegem",
+          "country": "Belgium"
+        },
+        {
+          "facility": "University Hospital Ghent",
+          "city": "Ghent",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Universitaire Ziekenhuizen Leuven",
+          "city": "Leuven",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Centre Hospitalier Universitaire (CHU) de Liege",
+          "city": "Liège",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Robarts Research Institute",
+          "city": "London",
+          "country": "Canada"
+        },
+        {
+          "facility": "Toronto General Hospital",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Ecogene-21",
+          "city": "Chicoutimi",
+          "country": "Canada"
+        },
+        {
+          "facility": "Institute de Recherches Cliniques de Montreal",
+          "city": "Montreal",
+          "country": "Canada"
+        },
+        {
+          "facility": "Clinique des Maladies Lipidiques de Quebec Inc.",
+          "city": "Québec",
+          "country": "Canada"
+        },
+        {
+          "facility": "University Hospital Center Zagreb -Rebro, Department for Metabolic Diseases",
+          "city": "Zagreb",
+          "country": "Croatia"
+        },
+        {
+          "facility": "AP-HM-Hopital de La Conception",
+          "city": "Marseille",
+          "country": "France"
+        },
+        {
+          "facility": "AP-HP Hopital Pitie-Salpetriere",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Universitaetsklinikum Jena",
+          "city": "Jena",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitaetsklinikum Leipzig",
+          "city": "Leipzig",
+          "country": "Germany"
+        },
+        {
+          "facility": "University Hospital Galway",
+          "city": "Galway",
+          "country": "Ireland"
+        },
+        {
+          "facility": "Hadassah Medical Center Ein Karem",
+          "city": "Jerusalem",
+          "country": "Israel"
+        },
+        {
+          "facility": "Chiba University Hospital",
+          "city": "Chiba",
+          "country": "Japan"
+        },
+        {
+          "facility": "Kanazawa University Hospital",
+          "city": "Ishikawa",
+          "country": "Japan"
+        },
+        {
+          "facility": "Rinku General Medical Center",
+          "city": "Osaka",
+          "country": "Japan"
+        },
+        {
+          "facility": "Jichi Medical University Hospital",
+          "city": "Tochigi",
+          "country": "Japan"
+        },
+        {
+          "facility": "Tokyo University Hospital",
+          "city": "Tokyo",
+          "country": "Japan"
+        },
+        {
+          "facility": "Nippon Medical School Hospital",
+          "city": "Tokyo",
+          "country": "Japan"
+        },
+        {
+          "facility": "Chonnam National University Hospital",
+          "city": "Gwangju",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Seoul National University Hospital",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "National Institute of Medical Sciences and Nutrition - Salvador Zubiran (INCMNSZ)",
+          "city": "Tlalpan",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Instituto de Diabetes Obesidad y Nutrición S.C.",
+          "city": "Cuernavaca",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Centro Especializado en Diabetes Obesidad y Prevención de entermedades Cardiovasculares (CEDOPEC)",
+          "city": "Mexico City",
+          "country": "Mexico"
+        },
+        {
+          "facility": "NZCR OPCO Ltd",
+          "city": "Auckland",
+          "country": "New Zealand"
+        },
+        {
+          "facility": "Middlemore Clinical Trials",
+          "city": "Auckland",
+          "country": "New Zealand"
+        },
+        {
+          "facility": "New Zealand Clinical Research",
+          "city": "Christchurch",
+          "country": "New Zealand"
+        },
+        {
+          "facility": "Sultan Qaboos University Hospital",
+          "city": "Muscat",
+          "country": "Oman"
+        },
+        {
+          "facility": "Instytut Centrum Zdrowia Matki Polki",
+          "city": "Łódź",
+          "country": "Poland"
+        },
+        {
+          "facility": "Clinical Center of Serbia, Institute of Endocrinology, Diabetes and Metabolic Diseases",
+          "city": "Belgrade",
+          "country": "Serbia"
+        },
+        {
+          "facility": "Clinical Centre Nis",
+          "city": "Niš",
+          "country": "Serbia"
+        },
+        {
+          "facility": "National University Hospital",
+          "city": "Singapore",
+          "country": "Singapore"
+        },
+        {
+          "facility": "Hospital Abente y Lago",
+          "city": "A Coruña",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complejo Hospitalario Universitario de Granada - Hospital Universitario Virgen de las Nieves",
+          "city": "Granada",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital General Universitario Gregorio Maranon",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Clinico Universitario de Santiago",
+          "city": "Santiago De Compostela",
+          "country": "Spain"
+        },
+        {
+          "facility": "Erciyes University Faculty of Medicine",
+          "city": "Melikgazi",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Ege University Hospital Department Of Infectious Diseases",
+          "city": "İzmir",
+          "country": "Turkey"
+        }
+      ],
+      "lastUpdateDate": "2025-04-30"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:15:14.811701",
+  "run_number": 1,
+  "total_trials_found": 2
+}

@@ -1,0 +1,30 @@
+{
+  "disease_name": "Global developmental delay-alopecia-macrocephaly-facial dysmorphism-structural brain anomalies syndrome",
+  "orpha_code": "544488",
+  "drugs": [
+    {
+      "name": "Eflornithine hydrochloride",
+      "substance_url": "/en/drug/substance/24974?name=544488&mode=orpha&region=&status=all",
+      "substance_id": "24974",
+      "regulatory_url": "/en/drug/regulatory/665251?name=544488&mode=orpha&region=",
+      "regulatory_id": "665251",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:19:11.530817",
+  "run_number": 1,
+  "total_drugs_found": 1,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Global+developmental+delay-alopecia-macrocephaly-facial+dysmorphism-structural+brain+anomalies+syndrome&orphaCode=544488&name=544488&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Global developmental delay-alopecia-macrocephaly-facial dysmorphism-structural brain anomalies syndrome",
+    "orphaCode": "544488",
+    "name": "544488",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

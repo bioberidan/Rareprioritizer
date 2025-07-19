@@ -1,0 +1,251 @@
+{
+  "disease_name": "LCAT deficiency",
+  "orpha_code": "650",
+  "drugs": [
+    {
+      "name": "Recombinant human apolipoprotein A-I in a complex with phospholipids",
+      "substance_url": "/en/drug/substance/406518?name=650&mode=orpha&region=&status=all",
+      "substance_id": "406518",
+      "regulatory_url": "/en/drug/regulatory/627858?name=650&mode=orpha&region=",
+      "regulatory_id": "627858",
+      "orpha_substance_code": "ORPHA:650",
+      "details": [
+        "Recombinant human apolipoprotein A-I in a complex with phospholipids(Medicinal product                        - 20/08/2021)Disease(s) concernedORPHA:650 LCAT deficiency",
+        "Recombinant human apolipoprotein A-I in a complex with phospholipids(Medicinal product                        - 20/08/2021)",
+        "(Medicinal product                        - 20/08/2021)",
+        "Disease(s) concernedORPHA:650 LCAT deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/406518?name=650&mode=orpha&region=&status=all",
+          "text": "Recombinant human apolipoprotein A-I in a complex with phospholipids",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/650",
+          "text": "ORPHA:650 LCAT deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/627858?name=650&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant human apolipoprotein A-I/phospholipid complexes",
+      "substance_url": "/en/drug/substance/643920?name=650&mode=orpha&region=&status=all",
+      "substance_id": "643920",
+      "regulatory_url": "/en/drug/regulatory/643921?name=650&mode=orpha&region=",
+      "regulatory_id": "643921",
+      "orpha_substance_code": "ORPHA:650",
+      "details": [
+        "Recombinant human apolipoprotein A-I/phospholipid complexes(Medicinal product                        - 01/10/2022)Disease(s) concernedORPHA:650 LCAT deficiency",
+        "Recombinant human apolipoprotein A-I/phospholipid complexes(Medicinal product                        - 01/10/2022)",
+        "(Medicinal product                        - 01/10/2022)",
+        "Disease(s) concernedORPHA:650 LCAT deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/643920?name=650&mode=orpha&region=&status=all",
+          "text": "Recombinant human apolipoprotein A-I/phospholipid complexes",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/650",
+          "text": "ORPHA:650 LCAT deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/643921?name=650&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant human lecithin cholesterol acyltransferase",
+      "substance_url": "/en/drug/substance/317259?name=650&mode=orpha&region=&status=all",
+      "substance_id": "317259",
+      "regulatory_url": "/en/drug/regulatory/360204?name=650&mode=orpha&region=",
+      "regulatory_id": "360204",
+      "orpha_substance_code": "ORPHA:79293",
+      "details": [
+        "Recombinant human lecithin cholesterol acyltransferase(Medicinal product                        - 10/10/2012)Disease(s) concernedORPHA:79293 Familial LCAT deficiency",
+        "Recombinant human lecithin cholesterol acyltransferase(Medicinal product                        - 10/10/2012)",
+        "(Medicinal product                        - 10/10/2012)",
+        "Disease(s) concernedORPHA:79293 Familial LCAT deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/317259?name=650&mode=orpha&region=&status=all",
+          "text": "Recombinant human lecithin cholesterol acyltransferase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79293",
+          "text": "ORPHA:79293 Familial LCAT deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/360204?name=650&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=650&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=650&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Burixafor(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Burixafor(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689505?name=650&mode=orpha&region=&status=all",
+          "text": "Burixafor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689915?name=650&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=650&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=650&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Treosulfan(Medicinal product                        - 08/04/2015)Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Treosulfan(Medicinal product                        - 08/04/2015)",
+        "(Medicinal product                        - 08/04/2015)",
+        "Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90799?name=650&mode=orpha&region=&status=all",
+          "text": "Treosulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/213500",
+          "text": "ORPHA:213500 Rare ovarian cancer",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136690?name=650&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=650&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=650&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "busulfan(Medicinal product                        - 21/04/1994)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "busulfan(Medicinal product                        - 21/04/1994)",
+        "(Medicinal product                        - 21/04/1994)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/46335?name=650&mode=orpha&region=&status=all",
+          "text": "busulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131973?name=650&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:04:14.066829",
+  "run_number": 1,
+  "total_drugs_found": 6,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=LCAT+deficiency&orphaCode=650&name=650&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "LCAT deficiency",
+    "orphaCode": "650",
+    "name": "650",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

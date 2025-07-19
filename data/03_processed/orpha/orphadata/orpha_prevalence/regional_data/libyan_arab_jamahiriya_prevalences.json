@@ -1,0 +1,50 @@
+[
+  {
+    "prevalence_id": "11919",
+    "orpha_code": "685",
+    "disease_name": "Hereditary spastic paraplegia",
+    "source": "4075075[PMID]_24603320[PMID]",
+    "prevalence_type": "Point prevalence",
+    "prevalence_class": "1-9 / 100 000",
+    "qualification": "Value and class",
+    "geographic_area": "Libyan Arab Jamahiriya",
+    "validation_status": "Validated",
+    "reliability_score": 10.0,
+    "is_fiable": true,
+    "per_million_estimate": 50.0,
+    "confidence_level": "high",
+    "estimate_source": "class_midpoint"
+  },
+  {
+    "prevalence_id": "11313",
+    "orpha_code": "683",
+    "disease_name": "Progressive supranuclear palsy",
+    "source": "3405368[PMID]",
+    "prevalence_type": "Annual incidence",
+    "prevalence_class": "1-9 / 1 000 000",
+    "qualification": "Value and class",
+    "geographic_area": "Libyan Arab Jamahiriya",
+    "validation_status": "Validated",
+    "reliability_score": 9.5,
+    "is_fiable": true,
+    "per_million_estimate": 5.0,
+    "confidence_level": "high",
+    "estimate_source": "class_midpoint"
+  },
+  {
+    "prevalence_id": "4376",
+    "orpha_code": "910",
+    "disease_name": "Xeroderma pigmentosum",
+    "source": "10440281[PMID]",
+    "prevalence_type": "Annual incidence",
+    "prevalence_class": "1-9 / 100 000",
+    "qualification": "Value and class",
+    "geographic_area": "Libyan Arab Jamahiriya",
+    "validation_status": "Not yet validated",
+    "reliability_score": 6.5,
+    "is_fiable": true,
+    "per_million_estimate": 50.0,
+    "confidence_level": "high",
+    "estimate_source": "class_midpoint"
+  }
+]

@@ -1,0 +1,162 @@
+{
+  "disease_name": "Argininosuccinic aciduria",
+  "orpha_code": "23",
+  "drugs": [
+    {
+      "name": "RAVICTI",
+      "substance_url": "/en/drug/trade_name/445605?name=23&mode=orpha&region=&status=all",
+      "substance_id": "445605",
+      "regulatory_url": "/en/drug/regulatory/445606?name=23&mode=orpha&region=",
+      "regulatory_id": "445606",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Heterologous human adult liver derived stem cells",
+      "substance_url": "/en/drug/substance/102674?name=23&mode=orpha&region=&status=all",
+      "substance_id": "102674",
+      "regulatory_url": "/en/drug/regulatory/628305?name=23&mode=orpha&region=",
+      "regulatory_id": "628305",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "sodium phenylacetate / sodium benzoate",
+      "substance_url": "/en/drug/substance/87861?name=23&mode=orpha&region=&status=all",
+      "substance_id": "87861",
+      "regulatory_url": "/en/drug/regulatory/563460?name=23&mode=orpha&region=",
+      "regulatory_id": "563460",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Modified messenger ribonucleic acid encoding human argininosuccinate lyase enzyme encapsulated into lipid nanoparticles",
+      "substance_url": "/en/drug/substance/500711?name=23&mode=orpha&region=&status=all",
+      "substance_id": "500711",
+      "regulatory_url": "/en/drug/regulatory/500713?name=23&mode=orpha&region=",
+      "regulatory_id": "500713",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Sodium benzoate",
+      "substance_url": "/en/drug/substance/83694?name=23&mode=orpha&region=&status=all",
+      "substance_id": "83694",
+      "regulatory_url": "/en/drug/regulatory/480496?name=23&mode=orpha&region=",
+      "regulatory_id": "480496",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Heterologous human adult liver-derived progenitor cells",
+      "substance_url": "/en/drug/substance/356372?name=23&mode=orpha&region=&status=all",
+      "substance_id": "356372",
+      "regulatory_url": "/en/drug/regulatory/364067?name=23&mode=orpha&region=",
+      "regulatory_id": "364067",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Human heterologous liver cells (for infusion)",
+      "substance_url": "/en/drug/substance/90800?name=23&mode=orpha&region=&status=all",
+      "substance_id": "90800",
+      "regulatory_url": "/en/drug/regulatory/260279?name=23&mode=orpha&region=",
+      "regulatory_id": "260279",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Glycerol phenylbutyrate",
+      "substance_url": "/en/drug/substance/222387?name=23&mode=orpha&region=&status=all",
+      "substance_id": "222387",
+      "regulatory_url": "/en/drug/regulatory/238139?name=23&mode=orpha&region=",
+      "regulatory_id": "238139",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "PHEBURANE",
+      "substance_url": "/en/drug/trade_name/628534?name=23&mode=orpha&region=&status=all",
+      "substance_id": "628534",
+      "regulatory_url": "/en/drug/regulatory/628626?name=23&mode=orpha&region=",
+      "regulatory_id": "628626",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "BUPHENYL",
+      "substance_url": "/en/drug/trade_name/25061?name=23&mode=orpha&region=&status=all",
+      "substance_id": "25061",
+      "regulatory_url": "/en/drug/regulatory/131075?name=23&mode=orpha&region=",
+      "regulatory_id": "131075",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Allogeneic adult liver-derived stem cells",
+      "substance_url": "/en/drug/substance/629851?name=23&mode=orpha&region=&status=all",
+      "substance_id": "629851",
+      "regulatory_url": "/en/drug/regulatory/629852?name=23&mode=orpha&region=",
+      "regulatory_id": "629852",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end",
+      "substance_url": "/en/drug/substance/688360?name=23&mode=orpha&region=&status=all",
+      "substance_id": "688360",
+      "regulatory_url": "/en/drug/regulatory/688517?name=23&mode=orpha&region=",
+      "regulatory_id": "688517",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:39:35.826270",
+  "run_number": 1,
+  "total_drugs_found": 12,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Argininosuccinic+aciduria&orphaCode=23&name=23&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Argininosuccinic aciduria",
+    "orphaCode": "23",
+    "name": "23",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

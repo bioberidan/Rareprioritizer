@@ -1,0 +1,42 @@
+{
+  "disease_name": "Auditory neuropathy-optic atrophy syndrome",
+  "orpha_code": "542585",
+  "trials": [
+    {
+      "nctId": "NCT04940572",
+      "briefTitle": "Efficacy Study of Daily Administration of VPA in Patients Affected by Wolfram Syndrome",
+      "officialTitle": "AUDIOWOLF: A Phase II, Open-label, Efficacy Study of Daily Administration of Sodium Valproate in Patients Clinically Affected by Wolfram Syndrome Due to Monogenic Mutation.",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Wolfram Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Depakine"
+        }
+      ],
+      "enrollment": 23,
+      "locations": [
+        {
+          "facility": "HEGP",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Centro periférico de Especialidades de Almería",
+          "city": "Almería",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2023-11-28"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:14:27.742404",
+  "run_number": 1,
+  "total_trials_found": 1
+}

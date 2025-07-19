@@ -1,0 +1,237 @@
+{
+  "disease_name": "Progressive familial intrahepatic cholestasis",
+  "orpha_code": "172",
+  "trials": [
+    {
+      "nctId": "NCT03659916",
+      "briefTitle": "Long Term Safety & Efficacy Study Evaluating The Effect of A4250 in Children With PFIC",
+      "officialTitle": "An Open-label Extension Study to Evaluate Long-term Efficacy and Safety of A4250 in Children With Progressive Familial Intrahepatic Cholestasis Types 1 and 2 (PEDFIC 2)",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Progressive Familial Intrahepatic Cholestasis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "A4250 (odevixibat)"
+        }
+      ],
+      "enrollment": 116,
+      "locations": [
+        {
+          "facility": "Children's Hospital Los Angeles",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital Colorado",
+          "city": "Denver",
+          "country": "United States"
+        },
+        {
+          "facility": "Emory University School of Medicine",
+          "city": "Atlanta",
+          "country": "United States"
+        },
+        {
+          "facility": "Riley Hospital for Children - Riley Children's Specialists",
+          "city": "Indianapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "Johns Hopkins School of Medicine",
+          "city": "Baltimore",
+          "country": "United States"
+        },
+        {
+          "facility": "Washington University School of Medicine",
+          "city": "Saint Louis",
+          "country": "United States"
+        },
+        {
+          "facility": "Icahn School of Medicine at Mount Sinai",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Columbia University Medical Center - Presbyterian Hospital Building",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Philadelphia",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Pittsburgh",
+          "city": "Pittsburgh",
+          "country": "United States"
+        },
+        {
+          "facility": "Baylor College of Medicine - Texas Children's Liver Center",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "The Royal Children's Hospital",
+          "city": "Melbourne",
+          "country": "Australia"
+        },
+        {
+          "facility": "Cliniques Universitaires Saint-Luc",
+          "city": "Woluwe-Saint-Lambert",
+          "country": "Belgium"
+        },
+        {
+          "facility": "The Hospital for Sick Children",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "University and Pediatric Hospital of Lyon",
+          "city": "Bron",
+          "country": "France"
+        },
+        {
+          "facility": "Universite Paris SUD - Hpitaux Universitaires Paris-Sud - Hopital Bicetre",
+          "city": "Le Kremlin-Bicêtre",
+          "country": "France"
+        },
+        {
+          "facility": "Hospital De La Timone",
+          "city": "Marseille",
+          "country": "France"
+        },
+        {
+          "facility": "Hospital Necker-Enfants Maladies",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Medizinische Hochschule Hannover",
+          "city": "Hannover",
+          "country": "Germany"
+        },
+        {
+          "facility": "Kinderklinik Tubingen, Universitatsklinikum Tubingen",
+          "city": "Tübingen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Univesitatsklinikum Tubingen Klinik fur Kinder und Jugendmedizin",
+          "city": "Tübingen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Shaare-Zedek Mc",
+          "city": "Jerusalem",
+          "country": "Israel"
+        },
+        {
+          "facility": "Schneider Children's Medical Center Of Israel",
+          "city": "Petach-Tikva",
+          "country": "Israel"
+        },
+        {
+          "facility": "Azienda Ospedaliera Papa Giovanni XXIII",
+          "city": "Bergamo",
+          "country": "Italy"
+        },
+        {
+          "facility": "University Hospital Of Padova",
+          "city": "Padova",
+          "country": "Italy"
+        },
+        {
+          "facility": "Ospedale Regina Margherita",
+          "city": "Torino",
+          "country": "Italy"
+        },
+        {
+          "facility": "University Medical Center Groningen",
+          "city": "Groningen",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Universitair Medisch Centrum (UMC) Utrecht",
+          "city": "Utrecht",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Instytut Pomnik - Centrum Zarowia Dziecka",
+          "city": "Warsaw",
+          "country": "Poland"
+        },
+        {
+          "facility": "King Faisal Specialist Hospital & Research Centre",
+          "city": "Riyadh",
+          "country": "Saudi Arabia"
+        },
+        {
+          "facility": "Hospital Universitari Vall d'Hebron",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario La Paz",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Astrid Lindgren Children's Hospital, Karolinska University Hospital",
+          "city": "Solna",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Gazi University",
+          "city": "Ankara",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Hacettepe University Faculty of Medicine",
+          "city": "Ankara",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Akdeniz University",
+          "city": "Antalya",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Istanbul University Medical Faculty",
+          "city": "Istanbul",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Inonu University Medical Faculty",
+          "city": "Malatya",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Birmingham Women's and Children's NHS Foundation Trust",
+          "city": "Birmingham",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Leeds General Infirmary",
+          "city": "Leeds",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Institute of Liver Studies - Kings College Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2024-10-31"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:15:27.613062",
+  "run_number": 1,
+  "total_trials_found": 1
+}

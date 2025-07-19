@@ -1,0 +1,150 @@
+{
+  "disease_name": "Hyperinsulinism-hyperammonemia syndrome",
+  "orpha_code": "35878",
+  "drugs": [
+    {
+      "name": "Allogeneic adult liver-derived stem cells",
+      "substance_url": "/en/drug/substance/629851?name=35878&mode=orpha&region=&status=all",
+      "substance_id": "629851",
+      "regulatory_url": "/en/drug/regulatory/629852?name=35878&mode=orpha&region=",
+      "regulatory_id": "629852",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "4-[(3S)-3-aminopyrrolidin-1-yl]-6-cyano-5-(3,5-difluorophenyl)-N-[(2S)-1,1,1-trifluoropropan-2-yl]pyridine-3-carboxamide",
+      "substance_url": "/en/drug/substance/605146?name=35878&mode=orpha&region=&status=all",
+      "substance_id": "605146",
+      "regulatory_url": "/en/drug/regulatory/605147?name=35878&mode=orpha&region=",
+      "regulatory_id": "605147",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Exendin-(9-39)",
+      "substance_url": "/en/drug/substance/371566?name=35878&mode=orpha&region=&status=all",
+      "substance_id": "371566",
+      "regulatory_url": "/en/drug/regulatory/572565?name=35878&mode=orpha&region=",
+      "regulatory_id": "572565",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Glucagon analogue linked to a human immunoglobulin Fc fragment",
+      "substance_url": "/en/drug/substance/527458?name=35878&mode=orpha&region=&status=all",
+      "substance_id": "527458",
+      "regulatory_url": "/en/drug/regulatory/527462?name=35878&mode=orpha&region=",
+      "regulatory_id": "527462",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Dasiglucagon",
+      "substance_url": "/en/drug/substance/489767?name=35878&mode=orpha&region=&status=all",
+      "substance_id": "489767",
+      "regulatory_url": "/en/drug/regulatory/489772?name=35878&mode=orpha&region=",
+      "regulatory_id": "489772",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Ersodetug",
+      "substance_url": "/en/drug/substance/480436?name=35878&mode=orpha&region=&status=all",
+      "substance_id": "480436",
+      "regulatory_url": "/en/drug/regulatory/480438?name=35878&mode=orpha&region=",
+      "regulatory_id": "480438",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Glucagon",
+      "substance_url": "/en/drug/substance/299535?name=35878&mode=orpha&region=&status=all",
+      "substance_id": "299535",
+      "regulatory_url": "/en/drug/regulatory/300868?name=35878&mode=orpha&region=",
+      "regulatory_id": "300868",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end",
+      "substance_url": "/en/drug/substance/688360?name=35878&mode=orpha&region=&status=all",
+      "substance_id": "688360",
+      "regulatory_url": "/en/drug/regulatory/688517?name=35878&mode=orpha&region=",
+      "regulatory_id": "688517",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Solution stable glucagon analog",
+      "substance_url": "/en/drug/substance/684497?name=35878&mode=orpha&region=&status=all",
+      "substance_id": "684497",
+      "regulatory_url": "/en/drug/regulatory/684707?name=35878&mode=orpha&region=",
+      "regulatory_id": "684707",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Glucagon infusion",
+      "substance_url": "/en/drug/substance/413075?name=35878&mode=orpha&region=&status=all",
+      "substance_id": "413075",
+      "regulatory_url": "/en/drug/regulatory/413076?name=35878&mode=orpha&region=",
+      "regulatory_id": "413076",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Glycerol phenylbutyrate",
+      "substance_url": "/en/drug/substance/222387?name=35878&mode=orpha&region=&status=all",
+      "substance_id": "222387",
+      "regulatory_url": "/en/drug/regulatory/238146?name=35878&mode=orpha&region=",
+      "regulatory_id": "238146",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:19:00.734195",
+  "run_number": 1,
+  "total_drugs_found": 11,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Hyperinsulinism-hyperammonemia+syndrome&orphaCode=35878&name=35878&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Hyperinsulinism-hyperammonemia syndrome",
+    "orphaCode": "35878",
+    "name": "35878",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

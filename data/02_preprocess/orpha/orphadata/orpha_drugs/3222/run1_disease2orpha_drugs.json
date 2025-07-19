@@ -1,0 +1,17 @@
+{
+  "disease_name": "Phosphoribosylpyrophosphate synthetase superactivity",
+  "orpha_code": "3222",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:42:40.515086",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Phosphoribosylpyrophosphate+synthetase+superactivity&orphaCode=3222&name=3222&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Phosphoribosylpyrophosphate synthetase superactivity",
+    "orphaCode": "3222",
+    "name": "3222",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

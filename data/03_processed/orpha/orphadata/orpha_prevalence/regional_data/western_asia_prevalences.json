@@ -1,0 +1,18 @@
+[
+  {
+    "prevalence_id": "16742",
+    "orpha_code": "585948",
+    "disease_name": "B-lymphoblastic leukemia/lymphoma with t(5;14)(q31.1;q32.3)",
+    "source": "WHO Classification of Tumours_ORPHANET",
+    "prevalence_type": "Annual incidence",
+    "prevalence_class": "Unknown",
+    "qualification": "Class only",
+    "geographic_area": "Western Asia",
+    "validation_status": "Validated",
+    "reliability_score": 6.5,
+    "is_fiable": true,
+    "per_million_estimate": 0.0,
+    "confidence_level": "none",
+    "estimate_source": "no_data"
+  }
+]

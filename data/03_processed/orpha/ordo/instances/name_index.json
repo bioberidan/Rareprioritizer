@@ -1,0 +1,4244 @@
+{
+  "Rare inborn errors of metabolism": [
+    "68367"
+  ],
+  "Congenital disorder of glycosylation": [
+    "137"
+  ],
+  "Disorder of protein N-glycosylation": [
+    "309347"
+  ],
+  "PMM2-CDG": [
+    "79318"
+  ],
+  "CDG": [
+    "79318",
+    "79319",
+    "79320",
+    "79321",
+    "79324",
+    "79325",
+    "79326",
+    "79327",
+    "79328",
+    "79329",
+    "79330",
+    "86309",
+    "244310",
+    "280071",
+    "300536",
+    "314667",
+    "319646",
+    "324422",
+    "370921",
+    "370924",
+    "370927",
+    "397941",
+    "468699",
+    "370930",
+    "79322",
+    "79323",
+    "79332",
+    "91131",
+    "238459",
+    "263494",
+    "79333",
+    "95428",
+    "263487",
+    "263501",
+    "263508",
+    "435934",
+    "324737",
+    "356961",
+    "443811",
+    "448010",
+    "466703",
+    "468684",
+    "319646",
+    "448010",
+    "466703",
+    "468684",
+    "468699"
+  ],
+  "MPI-CDG": [
+    "79319"
+  ],
+  "ALG6-CDG": [
+    "79320"
+  ],
+  "ALG3-CDG": [
+    "79321"
+  ],
+  "ALG12-CDG": [
+    "79324"
+  ],
+  "ALG8-CDG": [
+    "79325"
+  ],
+  "ALG2-CDG": [
+    "79326"
+  ],
+  "ALG1-CDG": [
+    "79327"
+  ],
+  "ALG9-CDG": [
+    "79328"
+  ],
+  "MGAT2-CDG": [
+    "79329"
+  ],
+  "MOGS-CDG": [
+    "79330"
+  ],
+  "DPAGT1-CDG": [
+    "86309"
+  ],
+  "RFT1-CDG": [
+    "244310"
+  ],
+  "ALG11-CDG": [
+    "280071"
+  ],
+  "DDOST-CDG": [
+    "300536"
+  ],
+  "TMEM165-CDG": [
+    "314667"
+  ],
+  "PGM1-CDG": [
+    "319646",
+    "319646"
+  ],
+  "ALG13-CDG": [
+    "324422"
+  ],
+  "Congenital myasthenic syndromes with glycosylation defect": [
+    "353327"
+  ],
+  "STT3A-CDG": [
+    "370921"
+  ],
+  "STT3B-CDG": [
+    "370924"
+  ],
+  "SSR4-CDG": [
+    "370927"
+  ],
+  "Autism spectrum disorder-epilepsy-arthrogryposis syndrome": [
+    "370943"
+  ],
+  "arthrogryposis syndrome": [
+    "370943"
+  ],
+  "MAN1B1-CDG": [
+    "397941"
+  ],
+  "SLC39A8-CDG": [
+    "468699",
+    "468699"
+  ],
+  "Disorder of protein O-glycosylation": [
+    "309447"
+  ],
+  "Disorder of O-xylosylglycan synthesis": [
+    "309450"
+  ],
+  "Seizures-scoliosis-macrocephaly syndrome": [
+    "466926"
+  ],
+  "macrocephaly syndrome": [
+    "466926"
+  ],
+  "POGLUT1-related limb-girdle muscular dystrophy R21": [
+    "480682"
+  ],
+  "girdle muscular dystrophy R21": [
+    "480682"
+  ],
+  "Multiple osteochondromas": [
+    "321"
+  ],
+  "Musculocontractural Ehlers-Danlos syndrome": [
+    "2953"
+  ],
+  "Danlos syndrome": [
+    "2953",
+    "75496",
+    "536467"
+  ],
+  "B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome": [
+    "75496"
+  ],
+  "CHST3-related skeletal dysplasia": [
+    "263463"
+  ],
+  "related skeletal dysplasia": [
+    "263463"
+  ],
+  "Larsen-like syndrome, B3GAT3 type": [
+    "284139"
+  ],
+  "like syndrome, B3GAT3 type": [
+    "284139"
+  ],
+  "Temtamy preaxial brachydactyly syndrome": [
+    "363417"
+  ],
+  "XYLT1-CDG": [
+    "370930"
+  ],
+  "B3GALT6-related spondylodysplastic Ehlers-Danlos syndrome": [
+    "536467"
+  ],
+  "Disorder of O-N-acetylgalactosaminylglycan synthesis": [
+    "309458"
+  ],
+  "Familial hyperphosphatemic tumoral calcinosis/Hyperphosphatemic hyperostosis syndrome": [
+    "306661"
+  ],
+  "Disorder of O-xylosyl/N-acetylgalactosaminylglycan synthesis": [
+    "309463"
+  ],
+  "Schneckenbecken dysplasia": [
+    "3144"
+  ],
+  "Disorder of O-mannosylglycan synthesis": [
+    "309469"
+  ],
+  "Congenital muscular dystrophy, Fukuyama type": [
+    "272"
+  ],
+  "Walker-Warburg syndrome": [
+    "899"
+  ],
+  "Warburg syndrome": [
+    "899"
+  ],
+  "Muscle-eye-brain disease": [
+    "588"
+  ],
+  "brain disease": [
+    "588"
+  ],
+  "FKRP-related limb-girdle muscular dystrophy R9": [
+    "34515"
+  ],
+  "girdle muscular dystrophy R9": [
+    "34515"
+  ],
+  "POMT1-related limb-girdle muscular dystrophy R11": [
+    "86812"
+  ],
+  "girdle muscular dystrophy R11": [
+    "86812"
+  ],
+  "Fukutin-related limb-girdle muscular dystrophy R13": [
+    "206554"
+  ],
+  "girdle muscular dystrophy R13": [
+    "206554"
+  ],
+  "POMT2-related limb-girdle muscular dystrophy R14": [
+    "206559"
+  ],
+  "girdle muscular dystrophy R14": [
+    "206559"
+  ],
+  "POMGNT1-related limb-girdle muscular dystrophy R15": [
+    "206564"
+  ],
+  "girdle muscular dystrophy R15": [
+    "206564"
+  ],
+  "ISPD-related limb-girdle muscular dystrophy R20": [
+    "352479"
+  ],
+  "girdle muscular dystrophy R20": [
+    "352479"
+  ],
+  "GMPPB-related limb-girdle muscular dystrophy R19": [
+    "363623"
+  ],
+  "girdle muscular dystrophy R19": [
+    "363623"
+  ],
+  "Congenital muscular dystrophy with cerebellar involvement": [
+    "370959"
+  ],
+  "Congenital muscular dystrophy with intellectual disability": [
+    "370968"
+  ],
+  "Congenital muscular dystrophy without intellectual disability": [
+    "370980"
+  ],
+  "Limb-girdle muscular dystrophy due to POMK deficiency": [
+    "445110"
+  ],
+  "girdle muscular dystrophy due to POMK deficiency": [
+    "445110"
+  ],
+  "Disorder of fucoglycosan synthesis": [
+    "309505"
+  ],
+  "Peters plus syndrome": [
+    "709"
+  ],
+  "Autosomal recessive spondylocostal dysostosis": [
+    "2311"
+  ],
+  "Dowling-Degos disease": [
+    "79145"
+  ],
+  "Degos disease": [
+    "79145"
+  ],
+  "Disorder of glycosphingolipid and glycosylphosphatidylinositol anchor glycosylation": [
+    "309515"
+  ],
+  "Autosomal recessive spastic paraplegia type 67": [
+    "401820"
+  ],
+  "Multiple congenital anomalies-hypotonia-seizures syndrome type 2": [
+    "300496"
+  ],
+  "seizures syndrome type 2": [
+    "300496"
+  ],
+  "GM3 synthase deficiency": [
+    "370933",
+    "370933"
+  ],
+  "Ferro-cerebro-cutaneous syndrome": [
+    "397922"
+  ],
+  "cutaneous syndrome": [
+    "397922"
+  ],
+  "Paroxysmal nocturnal hemoglobinuria": [
+    "447"
+  ],
+  "CHIME syndrome": [
+    "3474"
+  ],
+  "Hypercoagulability syndrome due to glycosylphosphatidylinositol deficiency": [
+    "83639"
+  ],
+  "Hyperphosphatasia-intellectual disability syndrome": [
+    "247262"
+  ],
+  "intellectual disability syndrome": [
+    "247262",
+    "564178"
+  ],
+  "Multiple congenital anomalies-hypotonia-seizures syndrome": [
+    "280633"
+  ],
+  "seizures syndrome": [
+    "280633"
+  ],
+  "Early-onset epilepsy-intellectual disability-brain anomalies syndrome": [
+    "488635"
+  ],
+  "brain anomalies syndrome": [
+    "488635"
+  ],
+  "Intellectual disability-seizures-hypophosphatasia-ophthalmic-skeletal anomalies syndrome": [
+    "369837"
+  ],
+  "skeletal anomalies syndrome": [
+    "369837"
+  ],
+  "Disorder of multiple glycosylation": [
+    "309526"
+  ],
+  "GNE myopathy": [
+    "602"
+  ],
+  "DPM1-CDG": [
+    "79322"
+  ],
+  "MPDU1-CDG": [
+    "79323"
+  ],
+  "B4GALT1-CDG": [
+    "79332"
+  ],
+  "DK1-CDG": [
+    "91131"
+  ],
+  "Congenital dyserythropoietic anemia type II": [
+    "98873"
+  ],
+  "Leukocyte adhesion deficiency type II": [
+    "99843"
+  ],
+  "SLC35A1-CDG": [
+    "238459"
+  ],
+  "DPM3-CDG": [
+    "263494"
+  ],
+  "Defect in conserved oligomeric Golgi complex": [
+    "309568"
+  ],
+  "COG6-CGD": [
+    "464443"
+  ],
+  "CGD": [
+    "464443"
+  ],
+  "COG7-CDG": [
+    "79333"
+  ],
+  "COG8-CDG": [
+    "95428"
+  ],
+  "COG5-CDG": [
+    "263487"
+  ],
+  "COG4-CDG": [
+    "263501"
+  ],
+  "COG1-CDG": [
+    "263508"
+  ],
+  "COG2-CDG": [
+    "435934"
+  ],
+  "Defect in V-ATPase": [
+    "309778"
+  ],
+  "Autosomal recessive cutis laxa type 2A": [
+    "357058",
+    "357058"
+  ],
+  "Wrinkly skin syndrome": [
+    "2834",
+    "2834"
+  ],
+  "Autosomal recessive cutis laxa type 2, classic type": [
+    "357074",
+    "357074"
+  ],
+  "SRD5A3-CDG": [
+    "324737"
+  ],
+  "Congenital muscular dystrophy with intellectual disability and severe epilepsy": [
+    "329178"
+  ],
+  "SLC35A2-CDG": [
+    "356961"
+  ],
+  "PGM3-CDG": [
+    "443811"
+  ],
+  "CAD-CDG": [
+    "448010",
+    "448010"
+  ],
+  "TMEM199-CDG": [
+    "466703",
+    "466703"
+  ],
+  "CCDC115-CDG": [
+    "468684",
+    "468684"
+  ],
+  "Lysosomal disease": [
+    "68366"
+  ],
+  "Autosomal recessive spastic paraplegia type 48": [
+    "306511"
+  ],
+  "Pycnodysostosis": [
+    "763"
+  ],
+  "Neuronal ceroid lipofuscinosis": [
+    "216"
+  ],
+  "Progressive epilepsy-intellectual disability syndrome, Finnish type": [
+    "1947"
+  ],
+  "intellectual disability syndrome, Finnish type": [
+    "1947"
+  ],
+  "CLN1 disease": [
+    "228329"
+  ],
+  "CLN2 disease": [
+    "228349"
+  ],
+  "CLN3 disease": [
+    "228346"
+  ],
+  "CLN4 disease": [
+    "228343"
+  ],
+  "Progressive myoclonic epilepsy type 3": [
+    "263516"
+  ],
+  "CLN12 disease": [
+    "314632"
+  ],
+  "CLN11 disease": [
+    "314629"
+  ],
+  "CLN5 disease": [
+    "228360"
+  ],
+  "CLN6 disease": [
+    "228363"
+  ],
+  "CLN7 disease": [
+    "228366"
+  ],
+  "CLN8 disease": [
+    "228354"
+  ],
+  "CLN13 disease": [
+    "352709"
+  ],
+  "CLN10 disease": [
+    "228337"
+  ],
+  "Lysosomal acid phosphatase deficiency": [
+    "35121"
+  ],
+  "Disorder of lysosomal amino acid transport": [
+    "79207"
+  ],
+  "Cystinosis": [
+    "213"
+  ],
+  "Infantile nephropathic cystinosis": [
+    "411629"
+  ],
+  "Juvenile nephropathic cystinosis": [
+    "411634"
+  ],
+  "Ocular cystinosis": [
+    "411641"
+  ],
+  "Free sialic acid storage disease": [
+    "834"
+  ],
+  "Free sialic acid storage disease, infantile form": [
+    "309324"
+  ],
+  "Intermediate severe Salla disease": [
+    "309331"
+  ],
+  "Salla disease": [
+    "309334"
+  ],
+  "Mucopolysaccharidosis": [
+    "79213"
+  ],
+  "Mucopolysaccharidosis type 6": [
+    "583"
+  ],
+  "Mucopolysaccharidosis type 6, rapidly progressing": [
+    "276212"
+  ],
+  "Mucopolysaccharidosis type 6, slowly progressing": [
+    "276223"
+  ],
+  "Mucopolysaccharidosis type 7": [
+    "584"
+  ],
+  "Mucopolysaccharidosis type 2": [
+    "580"
+  ],
+  "Mucopolysaccharidosis type 2, severe form": [
+    "217085"
+  ],
+  "Mucopolysaccharidosis type 2, attenuated form": [
+    "217093"
+  ],
+  "Mucopolysaccharidosis type 1": [
+    "579"
+  ],
+  "Hurler syndrome": [
+    "93473"
+  ],
+  "Scheie syndrome": [
+    "93474",
+    "93476"
+  ],
+  "Hurler-Scheie syndrome": [
+    "93476"
+  ],
+  "Mucopolysaccharidosis type 3": [
+    "581"
+  ],
+  "Sanfilippo syndrome type A": [
+    "79269"
+  ],
+  "Sanfilippo syndrome type B": [
+    "79270"
+  ],
+  "Sanfilippo syndrome type C": [
+    "79271"
+  ],
+  "Sanfilippo syndrome type D": [
+    "79272"
+  ],
+  "Mucopolysaccharidosis type 4": [
+    "582"
+  ],
+  "Mucopolysaccharidosis type 4A": [
+    "309297"
+  ],
+  "Mucopolysaccharidosis type 4B": [
+    "309310"
+  ],
+  "Hyaluronidase deficiency": [
+    "67041"
+  ],
+  "Mucopolysaccharidosis type 10": [
+    "662216"
+  ],
+  "Sphingolipidosis": [
+    "79225"
+  ],
+  "Multiple sulfatase deficiency": [
+    "585"
+  ],
+  "Farber disease": [
+    "333"
+  ],
+  "Krabbe disease": [
+    "487"
+  ],
+  "Late-infantile/juvenile Krabbe disease": [
+    "206443"
+  ],
+  "infantile/juvenile Krabbe disease": [
+    "206443"
+  ],
+  "Adult Krabbe disease": [
+    "206448"
+  ],
+  "Infantile Krabbe disease": [
+    "206436"
+  ],
+  "Fabry disease": [
+    "324"
+  ],
+  "Metachromatic leukodystrophy": [
+    "512"
+  ],
+  "Metachromatic leukodystrophy, late infantile form": [
+    "309256"
+  ],
+  "Metachromatic leukodystrophy, juvenile form": [
+    "309263"
+  ],
+  "Metachromatic leukodystrophy, adult form": [
+    "309271"
+  ],
+  "Gaucher disease": [
+    "355"
+  ],
+  "Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome": [
+    "2072"
+  ],
+  "cardiovascular calcification syndrome": [
+    "2072"
+  ],
+  "Gaucher disease type 1": [
+    "77259"
+  ],
+  "Gaucher disease type 2": [
+    "77260"
+  ],
+  "Gaucher disease type 3": [
+    "77261"
+  ],
+  "Fetal Gaucher disease": [
+    "85212"
+  ],
+  "Atypical Gaucher disease due to saposin C deficiency": [
+    "309252"
+  ],
+  "Lipid storage disease": [
+    "79204"
+  ],
+  "Niemann-Pick disease type C": [
+    "646"
+  ],
+  "Pick disease type C": [
+    "646"
+  ],
+  "Niemann-Pick disease type C, severe perinatal form": [
+    "216972"
+  ],
+  "Pick disease type C, severe perinatal form": [
+    "216972"
+  ],
+  "Niemann-Pick disease type C, severe early infantile neurologic onset": [
+    "216975"
+  ],
+  "Pick disease type C, severe early infantile neurologic onset": [
+    "216975"
+  ],
+  "Niemann-Pick disease type C, late infantile neurologic onset": [
+    "216978"
+  ],
+  "Pick disease type C, late infantile neurologic onset": [
+    "216978"
+  ],
+  "Niemann-Pick disease type C, juvenile neurologic onset": [
+    "216981"
+  ],
+  "Pick disease type C, juvenile neurologic onset": [
+    "216981"
+  ],
+  "Niemann-Pick disease type C, adult neurologic onset": [
+    "216986"
+  ],
+  "Pick disease type C, adult neurologic onset": [
+    "216986"
+  ],
+  "Lysosomal acid lipase deficiency": [
+    "275761",
+    "275761"
+  ],
+  "Wolman disease": [
+    "75233",
+    "75233"
+  ],
+  "Cholesteryl ester storage disease": [
+    "75234",
+    "75234"
+  ],
+  "Encephalopathy due to prosaposin deficiency": [
+    "139406"
+  ],
+  "Gangliosidosis": [
+    "309144"
+  ],
+  "GM1 gangliosidosis": [
+    "354"
+  ],
+  "GM1 gangliosidosis type 1": [
+    "79255"
+  ],
+  "GM1 gangliosidosis type 2": [
+    "79256"
+  ],
+  "GM1 gangliosidosis type 3": [
+    "79257"
+  ],
+  "GM2 gangliosidosis": [
+    "309152"
+  ],
+  "Sandhoff disease": [
+    "796"
+  ],
+  "Sandhoff disease, infantile form": [
+    "309155"
+  ],
+  "Sandhoff disease, juvenile form": [
+    "309162"
+  ],
+  "Sandhoff disease, adult form": [
+    "309169"
+  ],
+  "Tay-Sachs disease": [
+    "845"
+  ],
+  "Sachs disease": [
+    "845"
+  ],
+  "Tay-Sachs disease, infantile form": [
+    "309178"
+  ],
+  "Sachs disease, infantile form": [
+    "309178"
+  ],
+  "Tay-Sachs disease, juvenile form": [
+    "309185"
+  ],
+  "Sachs disease, juvenile form": [
+    "309185"
+  ],
+  "Tay-Sachs disease, adult form": [
+    "309192"
+  ],
+  "Sachs disease, adult form": [
+    "309192"
+  ],
+  "GM2 gangliosidosis, AB variant": [
+    "309246"
+  ],
+  "Autosomal recessive cerebellar ataxia with late-onset spasticity": [
+    "352641"
+  ],
+  "onset spasticity": [
+    "352641"
+  ],
+  "Acid sphingomyelinase deficiency": [
+    "618899"
+  ],
+  "Infantile neurovisceral acid sphingomyelinase deficiency": [
+    "77292"
+  ],
+  "Chronic visceral acid sphingomyelinase deficiency": [
+    "77293",
+    "77293"
+  ],
+  "Chronic neurovisceral acid sphingomyelinase deficiency": [
+    "618891",
+    "618891"
+  ],
+  "Glycoproteinosis": [
+    "309279"
+  ],
+  "Mucolipidosis": [
+    "79212"
+  ],
+  "Mucolipidosis type II": [
+    "576"
+  ],
+  "Mucolipidosis type III": [
+    "577"
+  ],
+  "Mucolipidosis type III alpha/beta": [
+    "423461"
+  ],
+  "Mucolipidosis type III gamma": [
+    "423470"
+  ],
+  "Mucolipidosis type IV": [
+    "578"
+  ],
+  "Oligosaccharidosis": [
+    "79215"
+  ],
+  "Alpha-mannosidosis": [
+    "61"
+  ],
+  "mannosidosis": [
+    "61",
+    "118"
+  ],
+  "Alpha-mannosidosis, infantile form": [
+    "309282"
+  ],
+  "mannosidosis, infantile form": [
+    "309282"
+  ],
+  "Alpha-mannosidosis, adult form": [
+    "309288"
+  ],
+  "mannosidosis, adult form": [
+    "309288"
+  ],
+  "Aspartylglucosaminuria": [
+    "93"
+  ],
+  "Beta-mannosidosis": [
+    "118"
+  ],
+  "Fucosidosis": [
+    "349"
+  ],
+  "Galactosialidosis": [
+    "351"
+  ],
+  "Alpha-N-acetylgalactosaminidase deficiency": [
+    "3137"
+  ],
+  "acetylgalactosaminidase deficiency": [
+    "3137"
+  ],
+  "Alpha-N-acetylgalactosaminidase deficiency type 1": [
+    "79279"
+  ],
+  "acetylgalactosaminidase deficiency type 1": [
+    "79279"
+  ],
+  "Alpha-N-acetylgalactosaminidase deficiency type 2": [
+    "79280"
+  ],
+  "acetylgalactosaminidase deficiency type 2": [
+    "79280"
+  ],
+  "Alpha-N-acetylgalactosaminidase deficiency type 3": [
+    "79281"
+  ],
+  "acetylgalactosaminidase deficiency type 3": [
+    "79281"
+  ],
+  "Sialidosis": [
+    "309294"
+  ],
+  "Sialidosis type 1": [
+    "812"
+  ],
+  "Sialidosis type 2": [
+    "87876"
+  ],
+  "Juvenile sialidosis type 2": [
+    "93399"
+  ],
+  "Congenital sialidosis type 2": [
+    "93400"
+  ],
+  "Disorder of sialic acid metabolism": [
+    "309319"
+  ],
+  "Sialuria": [
+    "3166"
+  ],
+  "Lysosomal glycogen storage disease": [
+    "309337"
+  ],
+  "Glycogen storage disease due to acid maltase deficiency": [
+    "365",
+    "365"
+  ],
+  "Glycogen storage disease due to acid maltase deficiency, infantile onset": [
+    "308552",
+    "308552"
+  ],
+  "Glycogen storage disease due to acid maltase deficiency, late-onset": [
+    "420429",
+    "420429"
+  ],
+  "onset": [
+    "420429",
+    "420429"
+  ],
+  "Danon disease": [
+    "34587",
+    "34587"
+  ],
+  "Peroxisomal disease": [
+    "68373"
+  ],
+  "Peroxisome biogenesis disorder": [
+    "79189"
+  ],
+  "Zellweger syndrome": [
+    "912"
+  ],
+  "Neonatal adrenoleukodystrophy": [
+    "44"
+  ],
+  "Infantile Refsum disease": [
+    "772"
+  ],
+  "Disorder of peroxisomal alpha-, beta- and omega-oxidation": [
+    "309810"
+  ],
+  "Refsum disease": [
+    "773"
+  ],
+  "Acatalasemia": [
+    "926"
+  ],
+  "Glutaric acidemia type 3": [
+    "35706"
+  ],
+  "Congenital bile acid synthesis defect type 4": [
+    "79095",
+    "79095"
+  ],
+  "Peroxisomal beta-oxidation disorder": [
+    "79188"
+  ],
+  "Peroxisomal acyl-CoA oxidase deficiency": [
+    "2971"
+  ],
+  "CoA oxidase deficiency": [
+    "2971"
+  ],
+  "X-linked adrenoleukodystrophy": [
+    "43"
+  ],
+  "linked adrenoleukodystrophy": [
+    "43"
+  ],
+  "X-linked cerebral adrenoleukodystrophy": [
+    "139396"
+  ],
+  "linked cerebral adrenoleukodystrophy": [
+    "139396"
+  ],
+  "Adrenomyeloneuropathy": [
+    "139399"
+  ],
+  "Bifunctional enzyme deficiency": [
+    "300"
+  ],
+  "Leukoencephalopathy-dystonia-motor neuropathy syndrome": [
+    "163684"
+  ],
+  "motor neuropathy syndrome": [
+    "163684"
+  ],
+  "Primary hyperoxaluria type 1": [
+    "93598",
+    "93598"
+  ],
+  "CADDS": [
+    "369942"
+  ],
+  "Disorder of plasmalogens biosynthesis": [
+    "3276"
+  ],
+  "Rhizomelic chondrodysplasia punctata": [
+    "177"
+  ],
+  "Rhizomelic chondrodysplasia punctata type 3": [
+    "309803"
+  ],
+  "Rhizomelic chondrodysplasia punctata type 1": [
+    "309789"
+  ],
+  "Rhizomelic chondrodysplasia punctata type 2": [
+    "309796"
+  ],
+  "Rhizomelic chondrodysplasia punctata type 5": [
+    "468717"
+  ],
+  "Fatty acyl-CoA reductase 1 deficiency": [
+    "438178"
+  ],
+  "CoA reductase 1 deficiency": [
+    "438178"
+  ],
+  "Autosomal recessive ataxia due to PEX16 deficiency": [
+    "642954"
+  ],
+  "Autosomal recessive ataxia due to PEX2 deficiency": [
+    "642965"
+  ],
+  "Autosomal recessive spinocerebellar ataxia-blindness-deafness syndrome": [
+    "95433"
+  ],
+  "Autosomal recessive ataxia due to PEX10 deficiency": [
+    "247815"
+  ],
+  "Disorder of amino acid and other organic acid metabolism": [
+    "79062"
+  ],
+  "Severe primary trimethylaminuria": [
+    "468726"
+  ],
+  "Disorder of amino acid absorption and transport": [
+    "79166"
+  ],
+  "Oculocerebrorenal syndrome of Lowe": [
+    "534"
+  ],
+  "Cystinuria": [
+    "214"
+  ],
+  "Cystinuria type A": [
+    "93612"
+  ],
+  "Cystinuria type B": [
+    "93613"
+  ],
+  "Dicarboxylic aminoaciduria": [
+    "2195"
+  ],
+  "Lysinuric protein intolerance": [
+    "470"
+  ],
+  "Blue diaper syndrome": [
+    "94086"
+  ],
+  "Hypotonia-cystinuria type 1 syndrome": [
+    "238517"
+  ],
+  "cystinuria type 1 syndrome": [
+    "238517"
+  ],
+  "Hypotonia-cystinuria syndrome": [
+    "163690"
+  ],
+  "cystinuria syndrome": [
+    "163690",
+    "238523"
+  ],
+  "2p21 microdeletion syndrome": [
+    "163693"
+  ],
+  "Atypical hypotonia-cystinuria syndrome": [
+    "238523"
+  ],
+  "Disorder of neutral amino acid transport": [
+    "308451"
+  ],
+  "Hartnup disease": [
+    "2116"
+  ],
+  "Iminoglycinuria": [
+    "42062"
+  ],
+  "Autosomal recessive cerebellar ataxia-pyramidal signs-nystagmus-oculomotor apraxia syndrome": [
+    "363429"
+  ],
+  "oculomotor apraxia syndrome": [
+    "363429"
+  ],
+  "Autosomal recessive congenital cerebellar ataxia due to MGLUR1 deficiency": [
+    "324262"
+  ],
+  "Autosomal recessive congenital cerebellar ataxia due to GRID2 deficiency": [
+    "363432"
+  ],
+  "Disorder of urea cycle metabolism and ammonia detoxification": [
+    "79167"
+  ],
+  "Argininemia": [
+    "90"
+  ],
+  "Argininosuccinic aciduria": [
+    "23"
+  ],
+  "Carbamoyl-phosphate synthetase 1 deficiency": [
+    "147"
+  ],
+  "phosphate synthetase 1 deficiency": [
+    "147"
+  ],
+  "Citrullinemia": [
+    "187"
+  ],
+  "Citrullinemia type I": [
+    "247525"
+  ],
+  "Acute neonatal citrullinemia type I": [
+    "247546"
+  ],
+  "Late-onset citrullinemia type I": [
+    "247573"
+  ],
+  "onset citrullinemia type I": [
+    "247573"
+  ],
+  "Citrin deficiency": [
+    "247582"
+  ],
+  "Citrullinemia type II": [
+    "247585"
+  ],
+  "Neonatal intrahepatic cholestasis due to citrin deficiency": [
+    "247598"
+  ],
+  "Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome": [
+    "415"
+  ],
+  "homocitrullinuria syndrome": [
+    "415"
+  ],
+  "Hyperammonemia due to N-acetylglutamate synthase deficiency": [
+    "927"
+  ],
+  "acetylglutamate synthase deficiency": [
+    "927"
+  ],
+  "Hyperinsulinism-hyperammonemia syndrome": [
+    "35878",
+    "35878"
+  ],
+  "hyperammonemia syndrome": [
+    "35878",
+    "35878"
+  ],
+  "Hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency": [
+    "401948",
+    "401948",
+    "401948"
+  ],
+  "Ornithine transcarbamylase deficiency": [
+    "664"
+  ],
+  "Disorder of methionine cycle and sulfur amino acid metabolism": [
+    "79173"
+  ],
+  "Autosomal recessive extra-oral halitosis": [
+    "562538"
+  ],
+  "oral halitosis": [
+    "562538"
+  ],
+  "Developmental delay-immunodeficiency-leukoencephalopathy-hypohomocysteinemia syndrome": [
+    "619979"
+  ],
+  "hypohomocysteinemia syndrome": [
+    "619979"
+  ],
+  "Homocystinuria due to cystathionine beta-synthase deficiency": [
+    "394"
+  ],
+  "synthase deficiency": [
+    "394"
+  ],
+  "Encephalopathy due to sulfite oxidase deficiency": [
+    "833"
+  ],
+  "Isolated sulfite oxidase deficiency": [
+    "99731"
+  ],
+  "Sulfite oxidase deficiency due to molybdenum cofactor deficiency": [
+    "99732",
+    "99732"
+  ],
+  "Sulfite oxidase deficiency due to molybdenum cofactor deficiency type A": [
+    "308386",
+    "308386"
+  ],
+  "Sulfite oxidase deficiency due to molybdenum cofactor deficiency type B": [
+    "308393",
+    "308393"
+  ],
+  "Sulfite oxidase deficiency due to molybdenum cofactor deficiency type C": [
+    "308400",
+    "308400"
+  ],
+  "Cystathioninuria": [
+    "212"
+  ],
+  "Homocystinuria without methylmalonic aciduria": [
+    "622",
+    "622"
+  ],
+  "Methylcobalamin deficiency type cblE": [
+    "2169",
+    "2169"
+  ],
+  "Methylcobalamin deficiency type cblG": [
+    "2170",
+    "2170"
+  ],
+  "Methylcobalamin deficiency type cblDv1": [
+    "308380",
+    "308380"
+  ],
+  "S-adenosylhomocysteine hydrolase deficiency": [
+    "88618"
+  ],
+  "adenosylhomocysteine hydrolase deficiency": [
+    "88618"
+  ],
+  "Methionine adenosyltransferase I/III deficiency": [
+    "168598"
+  ],
+  "Hypermethioninemia encephalopathy due to adenosine kinase deficiency": [
+    "289290"
+  ],
+  "Hypermethioninemia due to glycine N-methyltransferase deficiency": [
+    "289891"
+  ],
+  "methyltransferase deficiency": [
+    "289891"
+  ],
+  "Beta-mercaptolactate cysteine disulfiduria": [
+    "1035"
+  ],
+  "mercaptolactate cysteine disulfiduria": [
+    "1035"
+  ],
+  "Disorder of histidine metabolism": [
+    "79181"
+  ],
+  "Histidinemia": [
+    "2157"
+  ],
+  "Urocanic aciduria": [
+    "210128"
+  ],
+  "Histidinuria-renal tubular defect syndrome": [
+    "2158"
+  ],
+  "renal tubular defect syndrome": [
+    "2158"
+  ],
+  "Disorder of ornithine or proline metabolism": [
+    "79185"
+  ],
+  "Disorder of proline metabolism": [
+    "289866"
+  ],
+  "De Barsy syndrome": [
+    "2962"
+  ],
+  "ALDH18A1-related De Barsy syndrome": [
+    "35664"
+  ],
+  "related De Barsy syndrome": [
+    "35664",
+    "293633"
+  ],
+  "PYCR1-related De Barsy syndrome": [
+    "293633"
+  ],
+  "Hyperprolinemia type 1": [
+    "419"
+  ],
+  "Hyperprolinemia type 2": [
+    "79101"
+  ],
+  "Autosomal recessive cutis laxa type 2": [
+    "90350"
+  ],
+  "Autosomal recessive cutis laxa type 2B": [
+    "357064"
+  ],
+  "Disorder of ornithine metabolism": [
+    "289869"
+  ],
+  "Gyrate atrophy of choroid and retina": [
+    "414"
+  ],
+  "Global developmental delay-alopecia-macrocephaly-facial dysmorphism-structural brain anomalies syndrome": [
+    "544488"
+  ],
+  "structural brain anomalies syndrome": [
+    "544488"
+  ],
+  "Disorder of peptide metabolism": [
+    "79187"
+  ],
+  "Carnosinase deficiency": [
+    "1361"
+  ],
+  "Prolidase deficiency": [
+    "742"
+  ],
+  "Disorder of phenylalanin or tyrosine metabolism": [
+    "79190"
+  ],
+  "Disorder of phenylalanine metabolism": [
+    "284814"
+  ],
+  "Phenylketonuria": [
+    "716"
+  ],
+  "Mild phenylketonuria": [
+    "79253"
+  ],
+  "Classic phenylketonuria": [
+    "79254"
+  ],
+  "Mild hyperphenylalaninemia": [
+    "79651"
+  ],
+  "Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria": [
+    "293284"
+  ],
+  "responsive hyperphenylalaninemia/phenylketonuria": [
+    "293284"
+  ],
+  "Maternal phenylketonuria": [
+    "2209"
+  ],
+  "Disorder of tyrosine metabolism": [
+    "284818"
+  ],
+  "Alkaptonuria": [
+    "56"
+  ],
+  "Hawkinsinuria": [
+    "2118"
+  ],
+  "Transient tyrosinemia of the newborn": [
+    "3402"
+  ],
+  "Tyrosinemia type 1": [
+    "882"
+  ],
+  "Tyrosinemia type 2": [
+    "28378"
+  ],
+  "Tyrosinemia type 3": [
+    "69723"
+  ],
+  "Autosomal recessive dopa-responsive dystonia": [
+    "101150",
+    "101150"
+  ],
+  "responsive dystonia": [
+    "101150",
+    "255",
+    "101150",
+    "98808"
+  ],
+  "Disorder of serine or glycine metabolism": [
+    "79194"
+  ],
+  "Sarcosinemia": [
+    "3129"
+  ],
+  "Glycine encephalopathy": [
+    "407"
+  ],
+  "Neonatal glycine encephalopathy": [
+    "289857"
+  ],
+  "Infantile glycine encephalopathy": [
+    "289860"
+  ],
+  "Atypical glycine encephalopathy": [
+    "289863"
+  ],
+  "Neurometabolic disorder due to serine deficiency": [
+    "35705"
+  ],
+  "Neu-Laxova syndrome": [
+    "2671"
+  ],
+  "Laxova syndrome": [
+    "2671"
+  ],
+  "Neu-Laxova syndrome due to phosphoserine aminotransferase deficiency": [
+    "583602"
+  ],
+  "Laxova syndrome due to phosphoserine aminotransferase deficiency": [
+    "583602"
+  ],
+  "Neu-Laxova syndrome due to 3-phosphoglycerate dehydrogenase deficiency": [
+    "583607"
+  ],
+  "phosphoglycerate dehydrogenase deficiency": [
+    "583607"
+  ],
+  "Neu-Laxova syndrome due to 3-phosphoserine phosphatase deficiency": [
+    "583612"
+  ],
+  "phosphoserine phosphatase deficiency": [
+    "583612"
+  ],
+  "Spastic tetraplegia-thin corpus callosum-progressive postnatal microcephaly syndrome": [
+    "447997"
+  ],
+  "progressive postnatal microcephaly syndrome": [
+    "447997"
+  ],
+  "Serine biosynthesis pathway deficiency, infantile/juvenile form": [
+    "583595"
+  ],
+  "3-phosphoglycerate dehydrogenase deficiency, infantile/juvenile form": [
+    "79351"
+  ],
+  "phosphoglycerate dehydrogenase deficiency, infantile/juvenile form": [
+    "79351"
+  ],
+  "3-phosphoserine phosphatase deficiency, infantile/juvenile form": [
+    "79350"
+  ],
+  "phosphoserine phosphatase deficiency, infantile/juvenile form": [
+    "79350"
+  ],
+  "Phosphoserine aminotransferase deficiency, infantile/juvenile form": [
+    "284417"
+  ],
+  "Dimethylglycine dehydrogenase deficiency": [
+    "243343"
+  ],
+  "Disorder of the gamma-glutamyl cycle": [
+    "79196"
+  ],
+  "Glutathione synthetase deficiency": [
+    "32"
+  ],
+  "Glutathione synthetase deficiency with 5-oxoprolinuria": [
+    "289846"
+  ],
+  "oxoprolinuria": [
+    "289846",
+    "289849"
+  ],
+  "Glutathione synthetase deficiency without 5-oxoprolinuria": [
+    "289849"
+  ],
+  "5-oxoprolinase deficiency": [
+    "33572"
+  ],
+  "oxoprolinase deficiency": [
+    "33572"
+  ],
+  "Gamma-glutamyl transpeptidase deficiency": [
+    "33573"
+  ],
+  "glutamyl transpeptidase deficiency": [
+    "33573"
+  ],
+  "Glutamate-cysteine ligase deficiency": [
+    "33574"
+  ],
+  "cysteine ligase deficiency": [
+    "33574"
+  ],
+  "Disorder of branched-chain amino acid metabolism": [
+    "79197"
+  ],
+  "Maple syrup urine disease": [
+    "511"
+  ],
+  "Classic maple syrup urine disease": [
+    "268145"
+  ],
+  "Intermediate maple syrup urine disease": [
+    "268162"
+  ],
+  "Intermittent maple syrup urine disease": [
+    "268173"
+  ],
+  "Thiamine-responsive maple syrup urine disease": [
+    "268184"
+  ],
+  "responsive maple syrup urine disease": [
+    "268184"
+  ],
+  "Developmental delay due to methylmalonate semialdehyde dehydrogenase deficiency": [
+    "289307"
+  ],
+  "Autism-epilepsy syndrome due to branched chain ketoacid dehydrogenase kinase deficiency": [
+    "308410"
+  ],
+  "epilepsy syndrome due to branched chain ketoacid dehydrogenase kinase deficiency": [
+    "308410"
+  ],
+  "Disorder of tryptophan metabolism": [
+    "289829"
+  ],
+  "Hypertryptophanemia": [
+    "2224"
+  ],
+  "Hydroxykynureninuria": [
+    "79155"
+  ],
+  "Disorder of lysine and hydroxylysine metabolism": [
+    "289832"
+  ],
+  "Hyperlysinemia": [
+    "2203"
+  ],
+  "Saccharopinuria": [
+    "3124"
+  ],
+  "2-aminoadipic 2-oxoadipic aciduria": [
+    "79154"
+  ],
+  "oxoadipic aciduria": [
+    "79154"
+  ],
+  "Seizures-intellectual disability due to hydroxylysinuria syndrome": [
+    "79156"
+  ],
+  "intellectual disability due to hydroxylysinuria syndrome": [
+    "79156"
+  ],
+  "Disorder of glutamine metabolism": [
+    "289841"
+  ],
+  "Spastic ataxia-dysarthria due to glutaminase deficiency": [
+    "557056"
+  ],
+  "dysarthria due to glutaminase deficiency": [
+    "557056"
+  ],
+  "Neonatal epileptic encephalopathy due to glutaminase deficiency": [
+    "557064"
+  ],
+  "Congenital brain dysgenesis due to glutamine synthetase deficiency": [
+    "71278"
+  ],
+  "Organic aciduria": [
+    "289899"
+  ],
+  "Cerebral organic aciduria": [
+    "79158"
+  ],
+  "Mitochondrial short-chain enoyl-CoA hydratase 1 deficiency": [
+    "653880"
+  ],
+  "CoA hydratase 1 deficiency": [
+    "653880"
+  ],
+  "2-hydroxyglutaric aciduria": [
+    "19"
+  ],
+  "hydroxyglutaric aciduria": [
+    "19",
+    "79314",
+    "79315",
+    "356978"
+  ],
+  "L-2-hydroxyglutaric aciduria": [
+    "79314"
+  ],
+  "D-2-hydroxyglutaric aciduria": [
+    "79315"
+  ],
+  "D,L-2-hydroxyglutaric aciduria": [
+    "356978"
+  ],
+  "Glutaryl-CoA dehydrogenase deficiency": [
+    "25"
+  ],
+  "CoA dehydrogenase deficiency": [
+    "25",
+    "79157",
+    "79159",
+    "309120",
+    "42",
+    "26791",
+    "26792",
+    "26793",
+    "329942",
+    "309127",
+    "5",
+    "71212",
+    "71212"
+  ],
+  "Aminoacylase deficiency": [
+    "308448"
+  ],
+  "Canavan disease": [
+    "141"
+  ],
+  "Severe Canavan disease": [
+    "314911"
+  ],
+  "Mild Canavan disease": [
+    "314918"
+  ],
+  "Aminoacylase 1 deficiency": [
+    "137754"
+  ],
+  "HSD10 disease": [
+    "391417"
+  ],
+  "HSD10 disease, atypical type": [
+    "85295"
+  ],
+  "HSD10 disease, infantile type": [
+    "391428"
+  ],
+  "HSD10 disease, neonatal type": [
+    "391457"
+  ],
+  "Classic organic aciduria": [
+    "79163"
+  ],
+  "Isovaleric acidemia": [
+    "33"
+  ],
+  "Multiple carboxylase deficiency": [
+    "148"
+  ],
+  "Biotinidase deficiency": [
+    "79241",
+    "79241"
+  ],
+  "Holocarboxylase synthetase deficiency": [
+    "79242"
+  ],
+  "Methylmalonic acidemia with homocystinuria": [
+    "26",
+    "26"
+  ],
+  "Methylmalonic acidemia with homocystinuria, type cblC": [
+    "79282",
+    "79282"
+  ],
+  "Methylmalonic acidemia with homocystinuria, type cblD": [
+    "79283",
+    "79283"
+  ],
+  "Methylmalonic acidemia with homocystinuria type cblF": [
+    "79284",
+    "79284"
+  ],
+  "Methylmalonic acidemia with homocystinuria, type cblJ": [
+    "369955",
+    "369955"
+  ],
+  "Methylmalonic acidemia with homocystinuria, type cblX": [
+    "369962",
+    "369962"
+  ],
+  "Beta-ketothiolase deficiency": [
+    "134",
+    "134"
+  ],
+  "ketothiolase deficiency": [
+    "134",
+    "134"
+  ],
+  "3-hydroxyisobutyric aciduria": [
+    "939"
+  ],
+  "hydroxyisobutyric aciduria": [
+    "939"
+  ],
+  "3-hydroxy-3-methylglutaric aciduria": [
+    "20",
+    "20"
+  ],
+  "methylglutaric aciduria": [
+    "20",
+    "20"
+  ],
+  "3-methylcrotonyl-CoA carboxylase deficiency": [
+    "6"
+  ],
+  "CoA carboxylase deficiency": [
+    "6"
+  ],
+  "Propionic acidemia": [
+    "35"
+  ],
+  "2-methylbutyryl-CoA dehydrogenase deficiency": [
+    "79157"
+  ],
+  "Isobutyryl-CoA dehydrogenase deficiency": [
+    "79159"
+  ],
+  "Neurodegeneration due to 3-hydroxyisobutyryl-CoA hydrolase deficiency": [
+    "88639"
+  ],
+  "CoA hydrolase deficiency": [
+    "88639"
+  ],
+  "Combined malonic and methylmalonic acidemia": [
+    "289504"
+  ],
+  "3-methylglutaconic aciduria": [
+    "289902"
+  ],
+  "methylglutaconic aciduria": [
+    "289902"
+  ],
+  "3-methylglutaconic aciduria type 8": [
+    "505208"
+  ],
+  "methylglutaconic aciduria type 8": [
+    "505208"
+  ],
+  "Barth syndrome": [
+    "111",
+    "111"
+  ],
+  "Dilated cardiomyopathy with ataxia": [
+    "66634"
+  ],
+  "3-methylglutaconic aciduria type 1": [
+    "67046"
+  ],
+  "methylglutaconic aciduria type 1": [
+    "67046"
+  ],
+  "3-methylglutaconic aciduria type 3": [
+    "67047"
+  ],
+  "methylglutaconic aciduria type 3": [
+    "67047"
+  ],
+  "3-methylglutaconic aciduria type 4": [
+    "67048"
+  ],
+  "methylglutaconic aciduria type 4": [
+    "67048"
+  ],
+  "MEGDEL syndrome": [
+    "352328",
+    "352328",
+    "352328"
+  ],
+  "3-methylglutaconic aciduria-neonatal cataract-neurologic involvement-congenital neutropenia syndrome": [
+    "445038"
+  ],
+  "congenital neutropenia syndrome": [
+    "445038"
+  ],
+  "3-methylglutaconic aciduria type 9": [
+    "505216"
+  ],
+  "methylglutaconic aciduria type 9": [
+    "505216"
+  ],
+  "Methylmalonic acidemia without homocystinuria": [
+    "293355"
+  ],
+  "Vitamin B12-unresponsive methylmalonic acidemia": [
+    "27"
+  ],
+  "unresponsive methylmalonic acidemia": [
+    "27"
+  ],
+  "Vitamin B12-unresponsive methylmalonic acidemia type mut-": [
+    "79312"
+  ],
+  "": [
+    "79312"
+  ],
+  "Vitamin B12-unresponsive methylmalonic acidemia type mut0": [
+    "289916"
+  ],
+  "unresponsive methylmalonic acidemia type mut0": [
+    "289916"
+  ],
+  "Vitamin B12-responsive methylmalonic acidemia": [
+    "28",
+    "28"
+  ],
+  "responsive methylmalonic acidemia": [
+    "28",
+    "28"
+  ],
+  "Vitamin B12-responsive methylmalonic acidemia type cblA": [
+    "79310",
+    "79310"
+  ],
+  "responsive methylmalonic acidemia type cblA": [
+    "79310",
+    "79310"
+  ],
+  "Vitamin B12-responsive methylmalonic acidemia type cblB": [
+    "79311",
+    "79311"
+  ],
+  "responsive methylmalonic acidemia type cblB": [
+    "79311",
+    "79311"
+  ],
+  "Vitamin B12-responsive methylmalonic acidemia, type cblDv2": [
+    "308442",
+    "308442"
+  ],
+  "responsive methylmalonic acidemia, type cblDv2": [
+    "308442",
+    "308442"
+  ],
+  "Methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency": [
+    "308425"
+  ],
+  "CoA epimerase deficiency": [
+    "308425"
+  ],
+  "Disorder of beta and omega amino acid metabolism": [
+    "308407"
+  ],
+  "Gamma-aminobutyric acid transaminase deficiency": [
+    "2066",
+    "2066"
+  ],
+  "aminobutyric acid transaminase deficiency": [
+    "2066",
+    "2066"
+  ],
+  "Disorder of melanin metabolism": [
+    "352728"
+  ],
+  "Oculocutaneous albinism": [
+    "55"
+  ],
+  "Oculocutaneous albinism type 2": [
+    "79432"
+  ],
+  "Oculocutaneous albinism type 3": [
+    "79433"
+  ],
+  "Oculocutaneous albinism type 4": [
+    "79435"
+  ],
+  "Oculocutaneous albinism type 1": [
+    "352731"
+  ],
+  "Oculocutaneous albinism type 1A": [
+    "79431"
+  ],
+  "Oculocutaneous albinism type 1B": [
+    "79434"
+  ],
+  "Minimal pigment oculocutaneous albinism type 1": [
+    "352734"
+  ],
+  "Temperature-sensitive oculocutaneous albinism type 1": [
+    "352737"
+  ],
+  "sensitive oculocutaneous albinism type 1": [
+    "352737"
+  ],
+  "Oculocutaneous albinism type 7": [
+    "352745"
+  ],
+  "Oculocutaneous albinism type 5": [
+    "370091"
+  ],
+  "Oculocutaneous albinism type 6": [
+    "370097"
+  ],
+  "Oculocutaneous albinism type 8": [
+    "597733"
+  ],
+  "Ocular albinism": [
+    "284804"
+  ],
+  "Ocular albinism with late-onset sensorineural deafness": [
+    "1000"
+  ],
+  "onset sensorineural deafness": [
+    "1000"
+  ],
+  "X-linked recessive ocular albinism": [
+    "54"
+  ],
+  "linked recessive ocular albinism": [
+    "54"
+  ],
+  "Disorder of asparagine metabolism": [
+    "391381"
+  ],
+  "Congenital microcephaly-severe encephalopathy-progressive cerebral atrophy syndrome": [
+    "391376"
+  ],
+  "progressive cerebral atrophy syndrome": [
+    "391376"
+  ],
+  "Disorder of carbohydrate metabolism": [
+    "79161"
+  ],
+  "Gluconeogenesis disorder": [
+    "79177"
+  ],
+  "Fructose-1,6-bisphosphatase deficiency": [
+    "348",
+    "348"
+  ],
+  "bisphosphatase deficiency": [
+    "348",
+    "348"
+  ],
+  "Phosphoenolpyruvate carboxykinase deficiency": [
+    "2880"
+  ],
+  "Pyruvate carboxylase deficiency": [
+    "3008"
+  ],
+  "Pyruvate carboxylase deficiency, infantile type": [
+    "353308"
+  ],
+  "Pyruvate carboxylase deficiency, severe neonatal type": [
+    "353314"
+  ],
+  "Pyruvate carboxylase deficiency, benign type": [
+    "353320"
+  ],
+  "Disorder of glycerol metabolism": [
+    "79179"
+  ],
+  "Glycerol kinase deficiency": [
+    "308993"
+  ],
+  "Isolated glycerol kinase deficiency": [
+    "408"
+  ],
+  "Glycerol kinase deficiency, juvenile form": [
+    "284411"
+  ],
+  "Glycerol kinase deficiency, adult form": [
+    "284414"
+  ],
+  "Xp21 deletion syndrome": [
+    "261476"
+  ],
+  "Glycogen storage disease": [
+    "79201"
+  ],
+  "Glycogen storage disease due to glycogen debranching enzyme deficiency": [
+    "366"
+  ],
+  "Glycogen storage disease due to glycogen branching enzyme deficiency": [
+    "367"
+  ],
+  "Adult polyglucosan body disease": [
+    "206583"
+  ],
+  "Glycogen storage disease due to glycogen branching enzyme deficiency, progressive hepatic form": [
+    "308621"
+  ],
+  "Glycogen storage disease due to glycogen branching enzyme deficiency, non progressive hepatic form": [
+    "308638"
+  ],
+  "Glycogen storage disease due to glycogen branching enzyme deficiency, fatal perinatal neuromuscular form": [
+    "308655"
+  ],
+  "Glycogen storage disease due to glycogen branching enzyme deficiency, congenital neuromuscular form": [
+    "308670"
+  ],
+  "Glycogen storage disease due to glycogen branching enzyme deficiency, childhood combined hepatic and myopathic form": [
+    "308684"
+  ],
+  "Glycogen storage disease due to glycogen branching enzyme deficiency, childhood neuromuscular form": [
+    "308698"
+  ],
+  "Glycogen storage disease due to glycogen branching enzyme deficiency, adult neuromuscular form": [
+    "308712"
+  ],
+  "Glycogen storage disease due to muscle glycogen phosphorylase deficiency": [
+    "368"
+  ],
+  "Glycogen storage disease due to liver glycogen phosphorylase deficiency": [
+    "369"
+  ],
+  "Glycogen storage disease due to muscle phosphofructokinase deficiency": [
+    "371"
+  ],
+  "Glycogen storage disease due to phosphorylase kinase deficiency": [
+    "370"
+  ],
+  "Glycogen storage disease due to muscle phosphorylase kinase deficiency": [
+    "715"
+  ],
+  "Glycogen storage disease due to liver and muscle phosphorylase kinase deficiency": [
+    "79240"
+  ],
+  "Glycogen storage disease due to liver phosphorylase kinase deficiency": [
+    "264580"
+  ],
+  "Glycogen storage disease due to glucose-6-phosphatase deficiency": [
+    "364"
+  ],
+  "phosphatase deficiency": [
+    "364"
+  ],
+  "Glycogen storage disease due to glucose-6-phosphatase deficiency type Ia": [
+    "79258"
+  ],
+  "phosphatase deficiency type Ia": [
+    "79258"
+  ],
+  "Glycogen storage disease due to glucose-6-phosphatase deficiency type Ib": [
+    "79259"
+  ],
+  "phosphatase deficiency type Ib": [
+    "79259"
+  ],
+  "Glycogen storage disease due to aldolase A deficiency": [
+    "57"
+  ],
+  "Glycogen storage disease due to phosphoglycerate kinase 1 deficiency": [
+    "713"
+  ],
+  "Fanconi-Bickel syndrome": [
+    "2088",
+    "2088"
+  ],
+  "Bickel syndrome": [
+    "2088",
+    "2088"
+  ],
+  "Glycogen storage disease due to lactate dehydrogenase deficiency": [
+    "2364"
+  ],
+  "Glycogen storage disease due to lactate dehydrogenase M-subunit deficiency": [
+    "284426"
+  ],
+  "subunit deficiency": [
+    "284426",
+    "284435"
+  ],
+  "Glycogen storage disease due to lactate dehydrogenase H-subunit deficiency": [
+    "284435"
+  ],
+  "Glycogen storage disease due to phosphoglycerate mutase deficiency": [
+    "97234"
+  ],
+  "Glycogen storage disease due to muscle beta-enolase deficiency": [
+    "99849"
+  ],
+  "enolase deficiency": [
+    "99849"
+  ],
+  "Glycogen storage disease with severe cardiomyopathy due to glycogenin deficiency": [
+    "263297"
+  ],
+  "Glycogen storage disease due to glycogen synthase deficiency": [
+    "308520"
+  ],
+  "Glycogen storage disease due to hepatic glycogen synthase deficiency": [
+    "2089"
+  ],
+  "Glycogen storage disease due to muscle and heart glycogen synthase deficiency": [
+    "137625"
+  ],
+  "Polyglucosan body myopathy type 1": [
+    "397937"
+  ],
+  "Fatal congenital hypertrophic cardiomyopathy due to glycogen storage disease": [
+    "439854"
+  ],
+  "Polyglucosan body myopathy type 2": [
+    "456369"
+  ],
+  "Disorder of glycolysis": [
+    "308459"
+  ],
+  "Triose phosphate-isomerase deficiency": [
+    "868"
+  ],
+  "isomerase deficiency": [
+    "868"
+  ],
+  "Hemolytic anemia due to glucophosphate isomerase deficiency": [
+    "712"
+  ],
+  "Congenital glucokinase-related hyperinsulinism": [
+    "79299",
+    "79299"
+  ],
+  "related hyperinsulinism": [
+    "79299",
+    "79299"
+  ],
+  "Disorder of fructose metabolism": [
+    "308463"
+  ],
+  "Hereditary fructose intolerance": [
+    "469",
+    "469"
+  ],
+  "Essential fructosuria": [
+    "2056"
+  ],
+  "Disorder of galactose metabolism": [
+    "308467"
+  ],
+  "Galactosemia": [
+    "352"
+  ],
+  "Galactokinase deficiency": [
+    "79237"
+  ],
+  "Galactose epimerase deficiency": [
+    "79238"
+  ],
+  "Erythrocyte galactose epimerase deficiency": [
+    "308473"
+  ],
+  "Generalized galactose epimerase deficiency": [
+    "308487"
+  ],
+  "Classic galactosemia": [
+    "79239"
+  ],
+  "Galactose mutarotase deficiency": [
+    "570422"
+  ],
+  "Disorder of glyoxylate metabolism": [
+    "308998"
+  ],
+  "D-glyceric aciduria": [
+    "941"
+  ],
+  "glyceric aciduria": [
+    "941"
+  ],
+  "Primary hyperoxaluria": [
+    "416"
+  ],
+  "Primary hyperoxaluria type 2": [
+    "93599"
+  ],
+  "Primary hyperoxaluria type 3": [
+    "93600"
+  ],
+  "Disorder of carbohydrate absorption and transport": [
+    "309001"
+  ],
+  "Congenital sucrase-isomaltase deficiency": [
+    "35122"
+  ],
+  "isomaltase deficiency": [
+    "35122"
+  ],
+  "Congenital lactase deficiency": [
+    "53690"
+  ],
+  "Glucose transport disorder": [
+    "79178"
+  ],
+  "Glucose-galactose malabsorption": [
+    "35710"
+  ],
+  "galactose malabsorption": [
+    "35710"
+  ],
+  "Familial renal glucosuria": [
+    "69076"
+  ],
+  "Classic glucose transporter type 1 deficiency syndrome": [
+    "71277"
+  ],
+  "Chronic diarrhea due to glucoamylase deficiency": [
+    "103907"
+  ],
+  "Trehalase deficiency": [
+    "103909"
+  ],
+  "Exercise-induced hyperinsulinism": [
+    "165991",
+    "165991"
+  ],
+  "induced hyperinsulinism": [
+    "165991",
+    "165991"
+  ],
+  "Juvenile cataract-microcornea-renal glucosuria syndrome": [
+    "247794"
+  ],
+  "renal glucosuria syndrome": [
+    "247794"
+  ],
+  "Disorders of pentose/polyol metabolism": [
+    "440701"
+  ],
+  "Pentosuria": [
+    "2843"
+  ],
+  "Disorder of pentose phosphate metabolism": [
+    "79186"
+  ],
+  "Transketolase deficiency": [
+    "488618"
+  ],
+  "Transaldolase deficiency": [
+    "101028"
+  ],
+  "Ribose-5-P isomerase deficiency": [
+    "440706"
+  ],
+  "P isomerase deficiency": [
+    "440706"
+  ],
+  "Isolated sedoheptulokinase deficiency": [
+    "440713"
+  ],
+  "Disorder of energy metabolism": [
+    "79200"
+  ],
+  "Mitochondrial disease": [
+    "68380"
+  ],
+  "Mitochondrial oxidative phosphorylation disorder": [
+    "223713"
+  ],
+  "Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies": [
+    "2443"
+  ],
+  "Encephalopathy due to mitochondrial and peroxisomal fission defect": [
+    "527276"
+  ],
+  "DNM1L-related encephalopathy due to mitochondrial and peroxisomal fission defect": [
+    "330050"
+  ],
+  "related encephalopathy due to mitochondrial and peroxisomal fission defect": [
+    "330050",
+    "485421"
+  ],
+  "MFF-related encephalopathy due to mitochondrial and peroxisomal fission defect": [
+    "485421"
+  ],
+  "Parkinsonism with polyneuropathy": [
+    "611237"
+  ],
+  "Leigh syndrome": [
+    "506"
+  ],
+  "Fatal infantile cytochrome C oxidase deficiency": [
+    "1561"
+  ],
+  "Coenzyme Q10 deficiency": [
+    "35656"
+  ],
+  "Ataxia-oculomotor apraxia type 1": [
+    "1168"
+  ],
+  "oculomotor apraxia type 1": [
+    "1168"
+  ],
+  "Autosomal recessive ataxia due to ubiquinone deficiency": [
+    "139485"
+  ],
+  "Deafness-encephaloneuropathy-obesity-valvulopathy syndrome": [
+    "254898"
+  ],
+  "valvulopathy syndrome": [
+    "254898"
+  ],
+  "Familial steroid-resistant nephrotic syndrome with sensorineural deafness": [
+    "280406"
+  ],
+  "resistant nephrotic syndrome with sensorineural deafness": [
+    "280406"
+  ],
+  "Encephalopathy-hypertrophic cardiomyopathy-renal tubular disease syndrome": [
+    "319678"
+  ],
+  "renal tubular disease syndrome": [
+    "319678"
+  ],
+  "Neonatal encephalomyopathy-cardiomyopathy-respiratory distress syndrome": [
+    "457185"
+  ],
+  "respiratory distress syndrome": [
+    "457185"
+  ],
+  "COQ7-related distal hereditary motor neuropathy": [
+    "658778"
+  ],
+  "related distal hereditary motor neuropathy": [
+    "658778"
+  ],
+  "Mitochondrial disorder due to a defect in mitochondrial protein synthesis": [
+    "35696"
+  ],
+  "Mitochondrial myopathy and sideroblastic anemia": [
+    "2598"
+  ],
+  "Perrault syndrome": [
+    "2855"
+  ],
+  "Perrault syndrome type 1": [
+    "642945"
+  ],
+  "Perrault syndrome type 2": [
+    "642976"
+  ],
+  "Spastic paraplegia type 7": [
+    "99013"
+  ],
+  "Spinocerebellar ataxia type 28": [
+    "101109"
+  ],
+  "Hepatoencephalopathy due to combined oxidative phosphorylation defect type 1": [
+    "137681"
+  ],
+  "Leukoencephalopathy with brain stem and spinal cord involvement-high lactate syndrome": [
+    "137898"
+  ],
+  "high lactate syndrome": [
+    "137898",
+    "314051"
+  ],
+  "Hypotonia with lactic acidemia and hyperammonemia": [
+    "137908"
+  ],
+  "Pontocerebellar hypoplasia type 6": [
+    "166073"
+  ],
+  "Fatal mitochondrial disease due to combined oxidative phosphorylation defect type 3": [
+    "168566"
+  ],
+  "Acute infantile liver failure due to synthesis defect of mtDNA-encoded proteins": [
+    "217371"
+  ],
+  "encoded proteins": [
+    "217371"
+  ],
+  "Severe X-linked mitochondrial encephalomyopathy": [
+    "238329"
+  ],
+  "linked mitochondrial encephalomyopathy": [
+    "238329"
+  ],
+  "Autosomal recessive spastic ataxia-optic atrophy-dysarthria syndrome": [
+    "254343"
+  ],
+  "dysarthria syndrome": [
+    "254343"
+  ],
+  "Combined oxidative phosphorylation defect type 2": [
+    "254920"
+  ],
+  "Combined oxidative phosphorylation defect type 4": [
+    "254925"
+  ],
+  "Leukoencephalopathy-thalamus and brainstem anomalies-high lactate syndrome": [
+    "314051"
+  ],
+  "Autosomal recessive spastic ataxia with leukoencephalopathy": [
+    "314603"
+  ],
+  "Mitochondrial hypertrophic cardiomyopathy with lactic acidosis due to MTO1 deficiency": [
+    "314637"
+  ],
+  "Combined oxidative phosphorylation defect type 8": [
+    "319504"
+  ],
+  "Combined oxidative phosphorylation defect type 9": [
+    "319509"
+  ],
+  "Combined oxidative phosphorylation defect type 13": [
+    "319514"
+  ],
+  "Combined oxidative phosphorylation defect type 14": [
+    "319519"
+  ],
+  "Combined oxidative phosphorylation defect type 15": [
+    "319524"
+  ],
+  "Combined oxidative phosphorylation defect type 11": [
+    "324535"
+  ],
+  "Infantile hypertrophic cardiomyopathy due to MRPL44 deficiency": [
+    "352563"
+  ],
+  "Hyperuricemia-pulmonary hypertension-renal failure-alkalosis syndrome": [
+    "363694"
+  ],
+  "alkalosis syndrome": [
+    "363694"
+  ],
+  "Combined oxidative phosphorylation defect type 17": [
+    "369913"
+  ],
+  "Combined oxidative phosphorylation defect type 20": [
+    "420728"
+  ],
+  "Combined oxidative phosphorylation defect type 21": [
+    "420733"
+  ],
+  "Cataract-growth hormone deficiency-sensory neuropathy-sensorineural hearing loss-skeletal dysplasia syndrome": [
+    "436174"
+  ],
+  "skeletal dysplasia syndrome": [
+    "436174"
+  ],
+  "Combined oxidative phosphorylation defect type 23": [
+    "444013"
+  ],
+  "Combined oxidative phosphorylation defect type 24": [
+    "444458"
+  ],
+  "Combined oxidative phosphorylation defect type 25": [
+    "447954"
+  ],
+  "Combined oxidative phosphorylation defect type 39": [
+    "565624"
+  ],
+  "Hydrops-lactic acidosis-sideroblastic anemia-multisystemic failure syndrome": [
+    "528091"
+  ],
+  "multisystemic failure syndrome": [
+    "528091"
+  ],
+  "Syndromic sensorineural deafness due to combined oxidative phosphorylation defect": [
+    "457223"
+  ],
+  "Combined oxidative phosphorylation defect type 30": [
+    "478042"
+  ],
+  "Neonatal severe cardiopulmonary failure due to mitochondrial methylation defect": [
+    "466784",
+    "466784"
+  ],
+  "Combined oxidative phosphorylation defect type 27": [
+    "477774"
+  ],
+  "C12ORF65-related combined oxidative phosphorylation defect": [
+    "497623"
+  ],
+  "related combined oxidative phosphorylation defect": [
+    "497623",
+    "570491",
+    "572798"
+  ],
+  "Combined oxidative phosphorylation defect type 7": [
+    "254930"
+  ],
+  "Autosomal recessive spastic paraplegia type 55": [
+    "320375"
+  ],
+  "Combined oxidative phosphorylation defect type 26": [
+    "477684"
+  ],
+  "Autosomal recessive spastic paraplegia type 77": [
+    "466722"
+  ],
+  "Combined oxidative phosphorylation defect type 29": [
+    "478029"
+  ],
+  "QRSL1-related combined oxidative phosphorylation defect": [
+    "570491"
+  ],
+  "WARS2-related combined oxidative phosphorylation defect": [
+    "572798"
+  ],
+  "Pancreatic insufficiency-anemia-hyperostosis syndrome": [
+    "199337"
+  ],
+  "hyperostosis syndrome": [
+    "199337"
+  ],
+  "Mitochondrial oxidative phosphorylation disorder with no known mechanism": [
+    "254822"
+  ],
+  "Zellweger-like syndrome without peroxisomal anomalies": [
+    "50812"
+  ],
+  "like syndrome without peroxisomal anomalies": [
+    "50812"
+  ],
+  "Autosomal dominant optic atrophy and cataract": [
+    "67036",
+    "67036"
+  ],
+  "Autosomal dominant optic atrophy, classic form": [
+    "98673",
+    "98673"
+  ],
+  "FASTKD2-related infantile mitochondrial encephalomyopathy": [
+    "166105"
+  ],
+  "related infantile mitochondrial encephalomyopathy": [
+    "166105"
+  ],
+  "Autosomal recessive optic atrophy, OPA7 type": [
+    "227976"
+  ],
+  "Autosomal dominant optic atrophy and peripheral neuropathy": [
+    "250932",
+    "250932"
+  ],
+  "Growth and developmental delay-hypotonia-vision impairment-lactic acidosis syndrome": [
+    "391348"
+  ],
+  "lactic acidosis syndrome": [
+    "391348",
+    "91130"
+  ],
+  "Non-progressive predominantly posterior cavitating leukoencephalopathy with peripheral neuropathy": [
+    "436271"
+  ],
+  "progressive predominantly posterior cavitating leukoencephalopathy with peripheral neuropathy": [
+    "436271"
+  ],
+  "Autosomal dominant mitochondrial myopathy with exercise intolerance": [
+    "457050"
+  ],
+  "Mitochondrial disorder due to a defect in assembly or maturation of the respiratory chain complexes": [
+    "309136"
+  ],
+  "Optic atrophy-ataxia-peripheral neuropathy-global developmental delay syndrome": [
+    "543470"
+  ],
+  "global developmental delay syndrome": [
+    "543470"
+  ],
+  "TMEM70-related mitochondrial encephalo-cardio-myopathy": [
+    "1194"
+  ],
+  "myopathy": [
+    "1194"
+  ],
+  "Björnstad syndrome": [
+    "123"
+  ],
+  "GRACILE syndrome": [
+    "53693"
+  ],
+  "Exercise intolerance with lactic acidosis": [
+    "254843"
+  ],
+  "Hereditary myopathy with lactic acidosis due to ISCU deficiency": [
+    "43115"
+  ],
+  "Acyl-CoA dehydrogenase 9 deficiency": [
+    "99901"
+  ],
+  "CoA dehydrogenase 9 deficiency": [
+    "99901"
+  ],
+  "Renal tubulopathy-encephalopathy-liver failure syndrome": [
+    "254902"
+  ],
+  "liver failure syndrome": [
+    "254902"
+  ],
+  "Multiple mitochondrial dysfunctions syndrome": [
+    "289573",
+    "289573"
+  ],
+  "Multiple mitochondrial dysfunctions syndrome type 6": [
+    "569290",
+    "569290"
+  ],
+  "Multiple mitochondrial dysfunctions syndrome type 3": [
+    "363424",
+    "363424"
+  ],
+  "Multiple mitochondrial dysfunctions syndrome type 1": [
+    "401869",
+    "401869"
+  ],
+  "Multiple mitochondrial dysfunctions syndrome type 2": [
+    "401874",
+    "401874"
+  ],
+  "Multiple mitochondrial dysfunctions syndrome type 4": [
+    "457406",
+    "457406"
+  ],
+  "Multiple mitochondrial dysfunctions syndrome type 5": [
+    "569274",
+    "569274"
+  ],
+  "Severe neonatal lactic acidosis due to NFS1-ISD11 complex deficiency": [
+    "397593"
+  ],
+  "ISD11 complex deficiency": [
+    "397593"
+  ],
+  "Auditory neuropathy-optic atrophy syndrome": [
+    "542585"
+  ],
+  "optic atrophy syndrome": [
+    "542585"
+  ],
+  "Congenital cataract-progressive muscular hypotonia-hearing loss-developmental delay syndrome": [
+    "330054"
+  ],
+  "developmental delay syndrome": [
+    "330054",
+    "478049",
+    "496790"
+  ],
+  "Mitochondrial DNA maintenance syndrome": [
+    "352456"
+  ],
+  "Mitochondrial neurogastrointestinal encephalomyopathy": [
+    "298",
+    "298"
+  ],
+  "Mitochondrial DNA depletion syndrome": [
+    "35698"
+  ],
+  "Mitochondrial DNA depletion syndrome, encephalomyopathic form": [
+    "254803"
+  ],
+  "Mitochondrial DNA depletion syndrome, encephalomyopathic form with methylmalonic aciduria": [
+    "1933"
+  ],
+  "Fatal infantile lactic acidosis with methylmalonic aciduria": [
+    "17"
+  ],
+  "Mitochondrial DNA depletion syndrome, encephalomyopathic form with renal tubulopathy": [
+    "255235"
+  ],
+  "Mitochondrial DNA depletion syndrome, encephalomyopathic form with variable craniofacial anomalies": [
+    "369897"
+  ],
+  "Mitochondrial DNA depletion syndrome, hepatocerebral form": [
+    "254871"
+  ],
+  "Infantile-onset spinocerebellar ataxia": [
+    "1186"
+  ],
+  "onset spinocerebellar ataxia": [
+    "1186"
+  ],
+  "Alpers-Huttenlocher syndrome": [
+    "726"
+  ],
+  "Huttenlocher syndrome": [
+    "726"
+  ],
+  "Navajo neurohepatopathy": [
+    "255229"
+  ],
+  "Mitochondrial DNA depletion syndrome, hepatocerebral form due to DGUOK deficiency": [
+    "279934",
+    "279934"
+  ],
+  "Mitochondrial DNA depletion syndrome, hepatocerebrorenal form": [
+    "363534"
+  ],
+  "Mitochondrial DNA depletion syndrome, myopathic form": [
+    "254875",
+    "254875"
+  ],
+  "Early-onset spastic ataxia-myoclonic epilepsy-neuropathy syndrome": [
+    "313772"
+  ],
+  "neuropathy syndrome": [
+    "313772"
+  ],
+  "Multiple mitochondrial DNA deletion syndrome": [
+    "254807"
+  ],
+  "Autosomal dominant optic atrophy plus syndrome": [
+    "1215",
+    "1215"
+  ],
+  "Ataxia neuropathy spectrum": [
+    "254818"
+  ],
+  "Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome": [
+    "70595"
+  ],
+  "ophthalmoparesis syndrome": [
+    "70595"
+  ],
+  "Recessive mitochondrial ataxia syndrome": [
+    "94125"
+  ],
+  "Spinocerebellar ataxia with epilepsy": [
+    "254881"
+  ],
+  "Autosomal recessive progressive external ophthalmoplegia": [
+    "254886"
+  ],
+  "Autosomal dominant progressive external ophthalmoplegia": [
+    "254892"
+  ],
+  "Adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency": [
+    "329314"
+  ],
+  "onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency": [
+    "329314"
+  ],
+  "DNA2-related mitochondrial DNA deletion syndrome": [
+    "352470"
+  ],
+  "related mitochondrial DNA deletion syndrome": [
+    "352470"
+  ],
+  "Progressive external ophthalmoplegia-myopathy-emaciation syndrome": [
+    "352447"
+  ],
+  "emaciation syndrome": [
+    "352447"
+  ],
+  "SURF1-related Charcot-Marie-Tooth disease type 4": [
+    "391351"
+  ],
+  "Tooth disease type 4": [
+    "391351"
+  ],
+  "Autosomal recessive intermediate Charcot-Marie-Tooth disease type D": [
+    "435998"
+  ],
+  "Tooth disease type D": [
+    "435998"
+  ],
+  "Lethal left ventricular non-compaction-seizures-hypotonia-cataract-developmental delay syndrome": [
+    "478049"
+  ],
+  "Congenital lactic acidosis, Saguenay-Lac-Saint-Jean type": [
+    "70472"
+  ],
+  "Jean type": [
+    "70472"
+  ],
+  "Mitochondrial oxidative phosphorylation disorder due to mitochondrial DNA anomalies": [
+    "254758"
+  ],
+  "Mitochondrial oxidative phosphorylation disorder due to a large-scale single deletion of mitochondrial DNA": [
+    "254767"
+  ],
+  "Kearns-Sayre syndrome": [
+    "480"
+  ],
+  "Sayre syndrome": [
+    "480"
+  ],
+  "Pearson syndrome": [
+    "699"
+  ],
+  "Mitochondrial DNA-related progressive external ophthalmoplegia": [
+    "663"
+  ],
+  "related progressive external ophthalmoplegia": [
+    "663"
+  ],
+  "Chronic diarrhea with villous atrophy": [
+    "1670"
+  ],
+  "Adult-onset chronic progressive external ophthalmoplegia with mitochondrial myopathy": [
+    "329336"
+  ],
+  "onset chronic progressive external ophthalmoplegia with mitochondrial myopathy": [
+    "329336"
+  ],
+  "Mitochondrial oxidative phosphorylation disorder due to a point mutation of mitochondrial DNA": [
+    "254776"
+  ],
+  "MELAS": [
+    "550"
+  ],
+  "MERRF": [
+    "551"
+  ],
+  "Leber hereditary optic neuropathy": [
+    "104"
+  ],
+  "NARP syndrome": [
+    "644"
+  ],
+  "Rare mitochondrial non-syndromic sensorineural deafness": [
+    "90641"
+  ],
+  "syndromic sensorineural deafness": [
+    "90641"
+  ],
+  "Leber plus disease": [
+    "99718"
+  ],
+  "Mitochondrial DNA-related mitochondrial myopathy": [
+    "254788"
+  ],
+  "related mitochondrial myopathy": [
+    "254788"
+  ],
+  "Myopathy and diabetes mellitus": [
+    "2596"
+  ],
+  "Pure mitochondrial myopathy": [
+    "254854"
+  ],
+  "Lethal infantile mitochondrial myopathy": [
+    "254857"
+  ],
+  "Mitochondrial myopathy with reversible cytochrome C oxidase deficiency": [
+    "254864"
+  ],
+  "Mitochondrial DNA-related dystonia": [
+    "254851"
+  ],
+  "related dystonia": [
+    "254851"
+  ],
+  "Mitochondrial DNA-associated Leigh syndrome": [
+    "255210"
+  ],
+  "associated Leigh syndrome": [
+    "255210"
+  ],
+  "Hypertrophic cardiomyopathy with kidney anomalies due to mitochondrial DNA mutation": [
+    "324525"
+  ],
+  "Periodic paralysis with later-onset distal motor neuropathy": [
+    "397750"
+  ],
+  "onset distal motor neuropathy": [
+    "397750"
+  ],
+  "Gitelman-like kidney tubulopathy due to mitochondrial DNA mutation": [
+    "620371"
+  ],
+  "like kidney tubulopathy due to mitochondrial DNA mutation": [
+    "620371"
+  ],
+  "Mitochondrial DNA-related cardiomyopathy and hearing loss": [
+    "1349"
+  ],
+  "related cardiomyopathy and hearing loss": [
+    "1349"
+  ],
+  "Isolated oxidative phosphorylation complex disorder": [
+    "254846"
+  ],
+  "Isolated complex I deficiency": [
+    "2609"
+  ],
+  "Isolated succinate-CoQ reductase deficiency": [
+    "3208"
+  ],
+  "CoQ reductase deficiency": [
+    "3208"
+  ],
+  "Isolated complex III deficiency": [
+    "1460"
+  ],
+  "Isolated cytochrome C oxidase deficiency": [
+    "254905"
+  ],
+  "Isolated ATP synthase deficiency": [
+    "254913"
+  ],
+  "Mitochondrial membrane transport disorder": [
+    "254827"
+  ],
+  "Mitochondrial substrate carrier disorder": [
+    "254830"
+  ],
+  "Congenital cataract-hypertrophic cardiomyopathy-mitochondrial myopathy syndrome": [
+    "1369",
+    "1369"
+  ],
+  "mitochondrial myopathy syndrome": [
+    "1369",
+    "1369"
+  ],
+  "Cardiomyopathy-hypotonia-lactic acidosis syndrome": [
+    "91130"
+  ],
+  "Adult-onset autosomal recessive sideroblastic anemia": [
+    "255132"
+  ],
+  "onset autosomal recessive sideroblastic anemia": [
+    "255132"
+  ],
+  "Epileptic encephalopathy with global cerebral demyelination": [
+    "353217"
+  ],
+  "Mitochondrial protein import disorder": [
+    "254834"
+  ],
+  "Mohr-Tranebjaerg syndrome": [
+    "52368"
+  ],
+  "Tranebjaerg syndrome": [
+    "52368"
+  ],
+  "Unspecified mitochondrial disorder": [
+    "254837"
+  ],
+  "Ocular anomalies-axonal neuropathy-developmental delay syndrome": [
+    "496790"
+  ],
+  "Mitochondrial myopathy-cerebellar ataxia-pigmentary retinopathy syndrome": [
+    "502423"
+  ],
+  "pigmentary retinopathy syndrome": [
+    "502423"
+  ],
+  "1p36.33 duplication syndrome": [
+    "656279"
+  ],
+  "X-linked sideroblastic anemia and spinocerebellar ataxia": [
+    "2802"
+  ],
+  "linked sideroblastic anemia and spinocerebellar ataxia": [
+    "2802"
+  ],
+  "Ethylmalonic encephalopathy": [
+    "51188"
+  ],
+  "Autosomal dominant optic atrophy": [
+    "98672"
+  ],
+  "Histiocytoid cardiomyopathy": [
+    "137675"
+  ],
+  "Mitochondrial myopathy-lactic acidosis-deafness syndrome": [
+    "2597"
+  ],
+  "deafness syndrome": [
+    "2597"
+  ],
+  "Lipoic acid biosynthesis defect": [
+    "401854"
+  ],
+  "Pyruvate dehydrogenase E3 deficiency": [
+    "2394",
+    "2394"
+  ],
+  "Lipoic acid synthetase deficiency": [
+    "401859"
+  ],
+  "Lipoyl transferase 1 deficiency": [
+    "401862"
+  ],
+  "Childhood-onset spasticity with hyperglycinemia": [
+    "401866"
+  ],
+  "onset spasticity with hyperglycinemia": [
+    "401866"
+  ],
+  "Lipoyl transferase 2 deficiency": [
+    "447795"
+  ],
+  "MEPAN syndrome": [
+    "508093"
+  ],
+  "Creatine deficiency syndrome": [
+    "79172"
+  ],
+  "Guanidinoacetate methyltransferase deficiency": [
+    "382"
+  ],
+  "L-Arginine:glycine amidinotransferase deficiency": [
+    "35704"
+  ],
+  "Arginine:glycine amidinotransferase deficiency": [
+    "35704"
+  ],
+  "X-linked creatine transporter deficiency": [
+    "52503"
+  ],
+  "linked creatine transporter deficiency": [
+    "52503"
+  ],
+  "Disorder of fatty acid oxidation and ketone body metabolism": [
+    "79174"
+  ],
+  "Disorder of ketolysis": [
+    "79183"
+  ],
+  "Succinyl-CoA:3-oxoacid CoA transferase deficiency": [
+    "832"
+  ],
+  "oxoacid CoA transferase deficiency": [
+    "832"
+  ],
+  "Disorder of fatty acid oxidation and ketogenesis": [
+    "309115"
+  ],
+  "Mitochondrial trifunctional protein deficiency": [
+    "746"
+  ],
+  "3-hydroxy-3-methylglutaryl-CoA synthase deficiency": [
+    "35701"
+  ],
+  "CoA synthase deficiency": [
+    "35701"
+  ],
+  "Acyl-CoA dehydrogenase deficiency": [
+    "309120"
+  ],
+  "Medium chain acyl-CoA dehydrogenase deficiency": [
+    "42"
+  ],
+  "Multiple acyl-CoA dehydrogenase deficiency": [
+    "26791"
+  ],
+  "Multiple acyl-CoA dehydrogenase deficiency, severe neonatal type": [
+    "394529"
+  ],
+  "CoA dehydrogenase deficiency, severe neonatal type": [
+    "394529"
+  ],
+  "Multiple acyl-CoA dehydrogenase deficiency, mild type": [
+    "394532"
+  ],
+  "CoA dehydrogenase deficiency, mild type": [
+    "394532"
+  ],
+  "Short chain acyl-CoA dehydrogenase deficiency": [
+    "26792"
+  ],
+  "Very long chain acyl-CoA dehydrogenase deficiency": [
+    "26793"
+  ],
+  "Transient neonatal multiple acyl-CoA dehydrogenase deficiency": [
+    "329942"
+  ],
+  "3-hydroxyacyl-CoA dehydrogenase deficiency": [
+    "309127"
+  ],
+  "Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency": [
+    "5"
+  ],
+  "Hyperinsulinism due to short chain 3-hydroxylacyl-CoA dehydrogenase deficiency": [
+    "71212",
+    "71212"
+  ],
+  "Disorder of carnitine cycle and carnitine transport": [
+    "309130"
+  ],
+  "Carnitine palmitoyltransferase II deficiency": [
+    "157"
+  ],
+  "Carnitine palmitoyl transferase II deficiency, myopathic form": [
+    "228302"
+  ],
+  "Carnitine palmitoyl transferase II deficiency, severe infantile form": [
+    "228305"
+  ],
+  "Carnitine palmitoyl transferase II deficiency, neonatal form": [
+    "228308"
+  ],
+  "Carnitine palmitoyl transferase 1A deficiency": [
+    "156"
+  ],
+  "Systemic primary carnitine deficiency": [
+    "158"
+  ],
+  "Carnitine-acylcarnitine translocase deficiency": [
+    "159"
+  ],
+  "acylcarnitine translocase deficiency": [
+    "159"
+  ],
+  "Metabolic disease due to other fatty acid oxidation disorder": [
+    "309133"
+  ],
+  "Malonic aciduria": [
+    "943"
+  ],
+  "Disorder of keton body transport": [
+    "438072"
+  ],
+  "Ketoacidosis due to monocarboxylate transporter-1 deficiency": [
+    "438075"
+  ],
+  "1 deficiency": [
+    "438075",
+    "231531"
+  ],
+  "Pyruvate metabolism disorder": [
+    "254746"
+  ],
+  "Pyruvate dehydrogenase deficiency": [
+    "765"
+  ],
+  "Pyruvate dehydrogenase E1-alpha deficiency": [
+    "79243"
+  ],
+  "alpha deficiency": [
+    "79243"
+  ],
+  "Pyruvate dehydrogenase E2 deficiency": [
+    "79244"
+  ],
+  "Pyruvate dehydrogenase phosphatase deficiency": [
+    "79246"
+  ],
+  "Pyruvate dehydrogenase E1-beta deficiency": [
+    "255138"
+  ],
+  "beta deficiency": [
+    "255138"
+  ],
+  "Pyruvate dehydrogenase E3-binding protein deficiency": [
+    "255182"
+  ],
+  "binding protein deficiency": [
+    "255182"
+  ],
+  "Hemolytic anemia due to red cell pyruvate kinase deficiency": [
+    "766"
+  ],
+  "Mitochondrial pyruvate carrier deficiency": [
+    "447784"
+  ],
+  "Tricarboxylic acid cycle disorder": [
+    "254749"
+  ],
+  "Acute reversible leukoencephalopathy with increased urinary alpha-ketoglutarate": [
+    "615964"
+  ],
+  "ketoglutarate": [
+    "615964"
+  ],
+  "Oxoglutaric aciduria": [
+    "31"
+  ],
+  "Fumaric aciduria": [
+    "24"
+  ],
+  "Infantile cerebellar-retinal degeneration": [
+    "313850"
+  ],
+  "retinal degeneration": [
+    "313850"
+  ],
+  "Disorder of biogenic amine metabolism and transport": [
+    "79214"
+  ],
+  "Disorder of neurotransmitter metabolism and transport": [
+    "79169"
+  ],
+  "Monoamine oxidase A deficiency": [
+    "3057"
+  ],
+  "Disorder of pterin metabolism": [
+    "309819"
+  ],
+  "Dopa-responsive dystonia": [
+    "255"
+  ],
+  "Dopa-responsive dystonia due to sepiapterin reductase deficiency": [
+    "70594"
+  ],
+  "responsive dystonia due to sepiapterin reductase deficiency": [
+    "70594"
+  ],
+  "Autosomal dominant dopa-responsive dystonia": [
+    "98808"
+  ],
+  "Hyperphenylalaninemia due to tetrahydrobiopterin deficiency": [
+    "238583"
+  ],
+  "Dihydropteridine reductase deficiency": [
+    "226"
+  ],
+  "6-pyruvoyl-tetrahydropterin synthase deficiency": [
+    "13"
+  ],
+  "tetrahydropterin synthase deficiency": [
+    "13"
+  ],
+  "GTP cyclohydrolase I deficiency": [
+    "2102"
+  ],
+  "Pterin-4 alpha-carbinolamine dehydratase deficiency": [
+    "1578"
+  ],
+  "carbinolamine dehydratase deficiency": [
+    "1578"
+  ],
+  "Hyperphenylalaninemia due to DNAJC12 deficiency": [
+    "508523"
+  ],
+  "Disorder of catecholamine synthesis": [
+    "309830"
+  ],
+  "Dopamine beta-hydroxylase deficiency": [
+    "230"
+  ],
+  "hydroxylase deficiency": [
+    "230",
+    "209902",
+    "209902"
+  ],
+  "Aromatic L-amino acid decarboxylase deficiency": [
+    "35708"
+  ],
+  "amino acid decarboxylase deficiency": [
+    "35708"
+  ],
+  "Brain dopamine-serotonin vesicular transport disease": [
+    "352649"
+  ],
+  "serotonin vesicular transport disease": [
+    "352649"
+  ],
+  "Disorder of gamma-aminobutyric acid metabolism": [
+    "79175"
+  ],
+  "Succinic semialdehyde dehydrogenase deficiency": [
+    "22"
+  ],
+  "Disorder of pyridoxine metabolism": [
+    "79192"
+  ],
+  "Pyridoxine-dependent epilepsy": [
+    "3006"
+  ],
+  "dependent epilepsy": [
+    "3006"
+  ],
+  "Pyridoxal phosphate-responsive seizures": [
+    "79096",
+    "79096"
+  ],
+  "responsive seizures": [
+    "79096",
+    "79097",
+    "79096"
+  ],
+  "Metabolic disease involving other neurotransmitter deficiency": [
+    "79219"
+  ],
+  "Hereditary hyperekplexia": [
+    "3197"
+  ],
+  "Hereditary butyrylcholinesterase deficiency": [
+    "132"
+  ],
+  "Folinic acid-responsive seizures": [
+    "79097"
+  ],
+  "Disorder of purine or pyrimidine metabolism": [
+    "79224"
+  ],
+  "Disorder of purine metabolism": [
+    "79191"
+  ],
+  "Diamond-Blackfan anemia": [
+    "124"
+  ],
+  "Blackfan anemia": [
+    "124"
+  ],
+  "Adenosine monophosphate deaminase deficiency": [
+    "45"
+  ],
+  "Purine nucleoside phosphorylase deficiency": [
+    "760"
+  ],
+  "Hereditary xanthinuria": [
+    "3467"
+  ],
+  "Xanthinuria type I": [
+    "93601"
+  ],
+  "Xanthinuria type II": [
+    "93602"
+  ],
+  "Adenylosuccinate lyase deficiency": [
+    "46"
+  ],
+  "Adenine phosphoribosyltransferase deficiency": [
+    "976"
+  ],
+  "Lethal ataxia with deafness and optic atrophy": [
+    "1187"
+  ],
+  "Phosphoribosylpyrophosphate synthetase superactivity": [
+    "3222"
+  ],
+  "Mild phosphoribosylpyrophosphate synthetase superactivity": [
+    "411536"
+  ],
+  "Severe phosphoribosylpyrophosphate synthetase superactivity": [
+    "411543"
+  ],
+  "Severe combined immunodeficiency due to adenosine deaminase deficiency": [
+    "277"
+  ],
+  "X-linked Charcot-Marie-Tooth disease type 5": [
+    "99014"
+  ],
+  "Tooth disease type 5": [
+    "99014"
+  ],
+  "Hemolytic anemia due to erythrocyte adenosine deaminase overproduction": [
+    "99138"
+  ],
+  "Hypoxanthine-guanine phosphoribosyltransferase deficiency": [
+    "206428"
+  ],
+  "guanine phosphoribosyltransferase deficiency": [
+    "206428"
+  ],
+  "Lesch-Nyhan syndrome": [
+    "510"
+  ],
+  "Nyhan syndrome": [
+    "510"
+  ],
+  "Hypoxanthine guanine phosphoribosyltransferase partial deficiency": [
+    "79233"
+  ],
+  "AICA-ribosiduria": [
+    "250977"
+  ],
+  "ribosiduria": [
+    "250977"
+  ],
+  "X-linked intellectual disability-limb spasticity-retinal dystrophy-arginine vasopressin deficiency": [
+    "423479"
+  ],
+  "arginine vasopressin deficiency": [
+    "423479"
+  ],
+  "ITPA-related lethal infantile neurological disorder with cataract and cardiac involvement": [
+    "457375"
+  ],
+  "related lethal infantile neurological disorder with cataract and cardiac involvement": [
+    "457375"
+  ],
+  "PAICS deficiency": [
+    "633099"
+  ],
+  "Disorder of pyrimidine metabolism": [
+    "79193"
+  ],
+  "Hereditary orotic aciduria": [
+    "30"
+  ],
+  "Dihydropyrimidine dehydrogenase deficiency": [
+    "1675"
+  ],
+  "Hemolytic anemia due to pyrimidine 5' nucleotidase deficiency": [
+    "35120"
+  ],
+  "Dihydropyrimidinuria": [
+    "38874"
+  ],
+  "Beta-ureidopropionase deficiency": [
+    "65287"
+  ],
+  "ureidopropionase deficiency": [
+    "65287"
+  ],
+  "Hyper-beta-alaninemia": [
+    "309147"
+  ],
+  "alaninemia": [
+    "309147"
+  ],
+  "Other metabolic disease": [
+    "91088"
+  ],
+  "Congenital isolated hyperinsulinism": [
+    "657"
+  ],
+  "Diazoxide-sensitive diffuse hyperinsulinism": [
+    "165985"
+  ],
+  "sensitive diffuse hyperinsulinism": [
+    "165985"
+  ],
+  "Congenital hyperinsulinism due to HNF4A deficiency": [
+    "263455"
+  ],
+  "Hyperinsulinism due to UCP2 deficiency": [
+    "276556"
+  ],
+  "Autosomal dominant hyperinsulinism due to SUR1 deficiency": [
+    "276575"
+  ],
+  "Autosomal dominant hyperinsulinism due to Kir6.2 deficiency": [
+    "276580"
+  ],
+  "Hyperinsulinism due to HNF1A deficiency": [
+    "324575"
+  ],
+  "Diazoxide-resistant hyperinsulinism": [
+    "276585"
+  ],
+  "resistant hyperinsulinism": [
+    "276585"
+  ],
+  "Diazoxide-resistant focal hyperinsulinism": [
+    "79298"
+  ],
+  "resistant focal hyperinsulinism": [
+    "79298"
+  ],
+  "Diazoxide-resistant focal hyperinsulinism due to SUR1 deficiency": [
+    "276598"
+  ],
+  "resistant focal hyperinsulinism due to SUR1 deficiency": [
+    "276598"
+  ],
+  "Diazoxide-resistant focal hyperinsulinism due to Kir6.2 deficiency": [
+    "276603"
+  ],
+  "resistant focal hyperinsulinism due to Kir6.2 deficiency": [
+    "276603"
+  ],
+  "Diazoxide-resistant diffuse hyperinsulinism": [
+    "165988"
+  ],
+  "resistant diffuse hyperinsulinism": [
+    "165988"
+  ],
+  "Autosomal recessive hyperinsulinism due to SUR1 deficiency": [
+    "79643"
+  ],
+  "Autosomal recessive hyperinsulinism due to Kir6.2 deficiency": [
+    "79644"
+  ],
+  "Alpha-1-antitrypsin deficiency": [
+    "60"
+  ],
+  "Hemolytic anemia due to diphosphoglycerate mutase deficiency": [
+    "714"
+  ],
+  "Brachytelephalangic chondrodysplasia punctata": [
+    "79345"
+  ],
+  "Hypotonia-failure to thrive-microcephaly syndrome": [
+    "79507"
+  ],
+  "Genetic recurrent myoglobinuria": [
+    "99845",
+    "99845"
+  ],
+  "Autosomal dominant myoglobinuria": [
+    "99846"
+  ],
+  "Alacrimia-choreoathetosis-liver dysfunction syndrome": [
+    "404454"
+  ],
+  "NAD(P)HX dehydratase deficiency": [
+    "555402"
+  ],
+  "NAD(P)HX epimerase deficiency": [
+    "555407"
+  ],
+  "Disorder of lipid metabolism": [
+    "309005"
+  ],
+  "Sterol metabolism disorder": [
+    "79226"
+  ],
+  "Disorder of bile acid synthesis": [
+    "79168"
+  ],
+  "Idiopathic malabsorption due to bile acid synthesis defects": [
+    "84065"
+  ],
+  "Bile acid synthesis defect with cholestasis and malabsorption": [
+    "163631"
+  ],
+  "Congenital bile acid synthesis defect": [
+    "485631"
+  ],
+  "Congenital bile acid synthesis defect type 1": [
+    "79301"
+  ],
+  "Congenital bile acid synthesis defect type 3": [
+    "79302"
+  ],
+  "Congenital bile acid synthesis defect type 2": [
+    "79303"
+  ],
+  "Cerebrotendinous xanthomatosis": [
+    "909",
+    "909"
+  ],
+  "Familial hypercholanemia": [
+    "238475"
+  ],
+  "Bile acid CoA ligase deficiency and defective amidation": [
+    "276066"
+  ],
+  "Hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency": [
+    "209902",
+    "209902"
+  ],
+  "Sterol biosynthesis disorder": [
+    "79195"
+  ],
+  "Microcephaly-congenital cataract-psoriasiform dermatitis syndrome": [
+    "488168"
+  ],
+  "psoriasiform dermatitis syndrome": [
+    "488168"
+  ],
+  "Greenberg dysplasia": [
+    "1426"
+  ],
+  "CHILD syndrome": [
+    "139"
+  ],
+  "Smith-Lemli-Opitz syndrome": [
+    "818"
+  ],
+  "Opitz syndrome": [
+    "818"
+  ],
+  "Desmosterolosis": [
+    "35107"
+  ],
+  "X-linked dominant chondrodysplasia punctata": [
+    "35173"
+  ],
+  "linked dominant chondrodysplasia punctata": [
+    "35173"
+  ],
+  "Lathosterolosis": [
+    "46059"
+  ],
+  "Mevalonate kinase deficiency": [
+    "309025"
+  ],
+  "Mevalonic aciduria": [
+    "29"
+  ],
+  "Hyperimmunoglobulinemia D with periodic fever": [
+    "343"
+  ],
+  "MEND syndrome": [
+    "401973"
+  ],
+  "CK syndrome": [
+    "251383"
+  ],
+  "Rare dyslipidemia": [
+    "101953"
+  ],
+  "Rare hyperlipidemia": [
+    "181422"
+  ],
+  "Dysbetalipoproteinemia": [
+    "412"
+  ],
+  "Familial Hyperalphalipoproteinemia": [
+    "181428"
+  ],
+  "Hyperlipidemia due to hepatic triacylglycerol lipase deficiency": [
+    "140905"
+  ],
+  "Familial chylomicronemia syndrome": [
+    "444490"
+  ],
+  "Familial lipoprotein lipase deficiency": [
+    "309015"
+  ],
+  "Familial apolipoprotein C-II deficiency": [
+    "309020"
+  ],
+  "II deficiency": [
+    "309020"
+  ],
+  "Familial lipase maturation factor 1 deficiency": [
+    "535453"
+  ],
+  "Familial GPIHBP1 deficiency": [
+    "535458"
+  ],
+  "Familial apolipoprotein A5 deficiency": [
+    "530849"
+  ],
+  "Rare hypercholesterolemia": [
+    "477811"
+  ],
+  "Homozygous familial hypercholesterolemia": [
+    "391665"
+  ],
+  "Rare hypolipidemia": [
+    "181431"
+  ],
+  "Hypoalphalipoproteinemia": [
+    "31153"
+  ],
+  "LCAT deficiency": [
+    "650"
+  ],
+  "Fish-eye disease": [
+    "79292"
+  ],
+  "eye disease": [
+    "79292"
+  ],
+  "Familial LCAT deficiency": [
+    "79293"
+  ],
+  "Apolipoprotein A-I deficiency": [
+    "425"
+  ],
+  "I deficiency": [
+    "425"
+  ],
+  "Tangier disease": [
+    "31150"
+  ],
+  "Hypobetalipoproteinemia": [
+    "31154"
+  ],
+  "Abetalipoproteinemia": [
+    "14"
+  ],
+  "Chylomicron retention disease": [
+    "71"
+  ],
+  "Rare syndromic dyslipidemia": [
+    "181437"
+  ],
+  "Sitosterolemia": [
+    "2882"
+  ],
+  "Lipoprotein glomerulopathy": [
+    "329481"
+  ],
+  "Disorder of lipid absorption and transport": [
+    "309028"
+  ],
+  "Pancreatic triacylglycerol lipase deficiency": [
+    "309031"
+  ],
+  "Pancreatic colipase deficiency": [
+    "309108"
+  ],
+  "Combined pancreatic lipase-colipase deficiency": [
+    "309111"
+  ],
+  "colipase deficiency": [
+    "309111"
+  ],
+  "Disorder of phospholipids, sphingolipids and fatty acids biosynthesis": [
+    "352301"
+  ],
+  "Disorder of phospholipids, sphingolipids and fatty acids biosynthesis with central nervous system predominant involvement": [
+    "352306"
+  ],
+  "Spastic paraparesis-cataracts-speech delay syndrome": [
+    "615938"
+  ],
+  "speech delay syndrome": [
+    "615938"
+  ],
+  "Autosomal recessive complex spastic paraplegia due to Kennedy pathway dysfunction": [
+    "506353"
+  ],
+  "Sjögren-Larsson syndrome": [
+    "816"
+  ],
+  "Larsson syndrome": [
+    "816"
+  ],
+  "Autosomal recessive spastic paraplegia type 39": [
+    "139480"
+  ],
+  "Pantothenate kinase-associated neurodegeneration": [
+    "157850",
+    "157850"
+  ],
+  "associated neurodegeneration": [
+    "157850",
+    "216866",
+    "216873",
+    "329303",
+    "329308",
+    "157850",
+    "216866",
+    "216873"
+  ],
+  "Classic pantothenate kinase-associated neurodegeneration": [
+    "216866",
+    "216866"
+  ],
+  "Atypical pantothenate kinase-associated neurodegeneration": [
+    "216873",
+    "216873"
+  ],
+  "PLA2G6-associated neurodegeneration": [
+    "329303"
+  ],
+  "Infantile neuroaxonal dystrophy": [
+    "35069"
+  ],
+  "Adult-onset dystonia-parkinsonism": [
+    "199351"
+  ],
+  "parkinsonism": [
+    "199351"
+  ],
+  "Fatty acid hydroxylase-associated neurodegeneration": [
+    "329308"
+  ],
+  "Congenital ichthyosis-intellectual disability-spastic quadriplegia syndrome": [
+    "352333"
+  ],
+  "spastic quadriplegia syndrome": [
+    "352333"
+  ],
+  "Spinocerebellar ataxia type 38": [
+    "423296"
+  ],
+  "Progressive myoclonic epilepsy type 8": [
+    "424027"
+  ],
+  "Progressive encephalopathy with leukodystrophy due to DECR deficiency": [
+    "431361"
+  ],
+  "Disorder of phospholipids, sphingolipids and fatty acids biosynthesis with peripheral nerves predominant involvement": [
+    "352309"
+  ],
+  "Hereditary sensory and autonomic neuropathy type 1": [
+    "36386"
+  ],
+  "Polyneuropathy-hearing loss-ataxia-retinitis pigmentosa-cataract syndrome": [
+    "171848"
+  ],
+  "cataract syndrome": [
+    "171848",
+    "163"
+  ],
+  "Disorder of phospholipids, sphingolipids and fatty acids biosynthesis with skeletal muscle predominant involvement": [
+    "352312"
+  ],
+  "Neutral lipid storage disease": [
+    "165"
+  ],
+  "Neutral lipid storage disease with ichthyosis": [
+    "98907"
+  ],
+  "Neutral lipid storage disease with myopathy": [
+    "98908"
+  ],
+  "Primary triglyceride deposit cardiomyovasculopathy": [
+    "565612"
+  ],
+  "Megaconial congenital muscular dystrophy": [
+    "280671"
+  ],
+  "Familial steroid-resistant nephrotic syndrome with adrenal insufficiency": [
+    "506334"
+  ],
+  "resistant nephrotic syndrome with adrenal insufficiency": [
+    "506334"
+  ],
+  "Disorder of lysosomal-related organelles": [
+    "309340"
+  ],
+  "Chédiak-Higashi syndrome": [
+    "167"
+  ],
+  "Haim-Munk syndrome": [
+    "2342"
+  ],
+  "Papillon-Lefèvre syndrome": [
+    "678"
+  ],
+  "Hermansky-Pudlak syndrome": [
+    "79430"
+  ],
+  "Hermansky-Pudlak syndrome due to AP-3 deficiency": [
+    "183678"
+  ],
+  "3 deficiency": [
+    "183678",
+    "231500"
+  ],
+  "Hermansky-Pudlak syndrome due to AP3B1 deficiency": [
+    "664500"
+  ],
+  "Pudlak syndrome due to AP3B1 deficiency": [
+    "664500"
+  ],
+  "Early-onset severe Hermansky-Pudlak syndrome with hearing loss, due to AP3D1 deficiency": [
+    "664511"
+  ],
+  "Pudlak syndrome with hearing loss, due to AP3D1 deficiency": [
+    "664511"
+  ],
+  "Hermansky-Pudlak syndrome due to BLOC-3 deficiency": [
+    "231500"
+  ],
+  "Hermansky-Pudlak syndrome due to BLOC-2 deficiency": [
+    "231512"
+  ],
+  "2 deficiency": [
+    "231512"
+  ],
+  "Hermansky-Pudlak syndrome due to BLOC-1 deficiency": [
+    "231531"
+  ],
+  "Progressive hypotonia-intellectual disability-facial dysmorphism syndrome due to FYVE-defective RBSN": [
+    "675782"
+  ],
+  "Disorder of porphyrin and heme metabolism": [
+    "309813"
+  ],
+  "Porphyria": [
+    "738"
+  ],
+  "Erythropoietic porphyria": [
+    "659681"
+  ],
+  "Congenital erythropoietic porphyria": [
+    "79277"
+  ],
+  "Autosomal erythropoietic protoporphyria": [
+    "79278"
+  ],
+  "X-linked erythropoietic protoporphyria": [
+    "443197"
+  ],
+  "linked erythropoietic protoporphyria": [
+    "443197"
+  ],
+  "Erythropoietic uroporphyria associated with myeloid malignancy": [
+    "280379"
+  ],
+  "Hepatoerythropoietic porphyria": [
+    "95159"
+  ],
+  "Harderoporphyria": [
+    "659672"
+  ],
+  "Hepatic porphyria": [
+    "659694"
+  ],
+  "Acute hepatic porphyria": [
+    "95157"
+  ],
+  "Hereditary coproporphyria": [
+    "79273"
+  ],
+  "Acute intermittent porphyria": [
+    "79276"
+  ],
+  "Variegate porphyria": [
+    "79473"
+  ],
+  "Porphyria due to ALA dehydratase deficiency": [
+    "100924"
+  ],
+  "Hepatic cutaneous porphyria": [
+    "659698"
+  ],
+  "Porphyria cutanea tarda": [
+    "101330"
+  ],
+  "Sporadic porphyria cutanea tarda": [
+    "443057"
+  ],
+  "Familial porphyria cutanea tarda": [
+    "443062"
+  ],
+  "X-linked sideroblastic anemia": [
+    "75563"
+  ],
+  "Disorder of bilirubin metabolism and excretion": [
+    "309816"
+  ],
+  "Crigler-Najjar syndrome": [
+    "205"
+  ],
+  "Najjar syndrome": [
+    "205"
+  ],
+  "Crigler-Najjar syndrome type 1": [
+    "79234"
+  ],
+  "Najjar syndrome type 1": [
+    "79234"
+  ],
+  "Crigler-Najjar syndrome type 2": [
+    "79235"
+  ],
+  "Najjar syndrome type 2": [
+    "79235"
+  ],
+  "Dubin-Johnson syndrome": [
+    "234"
+  ],
+  "Johnson syndrome": [
+    "234"
+  ],
+  "Rotor syndrome": [
+    "3111"
+  ],
+  "Progressive familial intrahepatic cholestasis": [
+    "172"
+  ],
+  "Progressive familial intrahepatic cholestasis type 2": [
+    "79304"
+  ],
+  "Progressive familial intrahepatic cholestasis type 3": [
+    "79305"
+  ],
+  "Progressive familial intrahepatic cholestasis type 1": [
+    "79306"
+  ],
+  "Progressive familial intrahepatic cholestasis type 4": [
+    "480483"
+  ],
+  "MYO5B-related progressive familial intrahepatic cholestasis": [
+    "480491"
+  ],
+  "related progressive familial intrahepatic cholestasis": [
+    "480491"
+  ],
+  "Progressive familial intrahepatic cholestasis type 5": [
+    "480476"
+  ],
+  "Hereditary North American Indian childhood cirrhosis": [
+    "168583"
+  ],
+  "Arthrogryposis-renal dysfunction-cholestasis syndrome": [
+    "2697"
+  ],
+  "cholestasis syndrome": [
+    "2697"
+  ],
+  "Benign recurrent intrahepatic cholestasis": [
+    "65682"
+  ],
+  "Benign recurrent intrahepatic cholestasis type 1": [
+    "99960"
+  ],
+  "Benign recurrent intrahepatic cholestasis type 2": [
+    "99961"
+  ],
+  "Bilirubin encephalopathy": [
+    "415286"
+  ],
+  "Acute bilirubin encephalopathy": [
+    "529799"
+  ],
+  "Chronic bilirubin encephalopathy": [
+    "529808"
+  ],
+  "Heme oxygenase-1 deficiency": [
+    "562509"
+  ],
+  "Disorder of metabolite absorption and transport": [
+    "309824"
+  ],
+  "Disorder of vitamin and non-protein cofactor absorption and transport": [
+    "309827"
+  ],
+  "Disorder of cobalamin metabolism and transport": [
+    "79171"
+  ],
+  "Transcobalamin deficiency": [
+    "859"
+  ],
+  "Transcobalamin I deficiency": [
+    "2967"
+  ],
+  "Congenital intrinsic factor deficiency": [
+    "332"
+  ],
+  "Imerslund-Gräsbeck syndrome": [
+    "35858"
+  ],
+  "Gräsbeck syndrome": [
+    "35858"
+  ],
+  "Methylmalonic aciduria due to transcobalamin receptor defect": [
+    "280183"
+  ],
+  "Disorder of folate metabolism and transport": [
+    "285657"
+  ],
+  "MTHFS-related developmental delay-microcephaly-short stature-epilepsy syndrome": [
+    "597874"
+  ],
+  "epilepsy syndrome": [
+    "597874"
+  ],
+  "Combined immunodeficiency-megaloblastic anemia due to methylenetetrahydrofolate dehydrogenase 1 deficiency": [
+    "658813"
+  ],
+  "megaloblastic anemia due to methylenetetrahydrofolate dehydrogenase 1 deficiency": [
+    "658813"
+  ],
+  "Megaloblastic anemia-immunodeficiency due to folate transporter 1 deficiency": [
+    "661412"
+  ],
+  "immunodeficiency due to folate transporter 1 deficiency": [
+    "661412"
+  ],
+  "Homocystinuria due to methylene tetrahydrofolate reductase deficiency": [
+    "395"
+  ],
+  "Formiminoglutamic aciduria": [
+    "51208"
+  ],
+  "Hereditary folate malabsorption": [
+    "90045"
+  ],
+  "Neurodegenerative syndrome due to cerebral folate transport deficiency": [
+    "217382"
+  ],
+  "Constitutional megaloblastic anemia with severe neurologic disease": [
+    "319651"
+  ],
+  "Disorder of thiamine metabolism and transport": [
+    "298644"
+  ],
+  "Progressive polyneuropathy with bilateral striatal necrosis": [
+    "217396"
+  ],
+  "Thiamine-responsive megaloblastic anemia syndrome": [
+    "49827"
+  ],
+  "responsive megaloblastic anemia syndrome": [
+    "49827"
+  ],
+  "Biotin-thiamine-responsive basal ganglia disease": [
+    "65284"
+  ],
+  "responsive basal ganglia disease": [
+    "65284"
+  ],
+  "Thiamine-responsive encephalopathy": [
+    "199348"
+  ],
+  "responsive encephalopathy": [
+    "199348"
+  ],
+  "Infantile spasms-psychomotor retardation-progressive brain atrophy-basal ganglia disease syndrome": [
+    "263410"
+  ],
+  "basal ganglia disease syndrome": [
+    "263410"
+  ],
+  "Childhood encephalopathy due to thiamine pyrophosphokinase deficiency": [
+    "293955"
+  ],
+  "Amish lethal microcephaly": [
+    "99742"
+  ],
+  "Disorder of other vitamins and cofactors metabolism and transport": [
+    "309833"
+  ],
+  "Ataxia with vitamin E deficiency": [
+    "96"
+  ],
+  "Hereditary combined deficiency of vitamin K-dependent clotting factors": [
+    "98434"
+  ],
+  "dependent clotting factors": [
+    "98434"
+  ],
+  "Hereditary hypercarotenemia and vitamin A deficiency": [
+    "199285"
+  ],
+  "Progressive retinal dystrophy due to retinol transport defect": [
+    "352718"
+  ],
+  "Maternal riboflavin deficiency": [
+    "411712"
+  ],
+  "Disorder of mineral absorption and transport": [
+    "309836"
+  ],
+  "Disorder of copper metabolism": [
+    "309839"
+  ],
+  "Wilson disease": [
+    "905"
+  ],
+  "Menkes disease": [
+    "565"
+  ],
+  "Familial benign copper deficiency": [
+    "1551"
+  ],
+  "Occipital horn syndrome": [
+    "198"
+  ],
+  "MEDNIK syndrome": [
+    "171851"
+  ],
+  "Autosomal recessive axonal Charcot-Marie-Tooth disease due to copper metabolism defect": [
+    "521411"
+  ],
+  "Tooth disease due to copper metabolism defect": [
+    "521411"
+  ],
+  "Disorder of iron metabolism and transport": [
+    "309842"
+  ],
+  "Neonatal hemochromatosis": [
+    "446"
+  ],
+  "Congenital atransferrinemia": [
+    "1195"
+  ],
+  "Aceruloplasminemia": [
+    "48818"
+  ],
+  "Microcytic anemia with liver iron overload": [
+    "83642"
+  ],
+  "Dietary iron overload disease": [
+    "139507"
+  ],
+  "Neuroferritinopathy": [
+    "157846"
+  ],
+  "Rare hereditary hemochromatosis": [
+    "220489"
+  ],
+  "Symptomatic form of HFE-related hemochromatosis": [
+    "465508"
+  ],
+  "related hemochromatosis": [
+    "465508",
+    "648569",
+    "225123",
+    "647834",
+    "79230"
+  ],
+  "Non-HFE-related hemochromatosis": [
+    "648569"
+  ],
+  "TFR2-related hemochromatosis": [
+    "225123"
+  ],
+  "SLC40A1-related hemochromatosis": [
+    "647834"
+  ],
+  "HJV or HAMP-related hemochromatosis": [
+    "79230"
+  ],
+  "Digenic hemochromatosis": [
+    "648581"
+  ],
+  "FTH1-related iron overload": [
+    "247790"
+  ],
+  "related iron overload": [
+    "247790"
+  ],
+  "L-ferritin deficiency": [
+    "440731"
+  ],
+  "ferritin deficiency": [
+    "440731"
+  ],
+  "Hereditary hyperferritinemia-cataract syndrome": [
+    "163"
+  ],
+  "Ferroportin disease": [
+    "648562"
+  ],
+  "Disorder of zinc metabolism and transport": [
+    "309845"
+  ],
+  "Psychomotor regression-oculomotor apraxia-movement disorder-nephropathy syndrome": [
+    "505242"
+  ],
+  "nephropathy syndrome": [
+    "505242"
+  ],
+  "Acrodermatitis enteropathica": [
+    "37"
+  ],
+  "Hyperzincemia and hypercalprotectinemia": [
+    "251523"
+  ],
+  "Disorder of magnesium transport": [
+    "309848"
+  ],
+  "Primary hypomagnesemia with secondary hypocalcemia": [
+    "30924"
+  ],
+  "Autosomal dominant primary hypomagnesemia with hypocalciuria": [
+    "34528"
+  ],
+  "Isolated autosomal dominant hypomagnesemia, Glaudemans type": [
+    "199326"
+  ],
+  "Primary hypomagnesemia-refractory seizures-intellectual disability syndrome": [
+    "564178"
+  ],
+  "Primary hypomagnesemia-generalized seizures-intellectual disability-obesity syndrome": [
+    "620363"
+  ],
+  "obesity syndrome": [
+    "620363"
+  ],
+  "EGF-related primary hypomagnesemia with intellectual disability": [
+    "620368"
+  ],
+  "related primary hypomagnesemia with intellectual disability": [
+    "620368"
+  ],
+  "Primary hypomagnesemia with hypercalciuria and nephrocalcinosis": [
+    "306516"
+  ],
+  "Primary hypomagnesemia with hypercalciuria and nephrocalcinosis with severe ocular involvement": [
+    "2196"
+  ],
+  "Primary hypomagnesemia with hypercalciuria and nephrocalcinosis without severe ocular involvement": [
+    "31043"
+  ],
+  "Disorder of manganese transport": [
+    "309851"
+  ],
+  "Cirrhosis-dystonia-polycythemia-hypermanganesemia syndrome": [
+    "309854"
+  ],
+  "hypermanganesemia syndrome": [
+    "309854",
+    "521406"
+  ],
+  "Dystonia-parkinsonism-hypermanganesemia syndrome": [
+    "521406"
+  ]
+}

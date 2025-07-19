@@ -1,0 +1,491 @@
+{
+  "disease_name": "Autosomal dominant optic atrophy plus syndrome",
+  "orpha_code": "1215",
+  "drugs": [
+    {
+      "name": "Peptide-oligonucleotide conjugate that targets OPA1 mRNA",
+      "substance_url": "/en/drug/substance/676678?name=1215&mode=orpha&region=&status=all",
+      "substance_id": "676678",
+      "regulatory_url": "/en/drug/regulatory/676730?name=1215&mode=orpha&region=",
+      "regulatory_id": "676730",
+      "orpha_substance_code": "ORPHA:98673",
+      "details": [
+        "Peptide-oligonucleotide conjugate that targets OPA1 mRNA(Medicinal product                        - 22/05/2024)Disease(s) concernedORPHA:1215 Autosomal dominant optic atrophy plus syndromeORPHA:98673 Autosomal dominant optic atrophy, classic form",
+        "Peptide-oligonucleotide conjugate that targets OPA1 mRNA(Medicinal product                        - 22/05/2024)",
+        "(Medicinal product                        - 22/05/2024)",
+        "Disease(s) concernedORPHA:1215 Autosomal dominant optic atrophy plus syndromeORPHA:98673 Autosomal dominant optic atrophy, classic form",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/676678?name=1215&mode=orpha&region=&status=all",
+          "text": "Peptide-oligonucleotide conjugate that targets OPA1 mRNA",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/1215",
+          "text": "ORPHA:1215 Autosomal dominant optic atrophy plus syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/98673",
+          "text": "ORPHA:98673 Autosomal dominant optic atrophy, classic form",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/676730?name=1215&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "ORPHA:98673 Autosomal dominant optic atrophy, classic form\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Govorestat",
+      "substance_url": "/en/drug/substance/628466?name=1215&mode=orpha&region=&status=all",
+      "substance_id": "628466",
+      "regulatory_url": "/en/drug/regulatory/650310?name=1215&mode=orpha&region=",
+      "regulatory_id": "650310",
+      "orpha_substance_code": "ORPHA:166",
+      "details": [
+        "Govorestat(Medicinal product                        - 22/05/2023)Disease(s) concernedORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+        "Govorestat(Medicinal product                        - 22/05/2023)",
+        "(Medicinal product                        - 22/05/2023)",
+        "Disease(s) concernedORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/628466?name=1215&mode=orpha&region=&status=all",
+          "text": "Govorestat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/166",
+          "text": "ORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/650310?name=1215&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "2-[N-(2-hydroxyethyl)]-N-(4-methoxybenzenesulfonyl)]amino-N-(4-chlorocinnamyl)-N-methylbenzylamine",
+      "substance_url": "/en/drug/substance/499387?name=1215&mode=orpha&region=&status=all",
+      "substance_id": "499387",
+      "regulatory_url": "/en/drug/regulatory/499392?name=1215&mode=orpha&region=",
+      "regulatory_id": "499392",
+      "orpha_substance_code": "ORPHA:166",
+      "details": [
+        "2-[N-(2-hydroxyethyl)]-N-(4-methoxybenzenesulfonyl)]amino-N-(4-chlorocinnamyl)-N-methylbenzylamine(Medicinal product                        - 16/10/2017)Disease(s) concernedORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+        "2-[N-(2-hydroxyethyl)]-N-(4-methoxybenzenesulfonyl)]amino-N-(4-chlorocinnamyl)-N-methylbenzylamine(Medicinal product                        - 16/10/2017)",
+        "(Medicinal product                        - 16/10/2017)",
+        "Disease(s) concernedORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/499387?name=1215&mode=orpha&region=&status=all",
+          "text": "2-[N-(2-hydroxyethyl)]-N-(4-methoxybenzenesulfonyl)]amino-N-(4-chlorocinnamyl)-N-methylbenzylamine",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/166",
+          "text": "ORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/499392?name=1215&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Icerguastat acetate",
+      "substance_url": "/en/drug/substance/449585?name=1215&mode=orpha&region=&status=all",
+      "substance_id": "449585",
+      "regulatory_url": "/en/drug/regulatory/449589?name=1215&mode=orpha&region=",
+      "regulatory_id": "449589",
+      "orpha_substance_code": "ORPHA:166",
+      "details": [
+        "Icerguastat acetate(Medicinal product                        - 14/12/2015)Disease(s) concernedORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+        "Icerguastat acetate(Medicinal product                        - 14/12/2015)",
+        "(Medicinal product                        - 14/12/2015)",
+        "Disease(s) concernedORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/449585?name=1215&mode=orpha&region=&status=all",
+          "text": "Icerguastat acetate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/166",
+          "text": "ORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/449589?name=1215&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Human Wharton's jelly-derived mesenchymal stem cells",
+      "substance_url": "/en/drug/substance/695327?name=1215&mode=orpha&region=&status=all",
+      "substance_id": "695327",
+      "regulatory_url": "/en/drug/regulatory/695543?name=1215&mode=orpha&region=",
+      "regulatory_id": "695543",
+      "orpha_substance_code": "ORPHA:166",
+      "details": [
+        "Human Wharton's jelly-derived mesenchymal stem cells(Medicinal product                        - 27/02/2025)Disease(s) concernedORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+        "Human Wharton's jelly-derived mesenchymal stem cells(Medicinal product                        - 27/02/2025)",
+        "(Medicinal product                        - 27/02/2025)",
+        "Disease(s) concernedORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/695327?name=1215&mode=orpha&region=&status=all",
+          "text": "Human Wharton's jelly-derived mesenchymal stem cells",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/166",
+          "text": "ORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/695543?name=1215&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Bromophenoxyazole propanoic acid",
+      "substance_url": "/en/drug/substance/631561?name=1215&mode=orpha&region=&status=all",
+      "substance_id": "631561",
+      "regulatory_url": "/en/drug/regulatory/692595?name=1215&mode=orpha&region=",
+      "regulatory_id": "692595",
+      "orpha_substance_code": "ORPHA:166",
+      "details": [
+        "Bromophenoxyazole propanoic acid(Medicinal product                        - 02/12/2024)Disease(s) concernedORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+        "Bromophenoxyazole propanoic acid(Medicinal product                        - 02/12/2024)",
+        "(Medicinal product                        - 02/12/2024)",
+        "Disease(s) concernedORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/631561?name=1215&mode=orpha&region=&status=all",
+          "text": "Bromophenoxyazole propanoic acid",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/166",
+          "text": "ORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/692595?name=1215&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Small molecule allosteric mitofusin activator",
+      "substance_url": "/en/drug/substance/684495?name=1215&mode=orpha&region=&status=all",
+      "substance_id": "684495",
+      "regulatory_url": "/en/drug/regulatory/684706?name=1215&mode=orpha&region=",
+      "regulatory_id": "684706",
+      "orpha_substance_code": "ORPHA:166",
+      "details": [
+        "Small molecule allosteric mitofusin activator(Medicinal product                        - 12/06/2024)Disease(s) concernedORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+        "Small molecule allosteric mitofusin activator(Medicinal product                        - 12/06/2024)",
+        "(Medicinal product                        - 12/06/2024)",
+        "Disease(s) concernedORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/684495?name=1215&mode=orpha&region=&status=all",
+          "text": "Small molecule allosteric mitofusin activator",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/166",
+          "text": "ORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/684706?name=1215&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Alpha 1 anti-trypsin (AAT), human alpha 1 anti-trypsin, alpha 1 proteinase inhibitor",
+      "substance_url": "/en/drug/substance/661978?name=1215&mode=orpha&region=&status=all",
+      "substance_id": "661978",
+      "regulatory_url": "/en/drug/regulatory/661983?name=1215&mode=orpha&region=",
+      "regulatory_id": "661983",
+      "orpha_substance_code": "ORPHA:166",
+      "details": [
+        "Alpha 1 anti-trypsin (AAT), human alpha 1 anti-trypsin, alpha 1 proteinase inhibitor(Medicinal product                        - 25/07/2023)Disease(s) concernedORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+        "Alpha 1 anti-trypsin (AAT), human alpha 1 anti-trypsin, alpha 1 proteinase inhibitor(Medicinal product                        - 25/07/2023)",
+        "(Medicinal product                        - 25/07/2023)",
+        "Disease(s) concernedORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/661978?name=1215&mode=orpha&region=&status=all",
+          "text": "Alpha 1 anti-trypsin (AAT), human alpha 1 anti-trypsin, alpha 1 proteinase inhibitor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/166",
+          "text": "ORPHA:166 Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/661983?name=1215&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/646586?name=1215&mode=orpha&region=&status=all",
+      "substance_id": "646586",
+      "regulatory_url": "/en/drug/regulatory/646683?name=1215&mode=orpha&region=",
+      "regulatory_id": "646683",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)",
+        "(Medicinal product                        - 14/04/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/646586?name=1215&mode=orpha&region=&status=all",
+          "text": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/646683?name=1215&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Zagociguat",
+      "substance_url": "/en/drug/substance/644348?name=1215&mode=orpha&region=&status=all",
+      "substance_id": "644348",
+      "regulatory_url": "/en/drug/regulatory/644353?name=1215&mode=orpha&region=",
+      "regulatory_id": "644353",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Zagociguat(Medicinal product                        - 23/03/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Zagociguat(Medicinal product                        - 23/03/2023)",
+        "(Medicinal product                        - 23/03/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/644348?name=1215&mode=orpha&region=&status=all",
+          "text": "Zagociguat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/644353?name=1215&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "18-mer antisense oligonucleotide complementary to OPA1 pre-mRNA",
+      "substance_url": "/en/drug/substance/637248?name=1215&mode=orpha&region=&status=all",
+      "substance_id": "637248",
+      "regulatory_url": "/en/drug/regulatory/637253?name=1215&mode=orpha&region=",
+      "regulatory_id": "637253",
+      "orpha_substance_code": "ORPHA:98672",
+      "details": [
+        "18-mer antisense oligonucleotide complementary to OPA1 pre-mRNA(Medicinal product                        - 29/07/2022)Disease(s) concernedORPHA:98672 Autosomal dominant optic atrophy",
+        "18-mer antisense oligonucleotide complementary to OPA1 pre-mRNA(Medicinal product                        - 29/07/2022)",
+        "(Medicinal product                        - 29/07/2022)",
+        "Disease(s) concernedORPHA:98672 Autosomal dominant optic atrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/637248?name=1215&mode=orpha&region=&status=all",
+          "text": "18-mer antisense oligonucleotide complementary to OPA1 pre-mRNA",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/98672",
+          "text": "ORPHA:98672 Autosomal dominant optic atrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/637253?name=1215&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Vatiquinone",
+      "substance_url": "/en/drug/substance/285822?name=1215&mode=orpha&region=&status=all",
+      "substance_id": "285822",
+      "regulatory_url": "/en/drug/regulatory/299940?name=1215&mode=orpha&region=",
+      "regulatory_id": "299940",
+      "orpha_substance_code": "ORPHA:254827",
+      "details": [
+        "Vatiquinone(Medicinal product                        - 21/12/2010)Disease(s) concernedORPHA:223713 Mitochondrial oxidative phosphorylation disorderORPHA:254827 Mitochondrial membrane transport disorder",
+        "Vatiquinone(Medicinal product                        - 21/12/2010)",
+        "(Medicinal product                        - 21/12/2010)",
+        "Disease(s) concernedORPHA:223713 Mitochondrial oxidative phosphorylation disorderORPHA:254827 Mitochondrial membrane transport disorder",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/285822?name=1215&mode=orpha&region=&status=all",
+          "text": "Vatiquinone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/223713",
+          "text": "ORPHA:223713 Mitochondrial oxidative phosphorylation disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/254827",
+          "text": "ORPHA:254827 Mitochondrial membrane transport disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/299940?name=1215&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "ORPHA:254827 Mitochondrial membrane transport disorder\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:02:51.746156",
+  "run_number": 1,
+  "total_drugs_found": 12,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Autosomal+dominant+optic+atrophy+plus+syndrome&orphaCode=1215&name=1215&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Autosomal dominant optic atrophy plus syndrome",
+    "orphaCode": "1215",
+    "name": "1215",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

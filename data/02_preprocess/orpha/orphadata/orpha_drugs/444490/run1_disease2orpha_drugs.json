@@ -1,0 +1,102 @@
+{
+  "disease_name": "Familial chylomicronemia syndrome",
+  "orpha_code": "444490",
+  "drugs": [
+    {
+      "name": "WAYLIVRA",
+      "substance_url": "/en/drug/trade_name/556969?name=444490&mode=orpha&region=&status=all",
+      "substance_id": "556969",
+      "regulatory_url": "/en/drug/regulatory/556976?name=444490&mode=orpha&region=",
+      "regulatory_id": "556976",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Olezarsen",
+      "substance_url": "/en/drug/substance/622060?name=444490&mode=orpha&region=&status=all",
+      "substance_id": "622060",
+      "regulatory_url": "/en/drug/regulatory/686872?name=444490&mode=orpha&region=",
+      "regulatory_id": "686872",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Synthetic double-stranded siRNA oligonucleotide directed against apolipoprotein C-III mRNA and covalently linked to a ligand containing three N-acetylgalactosamine residues",
+      "substance_url": "/en/drug/substance/627673?name=444490&mode=orpha&region=&status=all",
+      "substance_id": "627673",
+      "regulatory_url": "/en/drug/regulatory/627674?name=444490&mode=orpha&region=",
+      "regulatory_id": "627674",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Apolipotrotein C-III antisense oligonucleotide",
+      "substance_url": "/en/drug/substance/376872?name=444490&mode=orpha&region=&status=all",
+      "substance_id": "376872",
+      "regulatory_url": "/en/drug/regulatory/397921?name=444490&mode=orpha&region=",
+      "regulatory_id": "397921",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Lomitapide",
+      "substance_url": "/en/drug/substance/240492?name=444490&mode=orpha&region=&status=all",
+      "substance_id": "240492",
+      "regulatory_url": "/en/drug/regulatory/260317?name=444490&mode=orpha&region=",
+      "regulatory_id": "260317",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Trans-4-[4-[5-[[6-(trifluoromethyl)-3-pyridinyl]amino]-2-pyridinyl]phenyl] cyclohexane acetic acid sodium salt",
+      "substance_url": "/en/drug/substance/317205?name=444490&mode=orpha&region=&status=all",
+      "substance_id": "317205",
+      "regulatory_url": "/en/drug/regulatory/360541?name=444490&mode=orpha&region=",
+      "regulatory_id": "360541",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "TRYNGOLZA",
+      "substance_url": "/en/drug/trade_name/692409?name=444490&mode=orpha&region=&status=all",
+      "substance_id": "692409",
+      "regulatory_url": "/en/drug/regulatory/692505?name=444490&mode=orpha&region=",
+      "regulatory_id": "692505",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:43:03.261255",
+  "run_number": 1,
+  "total_drugs_found": 7,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Familial+chylomicronemia+syndrome&orphaCode=444490&name=444490&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Familial chylomicronemia syndrome",
+    "orphaCode": "444490",
+    "name": "444490",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

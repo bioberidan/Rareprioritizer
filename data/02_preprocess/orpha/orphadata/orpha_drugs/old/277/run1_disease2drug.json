@@ -1,0 +1,824 @@
+{
+  "disease_name": "Severe combined immunodeficiency due to adenosine deaminase deficiency",
+  "orpha_code": "277",
+  "drugs": [
+    {
+      "name": "STRIMVELIS",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/459556?name=277&mode=orpha&region=",
+      "regulatory_id": "459556",
+      "orpha_substance_code": "ORPHA:277",
+      "details": [
+        "STRIMVELIS(Tradename                        - 26/05/2016)Disease(s) concernedORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+        "STRIMVELIS(Tradename                        - 26/05/2016)",
+        "(Tradename                        - 26/05/2016)",
+        "Disease(s) concernedORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/459552?name=277&mode=orpha&region=&status=all",
+          "text": "STRIMVELIS",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/277",
+          "text": "ORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/459556?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Autologous CD34+ cells transduced with a lentiviral vector containing the human ADA gene",
+      "substance_url": "/en/drug/substance/330859?name=277&mode=orpha&region=&status=all",
+      "substance_id": "330859",
+      "regulatory_url": "/en/drug/regulatory/356813?name=277&mode=orpha&region=",
+      "regulatory_id": "356813",
+      "orpha_substance_code": "ORPHA:277",
+      "details": [
+        "Autologous CD34+ cells transduced with a lentiviral vector containing the human ADA gene(Medicinal product                        - 07/06/2013)Disease(s) concernedORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+        "Autologous CD34+ cells transduced with a lentiviral vector containing the human ADA gene(Medicinal product                        - 07/06/2013)",
+        "(Medicinal product                        - 07/06/2013)",
+        "Disease(s) concernedORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/330859?name=277&mode=orpha&region=&status=all",
+          "text": "Autologous CD34+ cells transduced with a lentiviral vector containing the human ADA gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/277",
+          "text": "ORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/356813?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Autologous CD34+ cells transfected with retroviral vector containing adenosine deaminase gene",
+      "substance_url": "/en/drug/substance/65878?name=277&mode=orpha&region=&status=all",
+      "substance_id": "65878",
+      "regulatory_url": "/en/drug/regulatory/133992?name=277&mode=orpha&region=",
+      "regulatory_id": "133992",
+      "orpha_substance_code": "ORPHA:277",
+      "details": [
+        "Autologous CD34+ cells transfected with retroviral vector containing adenosine deaminase gene(Medicinal product                        - 26/08/2005)Disease(s) concernedORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+        "Autologous CD34+ cells transfected with retroviral vector containing adenosine deaminase gene(Medicinal product                        - 26/08/2005)",
+        "(Medicinal product                        - 26/08/2005)",
+        "Disease(s) concernedORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/65878?name=277&mode=orpha&region=&status=all",
+          "text": "Autologous CD34+ cells transfected with retroviral vector containing adenosine deaminase gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/277",
+          "text": "ORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/133992?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "REVCOVI",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/528458?name=277&mode=orpha&region=",
+      "regulatory_id": "528458",
+      "orpha_substance_code": "ORPHA:277",
+      "details": [
+        "REVCOVI(Tradename                        - 10/05/2018)Disease(s) concernedORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+        "REVCOVI(Tradename                        - 10/05/2018)",
+        "(Tradename                        - 10/05/2018)",
+        "Disease(s) concernedORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/528454?name=277&mode=orpha&region=&status=all",
+          "text": "REVCOVI",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/277",
+          "text": "ORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/528458?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "ADAGEN",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131201?name=277&mode=orpha&region=",
+      "regulatory_id": "131201",
+      "orpha_substance_code": "ORPHA:277",
+      "details": [
+        "ADAGEN(Tradename                        - 21/03/1990)Disease(s) concernedORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+        "ADAGEN(Tradename                        - 21/03/1990)",
+        "(Tradename                        - 21/03/1990)",
+        "Disease(s) concernedORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/100846?name=277&mode=orpha&region=&status=all",
+          "text": "ADAGEN",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/277",
+          "text": "ORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131201?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Autologous bone marrow CD34+ cells transduced ex vivo with a self activating HIV-1 -based lentiviral vector, EFS-ADA",
+      "substance_url": "/en/drug/substance/412879?name=277&mode=orpha&region=&status=all",
+      "substance_id": "412879",
+      "regulatory_url": "/en/drug/regulatory/412881?name=277&mode=orpha&region=",
+      "regulatory_id": "412881",
+      "orpha_substance_code": "ORPHA:277",
+      "details": [
+        "Autologous bone marrow CD34+ cells transduced ex vivo with a self activating HIV-1 -based lentiviral vector, EFS-ADA(Medicinal product                        - 21/10/2014)Disease(s) concernedORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+        "Autologous bone marrow CD34+ cells transduced ex vivo with a self activating HIV-1 -based lentiviral vector, EFS-ADA(Medicinal product                        - 21/10/2014)",
+        "(Medicinal product                        - 21/10/2014)",
+        "Disease(s) concernedORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/412879?name=277&mode=orpha&region=&status=all",
+          "text": "Autologous bone marrow CD34+ cells transduced ex vivo with a self activating HIV-1 -based lentiviral vector, EFS-ADA",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/277",
+          "text": "ORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/412881?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Pegademase bovine",
+      "substance_url": "/en/drug/substance/100845?name=277&mode=orpha&region=&status=all",
+      "substance_id": "100845",
+      "regulatory_url": "/en/drug/regulatory/132187?name=277&mode=orpha&region=",
+      "regulatory_id": "132187",
+      "orpha_substance_code": "ORPHA:277",
+      "details": [
+        "Pegademase bovine(Medicinal product                        - 29/05/1984)Disease(s) concernedORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+        "Pegademase bovine(Medicinal product                        - 29/05/1984)",
+        "(Medicinal product                        - 29/05/1984)",
+        "Disease(s) concernedORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/100845?name=277&mode=orpha&region=&status=all",
+          "text": "Pegademase bovine",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/277",
+          "text": "ORPHA:277 Severe combined immunodeficiency due to adenosine deaminase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/132187?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "DEQSIGA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/700589?name=277&mode=orpha&region=",
+      "regulatory_id": "700589",
+      "orpha_substance_code": "ORPHA:101997",
+      "details": [
+        "DEQSIGA(Tradename                        - 02/05/2025)Disease(s) concernedORPHA:3002 Immune thrombocytopeniaORPHA:2331 Kawasaki diseaseORPHA:2103 Guillain-Barré syndromeORPHA:2932 Chronic inflammatory demyelinating polyneuropathyORPHA:641 Multifocal motor neuropathyORPHA:101997 Primary immunodeficiency",
+        "DEQSIGA(Tradename                        - 02/05/2025)",
+        "(Tradename                        - 02/05/2025)",
+        "Disease(s) concernedORPHA:3002 Immune thrombocytopeniaORPHA:2331 Kawasaki diseaseORPHA:2103 Guillain-Barré syndromeORPHA:2932 Chronic inflammatory demyelinating polyneuropathyORPHA:641 Multifocal motor neuropathyORPHA:101997 Primary immunodeficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/700586?name=277&mode=orpha&region=&status=all",
+          "text": "DEQSIGA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/3002",
+          "text": "ORPHA:3002 Immune thrombocytopenia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2331",
+          "text": "ORPHA:2331 Kawasaki disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2103",
+          "text": "ORPHA:2103 Guillain-Barré syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2932",
+          "text": "ORPHA:2932 Chronic inflammatory demyelinating polyneuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/641",
+          "text": "ORPHA:641 Multifocal motor neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101997",
+          "text": "ORPHA:101997 Primary immunodeficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/700589?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "ORPHA:2103 Guillain-Barré syndrome\n                                \n\n\n\n\n                                    ORPHA:2932 Chronic inflammatory demyelinating polyneuropathy\n                                \n\n\n\n\n                                    ORPHA:641 Multifocal motor neuropathy\n                                \n\n\n\n\n                                    ORPHA:101997 Primary immunodeficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "PLERIXAFOR ACCORD",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/642317?name=277&mode=orpha&region=",
+      "regulatory_id": "642317",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "PLERIXAFOR ACCORD(Tradename                        - 16/12/2022)Disease(s) concernedORPHA:29073 Multiple myelomaORPHA:223735 LymphomaORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "PLERIXAFOR ACCORD(Tradename                        - 16/12/2022)",
+        "(Tradename                        - 16/12/2022)",
+        "Disease(s) concernedORPHA:29073 Multiple myelomaORPHA:223735 LymphomaORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/642316?name=277&mode=orpha&region=&status=all",
+          "text": "PLERIXAFOR ACCORD",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/29073",
+          "text": "ORPHA:29073 Multiple myeloma",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/223735",
+          "text": "ORPHA:223735 Lymphoma",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/642317?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Thiotepa Riemser",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/610636?name=277&mode=orpha&region=",
+      "regulatory_id": "610636",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Thiotepa Riemser(Tradename                        - 26/03/2021)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Thiotepa Riemser(Tradename                        - 26/03/2021)",
+        "(Tradename                        - 26/03/2021)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/610616?name=277&mode=orpha&region=&status=all",
+          "text": "Thiotepa Riemser",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/610636?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "HIZENTRA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/353616?name=277&mode=orpha&region=",
+      "regulatory_id": "353616",
+      "orpha_substance_code": "ORPHA:183660",
+      "details": [
+        "HIZENTRA(Tradename                        - 14/04/2011)Disease(s) concernedORPHA:101977 Immunodeficiency predominantly affecting antibody productionORPHA:183660 Severe combined immunodeficiency",
+        "HIZENTRA(Tradename                        - 14/04/2011)",
+        "(Tradename                        - 14/04/2011)",
+        "Disease(s) concernedORPHA:101977 Immunodeficiency predominantly affecting antibody productionORPHA:183660 Severe combined immunodeficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/353563?name=277&mode=orpha&region=&status=all",
+          "text": "HIZENTRA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101977",
+          "text": "ORPHA:101977 Immunodeficiency predominantly affecting antibody production",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/183660",
+          "text": "ORPHA:183660 Severe combined immunodeficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/353616?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "motixafortide",
+      "substance_url": "/en/drug/substance/588874?name=277&mode=orpha&region=&status=all",
+      "substance_id": "588874",
+      "regulatory_url": "/en/drug/regulatory/661036?name=277&mode=orpha&region=",
+      "regulatory_id": "661036",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "motixafortide(Medicinal product                        - 12/01/2024)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "motixafortide(Medicinal product                        - 12/01/2024)",
+        "(Medicinal product                        - 12/01/2024)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/588874?name=277&mode=orpha&region=&status=all",
+          "text": "motixafortide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/661036?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate",
+      "substance_url": "/en/drug/substance/589233?name=277&mode=orpha&region=&status=all",
+      "substance_id": "589233",
+      "regulatory_url": "/en/drug/regulatory/589234?name=277&mode=orpha&region=",
+      "regulatory_id": "589234",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate(Medicinal product                        - 20/04/2020)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate(Medicinal product                        - 20/04/2020)",
+        "(Medicinal product                        - 20/04/2020)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/589233?name=277&mode=orpha&region=&status=all",
+          "text": "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/589234?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus",
+      "substance_url": "/en/drug/substance/589056?name=277&mode=orpha&region=&status=all",
+      "substance_id": "589056",
+      "regulatory_url": "/en/drug/regulatory/589057?name=277&mode=orpha&region=",
+      "regulatory_id": "589057",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus(Medicinal product                        - 24/03/2020)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus(Medicinal product                        - 24/03/2020)",
+        "(Medicinal product                        - 24/03/2020)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/589056?name=277&mode=orpha&region=&status=all",
+          "text": "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/589057?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=277&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=277&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Burixafor(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Burixafor(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689505?name=277&mode=orpha&region=&status=all",
+          "text": "Burixafor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689915?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Autologous CD34+ cells transduced with a lentiviral vector containing the human RAG1 gene",
+      "substance_url": "/en/drug/substance/392978?name=277&mode=orpha&region=&status=all",
+      "substance_id": "392978",
+      "regulatory_url": "/en/drug/regulatory/688391?name=277&mode=orpha&region=",
+      "regulatory_id": "688391",
+      "orpha_substance_code": "ORPHA:183660",
+      "details": [
+        "Autologous CD34+ cells transduced with a lentiviral vector containing the human RAG1 gene(Medicinal product                        - 17/09/2024)Disease(s) concernedORPHA:183660 Severe combined immunodeficiency",
+        "Autologous CD34+ cells transduced with a lentiviral vector containing the human RAG1 gene(Medicinal product                        - 17/09/2024)",
+        "(Medicinal product                        - 17/09/2024)",
+        "Disease(s) concernedORPHA:183660 Severe combined immunodeficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/392978?name=277&mode=orpha&region=&status=all",
+          "text": "Autologous CD34+ cells transduced with a lentiviral vector containing the human RAG1 gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/183660",
+          "text": "ORPHA:183660 Severe combined immunodeficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/688391?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Besilesomab",
+      "substance_url": "/en/drug/substance/571152?name=277&mode=orpha&region=&status=all",
+      "substance_id": "571152",
+      "regulatory_url": "/en/drug/regulatory/641081?name=277&mode=orpha&region=",
+      "regulatory_id": "641081",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Besilesomab(Medicinal product                        - 28/03/2022)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Besilesomab(Medicinal product                        - 28/03/2022)",
+        "(Medicinal product                        - 28/03/2022)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/571152?name=277&mode=orpha&region=&status=all",
+          "text": "Besilesomab",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/641081?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Besilesomab",
+      "substance_url": "/en/drug/substance/571152?name=277&mode=orpha&region=&status=all",
+      "substance_id": "571152",
+      "regulatory_url": "/en/drug/regulatory/641075?name=277&mode=orpha&region=",
+      "regulatory_id": "641075",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Besilesomab(Medicinal product                        - 28/03/2022)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Besilesomab(Medicinal product                        - 28/03/2022)",
+        "(Medicinal product                        - 28/03/2022)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/571152?name=277&mode=orpha&region=&status=all",
+          "text": "Besilesomab",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/641075?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=277&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=277&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Treosulfan(Medicinal product                        - 08/04/2015)Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Treosulfan(Medicinal product                        - 08/04/2015)",
+        "(Medicinal product                        - 08/04/2015)",
+        "Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90799?name=277&mode=orpha&region=&status=all",
+          "text": "Treosulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/213500",
+          "text": "ORPHA:213500 Rare ovarian cancer",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136690?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=277&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=277&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "busulfan(Medicinal product                        - 21/04/1994)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "busulfan(Medicinal product                        - 21/04/1994)",
+        "(Medicinal product                        - 21/04/1994)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/46335?name=277&mode=orpha&region=&status=all",
+          "text": "busulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131973?name=277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:03:48.249974",
+  "run_number": 1,
+  "total_drugs_found": 20,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Severe+combined+immunodeficiency+due+to+adenosine+deaminase+deficiency&orphaCode=277&name=277&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Severe combined immunodeficiency due to adenosine deaminase deficiency",
+    "orphaCode": "277",
+    "name": "277",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "disease_name": "Sitosterolemia",
+  "orpha_code": "2882",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:43:06.785178",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Sitosterolemia&orphaCode=2882&name=2882&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Sitosterolemia",
+    "orphaCode": "2882",
+    "name": "2882",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

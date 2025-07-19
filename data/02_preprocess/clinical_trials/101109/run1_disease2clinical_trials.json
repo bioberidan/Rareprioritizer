@@ -1,0 +1,202 @@
+{
+  "disease_name": "Spinocerebellar ataxia type 28",
+  "orpha_code": "101109",
+  "trials": [
+    {
+      "nctId": "NCT06472557",
+      "briefTitle": "Spinocerebellar Ataxia Type 27B Natural History Study (SCA27B-NHS)",
+      "officialTitle": "Spinocerebellar Ataxia Type 27B Natural History Study (SCA27B-NHS)",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Spinocerebellar Ataxia Type 27B"
+      ],
+      "interventions": [],
+      "enrollment": 300,
+      "locations": [
+        {
+          "facility": "Center for Neurology & Hertie-Institute for Clinical Brain Research, Dept. for Neurodegenerative Diseases",
+          "city": "Tübingen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Department of Neurology & Center for Translational Neuro- and Behavioral Sciences, Essen University Hospital, University of Duisburg-Essen",
+          "city": "Essen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Department of Neurology, Donostia University Hospital, BioGipuzkoa Health Research Institute",
+          "city": "San Sebastián",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2024-06-27"
+    },
+    {
+      "nctId": "NCT06953583",
+      "briefTitle": "A Study to Learn More About the Effects and Long-Term Safety of BIIB141 (Omaveloxolone) in Participants With Friedreich's Ataxia Aged 2 to 15 Years Old",
+      "officialTitle": "A Phase 3, 2-Part, Randomized, Double-Blind, Placebo-Controlled Study (Part 1) and Open-Label Extension (Part 2) to Evaluate the Efficacy, Safety, Pharmacokinetics, and Pharmacodynamics of Omaveloxolone (BIIB141) in Participants With Friedreich's Ataxia Aged 2 to < 16 Years",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Friedreich Ataxia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Omaveloxolone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "enrollment": 255,
+      "locations": [
+        {
+          "facility": "UCLA Neurology Outpatient Clinic at Westwood",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "Norman Fixel Institute for Neurological Diseases UF Health",
+          "city": "Gainesville",
+          "country": "United States"
+        },
+        {
+          "facility": "USF Health Morsani College of Medicine Department of Neurology",
+          "city": "Tampa",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Philadelphia Buerger Center",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "St Jude Children's Research Hospital",
+          "city": "Memphis",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of the King's Daughters",
+          "city": "Norfolk",
+          "country": "United States"
+        },
+        {
+          "facility": "Murdoch Childrens Research Institute (MCRI)",
+          "city": "Parkville",
+          "country": "Australia"
+        },
+        {
+          "facility": "Universitätsklinikum Innsbruck",
+          "city": "Innsbruck",
+          "country": "Austria"
+        },
+        {
+          "facility": "L2 Ip - Instituto de Pesquisas Clinicas Ltda - ME",
+          "city": "Brasília",
+          "country": "Brazil"
+        },
+        {
+          "facility": "University of Campinas (UNICAMP) School of Medical Sciences",
+          "city": "Campinas",
+          "country": "Brazil"
+        },
+        {
+          "facility": "PSEG Centro de Pesquisa Clinica",
+          "city": "Sao Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "McGill University",
+          "city": "Montreal",
+          "country": "Canada"
+        },
+        {
+          "facility": "Rigshospitalet - Juliane Marie Centret (JMC) Copenhagen",
+          "city": "Copenhagen",
+          "country": "Denmark"
+        },
+        {
+          "facility": "CHU de Montpellier - Hôpital Arnaud de Villeneuve",
+          "city": "Montpellier",
+          "country": "France"
+        },
+        {
+          "facility": "AP-HP - Hôpital Armand Trousseau",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Universitätsklinikum Aachen",
+          "city": "Aachen",
+          "country": "Germany"
+        },
+        {
+          "facility": "UKGM - Universitätsklinikum Giessen und Marburg GmbH - Standort Gießen",
+          "city": "Giessen",
+          "country": "Germany"
+        },
+        {
+          "facility": "UKE Hamburg",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "CHI at Temple Street",
+          "city": "Dublin",
+          "country": "Ireland"
+        },
+        {
+          "facility": "Ospedale Pediatrico Bambino Gesù IRCCS",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "IRCCS Eugenio Medea - Polo. Scientifico Veneto",
+          "city": "Conegliano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione IRCCS Istituto Neurologico Carlo Besta",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Radboud Universitair Medisch Centrum",
+          "city": "Nijmegen",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Hospital Sant Joan de Deu",
+          "city": "Espluges De Llobregat",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario La Paz - PPDS",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Sheffield Children's Hospital",
+          "city": "Sheffield",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "University College London, Institue of Neurology",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-06-19"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:14:08.691184",
+  "run_number": 1,
+  "total_trials_found": 2
+}

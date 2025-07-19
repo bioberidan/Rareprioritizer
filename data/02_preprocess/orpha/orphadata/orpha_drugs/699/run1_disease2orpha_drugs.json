@@ -1,0 +1,90 @@
+{
+  "disease_name": "Pearson syndrome",
+  "orpha_code": "699",
+  "drugs": [
+    {
+      "name": "Encaleret sulfate",
+      "substance_url": "/en/drug/substance/627727?name=699&mode=orpha&region=&status=all",
+      "substance_id": "627727",
+      "regulatory_url": "/en/drug/regulatory/627728?name=699&mode=orpha&region=",
+      "regulatory_id": "627728",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Palopegteriparatide",
+      "substance_url": "/en/drug/substance/604906?name=699&mode=orpha&region=&status=all",
+      "substance_id": "604906",
+      "regulatory_url": "/en/drug/regulatory/604907?name=699&mode=orpha&region=",
+      "regulatory_id": "604907",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Recombinant human parathyroid hormone",
+      "substance_url": "/en/drug/substance/367963?name=699&mode=orpha&region=&status=all",
+      "substance_id": "367963",
+      "regulatory_url": "/en/drug/regulatory/377573?name=699&mode=orpha&region=",
+      "regulatory_id": "377573",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/646586?name=699&mode=orpha&region=&status=all",
+      "substance_id": "646586",
+      "regulatory_url": "/en/drug/regulatory/646683?name=699&mode=orpha&region=",
+      "regulatory_id": "646683",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Zagociguat",
+      "substance_url": "/en/drug/substance/644348?name=699&mode=orpha&region=&status=all",
+      "substance_id": "644348",
+      "regulatory_url": "/en/drug/regulatory/644353?name=699&mode=orpha&region=",
+      "regulatory_id": "644353",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Vatiquinone",
+      "substance_url": "/en/drug/substance/285822?name=699&mode=orpha&region=&status=all",
+      "substance_id": "285822",
+      "regulatory_url": "/en/drug/regulatory/708703?name=699&mode=orpha&region=",
+      "regulatory_id": "708703",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:41:55.926994",
+  "run_number": 1,
+  "total_drugs_found": 6,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Pearson+syndrome&orphaCode=699&name=699&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Pearson syndrome",
+    "orphaCode": "699",
+    "name": "699",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

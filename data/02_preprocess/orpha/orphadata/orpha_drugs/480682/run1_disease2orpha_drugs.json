@@ -1,0 +1,126 @@
+{
+  "disease_name": "POGLUT1-related limb-girdle muscular dystrophy R21",
+  "orpha_code": "480682",
+  "drugs": [
+    {
+      "name": "Adeno-associated virus vector serotype 9/rh74 containing the human CAPN3 gene and a target sequence of cardiac-specific microRNA",
+      "substance_url": "/en/drug/substance/661199?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "661199",
+      "regulatory_url": "/en/drug/regulatory/661293?name=480682&mode=orpha&region=",
+      "regulatory_id": "661293",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Patidistrogene bexoparvovec",
+      "substance_url": "/en/drug/substance/642490?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "642490",
+      "regulatory_url": "/en/drug/regulatory/642492?name=480682&mode=orpha&region=",
+      "regulatory_id": "642492",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Adeno-associated viral vector serotype 9 expressing fukutin-related protein",
+      "substance_url": "/en/drug/substance/642474?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "642474",
+      "regulatory_url": "/en/drug/regulatory/642475?name=480682&mode=orpha&region=",
+      "regulatory_id": "642475",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Adeno-associated virus serotype 8 expressing the human gamma-sarcoglycan gene",
+      "substance_url": "/en/drug/substance/626934?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "626934",
+      "regulatory_url": "/en/drug/regulatory/626946?name=480682&mode=orpha&region=",
+      "regulatory_id": "626946",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Adeno-associated virus serotype 9 expressing the human fukutin related protein and target sequence of the miR-208a",
+      "substance_url": "/en/drug/substance/628271?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "628271",
+      "regulatory_url": "/en/drug/regulatory/628272?name=480682&mode=orpha&region=",
+      "regulatory_id": "628272",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Adeno-associated virus serotype rh74 containing the human sarcoglycan beta gene",
+      "substance_url": "/en/drug/substance/605071?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "605071",
+      "regulatory_url": "/en/drug/regulatory/605072?name=480682&mode=orpha&region=",
+      "regulatory_id": "605072",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "ribitol",
+      "substance_url": "/en/drug/substance/604874?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "604874",
+      "regulatory_url": "/en/drug/regulatory/604875?name=480682&mode=orpha&region=",
+      "regulatory_id": "604875",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "505 amino acid protein, corresponding to amino acids 2-506 of the wild type human histidyl-tRNA synthetase",
+      "substance_url": "/en/drug/substance/442799?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "442799",
+      "regulatory_url": "/en/drug/regulatory/486674?name=480682&mode=orpha&region=",
+      "regulatory_id": "486674",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Prednisone",
+      "substance_url": "/en/drug/substance/371723?name=480682&mode=orpha&region=&status=all",
+      "substance_id": "371723",
+      "regulatory_url": "/en/drug/regulatory/665278?name=480682&mode=orpha&region=",
+      "regulatory_id": "665278",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:38:21.044742",
+  "run_number": 1,
+  "total_drugs_found": 9,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=POGLUT1-related+limb-girdle+muscular+dystrophy+R21&orphaCode=480682&name=480682&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "POGLUT1-related limb-girdle muscular dystrophy R21",
+    "orphaCode": "480682",
+    "name": "480682",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "disease_name": "Multiple osteochondromas",
+  "orpha_code": "321",
+  "drugs": [
+    {
+      "name": "Palovarotene",
+      "substance_url": "/en/drug/substance/412263?name=321&mode=orpha&region=&status=all",
+      "substance_id": "412263",
+      "regulatory_url": "/en/drug/regulatory/520945?name=321&mode=orpha&region=",
+      "regulatory_id": "520945",
+      "orpha_substance_code": "ORPHA:321",
+      "details": [
+        "Palovarotene(Medicinal product                        - 27/06/2018)Disease(s) concernedORPHA:321 Multiple osteochondromas",
+        "Palovarotene(Medicinal product                        - 27/06/2018)",
+        "(Medicinal product                        - 27/06/2018)",
+        "Disease(s) concernedORPHA:321 Multiple osteochondromas",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/412263?name=321&mode=orpha&region=&status=all",
+          "text": "Palovarotene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/321",
+          "text": "ORPHA:321 Multiple osteochondromas",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/520945?name=321&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T05:59:10.017894",
+  "run_number": 1,
+  "total_drugs_found": 1,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Multiple+osteochondromas&orphaCode=321&name=321&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Multiple osteochondromas",
+    "orphaCode": "321",
+    "name": "321",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

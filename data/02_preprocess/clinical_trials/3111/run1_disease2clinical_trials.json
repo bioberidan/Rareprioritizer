@@ -1,0 +1,33 @@
+{
+  "disease_name": "Rotor syndrome",
+  "orpha_code": "3111",
+  "trials": [
+    {
+      "nctId": "NCT06767605",
+      "briefTitle": "Spanish Registry of Autoimmune and Cholestatic Liver Diseases (ColHai)",
+      "officialTitle": "Registro Español de Enfermedades Hepáticas Colestásicas y Autoinmunes (ColHai)",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Hepatitis Autoimmune Disease",
+        "Primary Biliary Cholangitis (PBC)",
+        "Primary Sclerosing Cholangitis (PSC)",
+        "Cholestatic Genetic Diseases"
+      ],
+      "interventions": [],
+      "enrollment": 5000,
+      "locations": [
+        {
+          "facility": "Hospital Clinic",
+          "city": "Barcelona",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-01-10"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:15:27.259491",
+  "run_number": 1,
+  "total_trials_found": 1
+}

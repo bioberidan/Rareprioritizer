@@ -1,0 +1,44 @@
+{
+  "processing_date": "2025-07-05T13:15:20.580338",
+  "input_file": "data\\input\\raw\\Metabolicas.xml",
+  "output_directory": "data\\processed",
+  "duration_seconds": 0.653212,
+  "statistics": {
+    "total_nodes": 1166,
+    "total_diseases": 999,
+    "total_categories": 167,
+    "max_depth": 8,
+    "avg_diseases_per_category": 5.98,
+    "diseases_by_level": {
+      "3": 260,
+      "4": 386,
+      "5": 193,
+      "6": 122,
+      "7": 26,
+      "8": 12
+    },
+    "categories_by_level": {
+      "0": 1,
+      "1": 13,
+      "2": 85,
+      "3": 51,
+      "4": 9,
+      "5": 6,
+      "6": 2
+    },
+    "file_sizes": {
+      "taxonomy\\categories.json": "0.03 MB",
+      "taxonomy\\metadata.json": "0.00 MB",
+      "taxonomy\\relationships.json": "0.01 MB",
+      "taxonomy\\structure.json": "0.05 MB",
+      "instances\\classification_index.json": "0.02 MB",
+      "instances\\diseases.json": "0.47 MB",
+      "instances\\disease_metadata.json": "0.20 MB",
+      "instances\\name_index.json": "0.09 MB",
+      "cache\\combined_views.json": "0.00 MB",
+      "cache\\paths.json": "0.35 MB",
+      "cache\\statistics.json": "0.00 MB"
+    },
+    "total_size_mb": "0.01 MB"
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "disease_name": "MOGS-CDG",
+  "orpha_code": "79330",
+  "drugs": [
+    {
+      "name": "DEQSIGA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/700589?name=79330&mode=orpha&region=",
+      "regulatory_id": "700589",
+      "orpha_substance_code": "ORPHA:101997",
+      "details": [
+        "DEQSIGA(Tradename                        - 02/05/2025)Disease(s) concernedORPHA:3002 Immune thrombocytopeniaORPHA:2331 Kawasaki diseaseORPHA:2103 Guillain-Barré syndromeORPHA:2932 Chronic inflammatory demyelinating polyneuropathyORPHA:641 Multifocal motor neuropathyORPHA:101997 Primary immunodeficiency",
+        "DEQSIGA(Tradename                        - 02/05/2025)",
+        "(Tradename                        - 02/05/2025)",
+        "Disease(s) concernedORPHA:3002 Immune thrombocytopeniaORPHA:2331 Kawasaki diseaseORPHA:2103 Guillain-Barré syndromeORPHA:2932 Chronic inflammatory demyelinating polyneuropathyORPHA:641 Multifocal motor neuropathyORPHA:101997 Primary immunodeficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/700586?name=79330&mode=orpha&region=&status=all",
+          "text": "DEQSIGA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/3002",
+          "text": "ORPHA:3002 Immune thrombocytopenia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2331",
+          "text": "ORPHA:2331 Kawasaki disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2103",
+          "text": "ORPHA:2103 Guillain-Barré syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2932",
+          "text": "ORPHA:2932 Chronic inflammatory demyelinating polyneuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/641",
+          "text": "ORPHA:641 Multifocal motor neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101997",
+          "text": "ORPHA:101997 Primary immunodeficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/700589?name=79330&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "ORPHA:2103 Guillain-Barré syndrome\n                                \n\n\n\n\n                                    ORPHA:2932 Chronic inflammatory demyelinating polyneuropathy\n                                \n\n\n\n\n                                    ORPHA:641 Multifocal motor neuropathy\n                                \n\n\n\n\n                                    ORPHA:101997 Primary immunodeficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "HYQVIA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/353482?name=79330&mode=orpha&region=",
+      "regulatory_id": "353482",
+      "orpha_substance_code": "ORPHA:101977",
+      "details": [
+        "HYQVIA(Tradename                        - 16/05/2013)Disease(s) concernedORPHA:2932 Chronic inflammatory demyelinating polyneuropathyORPHA:101977 Immunodeficiency predominantly affecting antibody production",
+        "HYQVIA(Tradename                        - 16/05/2013)",
+        "(Tradename                        - 16/05/2013)",
+        "Disease(s) concernedORPHA:2932 Chronic inflammatory demyelinating polyneuropathyORPHA:101977 Immunodeficiency predominantly affecting antibody production",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/353503?name=79330&mode=orpha&region=&status=all",
+          "text": "HYQVIA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2932",
+          "text": "ORPHA:2932 Chronic inflammatory demyelinating polyneuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101977",
+          "text": "ORPHA:101977 Immunodeficiency predominantly affecting antibody production",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/353482?name=79330&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "HIZENTRA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/353616?name=79330&mode=orpha&region=",
+      "regulatory_id": "353616",
+      "orpha_substance_code": "ORPHA:183660",
+      "details": [
+        "HIZENTRA(Tradename                        - 14/04/2011)Disease(s) concernedORPHA:101977 Immunodeficiency predominantly affecting antibody productionORPHA:183660 Severe combined immunodeficiency",
+        "HIZENTRA(Tradename                        - 14/04/2011)",
+        "(Tradename                        - 14/04/2011)",
+        "Disease(s) concernedORPHA:101977 Immunodeficiency predominantly affecting antibody productionORPHA:183660 Severe combined immunodeficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/353563?name=79330&mode=orpha&region=&status=all",
+          "text": "HIZENTRA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101977",
+          "text": "ORPHA:101977 Immunodeficiency predominantly affecting antibody production",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/183660",
+          "text": "ORPHA:183660 Severe combined immunodeficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/353616?name=79330&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "PRIVIGEN",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/211740?name=79330&mode=orpha&region=",
+      "regulatory_id": "211740",
+      "orpha_substance_code": "ORPHA:101977",
+      "details": [
+        "PRIVIGEN(Tradename                        - 25/04/2008)Disease(s) concernedORPHA:3002 Immune thrombocytopeniaORPHA:2331 Kawasaki diseaseORPHA:1959 Evans syndromeORPHA:2103 Guillain-Barré syndromeORPHA:2932 Chronic inflammatory demyelinating polyneuropathyORPHA:641 Multifocal motor neuropathyORPHA:101977 Immunodeficiency predominantly affecting antibody production",
+        "PRIVIGEN(Tradename                        - 25/04/2008)",
+        "(Tradename                        - 25/04/2008)",
+        "Disease(s) concernedORPHA:3002 Immune thrombocytopeniaORPHA:2331 Kawasaki diseaseORPHA:1959 Evans syndromeORPHA:2103 Guillain-Barré syndromeORPHA:2932 Chronic inflammatory demyelinating polyneuropathyORPHA:641 Multifocal motor neuropathyORPHA:101977 Immunodeficiency predominantly affecting antibody production",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/211737?name=79330&mode=orpha&region=&status=all",
+          "text": "PRIVIGEN",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/3002",
+          "text": "ORPHA:3002 Immune thrombocytopenia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2331",
+          "text": "ORPHA:2331 Kawasaki disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/1959",
+          "text": "ORPHA:1959 Evans syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2103",
+          "text": "ORPHA:2103 Guillain-Barré syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2932",
+          "text": "ORPHA:2932 Chronic inflammatory demyelinating polyneuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/641",
+          "text": "ORPHA:641 Multifocal motor neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101977",
+          "text": "ORPHA:101977 Immunodeficiency predominantly affecting antibody production",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/211740?name=79330&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "ORPHA:1959 Evans syndrome\n                                \n\n\n\n\n                                    ORPHA:2103 Guillain-Barré syndrome\n                                \n\n\n\n\n                                    ORPHA:2932 Chronic inflammatory demyelinating polyneuropathy\n                                \n\n\n\n\n                                    ORPHA:641 Multifocal motor neuropathy\n                                \n\n\n\n\n                                    ORPHA:101977 Immunodeficiency predominantly affecting antibody production\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "FLEBOGAMMA DIF",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/353506?name=79330&mode=orpha&region=",
+      "regulatory_id": "353506",
+      "orpha_substance_code": "ORPHA:101977",
+      "details": [
+        "FLEBOGAMMA DIF(Tradename                        - 23/07/2007)Disease(s) concernedORPHA:3002 Immune thrombocytopeniaORPHA:2331 Kawasaki diseaseORPHA:1959 Evans syndromeORPHA:2103 Guillain-Barré syndromeORPHA:2932 Chronic inflammatory demyelinating polyneuropathyORPHA:641 Multifocal motor neuropathyORPHA:101977 Immunodeficiency predominantly affecting antibody production",
+        "FLEBOGAMMA DIF(Tradename                        - 23/07/2007)",
+        "(Tradename                        - 23/07/2007)",
+        "Disease(s) concernedORPHA:3002 Immune thrombocytopeniaORPHA:2331 Kawasaki diseaseORPHA:1959 Evans syndromeORPHA:2103 Guillain-Barré syndromeORPHA:2932 Chronic inflammatory demyelinating polyneuropathyORPHA:641 Multifocal motor neuropathyORPHA:101977 Immunodeficiency predominantly affecting antibody production",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/353505?name=79330&mode=orpha&region=&status=all",
+          "text": "FLEBOGAMMA DIF",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/3002",
+          "text": "ORPHA:3002 Immune thrombocytopenia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2331",
+          "text": "ORPHA:2331 Kawasaki disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/1959",
+          "text": "ORPHA:1959 Evans syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2103",
+          "text": "ORPHA:2103 Guillain-Barré syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2932",
+          "text": "ORPHA:2932 Chronic inflammatory demyelinating polyneuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/641",
+          "text": "ORPHA:641 Multifocal motor neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101977",
+          "text": "ORPHA:101977 Immunodeficiency predominantly affecting antibody production",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/353506?name=79330&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "ORPHA:1959 Evans syndrome\n                                \n\n\n\n\n                                    ORPHA:2103 Guillain-Barré syndrome\n                                \n\n\n\n\n                                    ORPHA:2932 Chronic inflammatory demyelinating polyneuropathy\n                                \n\n\n\n\n                                    ORPHA:641 Multifocal motor neuropathy\n                                \n\n\n\n\n                                    ORPHA:101977 Immunodeficiency predominantly affecting antibody production\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "KIOVIG",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/353696?name=79330&mode=orpha&region=",
+      "regulatory_id": "353696",
+      "orpha_substance_code": "ORPHA:101977",
+      "details": [
+        "KIOVIG(Tradename                        - 19/01/2006)Disease(s) concernedORPHA:3002 Immune thrombocytopeniaORPHA:2331 Kawasaki diseaseORPHA:1959 Evans syndromeORPHA:2103 Guillain-Barré syndromeORPHA:641 Multifocal motor neuropathyORPHA:101977 Immunodeficiency predominantly affecting antibody production",
+        "KIOVIG(Tradename                        - 19/01/2006)",
+        "(Tradename                        - 19/01/2006)",
+        "Disease(s) concernedORPHA:3002 Immune thrombocytopeniaORPHA:2331 Kawasaki diseaseORPHA:1959 Evans syndromeORPHA:2103 Guillain-Barré syndromeORPHA:641 Multifocal motor neuropathyORPHA:101977 Immunodeficiency predominantly affecting antibody production",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/353561?name=79330&mode=orpha&region=&status=all",
+          "text": "KIOVIG",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/3002",
+          "text": "ORPHA:3002 Immune thrombocytopenia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2331",
+          "text": "ORPHA:2331 Kawasaki disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/1959",
+          "text": "ORPHA:1959 Evans syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2103",
+          "text": "ORPHA:2103 Guillain-Barré syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/641",
+          "text": "ORPHA:641 Multifocal motor neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101977",
+          "text": "ORPHA:101977 Immunodeficiency predominantly affecting antibody production",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/353696?name=79330&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "ORPHA:1959 Evans syndrome\n                                \n\n\n\n\n                                    ORPHA:2103 Guillain-Barré syndrome\n                                \n\n\n\n\n                                    ORPHA:641 Multifocal motor neuropathy\n                                \n\n\n\n\n                                    ORPHA:101977 Immunodeficiency predominantly affecting antibody production\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "IgA extracted from human milk",
+      "substance_url": "/en/drug/substance/689525?name=79330&mode=orpha&region=&status=all",
+      "substance_id": "689525",
+      "regulatory_url": "/en/drug/regulatory/690029?name=79330&mode=orpha&region=",
+      "regulatory_id": "690029",
+      "orpha_substance_code": "ORPHA:696851",
+      "details": [
+        "IgA extracted from human milk(Medicinal product                        - 25/10/2024)Disease(s) concernedORPHA:696851 Common variable immunodeficiency and related disorders",
+        "IgA extracted from human milk(Medicinal product                        - 25/10/2024)",
+        "(Medicinal product                        - 25/10/2024)",
+        "Disease(s) concernedORPHA:696851 Common variable immunodeficiency and related disorders",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689525?name=79330&mode=orpha&region=&status=all",
+          "text": "IgA extracted from human milk",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/696851",
+          "text": "ORPHA:696851 Common variable immunodeficiency and related disorders",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/690029?name=79330&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T05:59:01.066528",
+  "run_number": 1,
+  "total_drugs_found": 7,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=MOGS-CDG&orphaCode=79330&name=79330&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "MOGS-CDG",
+    "orphaCode": "79330",
+    "name": "79330",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

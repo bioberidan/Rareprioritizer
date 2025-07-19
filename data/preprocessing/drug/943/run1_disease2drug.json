@@ -1,0 +1,30 @@
+{
+  "disease_name": "Malonic aciduria",
+  "orpha_code": "943",
+  "drugs": [
+    {
+      "name": "Beta Hydroxybutyrate",
+      "substance_url": "/en/drug/substance/611053?name=943&mode=orpha&region=&status=all",
+      "substance_id": "611053",
+      "regulatory_url": "/en/drug/regulatory/665249?name=943&mode=orpha&region=",
+      "regulatory_id": "665249",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:21:44.783922",
+  "run_number": 1,
+  "total_drugs_found": 1,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Malonic+aciduria&orphaCode=943&name=943&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Malonic aciduria",
+    "orphaCode": "943",
+    "name": "943",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

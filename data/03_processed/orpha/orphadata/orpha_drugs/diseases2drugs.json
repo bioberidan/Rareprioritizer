@@ -1,0 +1,5962 @@
+{
+  "100924": {
+    "disease_name": "Porphyria due to ALA dehydratase deficiency",
+    "orpha_code": "100924",
+    "drugs_count": 9,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_0",
+      "480914",
+      "drug_2",
+      "drug_3",
+      "689505",
+      "480914",
+      "90799",
+      "46335",
+      "24990"
+    ]
+  },
+  "101109": {
+    "disease_name": "Spinocerebellar ataxia type 28",
+    "orpha_code": "101109",
+    "drugs_count": 13,
+    "last_processed_run": 1,
+    "drugs": [
+      "686840",
+      "635854",
+      "628292",
+      "479413",
+      "531922",
+      "418160",
+      "686840",
+      "704629",
+      "88874",
+      "646586",
+      "644348",
+      "635854",
+      "285822"
+    ]
+  },
+  "101330": {
+    "disease_name": "Porphyria cutanea tarda",
+    "orpha_code": "101330",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "66148",
+      "drug_20",
+      "24990"
+    ]
+  },
+  "104": {
+    "disease_name": "Leber hereditary optic neuropathy",
+    "orpha_code": "104",
+    "drugs_count": 9,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_21",
+      "628268",
+      "260395",
+      "73656",
+      "643869",
+      "73656",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "111": {
+    "disease_name": "Barth syndrome",
+    "orpha_code": "111",
+    "drugs_count": 13,
+    "last_processed_run": 1,
+    "drugs": [
+      "556445",
+      "drug_27",
+      "drug_28",
+      "drug_29",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "687120",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "1168": {
+    "disease_name": "Ataxia-oculomotor apraxia type 1",
+    "orpha_code": "1168",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "479413",
+      "418160"
+    ]
+  },
+  "118": {
+    "disease_name": "Beta-mannosidosis",
+    "orpha_code": "118",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "1186": {
+    "disease_name": "Infantile-onset spinocerebellar ataxia",
+    "orpha_code": "1186",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "418160",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "1187": {
+    "disease_name": "Lethal ataxia with deafness and optic atrophy",
+    "orpha_code": "1187",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "418160"
+    ]
+  },
+  "1194": {
+    "disease_name": "TMEM70-related mitochondrial encephalo-cardio-myopathy",
+    "orpha_code": "1194",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "1195": {
+    "disease_name": "Congenital atransferrinemia",
+    "orpha_code": "1195",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "300660"
+    ]
+  },
+  "1215": {
+    "disease_name": "Autosomal dominant optic atrophy plus syndrome",
+    "orpha_code": "1215",
+    "drugs_count": 12,
+    "last_processed_run": 1,
+    "drugs": [
+      "676678",
+      "628466",
+      "499387",
+      "449585",
+      "695327",
+      "631561",
+      "684495",
+      "661978",
+      "646586",
+      "644348",
+      "637248",
+      "285822"
+    ]
+  },
+  "123": {
+    "disease_name": "Björnstad syndrome",
+    "orpha_code": "123",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "124": {
+    "disease_name": "Diamond-Blackfan anemia",
+    "orpha_code": "124",
+    "drugs_count": 13,
+    "last_processed_run": 1,
+    "drugs": [
+      "628140",
+      "627883",
+      "drug_47",
+      "drug_48",
+      "588874",
+      "589233",
+      "589056",
+      "699871",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "1349": {
+    "disease_name": "Mitochondrial DNA-related cardiomyopathy and hearing loss",
+    "orpha_code": "1349",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "1369": {
+    "disease_name": "Congenital cataract-hypertrophic cardiomyopathy-mitochondrial myopathy syndrome",
+    "orpha_code": "1369",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "137625": {
+    "disease_name": "Glycogen storage disease due to muscle and heart glycogen synthase deficiency",
+    "orpha_code": "137625",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "137675": {
+    "disease_name": "Histiocytoid cardiomyopathy",
+    "orpha_code": "137675",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "137681": {
+    "disease_name": "Hepatoencephalopathy due to combined oxidative phosphorylation defect type 1",
+    "orpha_code": "137681",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "137898": {
+    "disease_name": "Leukoencephalopathy with brain stem and spinal cord involvement-high lactate syndrome",
+    "orpha_code": "137898",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "137908": {
+    "disease_name": "Hypotonia with lactic acidemia and hyperammonemia",
+    "orpha_code": "137908",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "139": {
+    "disease_name": "CHILD syndrome",
+    "orpha_code": "139",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "86787",
+      "697604"
+    ]
+  },
+  "139406": {
+    "disease_name": "Encephalopathy due to prosaposin deficiency",
+    "orpha_code": "139406",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_52",
+      "drug_53",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "139485": {
+    "disease_name": "Autosomal recessive ataxia due to ubiquinone deficiency",
+    "orpha_code": "139485",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "699446",
+      "484688",
+      "418160",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "139507": {
+    "disease_name": "Dietary iron overload disease",
+    "orpha_code": "139507",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "189142"
+    ]
+  },
+  "141": {
+    "disease_name": "Canavan disease",
+    "orpha_code": "141",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "638733",
+      "589288",
+      "641663"
+    ]
+  },
+  "1460": {
+    "disease_name": "Isolated complex III deficiency",
+    "orpha_code": "1460",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "147": {
+    "disease_name": "Carbamoyl-phosphate synthetase 1 deficiency",
+    "orpha_code": "147",
+    "drugs_count": 15,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_60",
+      "drug_61",
+      "87861",
+      "83694",
+      "356372",
+      "102674",
+      "90800",
+      "222387",
+      "25062",
+      "drug_69",
+      "drug_70",
+      "drug_71",
+      "629851",
+      "688360",
+      "222387"
+    ]
+  },
+  "156": {
+    "disease_name": "Carnitine palmitoyl transferase 1A deficiency",
+    "orpha_code": "156",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "317333",
+      "drug_75"
+    ]
+  },
+  "1561": {
+    "disease_name": "Fatal infantile cytochrome C oxidase deficiency",
+    "orpha_code": "1561",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "157": {
+    "disease_name": "Carnitine palmitoyltransferase II deficiency",
+    "orpha_code": "157",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "317333",
+      "drug_76"
+    ]
+  },
+  "157846": {
+    "disease_name": "Neuroferritinopathy",
+    "orpha_code": "157846",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "42568"
+    ]
+  },
+  "157850": {
+    "disease_name": "Pantothenate kinase-associated neurodegeneration",
+    "orpha_code": "157850",
+    "drugs_count": 5,
+    "last_processed_run": 1,
+    "drugs": [
+      "459199",
+      "627847",
+      "456120",
+      "651182",
+      "42568"
+    ]
+  },
+  "158": {
+    "disease_name": "Systemic primary carnitine deficiency",
+    "orpha_code": "158",
+    "drugs_count": 5,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_82",
+      "25013",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "159": {
+    "disease_name": "Carnitine-acylcarnitine translocase deficiency",
+    "orpha_code": "159",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "317333",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "163684": {
+    "disease_name": "Leukoencephalopathy-dystonia-motor neuropathy syndrome",
+    "orpha_code": "163684",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_84",
+      "drug_85",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "163690": {
+    "disease_name": "Hypotonia-cystinuria syndrome",
+    "orpha_code": "163690",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "444708",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "163693": {
+    "disease_name": "2p21 microdeletion syndrome",
+    "orpha_code": "163693",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "444708",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "165991": {
+    "disease_name": "Exercise-induced hyperinsulinism",
+    "orpha_code": "165991",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "605146",
+      "371566",
+      "527458",
+      "489767",
+      "480436",
+      "299535",
+      "684497",
+      "413075"
+    ]
+  },
+  "166073": {
+    "disease_name": "Pontocerebellar hypoplasia type 6",
+    "orpha_code": "166073",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "285822",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "166105": {
+    "disease_name": "FASTKD2-related infantile mitochondrial encephalomyopathy",
+    "orpha_code": "166105",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "1670": {
+    "disease_name": "Chronic diarrhea with villous atrophy",
+    "orpha_code": "1670",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "168566": {
+    "disease_name": "Fatal mitochondrial disease due to combined oxidative phosphorylation defect type 3",
+    "orpha_code": "168566",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "17": {
+    "disease_name": "Fatal infantile lactic acidosis with methylmalonic aciduria",
+    "orpha_code": "17",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "556445",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "171848": {
+    "disease_name": "Polyneuropathy-hearing loss-ataxia-retinitis pigmentosa-cataract syndrome",
+    "orpha_code": "171848",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "605032",
+      "588772",
+      "588591"
+    ]
+  },
+  "172": {
+    "disease_name": "Progressive familial intrahepatic cholestasis",
+    "orpha_code": "172",
+    "drugs_count": 15,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_98",
+      "drug_99",
+      "589045",
+      "367965",
+      "300656",
+      "drug_103",
+      "drug_104",
+      "drug_105",
+      "691421",
+      "687204",
+      "367965",
+      "drug_108",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "1933": {
+    "disease_name": "Mitochondrial DNA depletion syndrome, encephalomyopathic form with methylmalonic aciduria",
+    "orpha_code": "1933",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "556445",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "1947": {
+    "disease_name": "Progressive epilepsy-intellectual disability syndrome, Finnish type",
+    "orpha_code": "1947",
+    "drugs_count": 16,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_109",
+      "633481",
+      "489719",
+      "627814",
+      "627530",
+      "65934",
+      "570598",
+      "570594",
+      "527480",
+      "511210",
+      "323236",
+      "418127",
+      "485379",
+      "94738",
+      "drug_123",
+      "drug_124"
+    ]
+  },
+  "199326": {
+    "disease_name": "Isolated autosomal dominant hypomagnesemia, Glaudemans type",
+    "orpha_code": "199326",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "444708"
+    ]
+  },
+  "199337": {
+    "disease_name": "Pancreatic insufficiency-anemia-hyperostosis syndrome",
+    "orpha_code": "199337",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "199351": {
+    "disease_name": "Adult-onset dystonia-parkinsonism",
+    "orpha_code": "199351",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "42568",
+      "661197",
+      "661197"
+    ]
+  },
+  "205": {
+    "disease_name": "Crigler-Najjar syndrome",
+    "orpha_code": "205",
+    "drugs_count": 9,
+    "last_processed_run": 1,
+    "drugs": [
+      "480199",
+      "406528",
+      "102674",
+      "516992",
+      "406528",
+      "689451",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "206554": {
+    "disease_name": "Fukutin-related limb-girdle muscular dystrophy R13",
+    "orpha_code": "206554",
+    "drugs_count": 12,
+    "last_processed_run": 1,
+    "drugs": [
+      "661199",
+      "642490",
+      "642474",
+      "626934",
+      "628271",
+      "605071",
+      "604874",
+      "442799",
+      "689505",
+      "371723",
+      "90799",
+      "46335"
+    ]
+  },
+  "206559": {
+    "disease_name": "POMT2-related limb-girdle muscular dystrophy R14",
+    "orpha_code": "206559",
+    "drugs_count": 9,
+    "last_processed_run": 1,
+    "drugs": [
+      "661199",
+      "642490",
+      "642474",
+      "626934",
+      "628271",
+      "605071",
+      "604874",
+      "442799",
+      "371723"
+    ]
+  },
+  "206564": {
+    "disease_name": "POMGNT1-related limb-girdle muscular dystrophy R15",
+    "orpha_code": "206564",
+    "drugs_count": 9,
+    "last_processed_run": 1,
+    "drugs": [
+      "661199",
+      "642490",
+      "642474",
+      "626934",
+      "628271",
+      "605071",
+      "604874",
+      "442799",
+      "371723"
+    ]
+  },
+  "209902": {
+    "disease_name": "Hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency",
+    "orpha_code": "209902",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_139",
+      "133573",
+      "drug_141",
+      "133573"
+    ]
+  },
+  "213": {
+    "disease_name": "Cystinosis",
+    "orpha_code": "213",
+    "drugs_count": 12,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_142",
+      "drug_143",
+      "627153",
+      "165069",
+      "165069",
+      "24962",
+      "drug_147",
+      "165069",
+      "drug_148",
+      "drug_149",
+      "drug_150",
+      "drug_151"
+    ]
+  },
+  "214": {
+    "disease_name": "Cystinuria",
+    "orpha_code": "214",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "627494",
+      "489774",
+      "520905",
+      "drug_155",
+      "638983",
+      "627494",
+      "444708",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "217371": {
+    "disease_name": "Acute infantile liver failure due to synthesis defect of mtDNA-encoded proteins",
+    "orpha_code": "217371",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "225123": {
+    "disease_name": "TFR2-related hemochromatosis",
+    "orpha_code": "225123",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "189142",
+      "82350",
+      "69829",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "227976": {
+    "disease_name": "Autosomal recessive optic atrophy, OPA7 type",
+    "orpha_code": "227976",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "228329": {
+    "disease_name": "CLN1 disease",
+    "orpha_code": "228329",
+    "drugs_count": 16,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_159",
+      "633481",
+      "489719",
+      "627814",
+      "627530",
+      "65934",
+      "570598",
+      "570594",
+      "527480",
+      "511210",
+      "323236",
+      "418127",
+      "485379",
+      "94738",
+      "drug_160",
+      "drug_161"
+    ]
+  },
+  "228337": {
+    "disease_name": "CLN10 disease",
+    "orpha_code": "228337",
+    "drugs_count": 16,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_162",
+      "633481",
+      "489719",
+      "627814",
+      "627530",
+      "65934",
+      "570598",
+      "570594",
+      "527480",
+      "511210",
+      "323236",
+      "418127",
+      "485379",
+      "94738",
+      "drug_163",
+      "drug_164"
+    ]
+  },
+  "228343": {
+    "disease_name": "CLN4 disease",
+    "orpha_code": "228343",
+    "drugs_count": 16,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_165",
+      "633481",
+      "489719",
+      "627814",
+      "627530",
+      "65934",
+      "570598",
+      "570594",
+      "527480",
+      "511210",
+      "323236",
+      "418127",
+      "485379",
+      "94738",
+      "drug_166",
+      "drug_167"
+    ]
+  },
+  "228346": {
+    "disease_name": "CLN3 disease",
+    "orpha_code": "228346",
+    "drugs_count": 16,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_168",
+      "633481",
+      "489719",
+      "627814",
+      "627530",
+      "65934",
+      "570598",
+      "570594",
+      "527480",
+      "511210",
+      "323236",
+      "418127",
+      "485379",
+      "94738",
+      "drug_169",
+      "drug_170"
+    ]
+  },
+  "228349": {
+    "disease_name": "CLN2 disease",
+    "orpha_code": "228349",
+    "drugs_count": 17,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_171",
+      "drug_172",
+      "633481",
+      "489719",
+      "627814",
+      "627530",
+      "65934",
+      "570598",
+      "570594",
+      "527480",
+      "511210",
+      "323236",
+      "418127",
+      "485379",
+      "94738",
+      "drug_173",
+      "drug_174"
+    ]
+  },
+  "228354": {
+    "disease_name": "CLN8 disease",
+    "orpha_code": "228354",
+    "drugs_count": 16,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_175",
+      "633481",
+      "489719",
+      "627814",
+      "627530",
+      "65934",
+      "570598",
+      "570594",
+      "527480",
+      "511210",
+      "323236",
+      "418127",
+      "485379",
+      "94738",
+      "drug_176",
+      "drug_177"
+    ]
+  },
+  "228360": {
+    "disease_name": "CLN5 disease",
+    "orpha_code": "228360",
+    "drugs_count": 16,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_178",
+      "633481",
+      "489719",
+      "627814",
+      "627530",
+      "65934",
+      "570598",
+      "570594",
+      "527480",
+      "511210",
+      "323236",
+      "418127",
+      "485379",
+      "94738",
+      "drug_179",
+      "drug_180"
+    ]
+  },
+  "228363": {
+    "disease_name": "CLN6 disease",
+    "orpha_code": "228363",
+    "drugs_count": 16,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_181",
+      "633481",
+      "489719",
+      "627814",
+      "627530",
+      "65934",
+      "570598",
+      "570594",
+      "527480",
+      "511210",
+      "323236",
+      "418127",
+      "485379",
+      "94738",
+      "drug_182",
+      "drug_183"
+    ]
+  },
+  "228366": {
+    "disease_name": "CLN7 disease",
+    "orpha_code": "228366",
+    "drugs_count": 17,
+    "last_processed_run": 1,
+    "drugs": [
+      "689479",
+      "drug_185",
+      "633481",
+      "489719",
+      "627814",
+      "627530",
+      "65934",
+      "570598",
+      "570594",
+      "527480",
+      "511210",
+      "323236",
+      "418127",
+      "485379",
+      "94738",
+      "drug_186",
+      "drug_187"
+    ]
+  },
+  "23": {
+    "disease_name": "Argininosuccinic aciduria",
+    "orpha_code": "23",
+    "drugs_count": 16,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_188",
+      "102674",
+      "87861",
+      "500711",
+      "83694",
+      "83694",
+      "356372",
+      "90800",
+      "222387",
+      "drug_190",
+      "drug_191",
+      "drug_192",
+      "500711",
+      "629851",
+      "688360",
+      "222387"
+    ]
+  },
+  "230": {
+    "disease_name": "Dopamine beta-hydroxylase deficiency",
+    "orpha_code": "230",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_193",
+      "393911",
+      "drug_195",
+      "drug_196",
+      "393911",
+      "33486"
+    ]
+  },
+  "238329": {
+    "disease_name": "Severe X-linked mitochondrial encephalomyopathy",
+    "orpha_code": "238329",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "238475": {
+    "disease_name": "Familial hypercholanemia",
+    "orpha_code": "238475",
+    "drugs_count": 7,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_198",
+      "133573",
+      "drug_199",
+      "689505",
+      "90799",
+      "133573",
+      "46335"
+    ]
+  },
+  "238523": {
+    "disease_name": "Atypical hypotonia-cystinuria syndrome",
+    "orpha_code": "238523",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "444708",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "238583": {
+    "disease_name": "Hyperphenylalaninemia due to tetrahydrobiopterin deficiency",
+    "orpha_code": "238583",
+    "drugs_count": 9,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_200",
+      "695211",
+      "676581",
+      "646345",
+      "627485",
+      "485095",
+      "628462",
+      "drug_207",
+      "drug_208"
+    ]
+  },
+  "247262": {
+    "disease_name": "Hyperphosphatasia-intellectual disability syndrome",
+    "orpha_code": "247262",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "697639"
+    ]
+  },
+  "247525": {
+    "disease_name": "Citrullinemia type I",
+    "orpha_code": "247525",
+    "drugs_count": 12,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_210",
+      "87861",
+      "83694",
+      "356372",
+      "90800",
+      "222387",
+      "25062",
+      "drug_211",
+      "drug_212",
+      "629851",
+      "688360",
+      "222387"
+    ]
+  },
+  "247585": {
+    "disease_name": "Citrullinemia type II",
+    "orpha_code": "247585",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "356372",
+      "222387",
+      "drug_213",
+      "629851",
+      "688360",
+      "222387"
+    ]
+  },
+  "247598": {
+    "disease_name": "Neonatal intrahepatic cholestasis due to citrin deficiency",
+    "orpha_code": "247598",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_214",
+      "629851",
+      "688360",
+      "222387"
+    ]
+  },
+  "25": {
+    "disease_name": "Glutaryl-CoA dehydrogenase deficiency",
+    "orpha_code": "25",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "686826",
+      "640975"
+    ]
+  },
+  "250932": {
+    "disease_name": "Autosomal dominant optic atrophy and peripheral neuropathy",
+    "orpha_code": "250932",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "637248",
+      "285822"
+    ]
+  },
+  "254343": {
+    "disease_name": "Autosomal recessive spastic ataxia-optic atrophy-dysarthria syndrome",
+    "orpha_code": "254343",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "254851": {
+    "disease_name": "Mitochondrial DNA-related dystonia",
+    "orpha_code": "254851",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "254854": {
+    "disease_name": "Pure mitochondrial myopathy",
+    "orpha_code": "254854",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "254857": {
+    "disease_name": "Lethal infantile mitochondrial myopathy",
+    "orpha_code": "254857",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "254864": {
+    "disease_name": "Mitochondrial myopathy with reversible cytochrome C oxidase deficiency",
+    "orpha_code": "254864",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "254875": {
+    "disease_name": "Mitochondrial DNA depletion syndrome, myopathic form",
+    "orpha_code": "254875",
+    "drugs_count": 5,
+    "last_processed_run": 1,
+    "drugs": [
+      "489667",
+      "687120",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "254881": {
+    "disease_name": "Spinocerebellar ataxia with epilepsy",
+    "orpha_code": "254881",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "254886": {
+    "disease_name": "Autosomal recessive progressive external ophthalmoplegia",
+    "orpha_code": "254886",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "254892": {
+    "disease_name": "Autosomal dominant progressive external ophthalmoplegia",
+    "orpha_code": "254892",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "254898": {
+    "disease_name": "Deafness-encephaloneuropathy-obesity-valvulopathy syndrome",
+    "orpha_code": "254898",
+    "drugs_count": 5,
+    "last_processed_run": 1,
+    "drugs": [
+      "699446",
+      "484688",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "254902": {
+    "disease_name": "Renal tubulopathy-encephalopathy-liver failure syndrome",
+    "orpha_code": "254902",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "254905": {
+    "disease_name": "Isolated cytochrome C oxidase deficiency",
+    "orpha_code": "254905",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "254913": {
+    "disease_name": "Isolated ATP synthase deficiency",
+    "orpha_code": "254913",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "254920": {
+    "disease_name": "Combined oxidative phosphorylation defect type 2",
+    "orpha_code": "254920",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "254925": {
+    "disease_name": "Combined oxidative phosphorylation defect type 4",
+    "orpha_code": "254925",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "254930": {
+    "disease_name": "Combined oxidative phosphorylation defect type 7",
+    "orpha_code": "254930",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "255132": {
+    "disease_name": "Adult-onset autosomal recessive sideroblastic anemia",
+    "orpha_code": "255132",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "255210": {
+    "disease_name": "Mitochondrial DNA-associated Leigh syndrome",
+    "orpha_code": "255210",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "255229": {
+    "disease_name": "Navajo neurohepatopathy",
+    "orpha_code": "255229",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "255235": {
+    "disease_name": "Mitochondrial DNA depletion syndrome, encephalomyopathic form with renal tubulopathy",
+    "orpha_code": "255235",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "556445",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "2596": {
+    "disease_name": "Myopathy and diabetes mellitus",
+    "orpha_code": "2596",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "2597": {
+    "disease_name": "Mitochondrial myopathy-lactic acidosis-deafness syndrome",
+    "orpha_code": "2597",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "687120"
+    ]
+  },
+  "2598": {
+    "disease_name": "Mitochondrial myopathy and sideroblastic anemia",
+    "orpha_code": "2598",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "687120",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "26": {
+    "disease_name": "Methylmalonic acidemia with homocystinuria",
+    "orpha_code": "26",
+    "drugs_count": 15,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_218",
+      "drug_219",
+      "695213",
+      "628481",
+      "627536",
+      "35161",
+      "drug_224",
+      "drug_225",
+      "689523",
+      "689483",
+      "689529",
+      "689485",
+      "87836",
+      "689487",
+      "35161"
+    ]
+  },
+  "2609": {
+    "disease_name": "Isolated complex I deficiency",
+    "orpha_code": "2609",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "687120",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "261476": {
+    "disease_name": "Xp21 deletion syndrome",
+    "orpha_code": "261476",
+    "drugs_count": 7,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_232",
+      "drug_233",
+      "505909",
+      "97925",
+      "65883",
+      "drug_237",
+      "drug_238"
+    ]
+  },
+  "263455": {
+    "disease_name": "Congenital hyperinsulinism due to HNF4A deficiency",
+    "orpha_code": "263455",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "605146",
+      "371566",
+      "527458",
+      "489767",
+      "480436",
+      "299535",
+      "684497",
+      "413075"
+    ]
+  },
+  "263494": {
+    "disease_name": "DPM3-CDG",
+    "orpha_code": "263494",
+    "drugs_count": 5,
+    "last_processed_run": 1,
+    "drugs": [
+      "604968",
+      "689505",
+      "632336",
+      "90799",
+      "46335"
+    ]
+  },
+  "263516": {
+    "disease_name": "Progressive myoclonic epilepsy type 3",
+    "orpha_code": "263516",
+    "drugs_count": 2,
+    "last_processed_run": 2,
+    "drugs": [
+      "94738",
+      "drug_241"
+    ]
+  },
+  "26791": {
+    "disease_name": "Multiple acyl-CoA dehydrogenase deficiency",
+    "orpha_code": "26791",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "26793": {
+    "disease_name": "Very long chain acyl-CoA dehydrogenase deficiency",
+    "orpha_code": "26793",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "317333",
+      "317333",
+      "drug_242",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "2697": {
+    "disease_name": "Arthrogryposis-renal dysfunction-cholestasis syndrome",
+    "orpha_code": "2697",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "27": {
+    "disease_name": "Vitamin B12-unresponsive methylmalonic acidemia",
+    "orpha_code": "27",
+    "drugs_count": 16,
+    "last_processed_run": 1,
+    "drugs": [
+      "527449",
+      "drug_244",
+      "628481",
+      "627536",
+      "35161",
+      "drug_245",
+      "689523",
+      "689483",
+      "689505",
+      "689529",
+      "689485",
+      "87836",
+      "689487",
+      "90799",
+      "35161",
+      "46335"
+    ]
+  },
+  "272": {
+    "disease_name": "Congenital muscular dystrophy, Fukuyama type",
+    "orpha_code": "272",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "604968",
+      "632336"
+    ]
+  },
+  "275761": {
+    "disease_name": "Lysosomal acid lipase deficiency",
+    "orpha_code": "275761",
+    "drugs_count": 14,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_246",
+      "240502",
+      "drug_248",
+      "240502",
+      "drug_249",
+      "drug_250",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "276066": {
+    "disease_name": "Bile acid CoA ligase deficiency and defective amidation",
+    "orpha_code": "276066",
+    "drugs_count": 7,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_251",
+      "133573",
+      "drug_252",
+      "689505",
+      "90799",
+      "133573",
+      "46335"
+    ]
+  },
+  "276556": {
+    "disease_name": "Hyperinsulinism due to UCP2 deficiency",
+    "orpha_code": "276556",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "605146",
+      "371566",
+      "527458",
+      "489767",
+      "480436",
+      "299535",
+      "684497",
+      "413075"
+    ]
+  },
+  "276575": {
+    "disease_name": "Autosomal dominant hyperinsulinism due to SUR1 deficiency",
+    "orpha_code": "276575",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "605146",
+      "371566",
+      "527458",
+      "489767",
+      "480436",
+      "299535",
+      "684497",
+      "413075"
+    ]
+  },
+  "276580": {
+    "disease_name": "Autosomal dominant hyperinsulinism due to Kir6.2 deficiency",
+    "orpha_code": "276580",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "605146",
+      "371566",
+      "527458",
+      "489767",
+      "480436",
+      "299535",
+      "684497",
+      "413075"
+    ]
+  },
+  "276598": {
+    "disease_name": "Diazoxide-resistant focal hyperinsulinism due to SUR1 deficiency",
+    "orpha_code": "276598",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "605146",
+      "371566",
+      "527458",
+      "489767",
+      "480436",
+      "299535",
+      "684497",
+      "413075"
+    ]
+  },
+  "276603": {
+    "disease_name": "Diazoxide-resistant focal hyperinsulinism due to Kir6.2 deficiency",
+    "orpha_code": "276603",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "605146",
+      "371566",
+      "527458",
+      "489767",
+      "480436",
+      "299535",
+      "684497",
+      "413075"
+    ]
+  },
+  "277": {
+    "disease_name": "Severe combined immunodeficiency due to adenosine deaminase deficiency",
+    "orpha_code": "277",
+    "drugs_count": 20,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_253",
+      "330859",
+      "65878",
+      "drug_256",
+      "drug_257",
+      "412879",
+      "100845",
+      "drug_260",
+      "drug_261",
+      "drug_262",
+      "drug_263",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "392978",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "279934": {
+    "disease_name": "Mitochondrial DNA depletion syndrome, hepatocerebral form due to DGUOK deficiency",
+    "orpha_code": "279934",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "28": {
+    "disease_name": "Vitamin B12-responsive methylmalonic acidemia",
+    "orpha_code": "28",
+    "drugs_count": 16,
+    "last_processed_run": 1,
+    "drugs": [
+      "695213",
+      "drug_265",
+      "628481",
+      "627536",
+      "35161",
+      "drug_266",
+      "689523",
+      "689483",
+      "689505",
+      "689529",
+      "689485",
+      "87836",
+      "689487",
+      "90799",
+      "35161",
+      "46335"
+    ]
+  },
+  "2802": {
+    "disease_name": "X-linked sideroblastic anemia and spinocerebellar ataxia",
+    "orpha_code": "2802",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "418160"
+    ]
+  },
+  "280379": {
+    "disease_name": "Erythropoietic uroporphyria associated with myeloid malignancy",
+    "orpha_code": "280379",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_267",
+      "24990"
+    ]
+  },
+  "280406": {
+    "disease_name": "Familial steroid-resistant nephrotic syndrome with sensorineural deafness",
+    "orpha_code": "280406",
+    "drugs_count": 9,
+    "last_processed_run": 1,
+    "drugs": [
+      "699446",
+      "484688",
+      "444708",
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "280671": {
+    "disease_name": "Megaconial congenital muscular dystrophy",
+    "orpha_code": "280671",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "604968",
+      "632336"
+    ]
+  },
+  "2855": {
+    "disease_name": "Perrault syndrome",
+    "orpha_code": "2855",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "289504": {
+    "disease_name": "Combined malonic and methylmalonic acidemia",
+    "orpha_code": "289504",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "628481",
+      "627536"
+    ]
+  },
+  "2953": {
+    "disease_name": "Musculocontractural Ehlers-Danlos syndrome",
+    "orpha_code": "2953",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "76236",
+      "76236"
+    ]
+  },
+  "2971": {
+    "disease_name": "Peroxisomal acyl-CoA oxidase deficiency",
+    "orpha_code": "2971",
+    "drugs_count": 11,
+    "last_processed_run": 1,
+    "drugs": [
+      "480330",
+      "drug_270",
+      "drug_271",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "298": {
+    "disease_name": "Mitochondrial neurogastrointestinal encephalomyopathy",
+    "orpha_code": "298",
+    "drugs_count": 9,
+    "last_processed_run": 1,
+    "drugs": [
+      "686836",
+      "406542",
+      "252239",
+      "412975",
+      "252239",
+      "687120",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "30": {
+    "disease_name": "Hereditary orotic aciduria",
+    "orpha_code": "30",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "464941",
+      "drug_277"
+    ]
+  },
+  "300": {
+    "disease_name": "Bifunctional enzyme deficiency",
+    "orpha_code": "300",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_278",
+      "drug_279",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "3006": {
+    "disease_name": "Pyridoxine-dependent epilepsy",
+    "orpha_code": "3006",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_280",
+      "drug_281",
+      "drug_282"
+    ]
+  },
+  "306516": {
+    "disease_name": "Primary hypomagnesemia with hypercalciuria and nephrocalcinosis",
+    "orpha_code": "306516",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "444708",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "308425": {
+    "disease_name": "Methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency",
+    "orpha_code": "308425",
+    "drugs_count": 12,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_283",
+      "628481",
+      "627536",
+      "35161",
+      "drug_284",
+      "689523",
+      "689483",
+      "689529",
+      "689485",
+      "87836",
+      "689487",
+      "35161"
+    ]
+  },
+  "309025": {
+    "disease_name": "Mevalonate kinase deficiency",
+    "orpha_code": "309025",
+    "drugs_count": 5,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_285",
+      "drug_286",
+      "drug_287",
+      "89060",
+      "drug_289"
+    ]
+  },
+  "309031": {
+    "disease_name": "Pancreatic triacylglycerol lipase deficiency",
+    "orpha_code": "309031",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "83692"
+    ]
+  },
+  "30924": {
+    "disease_name": "Primary hypomagnesemia with secondary hypocalcemia",
+    "orpha_code": "30924",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "444708"
+    ]
+  },
+  "309246": {
+    "disease_name": "GM2 gangliosidosis, AB variant",
+    "orpha_code": "309246",
+    "drugs_count": 17,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_291",
+      "drug_292",
+      "588874",
+      "642434",
+      "627916",
+      "406512",
+      "589233",
+      "589056",
+      "572537",
+      "510739",
+      "479413",
+      "689505",
+      "571152",
+      "571152",
+      "591528",
+      "90799",
+      "46335"
+    ]
+  },
+  "31150": {
+    "disease_name": "Tangier disease",
+    "orpha_code": "31150",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "406518"
+    ]
+  },
+  "313772": {
+    "disease_name": "Early-onset spastic ataxia-myoclonic epilepsy-neuropathy syndrome",
+    "orpha_code": "313772",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "313850": {
+    "disease_name": "Infantile cerebellar-retinal degeneration",
+    "orpha_code": "313850",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "605032",
+      "588772",
+      "588591"
+    ]
+  },
+  "314051": {
+    "disease_name": "Leukoencephalopathy-thalamus and brainstem anomalies-high lactate syndrome",
+    "orpha_code": "314051",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "314603": {
+    "disease_name": "Autosomal recessive spastic ataxia with leukoencephalopathy",
+    "orpha_code": "314603",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "314629": {
+    "disease_name": "CLN11 disease",
+    "orpha_code": "314629",
+    "drugs_count": 16,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_300",
+      "633481",
+      "489719",
+      "627814",
+      "627530",
+      "65934",
+      "570598",
+      "570594",
+      "527480",
+      "511210",
+      "323236",
+      "418127",
+      "485379",
+      "94738",
+      "drug_301",
+      "drug_302"
+    ]
+  },
+  "314632": {
+    "disease_name": "CLN12 disease",
+    "orpha_code": "314632",
+    "drugs_count": 14,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_303",
+      "633481",
+      "489719",
+      "627814",
+      "627530",
+      "65934",
+      "570598",
+      "570594",
+      "527480",
+      "511210",
+      "323236",
+      "418127",
+      "485379",
+      "drug_304"
+    ]
+  },
+  "314637": {
+    "disease_name": "Mitochondrial hypertrophic cardiomyopathy with lactic acidosis due to MTO1 deficiency",
+    "orpha_code": "314637",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "319504": {
+    "disease_name": "Combined oxidative phosphorylation defect type 8",
+    "orpha_code": "319504",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "319509": {
+    "disease_name": "Combined oxidative phosphorylation defect type 9",
+    "orpha_code": "319509",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "319514": {
+    "disease_name": "Combined oxidative phosphorylation defect type 13",
+    "orpha_code": "319514",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "319519": {
+    "disease_name": "Combined oxidative phosphorylation defect type 14",
+    "orpha_code": "319519",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "319524": {
+    "disease_name": "Combined oxidative phosphorylation defect type 15",
+    "orpha_code": "319524",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "319646": {
+    "disease_name": "PGM1-CDG",
+    "orpha_code": "319646",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "319678": {
+    "disease_name": "Encephalopathy-hypertrophic cardiomyopathy-renal tubular disease syndrome",
+    "orpha_code": "319678",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "699446",
+      "484688",
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "320375": {
+    "disease_name": "Autosomal recessive spastic paraplegia type 55",
+    "orpha_code": "320375",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "628466",
+      "499387",
+      "449585",
+      "695327",
+      "631561",
+      "684495",
+      "661978",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "3208": {
+    "disease_name": "Isolated succinate-CoQ reductase deficiency",
+    "orpha_code": "3208",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "687120",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "321": {
+    "disease_name": "Multiple osteochondromas",
+    "orpha_code": "321",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "412263"
+    ]
+  },
+  "324": {
+    "disease_name": "Fabry disease",
+    "orpha_code": "324",
+    "drugs_count": 39,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_306",
+      "drug_307",
+      "drug_308",
+      "drug_309",
+      "drug_310",
+      "604987",
+      "588539",
+      "588863",
+      "487922",
+      "406512",
+      "317192",
+      "89184",
+      "628415",
+      "604880",
+      "500669",
+      "33470",
+      "34115",
+      "drug_322",
+      "drug_323",
+      "691429",
+      "688294",
+      "676680",
+      "662638",
+      "663118",
+      "666382",
+      "645663",
+      "406512",
+      "406512",
+      "89184",
+      "drug_331",
+      "drug_332",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "324525": {
+    "disease_name": "Hypertrophic cardiomyopathy with kidney anomalies due to mitochondrial DNA mutation",
+    "orpha_code": "324525",
+    "drugs_count": 7,
+    "last_processed_run": 1,
+    "drugs": [
+      "444708",
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "324535": {
+    "disease_name": "Combined oxidative phosphorylation defect type 11",
+    "orpha_code": "324535",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "324575": {
+    "disease_name": "Hyperinsulinism due to HNF1A deficiency",
+    "orpha_code": "324575",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "605146",
+      "371566",
+      "527458",
+      "489767",
+      "480436",
+      "299535",
+      "684497",
+      "413075"
+    ]
+  },
+  "329178": {
+    "disease_name": "Congenital muscular dystrophy with intellectual disability and severe epilepsy",
+    "orpha_code": "329178",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "604968",
+      "632336"
+    ]
+  },
+  "329308": {
+    "disease_name": "Fatty acid hydroxylase-associated neurodegeneration",
+    "orpha_code": "329308",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "42568"
+    ]
+  },
+  "329314": {
+    "disease_name": "Adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency",
+    "orpha_code": "329314",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "687120",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "329336": {
+    "disease_name": "Adult-onset chronic progressive external ophthalmoplegia with mitochondrial myopathy",
+    "orpha_code": "329336",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "687120",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "329481": {
+    "disease_name": "Lipoprotein glomerulopathy",
+    "orpha_code": "329481",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "444708",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "33": {
+    "disease_name": "Isovaleric acidemia",
+    "orpha_code": "33",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_333",
+      "35161",
+      "35161"
+    ]
+  },
+  "330054": {
+    "disease_name": "Congenital cataract-progressive muscular hypotonia-hearing loss-developmental delay syndrome",
+    "orpha_code": "330054",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "687120",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "333": {
+    "disease_name": "Farber disease",
+    "orpha_code": "333",
+    "drugs_count": 11,
+    "last_processed_run": 1,
+    "drugs": [
+      "376876",
+      "drug_335",
+      "drug_336",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "34515": {
+    "disease_name": "FKRP-related limb-girdle muscular dystrophy R9",
+    "orpha_code": "34515",
+    "drugs_count": 11,
+    "last_processed_run": 1,
+    "drugs": [
+      "689489",
+      "628271",
+      "661199",
+      "642490",
+      "642474",
+      "626934",
+      "628271",
+      "605071",
+      "604874",
+      "442799",
+      "371723"
+    ]
+  },
+  "34528": {
+    "disease_name": "Autosomal dominant primary hypomagnesemia with hypocalciuria",
+    "orpha_code": "34528",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "444708"
+    ]
+  },
+  "34587": {
+    "disease_name": "Danon disease",
+    "orpha_code": "34587",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "704552",
+      "661218",
+      "673933",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "349": {
+    "disease_name": "Fucosidosis",
+    "orpha_code": "349",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "35": {
+    "disease_name": "Propionic acidemia",
+    "orpha_code": "35",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_341",
+      "559538",
+      "627847",
+      "35161",
+      "drug_343",
+      "688300",
+      "651182",
+      "35161"
+    ]
+  },
+  "35069": {
+    "disease_name": "Infantile neuroaxonal dystrophy",
+    "orpha_code": "35069",
+    "drugs_count": 5,
+    "last_processed_run": 1,
+    "drugs": [
+      "661197",
+      "559146",
+      "42568",
+      "661197",
+      "661197"
+    ]
+  },
+  "35122": {
+    "disease_name": "Congenital sucrase-isomaltase deficiency",
+    "orpha_code": "35122",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "89109",
+      "drug_347",
+      "89109"
+    ]
+  },
+  "35173": {
+    "disease_name": "X-linked dominant chondrodysplasia punctata",
+    "orpha_code": "35173",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "86787",
+      "697604"
+    ]
+  },
+  "352328": {
+    "disease_name": "MEGDEL syndrome",
+    "orpha_code": "352328",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "352333": {
+    "disease_name": "Congenital ichthyosis-intellectual disability-spastic quadriplegia syndrome",
+    "orpha_code": "352333",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "86787",
+      "697604"
+    ]
+  },
+  "352447": {
+    "disease_name": "Progressive external ophthalmoplegia-myopathy-emaciation syndrome",
+    "orpha_code": "352447",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "687120",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "352470": {
+    "disease_name": "DNA2-related mitochondrial DNA deletion syndrome",
+    "orpha_code": "352470",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "687120",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "352479": {
+    "disease_name": "ISPD-related limb-girdle muscular dystrophy R20",
+    "orpha_code": "352479",
+    "drugs_count": 9,
+    "last_processed_run": 1,
+    "drugs": [
+      "661199",
+      "642490",
+      "642474",
+      "626934",
+      "628271",
+      "605071",
+      "604874",
+      "442799",
+      "371723"
+    ]
+  },
+  "352563": {
+    "disease_name": "Infantile hypertrophic cardiomyopathy due to MRPL44 deficiency",
+    "orpha_code": "352563",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "352641": {
+    "disease_name": "Autosomal recessive cerebellar ataxia with late-onset spasticity",
+    "orpha_code": "352641",
+    "drugs_count": 11,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_348",
+      "drug_349",
+      "588874",
+      "589233",
+      "589056",
+      "418160",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "352709": {
+    "disease_name": "CLN13 disease",
+    "orpha_code": "352709",
+    "drugs_count": 16,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_350",
+      "633481",
+      "489719",
+      "627814",
+      "627530",
+      "65934",
+      "570598",
+      "570594",
+      "527480",
+      "511210",
+      "323236",
+      "418127",
+      "485379",
+      "94738",
+      "drug_351",
+      "drug_352"
+    ]
+  },
+  "352718": {
+    "disease_name": "Progressive retinal dystrophy due to retinol transport defect",
+    "orpha_code": "352718",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "605032",
+      "588772",
+      "588591"
+    ]
+  },
+  "353217": {
+    "disease_name": "Epileptic encephalopathy with global cerebral demyelination",
+    "orpha_code": "353217",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "354": {
+    "disease_name": "GM1 gangliosidosis",
+    "orpha_code": "354",
+    "drugs_count": 17,
+    "last_processed_run": 1,
+    "drugs": [
+      "684449",
+      "479413",
+      "604890",
+      "488012",
+      "684449",
+      "644160",
+      "591528",
+      "drug_357",
+      "drug_358",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "355": {
+    "disease_name": "Gaucher disease",
+    "orpha_code": "355",
+    "drugs_count": 45,
+    "last_processed_run": 1,
+    "drugs": [
+      "527467",
+      "627910",
+      "627202",
+      "406512",
+      "218401",
+      "102668",
+      "604851",
+      "222655",
+      "101417",
+      "65934",
+      "700218",
+      "688298",
+      "666380",
+      "406512",
+      "218401",
+      "222655",
+      "65934",
+      "24871",
+      "drug_371",
+      "drug_372",
+      "drug_373",
+      "drug_374",
+      "drug_375",
+      "drug_376",
+      "drug_377",
+      "443973",
+      "drug_379",
+      "drug_380",
+      "drug_381",
+      "drug_382",
+      "drug_383",
+      "410889",
+      "24932",
+      "24871",
+      "24932",
+      "drug_386",
+      "drug_387",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "35704": {
+    "disease_name": "L-Arginine:glycine amidinotransferase deficiency",
+    "orpha_code": "35704",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "627137",
+      "480188"
+    ]
+  },
+  "35706": {
+    "disease_name": "Glutaric acidemia type 3",
+    "orpha_code": "35706",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_390",
+      "drug_391",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "35708": {
+    "disease_name": "Aromatic L-amino acid decarboxylase deficiency",
+    "orpha_code": "35708",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_392",
+      "485101",
+      "drug_394"
+    ]
+  },
+  "35710": {
+    "disease_name": "Glucose-galactose malabsorption",
+    "orpha_code": "35710",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "35878": {
+    "disease_name": "Hyperinsulinism-hyperammonemia syndrome",
+    "orpha_code": "35878",
+    "drugs_count": 11,
+    "last_processed_run": 1,
+    "drugs": [
+      "629851",
+      "605146",
+      "371566",
+      "527458",
+      "489767",
+      "480436",
+      "299535",
+      "688360",
+      "684497",
+      "413075",
+      "222387"
+    ]
+  },
+  "363424": {
+    "disease_name": "Multiple mitochondrial dysfunctions syndrome type 3",
+    "orpha_code": "363424",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "363429": {
+    "disease_name": "Autosomal recessive cerebellar ataxia-pyramidal signs-nystagmus-oculomotor apraxia syndrome",
+    "orpha_code": "363429",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "418160"
+    ]
+  },
+  "363534": {
+    "disease_name": "Mitochondrial DNA depletion syndrome, hepatocerebrorenal form",
+    "orpha_code": "363534",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "363623": {
+    "disease_name": "GMPPB-related limb-girdle muscular dystrophy R19",
+    "orpha_code": "363623",
+    "drugs_count": 9,
+    "last_processed_run": 1,
+    "drugs": [
+      "661199",
+      "642490",
+      "642474",
+      "626934",
+      "628271",
+      "605071",
+      "604874",
+      "442799",
+      "371723"
+    ]
+  },
+  "363694": {
+    "disease_name": "Hyperuricemia-pulmonary hypertension-renal failure-alkalosis syndrome",
+    "orpha_code": "363694",
+    "drugs_count": 7,
+    "last_processed_run": 1,
+    "drugs": [
+      "444708",
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "364": {
+    "disease_name": "Glycogen storage disease due to glucose-6-phosphatase deficiency",
+    "orpha_code": "364",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "403944",
+      "403944",
+      "628240",
+      "485069",
+      "689527",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "365": {
+    "disease_name": "Glycogen storage disease due to acid maltase deficiency",
+    "orpha_code": "365",
+    "drugs_count": 29,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_399",
+      "drug_400",
+      "642483",
+      "563469",
+      "480884",
+      "95343",
+      "275665",
+      "65934",
+      "511722",
+      "511219",
+      "392969",
+      "95343",
+      "58406",
+      "drug_410",
+      "drug_411",
+      "695340",
+      "630481",
+      "644142",
+      "371630",
+      "275665",
+      "58406",
+      "drug_416",
+      "drug_417",
+      "drug_418",
+      "drug_419",
+      "drug_420",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "366": {
+    "disease_name": "Glycogen storage disease due to glycogen debranching enzyme deficiency",
+    "orpha_code": "366",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "627810",
+      "604787",
+      "627810",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "367": {
+    "disease_name": "Glycogen storage disease due to glycogen branching enzyme deficiency",
+    "orpha_code": "367",
+    "drugs_count": 5,
+    "last_processed_run": 1,
+    "drugs": [
+      "664801",
+      "664801",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "368": {
+    "disease_name": "Glycogen storage disease due to muscle glycogen phosphorylase deficiency",
+    "orpha_code": "368",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "97923",
+      "317333"
+    ]
+  },
+  "369897": {
+    "disease_name": "Mitochondrial DNA depletion syndrome, encephalomyopathic form with variable craniofacial anomalies",
+    "orpha_code": "369897",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "556445",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "369913": {
+    "disease_name": "Combined oxidative phosphorylation defect type 17",
+    "orpha_code": "369913",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "370959": {
+    "disease_name": "Congenital muscular dystrophy with cerebellar involvement",
+    "orpha_code": "370959",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "604968",
+      "632336"
+    ]
+  },
+  "370968": {
+    "disease_name": "Congenital muscular dystrophy with intellectual disability",
+    "orpha_code": "370968",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "604968",
+      "632336"
+    ]
+  },
+  "370980": {
+    "disease_name": "Congenital muscular dystrophy without intellectual disability",
+    "orpha_code": "370980",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "604968",
+      "632336"
+    ]
+  },
+  "382": {
+    "disease_name": "Guanidinoacetate methyltransferase deficiency",
+    "orpha_code": "382",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "695313",
+      "627137",
+      "480188"
+    ]
+  },
+  "391348": {
+    "disease_name": "Growth and developmental delay-hypotonia-vision impairment-lactic acidosis syndrome",
+    "orpha_code": "391348",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "391351": {
+    "disease_name": "SURF1-related Charcot-Marie-Tooth disease type 4",
+    "orpha_code": "391351",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "628466",
+      "499387",
+      "449585",
+      "695327",
+      "631561",
+      "684495",
+      "661978",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "391665": {
+    "disease_name": "Homozygous familial hypercholesterolemia",
+    "orpha_code": "391665",
+    "drugs_count": 17,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_426",
+      "drug_427",
+      "drug_428",
+      "drug_429",
+      "drug_430",
+      "drug_431",
+      "drug_432",
+      "drug_433",
+      "drug_434",
+      "drug_435",
+      "drug_436",
+      "704647",
+      "564109",
+      "441035",
+      "479941",
+      "398923",
+      "396217"
+    ]
+  },
+  "394": {
+    "disease_name": "Homocystinuria due to cystathionine beta-synthase deficiency",
+    "orpha_code": "394",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_443",
+      "drug_444",
+      "604899",
+      "480021",
+      "33515",
+      "drug_448",
+      "687206",
+      "636572",
+      "643857",
+      "480021"
+    ]
+  },
+  "395": {
+    "disease_name": "Homocystinuria due to methylene tetrahydrofolate reductase deficiency",
+    "orpha_code": "395",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_452",
+      "drug_453",
+      "drug_454",
+      "687206"
+    ]
+  },
+  "397593": {
+    "disease_name": "Severe neonatal lactic acidosis due to NFS1-ISD11 complex deficiency",
+    "orpha_code": "397593",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "397750": {
+    "disease_name": "Periodic paralysis with later-onset distal motor neuropathy",
+    "orpha_code": "397750",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "541988",
+      "456170",
+      "456170",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "397937": {
+    "disease_name": "Polyglucosan body myopathy type 1",
+    "orpha_code": "397937",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "401859": {
+    "disease_name": "Lipoic acid synthetase deficiency",
+    "orpha_code": "401859",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348"
+    ]
+  },
+  "401862": {
+    "disease_name": "Lipoyl transferase 1 deficiency",
+    "orpha_code": "401862",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348"
+    ]
+  },
+  "401866": {
+    "disease_name": "Childhood-onset spasticity with hyperglycinemia",
+    "orpha_code": "401866",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348"
+    ]
+  },
+  "401869": {
+    "disease_name": "Multiple mitochondrial dysfunctions syndrome type 1",
+    "orpha_code": "401869",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "401874": {
+    "disease_name": "Multiple mitochondrial dysfunctions syndrome type 2",
+    "orpha_code": "401874",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "401948": {
+    "disease_name": "Hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency",
+    "orpha_code": "401948",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "629851",
+      "688360",
+      "222387"
+    ]
+  },
+  "407": {
+    "disease_name": "Glycine encephalopathy",
+    "orpha_code": "407",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "83694"
+    ]
+  },
+  "415": {
+    "disease_name": "Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome",
+    "orpha_code": "415",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_457",
+      "83694",
+      "356372",
+      "222387",
+      "drug_458",
+      "629851",
+      "688360",
+      "222387"
+    ]
+  },
+  "416": {
+    "disease_name": "Primary hyperoxaluria",
+    "orpha_code": "416",
+    "drugs_count": 21,
+    "last_processed_run": 1,
+    "drugs": [
+      "41778",
+      "524602",
+      "493796",
+      "458734",
+      "628274",
+      "695311",
+      "688334",
+      "687138",
+      "drug_467",
+      "75716",
+      "444886",
+      "299531",
+      "drug_471",
+      "drug_472",
+      "drug_473",
+      "drug_474",
+      "643876",
+      "651177",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "42": {
+    "disease_name": "Medium chain acyl-CoA dehydrogenase deficiency",
+    "orpha_code": "42",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "661189"
+    ]
+  },
+  "420728": {
+    "disease_name": "Combined oxidative phosphorylation defect type 20",
+    "orpha_code": "420728",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "420733": {
+    "disease_name": "Combined oxidative phosphorylation defect type 21",
+    "orpha_code": "420733",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "423296": {
+    "disease_name": "Spinocerebellar ataxia type 38",
+    "orpha_code": "423296",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "686840",
+      "635854",
+      "628292",
+      "479413",
+      "531922",
+      "418160",
+      "686840",
+      "704629",
+      "88874",
+      "635854"
+    ]
+  },
+  "423479": {
+    "disease_name": "X-linked intellectual disability-limb spasticity-retinal dystrophy-arginine vasopressin deficiency",
+    "orpha_code": "423479",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "605032",
+      "588772",
+      "588591"
+    ]
+  },
+  "424027": {
+    "disease_name": "Progressive myoclonic epilepsy type 8",
+    "orpha_code": "424027",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "94738",
+      "drug_478"
+    ]
+  },
+  "425": {
+    "disease_name": "Apolipoprotein A-I deficiency",
+    "orpha_code": "425",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "406518"
+    ]
+  },
+  "43": {
+    "disease_name": "X-linked adrenoleukodystrophy",
+    "orpha_code": "43",
+    "drugs_count": 32,
+    "last_processed_run": 1,
+    "drugs": [
+      "631641",
+      "635843",
+      "635846",
+      "480330",
+      "485024",
+      "376874",
+      "300632",
+      "631641",
+      "632214",
+      "641602",
+      "649500",
+      "216915",
+      "82051",
+      "drug_490",
+      "drug_491",
+      "drug_492",
+      "drug_493",
+      "drug_494",
+      "drug_495",
+      "588874",
+      "589233",
+      "589056",
+      "505909",
+      "97925",
+      "65883",
+      "drug_496",
+      "drug_497",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "43115": {
+    "disease_name": "Hereditary myopathy with lactic acidosis due to ISCU deficiency",
+    "orpha_code": "43115",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "435998": {
+    "disease_name": "Autosomal recessive intermediate Charcot-Marie-Tooth disease type D",
+    "orpha_code": "435998",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "628466",
+      "499387",
+      "449585",
+      "695327",
+      "631561",
+      "684495",
+      "661978",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "436174": {
+    "disease_name": "Cataract-growth hormone deficiency-sensory neuropathy-sensorineural hearing loss-skeletal dysplasia syndrome",
+    "orpha_code": "436174",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "436271": {
+    "disease_name": "Non-progressive predominantly posterior cavitating leukoencephalopathy with peripheral neuropathy",
+    "orpha_code": "436271",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "439854": {
+    "disease_name": "Fatal congenital hypertrophic cardiomyopathy due to glycogen storage disease",
+    "orpha_code": "439854",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "44": {
+    "disease_name": "Neonatal adrenoleukodystrophy",
+    "orpha_code": "44",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "480330",
+      "drug_498",
+      "drug_499",
+      "505909",
+      "97925",
+      "65883",
+      "drug_500",
+      "drug_501"
+    ]
+  },
+  "443197": {
+    "disease_name": "X-linked erythropoietic protoporphyria",
+    "orpha_code": "443197",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_502",
+      "499844",
+      "622076",
+      "499844",
+      "drug_505",
+      "24990"
+    ]
+  },
+  "443811": {
+    "disease_name": "PGM3-CDG",
+    "orpha_code": "443811",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_506"
+    ]
+  },
+  "444013": {
+    "disease_name": "Combined oxidative phosphorylation defect type 23",
+    "orpha_code": "444013",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "444458": {
+    "disease_name": "Combined oxidative phosphorylation defect type 24",
+    "orpha_code": "444458",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "444490": {
+    "disease_name": "Familial chylomicronemia syndrome",
+    "orpha_code": "444490",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_507",
+      "622060",
+      "627673",
+      "376872",
+      "240492",
+      "317205",
+      "drug_513",
+      "622060",
+      "drug_514",
+      "82361"
+    ]
+  },
+  "445038": {
+    "disease_name": "3-methylglutaconic aciduria-neonatal cataract-neurologic involvement-congenital neutropenia syndrome",
+    "orpha_code": "445038",
+    "drugs_count": 11,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_516",
+      "drug_517",
+      "drug_518",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "445110": {
+    "disease_name": "Limb-girdle muscular dystrophy due to POMK deficiency",
+    "orpha_code": "445110",
+    "drugs_count": 9,
+    "last_processed_run": 1,
+    "drugs": [
+      "661199",
+      "642490",
+      "642474",
+      "626934",
+      "628271",
+      "605071",
+      "604874",
+      "442799",
+      "371723"
+    ]
+  },
+  "446": {
+    "disease_name": "Neonatal hemochromatosis",
+    "orpha_code": "446",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "447": {
+    "disease_name": "Paroxysmal nocturnal hemoglobinuria",
+    "orpha_code": "447",
+    "drugs_count": 50,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_519",
+      "drug_520",
+      "drug_521",
+      "drug_522",
+      "drug_523",
+      "drug_524",
+      "drug_525",
+      "drug_526",
+      "536870",
+      "500656",
+      "489701",
+      "480224",
+      "406538",
+      "627324",
+      "484834",
+      "479982",
+      "82334",
+      "82336",
+      "drug_537",
+      "drug_538",
+      "drug_539",
+      "drug_540",
+      "drug_541",
+      "drug_542",
+      "drug_543",
+      "drug_544",
+      "692559",
+      "666398",
+      "634413",
+      "637255",
+      "637340",
+      "504663",
+      "622067",
+      "500656",
+      "479982",
+      "590018",
+      "406538",
+      "489701",
+      "82334",
+      "drug_553",
+      "drug_554",
+      "588874",
+      "589233",
+      "589056",
+      "699871",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "447954": {
+    "disease_name": "Combined oxidative phosphorylation defect type 25",
+    "orpha_code": "447954",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "448010": {
+    "disease_name": "CAD-CDG",
+    "orpha_code": "448010",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "464941"
+    ]
+  },
+  "45": {
+    "disease_name": "Adenosine monophosphate deaminase deficiency",
+    "orpha_code": "45",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "687120"
+    ]
+  },
+  "457050": {
+    "disease_name": "Autosomal dominant mitochondrial myopathy with exercise intolerance",
+    "orpha_code": "457050",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "687120",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "457185": {
+    "disease_name": "Neonatal encephalomyopathy-cardiomyopathy-respiratory distress syndrome",
+    "orpha_code": "457185",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "699446",
+      "484688",
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "457223": {
+    "disease_name": "Syndromic sensorineural deafness due to combined oxidative phosphorylation defect",
+    "orpha_code": "457223",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "457406": {
+    "disease_name": "Multiple mitochondrial dysfunctions syndrome type 4",
+    "orpha_code": "457406",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "465508": {
+    "disease_name": "Symptomatic form of HFE-related hemochromatosis",
+    "orpha_code": "465508",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "189142",
+      "82350",
+      "69829",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "466722": {
+    "disease_name": "Autosomal recessive spastic paraplegia type 77",
+    "orpha_code": "466722",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "466784": {
+    "disease_name": "Neonatal severe cardiopulmonary failure due to mitochondrial methylation defect",
+    "orpha_code": "466784",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "469": {
+    "disease_name": "Hereditary fructose intolerance",
+    "orpha_code": "469",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "470": {
+    "disease_name": "Lysinuric protein intolerance",
+    "orpha_code": "470",
+    "drugs_count": 17,
+    "last_processed_run": 1,
+    "drugs": [
+      "83694",
+      "drug_555",
+      "drug_556",
+      "drug_557",
+      "588874",
+      "589233",
+      "589056",
+      "448814",
+      "222653",
+      "drug_560",
+      "689505",
+      "689517",
+      "571152",
+      "571152",
+      "448814",
+      "90799",
+      "46335"
+    ]
+  },
+  "477684": {
+    "disease_name": "Combined oxidative phosphorylation defect type 26",
+    "orpha_code": "477684",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "477774": {
+    "disease_name": "Combined oxidative phosphorylation defect type 27",
+    "orpha_code": "477774",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "478029": {
+    "disease_name": "Combined oxidative phosphorylation defect type 29",
+    "orpha_code": "478029",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "478042": {
+    "disease_name": "Combined oxidative phosphorylation defect type 30",
+    "orpha_code": "478042",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "478049": {
+    "disease_name": "Lethal left ventricular non-compaction-seizures-hypotonia-cataract-developmental delay syndrome",
+    "orpha_code": "478049",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "480": {
+    "disease_name": "Kearns-Sayre syndrome",
+    "orpha_code": "480",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "627727",
+      "604906",
+      "367963",
+      "689505",
+      "687120",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "480682": {
+    "disease_name": "POGLUT1-related limb-girdle muscular dystrophy R21",
+    "orpha_code": "480682",
+    "drugs_count": 9,
+    "last_processed_run": 2,
+    "drugs": [
+      "661199",
+      "642490",
+      "642474",
+      "626934",
+      "628271",
+      "605071",
+      "604874",
+      "442799",
+      "371723"
+    ]
+  },
+  "487": {
+    "disease_name": "Krabbe disease",
+    "orpha_code": "487",
+    "drugs_count": 15,
+    "last_processed_run": 1,
+    "drugs": [
+      "627996",
+      "604150",
+      "275267",
+      "689594",
+      "644118",
+      "drug_570",
+      "drug_571",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "48818": {
+    "disease_name": "Aceruloplasminemia",
+    "orpha_code": "48818",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "605032",
+      "588772",
+      "588591",
+      "42568"
+    ]
+  },
+  "496790": {
+    "disease_name": "Ocular anomalies-axonal neuropathy-developmental delay syndrome",
+    "orpha_code": "496790",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "5": {
+    "disease_name": "Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency",
+    "orpha_code": "5",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "317333",
+      "604812",
+      "317333",
+      "drug_573",
+      "627727",
+      "604906",
+      "367963",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "502423": {
+    "disease_name": "Mitochondrial myopathy-cerebellar ataxia-pigmentary retinopathy syndrome",
+    "orpha_code": "502423",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "687120"
+    ]
+  },
+  "505242": {
+    "disease_name": "Psychomotor regression-oculomotor apraxia-movement disorder-nephropathy syndrome",
+    "orpha_code": "505242",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "444708"
+    ]
+  },
+  "506": {
+    "disease_name": "Leigh syndrome",
+    "orpha_code": "506",
+    "drugs_count": 11,
+    "last_processed_run": 1,
+    "drugs": [
+      "661174",
+      "65861",
+      "398846",
+      "628149",
+      "410354",
+      "285822",
+      "689481",
+      "688278",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "506334": {
+    "disease_name": "Familial steroid-resistant nephrotic syndrome with adrenal insufficiency",
+    "orpha_code": "506334",
+    "drugs_count": 11,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_581",
+      "drug_582",
+      "444708",
+      "505909",
+      "97925",
+      "65883",
+      "drug_583",
+      "drug_584",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "508093": {
+    "disease_name": "MEPAN syndrome",
+    "orpha_code": "508093",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348"
+    ]
+  },
+  "50812": {
+    "disease_name": "Zellweger-like syndrome without peroxisomal anomalies",
+    "orpha_code": "50812",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "508523": {
+    "disease_name": "Hyperphenylalaninemia due to DNAJC12 deficiency",
+    "orpha_code": "508523",
+    "drugs_count": 5,
+    "last_processed_run": 1,
+    "drugs": [
+      "695211",
+      "676581",
+      "646345",
+      "627485",
+      "628462"
+    ]
+  },
+  "510": {
+    "disease_name": "Lesch-Nyhan syndrome",
+    "orpha_code": "510",
+    "drugs_count": 5,
+    "last_processed_run": 1,
+    "drugs": [
+      "216913",
+      "216913",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "511": {
+    "disease_name": "Maple syrup urine disease",
+    "orpha_code": "511",
+    "drugs_count": 5,
+    "last_processed_run": 1,
+    "drugs": [
+      "25062",
+      "531812",
+      "704655",
+      "638953",
+      "25062"
+    ]
+  },
+  "51188": {
+    "disease_name": "Ethylmalonic encephalopathy",
+    "orpha_code": "51188",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348"
+    ]
+  },
+  "512": {
+    "disease_name": "Metachromatic leukodystrophy",
+    "orpha_code": "512",
+    "drugs_count": 17,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_589",
+      "79944",
+      "520969",
+      "589722",
+      "79944",
+      "666386",
+      "drug_594",
+      "drug_595",
+      "drug_596",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "521411": {
+    "disease_name": "Autosomal recessive axonal Charcot-Marie-Tooth disease due to copper metabolism defect",
+    "orpha_code": "521411",
+    "drugs_count": 7,
+    "last_processed_run": 1,
+    "drugs": [
+      "628466",
+      "499387",
+      "449585",
+      "695327",
+      "631561",
+      "684495",
+      "661978"
+    ]
+  },
+  "52368": {
+    "disease_name": "Mohr-Tranebjaerg syndrome",
+    "orpha_code": "52368",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "52503": {
+    "disease_name": "X-linked creatine transporter deficiency",
+    "orpha_code": "52503",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "627137",
+      "480188"
+    ]
+  },
+  "527276": {
+    "disease_name": "Encephalopathy due to mitochondrial and peroxisomal fission defect",
+    "orpha_code": "527276",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "528091": {
+    "disease_name": "Hydrops-lactic acidosis-sideroblastic anemia-multisystemic failure syndrome",
+    "orpha_code": "528091",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "534": {
+    "disease_name": "Oculocerebrorenal syndrome of Lowe",
+    "orpha_code": "534",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "444708",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "53693": {
+    "disease_name": "GRACILE syndrome",
+    "orpha_code": "53693",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "82350",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "542585": {
+    "disease_name": "Auditory neuropathy-optic atrophy syndrome",
+    "orpha_code": "542585",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "543470": {
+    "disease_name": "Optic atrophy-ataxia-peripheral neuropathy-global developmental delay syndrome",
+    "orpha_code": "543470",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "544488": {
+    "disease_name": "Global developmental delay-alopecia-macrocephaly-facial dysmorphism-structural brain anomalies syndrome",
+    "orpha_code": "544488",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "24974"
+    ]
+  },
+  "550": {
+    "disease_name": "MELAS",
+    "orpha_code": "550",
+    "drugs_count": 11,
+    "last_processed_run": 1,
+    "drugs": [
+      "285822",
+      "500664",
+      "410354",
+      "604812",
+      "689505",
+      "687120",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "551": {
+    "disease_name": "MERRF",
+    "orpha_code": "551",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "94738",
+      "94738",
+      "drug_599",
+      "689505",
+      "687120",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "56": {
+    "disease_name": "Alkaptonuria",
+    "orpha_code": "56",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_600",
+      "drug_601",
+      "25029",
+      "56899",
+      "56899",
+      "56899"
+    ]
+  },
+  "564178": {
+    "disease_name": "Primary hypomagnesemia-refractory seizures-intellectual disability syndrome",
+    "orpha_code": "564178",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "444708"
+    ]
+  },
+  "565": {
+    "disease_name": "Menkes disease",
+    "orpha_code": "565",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "661180",
+      "635863",
+      "604837",
+      "661180",
+      "687224",
+      "635863",
+      "661180",
+      "399726"
+    ]
+  },
+  "565612": {
+    "disease_name": "Primary triglyceride deposit cardiomyovasculopathy",
+    "orpha_code": "565612",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "565624": {
+    "disease_name": "Combined oxidative phosphorylation defect type 39",
+    "orpha_code": "565624",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "569274": {
+    "disease_name": "Multiple mitochondrial dysfunctions syndrome type 5",
+    "orpha_code": "569274",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "569290": {
+    "disease_name": "Multiple mitochondrial dysfunctions syndrome type 6",
+    "orpha_code": "569290",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "570491": {
+    "disease_name": "QRSL1-related combined oxidative phosphorylation defect",
+    "orpha_code": "570491",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "572798": {
+    "disease_name": "WARS2-related combined oxidative phosphorylation defect",
+    "orpha_code": "572798",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "579": {
+    "disease_name": "Mucopolysaccharidosis type 1",
+    "orpha_code": "579",
+    "drugs_count": 25,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_609",
+      "627351",
+      "531808",
+      "520947",
+      "480798",
+      "412265",
+      "627993",
+      "510771",
+      "82038",
+      "410400",
+      "42577",
+      "drug_620",
+      "673959",
+      "643872",
+      "42577",
+      "drug_623",
+      "drug_624",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "580": {
+    "disease_name": "Mucopolysaccharidosis type 2",
+    "orpha_code": "580",
+    "drugs_count": 25,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_625",
+      "627620",
+      "627878",
+      "558944",
+      "446352",
+      "628332",
+      "70916",
+      "510774",
+      "446352",
+      "365255",
+      "70916",
+      "drug_634",
+      "644779",
+      "637364",
+      "70916",
+      "drug_637",
+      "drug_638",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "581": {
+    "disease_name": "Mucopolysaccharidosis type 3",
+    "orpha_code": "581",
+    "drugs_count": 38,
+    "last_processed_run": 2,
+    "drugs": [
+      "418127",
+      "299549",
+      "165346",
+      "628237",
+      "531913",
+      "484789",
+      "484726",
+      "444449",
+      "418092",
+      "414082",
+      "399640",
+      "275655",
+      "260412",
+      "230772",
+      "332867",
+      "321495",
+      "165346",
+      "699865",
+      "662636",
+      "663169",
+      "664315",
+      "666378",
+      "646592",
+      "165346",
+      "418092",
+      "404220",
+      "404267",
+      "230772",
+      "drug_662",
+      "drug_663",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "582": {
+    "disease_name": "Mucopolysaccharidosis type 4",
+    "orpha_code": "582",
+    "drugs_count": 20,
+    "last_processed_run": 1,
+    "drugs": [
+      "170129",
+      "drug_665",
+      "629835",
+      "588825",
+      "189159",
+      "drug_669",
+      "drug_670",
+      "688296",
+      "189159",
+      "189159",
+      "drug_672",
+      "drug_673",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "583": {
+    "disease_name": "Mucopolysaccharidosis type 6",
+    "orpha_code": "583",
+    "drugs_count": 16,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_674",
+      "412265",
+      "496372",
+      "260393",
+      "65852",
+      "drug_678",
+      "drug_679",
+      "drug_680",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "584": {
+    "disease_name": "Mucopolysaccharidosis type 7",
+    "orpha_code": "584",
+    "drugs_count": 13,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_681",
+      "299541",
+      "drug_683",
+      "drug_684",
+      "drug_685",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "585": {
+    "disease_name": "Multiple sulfatase deficiency",
+    "orpha_code": "585",
+    "drugs_count": 11,
+    "last_processed_run": 1,
+    "drugs": [
+      "688358",
+      "drug_687",
+      "drug_688",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "588": {
+    "disease_name": "Muscle-eye-brain disease",
+    "orpha_code": "588",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "604968",
+      "632336"
+    ]
+  },
+  "602": {
+    "disease_name": "GNE myopathy",
+    "orpha_code": "602",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "458757",
+      "299544",
+      "697206"
+    ]
+  },
+  "61": {
+    "disease_name": "Alpha-mannosidosis",
+    "orpha_code": "61",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_692",
+      "79947",
+      "drug_694",
+      "79947"
+    ]
+  },
+  "611237": {
+    "disease_name": "Parkinsonism with polyneuropathy",
+    "orpha_code": "611237",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "618891": {
+    "disease_name": "Chronic neurovisceral acid sphingomyelinase deficiency",
+    "orpha_code": "618891",
+    "drugs_count": 13,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_695",
+      "drug_696",
+      "drug_697",
+      "drug_698",
+      "588874",
+      "589233",
+      "589056",
+      "drug_699",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "619979": {
+    "disease_name": "Developmental delay-immunodeficiency-leukoencephalopathy-hypohomocysteinemia syndrome",
+    "orpha_code": "619979",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_700"
+    ]
+  },
+  "620363": {
+    "disease_name": "Primary hypomagnesemia-generalized seizures-intellectual disability-obesity syndrome",
+    "orpha_code": "620363",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "444708"
+    ]
+  },
+  "620368": {
+    "disease_name": "EGF-related primary hypomagnesemia with intellectual disability",
+    "orpha_code": "620368",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "444708"
+    ]
+  },
+  "620371": {
+    "disease_name": "Gitelman-like kidney tubulopathy due to mitochondrial DNA mutation",
+    "orpha_code": "620371",
+    "drugs_count": 7,
+    "last_processed_run": 1,
+    "drugs": [
+      "444708",
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "622": {
+    "disease_name": "Homocystinuria without methylmalonic aciduria",
+    "orpha_code": "622",
+    "drugs_count": 5,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_701",
+      "drug_702",
+      "695213",
+      "687206",
+      "drug_703"
+    ]
+  },
+  "644": {
+    "disease_name": "NARP syndrome",
+    "orpha_code": "644",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "646": {
+    "disease_name": "Niemann-Pick disease type C",
+    "orpha_code": "646",
+    "drugs_count": 32,
+    "last_processed_run": 2,
+    "drugs": [
+      "drug_704",
+      "drug_705",
+      "drug_706",
+      "661195",
+      "25078",
+      "479413",
+      "412253",
+      "327849",
+      "327849",
+      "323224",
+      "65934",
+      "drug_712",
+      "drug_713",
+      "689507",
+      "687146",
+      "661195",
+      "641702",
+      "591528",
+      "25078",
+      "327849",
+      "327849",
+      "drug_717",
+      "drug_718",
+      "drug_719",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "647834": {
+    "disease_name": "SLC40A1-related hemochromatosis",
+    "orpha_code": "647834",
+    "drugs_count": 7,
+    "last_processed_run": 1,
+    "drugs": [
+      "189142",
+      "189142",
+      "82350",
+      "69829",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "648581": {
+    "disease_name": "Digenic hemochromatosis",
+    "orpha_code": "648581",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "189142",
+      "82350",
+      "69829",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "650": {
+    "disease_name": "LCAT deficiency",
+    "orpha_code": "650",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "406518",
+      "643920",
+      "317259",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "65682": {
+    "disease_name": "Benign recurrent intrahepatic cholestasis",
+    "orpha_code": "65682",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_722",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "658778": {
+    "disease_name": "COQ7-related distal hereditary motor neuropathy",
+    "orpha_code": "658778",
+    "drugs_count": 5,
+    "last_processed_run": 1,
+    "drugs": [
+      "699446",
+      "484688",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "659672": {
+    "disease_name": "Harderoporphyria",
+    "orpha_code": "659672",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_723",
+      "24990"
+    ]
+  },
+  "661412": {
+    "disease_name": "Megaloblastic anemia-immunodeficiency due to folate transporter 1 deficiency",
+    "orpha_code": "661412",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_724"
+    ]
+  },
+  "662216": {
+    "disease_name": "Mucopolysaccharidosis type 10",
+    "orpha_code": "662216",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_725",
+      "drug_726",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "663": {
+    "disease_name": "Mitochondrial DNA-related progressive external ophthalmoplegia",
+    "orpha_code": "663",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "687120",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "664": {
+    "disease_name": "Ornithine transcarbamylase deficiency",
+    "orpha_code": "664",
+    "drugs_count": 23,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_727",
+      "drug_728",
+      "641137",
+      "629631",
+      "87861",
+      "489661",
+      "487928",
+      "83694",
+      "458744",
+      "102674",
+      "222387",
+      "102674",
+      "90800",
+      "520928",
+      "25062",
+      "drug_735",
+      "drug_736",
+      "drug_737",
+      "487928",
+      "661817",
+      "629851",
+      "688360",
+      "222387"
+    ]
+  },
+  "66634": {
+    "disease_name": "Dilated cardiomyopathy with ataxia",
+    "orpha_code": "66634",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_739",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "67036": {
+    "disease_name": "Autosomal dominant optic atrophy and cataract",
+    "orpha_code": "67036",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "637248",
+      "285822"
+    ]
+  },
+  "67041": {
+    "disease_name": "Hyaluronidase deficiency",
+    "orpha_code": "67041",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_740",
+      "drug_741",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "699": {
+    "disease_name": "Pearson syndrome",
+    "orpha_code": "699",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "627727",
+      "604906",
+      "367963",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "70472": {
+    "disease_name": "Congenital lactic acidosis, Saguenay-Lac-Saint-Jean type",
+    "orpha_code": "70472",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "70595": {
+    "disease_name": "Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome",
+    "orpha_code": "70595",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "687120",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "71212": {
+    "disease_name": "Hyperinsulinism due to short chain 3-hydroxylacyl-CoA dehydrogenase deficiency",
+    "orpha_code": "71212",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "605146",
+      "371566",
+      "527458",
+      "489767",
+      "480436",
+      "299535",
+      "684497",
+      "413075"
+    ]
+  },
+  "71277": {
+    "disease_name": "Classic glucose transporter type 1 deficiency syndrome",
+    "orpha_code": "71277",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "317333",
+      "687202",
+      "317333",
+      "drug_743",
+      "drug_744",
+      "drug_745"
+    ]
+  },
+  "716": {
+    "disease_name": "Phenylketonuria",
+    "orpha_code": "716",
+    "drugs_count": 26,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_746",
+      "drug_747",
+      "673921",
+      "576895",
+      "216724",
+      "35292",
+      "628328",
+      "536901",
+      "69296",
+      "drug_755",
+      "drug_756",
+      "689497",
+      "673921",
+      "666480",
+      "661933",
+      "650971",
+      "641304",
+      "640972",
+      "69296",
+      "drug_763",
+      "695211",
+      "676581",
+      "646345",
+      "627485",
+      "628462",
+      "35292"
+    ]
+  },
+  "726": {
+    "disease_name": "Alpers-Huttenlocher syndrome",
+    "orpha_code": "726",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "285822",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "746": {
+    "disease_name": "Mitochondrial trifunctional protein deficiency",
+    "orpha_code": "746",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "317333",
+      "drug_764",
+      "689505",
+      "687120",
+      "90799",
+      "46335"
+    ]
+  },
+  "760": {
+    "disease_name": "Purine nucleoside phosphorylase deficiency",
+    "orpha_code": "760",
+    "drugs_count": 11,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_765",
+      "drug_766",
+      "drug_767",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "765": {
+    "disease_name": "Pyruvate dehydrogenase deficiency",
+    "orpha_code": "765",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "25062"
+    ]
+  },
+  "766": {
+    "disease_name": "Hemolytic anemia due to red cell pyruvate kinase deficiency",
+    "orpha_code": "766",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_768",
+      "628215",
+      "504971",
+      "406532",
+      "drug_772",
+      "628215"
+    ]
+  },
+  "77292": {
+    "disease_name": "Infantile neurovisceral acid sphingomyelinase deficiency",
+    "orpha_code": "77292",
+    "drugs_count": 15,
+    "last_processed_run": 1,
+    "drugs": [
+      "25078",
+      "479413",
+      "drug_773",
+      "drug_774",
+      "drug_775",
+      "drug_776",
+      "588874",
+      "589233",
+      "589056",
+      "drug_777",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "77293": {
+    "disease_name": "Chronic visceral acid sphingomyelinase deficiency",
+    "orpha_code": "77293",
+    "drugs_count": 16,
+    "last_processed_run": 1,
+    "drugs": [
+      "25078",
+      "479413",
+      "225655",
+      "drug_779",
+      "drug_780",
+      "drug_781",
+      "drug_782",
+      "588874",
+      "589233",
+      "589056",
+      "drug_783",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "773": {
+    "disease_name": "Refsum disease",
+    "orpha_code": "773",
+    "drugs_count": 10,
+    "last_processed_run": 2,
+    "drugs": [
+      "drug_784",
+      "drug_785",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "79095": {
+    "disease_name": "Congenital bile acid synthesis defect type 4",
+    "orpha_code": "79095",
+    "drugs_count": 18,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_786",
+      "133573",
+      "drug_787",
+      "drug_788",
+      "drug_789",
+      "686824",
+      "588874",
+      "589233",
+      "589056",
+      "133573",
+      "drug_791",
+      "686824",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "133573",
+      "46335"
+    ]
+  },
+  "79096": {
+    "disease_name": "Pyridoxal phosphate-responsive seizures",
+    "orpha_code": "79096",
+    "drugs_count": 7,
+    "last_processed_run": 1,
+    "drugs": [
+      "410392",
+      "410392",
+      "410392",
+      "410392",
+      "drug_793",
+      "drug_794",
+      "drug_795"
+    ]
+  },
+  "79159": {
+    "disease_name": "Isobutyryl-CoA dehydrogenase deficiency",
+    "orpha_code": "79159",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "79230": {
+    "disease_name": "HJV or HAMP-related hemochromatosis",
+    "orpha_code": "79230",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "189142",
+      "82350",
+      "69829",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "79233": {
+    "disease_name": "Hypoxanthine guanine phosphoribosyltransferase partial deficiency",
+    "orpha_code": "79233",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "79239": {
+    "disease_name": "Classic galactosemia",
+    "orpha_code": "79239",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "628466",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "79273": {
+    "disease_name": "Hereditary coproporphyria",
+    "orpha_code": "79273",
+    "drugs_count": 9,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_796",
+      "480914",
+      "drug_797",
+      "drug_798",
+      "689505",
+      "480914",
+      "90799",
+      "46335",
+      "24990"
+    ]
+  },
+  "79276": {
+    "disease_name": "Acute intermittent porphyria",
+    "orpha_code": "79276",
+    "drugs_count": 11,
+    "last_processed_run": 1,
+    "drugs": [
+      "178058",
+      "133637",
+      "drug_801",
+      "480914",
+      "drug_802",
+      "drug_803",
+      "689505",
+      "480914",
+      "90799",
+      "46335",
+      "24990"
+    ]
+  },
+  "79277": {
+    "disease_name": "Congenital erythropoietic porphyria",
+    "orpha_code": "79277",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "510758",
+      "189146",
+      "drug_806",
+      "24990"
+    ]
+  },
+  "79278": {
+    "disease_name": "Autosomal erythropoietic protoporphyria",
+    "orpha_code": "79278",
+    "drugs_count": 9,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_807",
+      "499844",
+      "622076",
+      "189146",
+      "drug_808",
+      "499844",
+      "189146",
+      "drug_809",
+      "24990"
+    ]
+  },
+  "79299": {
+    "disease_name": "Congenital glucokinase-related hyperinsulinism",
+    "orpha_code": "79299",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "605146",
+      "371566",
+      "527458",
+      "489767",
+      "480436",
+      "299535",
+      "684497",
+      "413075"
+    ]
+  },
+  "79301": {
+    "disease_name": "Congenital bile acid synthesis defect type 1",
+    "orpha_code": "79301",
+    "drugs_count": 11,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_810",
+      "133573",
+      "drug_811",
+      "686824",
+      "133573",
+      "drug_812",
+      "686824",
+      "689505",
+      "90799",
+      "133573",
+      "46335"
+    ]
+  },
+  "79302": {
+    "disease_name": "Congenital bile acid synthesis defect type 3",
+    "orpha_code": "79302",
+    "drugs_count": 9,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_813",
+      "686824",
+      "133573",
+      "drug_814",
+      "686824",
+      "689505",
+      "90799",
+      "133573",
+      "46335"
+    ]
+  },
+  "79303": {
+    "disease_name": "Congenital bile acid synthesis defect type 2",
+    "orpha_code": "79303",
+    "drugs_count": 11,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_815",
+      "133573",
+      "drug_816",
+      "686824",
+      "133573",
+      "drug_817",
+      "686824",
+      "689505",
+      "90799",
+      "133573",
+      "46335"
+    ]
+  },
+  "79318": {
+    "disease_name": "PMM2-CDG",
+    "orpha_code": "79318",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "528554"
+    ]
+  },
+  "79330": {
+    "disease_name": "MOGS-CDG",
+    "orpha_code": "79330",
+    "drugs_count": 7,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_819",
+      "drug_820",
+      "drug_821",
+      "drug_822",
+      "drug_823",
+      "drug_824",
+      "689525"
+    ]
+  },
+  "79473": {
+    "disease_name": "Variegate porphyria",
+    "orpha_code": "79473",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "189146",
+      "drug_826",
+      "480914",
+      "drug_827",
+      "drug_828",
+      "689505",
+      "480914",
+      "90799",
+      "46335",
+      "24990"
+    ]
+  },
+  "796": {
+    "disease_name": "Sandhoff disease",
+    "orpha_code": "796",
+    "drugs_count": 18,
+    "last_processed_run": 1,
+    "drugs": [
+      "641702",
+      "drug_829",
+      "drug_830",
+      "588874",
+      "642434",
+      "627916",
+      "406512",
+      "589233",
+      "589056",
+      "572537",
+      "510739",
+      "479413",
+      "689505",
+      "571152",
+      "571152",
+      "591528",
+      "90799",
+      "46335"
+    ]
+  },
+  "79643": {
+    "disease_name": "Autosomal recessive hyperinsulinism due to SUR1 deficiency",
+    "orpha_code": "79643",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "605146",
+      "371566",
+      "527458",
+      "489767",
+      "480436",
+      "299535",
+      "684497",
+      "413075"
+    ]
+  },
+  "79644": {
+    "disease_name": "Autosomal recessive hyperinsulinism due to Kir6.2 deficiency",
+    "orpha_code": "79644",
+    "drugs_count": 8,
+    "last_processed_run": 1,
+    "drugs": [
+      "605146",
+      "371566",
+      "527458",
+      "489767",
+      "480436",
+      "299535",
+      "684497",
+      "413075"
+    ]
+  },
+  "818": {
+    "disease_name": "Smith-Lemli-Opitz syndrome",
+    "orpha_code": "818",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "833": {
+    "disease_name": "Encephalopathy due to sulfite oxidase deficiency",
+    "orpha_code": "833",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_831",
+      "230780",
+      "drug_833",
+      "230780"
+    ]
+  },
+  "84065": {
+    "disease_name": "Idiopathic malabsorption due to bile acid synthesis defects",
+    "orpha_code": "84065",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "133573",
+      "drug_834",
+      "133573"
+    ]
+  },
+  "845": {
+    "disease_name": "Tay-Sachs disease",
+    "orpha_code": "845",
+    "drugs_count": 18,
+    "last_processed_run": 1,
+    "drugs": [
+      "641702",
+      "drug_835",
+      "drug_836",
+      "588874",
+      "642434",
+      "627916",
+      "406512",
+      "589233",
+      "589056",
+      "572537",
+      "510739",
+      "479413",
+      "689505",
+      "571152",
+      "571152",
+      "591528",
+      "90799",
+      "46335"
+    ]
+  },
+  "859": {
+    "disease_name": "Transcobalamin deficiency",
+    "orpha_code": "859",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_837"
+    ]
+  },
+  "86812": {
+    "disease_name": "POMT1-related limb-girdle muscular dystrophy R11",
+    "orpha_code": "86812",
+    "drugs_count": 9,
+    "last_processed_run": 1,
+    "drugs": [
+      "661199",
+      "642490",
+      "642474",
+      "626934",
+      "628271",
+      "605071",
+      "604874",
+      "442799",
+      "371723"
+    ]
+  },
+  "882": {
+    "disease_name": "Tyrosinemia type 1",
+    "orpha_code": "882",
+    "drugs_count": 9,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_838",
+      "drug_839",
+      "drug_840",
+      "56899",
+      "drug_841",
+      "drug_842",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "899": {
+    "disease_name": "Walker-Warburg syndrome",
+    "orpha_code": "899",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "604968",
+      "632336"
+    ]
+  },
+  "90": {
+    "disease_name": "Argininemia",
+    "orpha_code": "90",
+    "drugs_count": 15,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_843",
+      "drug_844",
+      "87861",
+      "83694",
+      "480350",
+      "83694",
+      "356372",
+      "90800",
+      "222387",
+      "drug_846",
+      "691380",
+      "480350",
+      "629851",
+      "688360",
+      "222387"
+    ]
+  },
+  "90045": {
+    "disease_name": "Hereditary folate malabsorption",
+    "orpha_code": "90045",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_848"
+    ]
+  },
+  "905": {
+    "disease_name": "Wilson disease",
+    "orpha_code": "905",
+    "drugs_count": 24,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_849",
+      "drug_850",
+      "drug_851",
+      "605131",
+      "604840",
+      "447658",
+      "321503",
+      "137334",
+      "496340",
+      "444360",
+      "24924",
+      "56897",
+      "drug_861",
+      "drug_862",
+      "drug_863",
+      "697602",
+      "687222",
+      "687200",
+      "632181",
+      "605131",
+      "56897",
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "909": {
+    "disease_name": "Cerebrotendinous xanthomatosis",
+    "orpha_code": "909",
+    "drugs_count": 11,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_868",
+      "drug_869",
+      "414121",
+      "drug_871",
+      "drug_872",
+      "133573",
+      "drug_873",
+      "689505",
+      "90799",
+      "133573",
+      "46335"
+    ]
+  },
+  "91130": {
+    "disease_name": "Cardiomyopathy-hypotonia-lactic acidosis syndrome",
+    "orpha_code": "91130",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "91131": {
+    "disease_name": "DK1-CDG",
+    "orpha_code": "91131",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "912": {
+    "disease_name": "Zellweger syndrome",
+    "orpha_code": "912",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "926": {
+    "disease_name": "Acatalasemia",
+    "orpha_code": "926",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_874",
+      "drug_875",
+      "588874",
+      "589233",
+      "589056",
+      "689505",
+      "571152",
+      "571152",
+      "90799",
+      "46335"
+    ]
+  },
+  "927": {
+    "disease_name": "Hyperammonemia due to N-acetylglutamate synthase deficiency",
+    "orpha_code": "927",
+    "drugs_count": 10,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_876",
+      "drug_877",
+      "83694",
+      "356372",
+      "35161",
+      "drug_878",
+      "drug_879",
+      "629851",
+      "688360",
+      "222387"
+    ]
+  },
+  "93": {
+    "disease_name": "Aspartylglucosaminuria",
+    "orpha_code": "93",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "604867",
+      "418152",
+      "604867"
+    ]
+  },
+  "94125": {
+    "disease_name": "Recessive mitochondrial ataxia syndrome",
+    "orpha_code": "94125",
+    "drugs_count": 4,
+    "last_processed_run": 1,
+    "drugs": [
+      "418160",
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "943": {
+    "disease_name": "Malonic aciduria",
+    "orpha_code": "943",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "611053"
+    ]
+  },
+  "95159": {
+    "disease_name": "Hepatoerythropoietic porphyria",
+    "orpha_code": "95159",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "drug_883",
+      "24990"
+    ]
+  },
+  "96": {
+    "disease_name": "Ataxia with vitamin E deficiency",
+    "orpha_code": "96",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "418160"
+    ]
+  },
+  "976": {
+    "disease_name": "Adenine phosphoribosyltransferase deficiency",
+    "orpha_code": "976",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "90799",
+      "46335"
+    ]
+  },
+  "98673": {
+    "disease_name": "Autosomal dominant optic atrophy, classic form",
+    "orpha_code": "98673",
+    "drugs_count": 5,
+    "last_processed_run": 1,
+    "drugs": [
+      "676678",
+      "646586",
+      "644348",
+      "637248",
+      "285822"
+    ]
+  },
+  "98873": {
+    "disease_name": "Congenital dyserythropoietic anemia type II",
+    "orpha_code": "98873",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "189142"
+    ]
+  },
+  "98907": {
+    "disease_name": "Neutral lipid storage disease with ichthyosis",
+    "orpha_code": "98907",
+    "drugs_count": 2,
+    "last_processed_run": 1,
+    "drugs": [
+      "86787",
+      "697604"
+    ]
+  },
+  "99013": {
+    "disease_name": "Spastic paraplegia type 7",
+    "orpha_code": "99013",
+    "drugs_count": 3,
+    "last_processed_run": 1,
+    "drugs": [
+      "646586",
+      "644348",
+      "285822"
+    ]
+  },
+  "99014": {
+    "disease_name": "X-linked Charcot-Marie-Tooth disease type 5",
+    "orpha_code": "99014",
+    "drugs_count": 7,
+    "last_processed_run": 1,
+    "drugs": [
+      "628466",
+      "499387",
+      "449585",
+      "695327",
+      "631561",
+      "684495",
+      "661978"
+    ]
+  },
+  "99718": {
+    "disease_name": "Leber plus disease",
+    "orpha_code": "99718",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  },
+  "99845": {
+    "disease_name": "Genetic recurrent myoglobinuria",
+    "orpha_code": "99845",
+    "drugs_count": 1,
+    "last_processed_run": 1,
+    "drugs": [
+      "45213"
+    ]
+  },
+  "99901": {
+    "disease_name": "Acyl-CoA dehydrogenase 9 deficiency",
+    "orpha_code": "99901",
+    "drugs_count": 6,
+    "last_processed_run": 1,
+    "drugs": [
+      "689505",
+      "646586",
+      "644348",
+      "90799",
+      "285822",
+      "46335"
+    ]
+  }
+}

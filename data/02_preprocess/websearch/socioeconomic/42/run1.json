@@ -1,0 +1,22 @@
+{
+  "orphacode": "42",
+  "disease_name": "Medium chain acyl-CoA dehydrogenase deficiency",
+  "socioeconomic_impact_studies": [
+    {
+      "cost": 5831,
+      "measure": "Annual mean cost of L-carnitine supplementation and medical consultations per patient",
+      "label": "Cost-effectiveness analysis of universal newborn screening for medium chain acyl-CoA dehydrogenase deficiency in France",
+      "source": "https://bmcpediatr.biomedcentral.com/articles/10.1186/1471-2431-12-60",
+      "country": "France",
+      "year": "2012"
+    }
+  ],
+  "score": 7,
+  "evidence_level": "Medium-High evidence",
+  "justification": "A peer-reviewed economic analysis from a high-income country (France) provided annual treatment cost estimates (€5,831 per patient for L-carnitine supplementation and consultations), fitting the criteria for medium-high evidence.",
+  "metadata": {
+    "processing_timestamp": "2025-07-18T19:15:19.201164",
+    "run_number": 1,
+    "orphacode": "42"
+  }
+}

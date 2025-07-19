@@ -1,0 +1,327 @@
+{
+  "disease_name": "Mucopolysaccharidosis type 3",
+  "orpha_code": "581",
+  "trials": [
+    {
+      "nctId": "NCT02716246",
+      "briefTitle": "Phase I/II/III Gene Transfer Clinical Trial of scAAV9.U1a.hSGSH",
+      "officialTitle": "Phase I/II/III Gene Transfer Clinical Trial of scAAV9.U1a.hSGSH for Mucopolysaccharidosis (MPS) IIIA",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "conditions": [
+        "MPS IIIA",
+        "Sanfilippo Syndrome",
+        "Sanfilippo A",
+        "Mucopolysaccharidosis III"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "UX111"
+        },
+        {
+          "type": "DRUG",
+          "name": "Prophylactic Immunomodulatory (IM) Therapy"
+        },
+        {
+          "type": "DRUG",
+          "name": "Optimized Prophylactic IM Therapy"
+        },
+        {
+          "type": "DRUG",
+          "name": "Adjuvant IM Therapy"
+        }
+      ],
+      "enrollment": 36,
+      "locations": [
+        {
+          "facility": "Nationwide Children's Hospital",
+          "city": "Columbus",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Pittsburgh",
+          "city": "Pittsburgh",
+          "country": "United States"
+        },
+        {
+          "facility": "Women's and Children's Hospital",
+          "city": "North Adelaide",
+          "country": "Australia"
+        },
+        {
+          "facility": "Vall d'Hebron Barcelona Hospital Campus",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Clínico Universitario de Santiago",
+          "city": "Santiago De Compostela",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-06-15"
+    },
+    {
+      "nctId": "NCT05371613",
+      "briefTitle": "A Study to Determine the Efficacy and Safety of Tividenofusp Alfa (DNL310) vs Idursulfase in Pediatric and Young Adult Participants With Neuronopathic (nMPS II) or Non-Neuronopathic Mucopolysaccharidosis Type II (nnMPS II)",
+      "officialTitle": "A Phase 2/3, Multicenter, Double-Blind, Randomized Study to Determine the Efficacy and Safety of Tividenofusp Alfa (DNL310) vs Idursulfase in Pediatric and Young Adult Participants With Neuronopathic or Non-Neuronopathic Mucopolysaccharidosis Type II",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "conditions": [
+        "Mucopolysaccharidosis II"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "tividenofusp alfa"
+        },
+        {
+          "type": "DRUG",
+          "name": "idursulfase"
+        }
+      ],
+      "enrollment": 54,
+      "locations": [
+        {
+          "facility": "UCSF Benioff Children's Hospital Oakland",
+          "city": "Oakland",
+          "country": "United States"
+        },
+        {
+          "facility": "Ann and Robert H Lurie Children's Hospital of Chicago",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "Hackensack University Medical Center",
+          "city": "Hackensack",
+          "country": "United States"
+        },
+        {
+          "facility": "UNC Children's Research Institute",
+          "city": "Chapel Hill",
+          "country": "United States"
+        },
+        {
+          "facility": "Cincinnati Children's Hospital Medical Center",
+          "city": "Cincinnati",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Philadelphia",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "The University of Texas Medical School at Houston",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Utah, PPDS",
+          "city": "Salt Lake City",
+          "country": "United States"
+        },
+        {
+          "facility": "Sanatorio Mater Dei",
+          "city": "Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Women's and Children's Hospital",
+          "city": "North Adelaide",
+          "country": "Australia"
+        },
+        {
+          "facility": "Universitair Ziekenhuis Brussel",
+          "city": "Jette",
+          "country": "Belgium"
+        },
+        {
+          "facility": "UZ Antwerpen",
+          "city": "Antwerpen",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Hospital de Clínicas de Porto Alegre (HCPA) - PPDS",
+          "city": "Porto Alegre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Instituto Fernandes Figueira",
+          "city": "Rio De Janeiro",
+          "country": "Brazil"
+        },
+        {
+          "facility": "University of Alberta - Faculty of Medicine & Dentistry",
+          "city": "Edmonton",
+          "country": "Canada"
+        },
+        {
+          "facility": "Hospital for Sick Children",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "McGill University Health Center",
+          "city": "Montreal",
+          "country": "Canada"
+        },
+        {
+          "facility": "Vseobecna Fakultni Nemocnice V Praze",
+          "city": "Praha",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Hôpital Jeanne de Flandre",
+          "city": "Lille",
+          "country": "France"
+        },
+        {
+          "facility": "Medizinische Universität Lausitz - Carl Thiem",
+          "city": "Cottbus",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitätsklinikum Hamburg Eppendorf",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "SphinCS",
+          "city": "Hochheim",
+          "country": "Germany"
+        },
+        {
+          "facility": "Azienda Sanitaria Universitaria Friuli Centrale - PO Universitario Santa Maria della Misericordia",
+          "city": "Udine",
+          "country": "Italy"
+        },
+        {
+          "facility": "Erasmus Medical Center - Sophia Children's Hospital",
+          "city": "Rotterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Hospital Universitario Vall d'Hebron",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Infantil Universitario Niño Jesus",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Drottning Silvias Barn Och Ungdomssjukhus",
+          "city": "Göteborg",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Cukurova University Medical Faculty Balcali Hospital",
+          "city": "Adana",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Gazi Universitesi Tip Fakultesi",
+          "city": "Çankaya",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Birmingham Women's and Children's NHS Foundation Trust",
+          "city": "Birmingham",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Royal Free Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Great Ormond Street Hospital for Children",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Salford Royal Hospital",
+          "city": "Salford",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-06-03"
+    },
+    {
+      "nctId": "NCT03227042",
+      "briefTitle": "A Prospective Natural History Study of Mucopolysaccharidosis Type IIIB (MPS IIIB)",
+      "officialTitle": "A Prospective Natural History Study of Mucopolysaccharidosis Type IIIB (MPS IIIB)",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Mucopolysaccharidosis Type IIIB"
+      ],
+      "interventions": [],
+      "enrollment": 44,
+      "locations": [
+        {
+          "facility": "UCSF Benioff Children's Hospital Oakland",
+          "city": "Oakland",
+          "country": "United States"
+        },
+        {
+          "facility": "Hospital Universitario Austral",
+          "city": "Pilar",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Murdoch Childrens Research Institute and Royal Children's Hospital",
+          "city": "Melbourne",
+          "country": "Australia"
+        },
+        {
+          "facility": "Medical Genetics Service/HCPA, Department of Genetics/UFRGS",
+          "city": "Pôrto Alegre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Fundación Cardio Infantil - Instituto de Cardiología",
+          "city": "Bogotá",
+          "country": "Colombia"
+        },
+        {
+          "facility": "University Medical Center Hamburg-Eppendorf",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Hospital Clínico Universitario de Santiago",
+          "city": "Santiago de Compostela",
+          "country": "Spain"
+        },
+        {
+          "facility": "MacKay Memorial Children's Hospital",
+          "city": "Taipei",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Gazi University Faculty of Medicine",
+          "city": "Ankara",
+          "country": "Turkey"
+        }
+      ],
+      "lastUpdateDate": "2022-10-26"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:11:30.521684",
+  "run_number": 1,
+  "total_trials_found": 3
+}

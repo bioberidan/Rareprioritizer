@@ -1,0 +1,22 @@
+{
+  "orphacode": "158",
+  "disease_name": "Systemic primary carnitine deficiency",
+  "socioeconomic_impact_studies": [
+    {
+      "cost": 0,
+      "measure": "Psychological burden of lifelong monitoring and treatment",
+      "label": "A qualitative study on the perspectives of mothers who had been diagnosed with primary carnitine deficiency through newborn screening of their child",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/37268964/",
+      "country": "Netherlands",
+      "year": "2023"
+    }
+  ],
+  "score": 3,
+  "evidence_level": "Low evidence",
+  "justification": "Only qualitative evidence is available, from a Dutch study reporting psychological burden and uncertainty related to lifelong monitoring and treatment; no cost-of-illness studies were identified.",
+  "metadata": {
+    "processing_timestamp": "2025-07-18T19:05:38.120421",
+    "run_number": 1,
+    "orphacode": "158"
+  }
+}

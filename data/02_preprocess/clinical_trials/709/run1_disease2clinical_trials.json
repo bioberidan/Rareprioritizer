@@ -1,0 +1,1928 @@
+{
+  "disease_name": "Peters plus syndrome",
+  "orpha_code": "709",
+  "trials": [
+    {
+      "nctId": "NCT05929066",
+      "briefTitle": "A Study of Retatrutide (LY3437943) in Participants Who Have Obesity or Overweight",
+      "officialTitle": "A Master Protocol to Investigate the Efficacy and Safety of LY3437943 Once Weekly in Participants Without Type 2 Diabetes Who Have Obesity or Overweight: A Randomized, Double-Blind, Placebo-Controlled Trial (TRIUMPH-1)",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Obesity",
+        "Overweight",
+        "Osteoarthritis, Knee",
+        "Obstructive Sleep Apnea"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Retatrutide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "enrollment": 2300,
+      "locations": [
+        {
+          "facility": "Central Phoenix Medical Clinic",
+          "city": "Phoenix",
+          "country": "United States"
+        },
+        {
+          "facility": "Arizona Research Center",
+          "city": "Phoenix",
+          "country": "United States"
+        },
+        {
+          "facility": "Medical Investigations",
+          "city": "Little Rock",
+          "country": "United States"
+        },
+        {
+          "facility": "Neuro-Pain Medical Center",
+          "city": "Fresno",
+          "country": "United States"
+        },
+        {
+          "facility": "Valley Research",
+          "city": "Fresno",
+          "country": "United States"
+        },
+        {
+          "facility": "Artemis Institute for Clinical Research",
+          "city": "San Diego",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Colorado Anschutz Medical Campus",
+          "city": "Aurora",
+          "country": "United States"
+        },
+        {
+          "facility": "Yale University School of Medicine",
+          "city": "New Haven",
+          "country": "United States"
+        },
+        {
+          "facility": "Chase Medical Research, LLC",
+          "city": "Waterbury",
+          "country": "United States"
+        },
+        {
+          "facility": "Teradan Clinical Trials, LLC",
+          "city": "Brandon",
+          "country": "United States"
+        },
+        {
+          "facility": "Suncoast Research Group",
+          "city": "Miami",
+          "country": "United States"
+        },
+        {
+          "facility": "New Horizon Research Center",
+          "city": "Miami",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Neuroscience Solutions",
+          "city": "Orlando",
+          "country": "United States"
+        },
+        {
+          "facility": "Progressive Medical Research",
+          "city": "Port Orange",
+          "country": "United States"
+        },
+        {
+          "facility": "NeuroTrials Research Inc",
+          "city": "Atlanta",
+          "country": "United States"
+        },
+        {
+          "facility": "North Georgia Clinical Research",
+          "city": "Woodstock",
+          "country": "United States"
+        },
+        {
+          "facility": "East-West Medical Research Institute",
+          "city": "Honolulu",
+          "country": "United States"
+        },
+        {
+          "facility": "Northwestern University",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "Central Illinois Diabetes and Clinical Research a Division of Prairie Education and Research Cooperative",
+          "city": "Springfield",
+          "country": "United States"
+        },
+        {
+          "facility": "Brengle Family Medicine",
+          "city": "Indianapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "Cotton O'Neil Diabetes & Endocrinology",
+          "city": "Topeka",
+          "country": "United States"
+        },
+        {
+          "facility": "MedVadis Research Corporation",
+          "city": "Waltham",
+          "country": "United States"
+        },
+        {
+          "facility": "Great Lakes Research Group, Inc.",
+          "city": "Bay City",
+          "country": "United States"
+        },
+        {
+          "facility": "StudyMetrix Research",
+          "city": "Saint Peters",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinvest Research LLC",
+          "city": "Springfield",
+          "country": "United States"
+        },
+        {
+          "facility": "Palm Research Center Tenaya",
+          "city": "Las Vegas",
+          "country": "United States"
+        },
+        {
+          "facility": "Rochester Clinical Research, LLC",
+          "city": "Rochester",
+          "country": "United States"
+        },
+        {
+          "facility": "Carteret Medical Group",
+          "city": "Morehead City",
+          "country": "United States"
+        },
+        {
+          "facility": "Trial Management Associates - Wilmington - Floral Parkway",
+          "city": "Wilmington",
+          "country": "United States"
+        },
+        {
+          "facility": "Lillestol Research",
+          "city": "Fargo",
+          "country": "United States"
+        },
+        {
+          "facility": "Altoona Center For Clinical Research",
+          "city": "Duncansville",
+          "country": "United States"
+        },
+        {
+          "facility": "Tribe Clinical Research, LLC",
+          "city": "Greenville",
+          "country": "United States"
+        },
+        {
+          "facility": "Tribe Clinical Research - Spartanburg",
+          "city": "Spartanburg",
+          "country": "United States"
+        },
+        {
+          "facility": "Vanderbilt Health One Hundred Oaks",
+          "city": "Nashville",
+          "country": "United States"
+        },
+        {
+          "facility": "FutureSearch Trials of Neurology",
+          "city": "Austin",
+          "country": "United States"
+        },
+        {
+          "facility": "Juno Research",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "Advanced Research Institute",
+          "city": "Ogden",
+          "country": "United States"
+        },
+        {
+          "facility": "Northwest Clinical Research Center",
+          "city": "Bellevue",
+          "country": "United States"
+        },
+        {
+          "facility": "Rainier Clinical Research Center",
+          "city": "Renton",
+          "country": "United States"
+        },
+        {
+          "facility": "Emeritus Research",
+          "city": "Botany",
+          "country": "Australia"
+        },
+        {
+          "facility": "The AIM Centre / Hunter Diabetes Centre",
+          "city": "Merewether",
+          "country": "Australia"
+        },
+        {
+          "facility": "Logan Hospital",
+          "city": "Meadowbrook",
+          "country": "Australia"
+        },
+        {
+          "facility": "Fusion Clinical Research",
+          "city": "Adelaide",
+          "country": "Australia"
+        },
+        {
+          "facility": "Nightingale Research",
+          "city": "Adelaide",
+          "country": "Australia"
+        },
+        {
+          "facility": "Emeritus Research",
+          "city": "Camberwell",
+          "country": "Australia"
+        },
+        {
+          "facility": "Barwon Health",
+          "city": "Geelong",
+          "country": "Australia"
+        },
+        {
+          "facility": "One Clinical Research",
+          "city": "Nedlands",
+          "country": "Australia"
+        },
+        {
+          "facility": "CPCLIN",
+          "city": "Sao Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "CPQuali Pesquisa Clínica",
+          "city": "São Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "CEPIC - Centro Paulista de Investigação Clínica",
+          "city": "São Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Aggarwal and Associates Limited",
+          "city": "Brampton",
+          "country": "Canada"
+        },
+        {
+          "facility": "Dr. Steven V. Zizzo Medicine Professional Corporation",
+          "city": "Hamilton",
+          "country": "Canada"
+        },
+        {
+          "facility": "Wharton Medical Clinic",
+          "city": "Hamilton",
+          "country": "Canada"
+        },
+        {
+          "facility": "Your Research Network",
+          "city": "Niagara Falls",
+          "country": "Canada"
+        },
+        {
+          "facility": "Bluewater Clinical Research Group Inc.",
+          "city": "Sarnia",
+          "country": "Canada"
+        },
+        {
+          "facility": "Canadian Phase Onward",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Centre de Recherche Clinique de Laval",
+          "city": "Laval",
+          "country": "Canada"
+        },
+        {
+          "facility": "Clinique de médecine Urbaine du Quartier Latin",
+          "city": "Montreal",
+          "country": "Canada"
+        },
+        {
+          "facility": "C.I.C. Mauricie inc.",
+          "city": "Trois-Rivières",
+          "country": "Canada"
+        },
+        {
+          "facility": "Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ",
+          "city": "Szeged",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Regia Med Kft",
+          "city": "Szekesfehervar",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Medifarma 98 Kft",
+          "city": "Nyiregyhaza",
+          "country": "Hungary"
+        },
+        {
+          "facility": "DRC Gyógyszervizsgáló Központ",
+          "city": "Balatonfüred",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Óbudai Egészségügyi Centrum",
+          "city": "Budapest",
+          "country": "Hungary"
+        },
+        {
+          "facility": "ClinDiab Kft.",
+          "city": "Budapest",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Debreceni Egyetem Klinikai Központ",
+          "city": "Debrecen",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Debreceni Egyetem Klinikai Kozpont",
+          "city": "Debrecen",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Endolife Speciality Hospitals",
+          "city": "Guntur",
+          "country": "India"
+        },
+        {
+          "facility": "Avron Hospitals",
+          "city": "Ahmedabad",
+          "country": "India"
+        },
+        {
+          "facility": "Surat Institute of Digestive Sciences Hospitals",
+          "city": "Surat",
+          "country": "India"
+        },
+        {
+          "facility": "Karnataka Institute of Medical Sciences",
+          "city": "Hubli",
+          "country": "India"
+        },
+        {
+          "facility": "Indian Institute of Diabetes",
+          "city": "Thiruvananthapuram",
+          "country": "India"
+        },
+        {
+          "facility": "Jothydev's Diabetes and Research Center",
+          "city": "Trivandrum",
+          "country": "India"
+        },
+        {
+          "facility": "Wockhardt Hospital - Mumbai Central",
+          "city": "Mumbai",
+          "country": "India"
+        },
+        {
+          "facility": "Deenanath Mangeshkar Hospital & Research Centre",
+          "city": "Pune",
+          "country": "India"
+        },
+        {
+          "facility": "Chellaram Diabetes Institute",
+          "city": "Pune",
+          "country": "India"
+        },
+        {
+          "facility": "Lifepoint Multispeciality Hospital",
+          "city": "Pune",
+          "country": "India"
+        },
+        {
+          "facility": "All India Institute of Medical Sciences",
+          "city": "Bhubaneswar",
+          "country": "India"
+        },
+        {
+          "facility": "Eternal Heart Care Center and Research Institute",
+          "city": "Jaipur",
+          "country": "India"
+        },
+        {
+          "facility": "Christian Medical College Vellore",
+          "city": "Vellore",
+          "country": "India"
+        },
+        {
+          "facility": "ILS Hospitals",
+          "city": "Kolkata",
+          "country": "India"
+        },
+        {
+          "facility": "Centro de Investigacion en Artritis y Osteoporosis SC",
+          "city": "Mexicali",
+          "country": "Mexico"
+        },
+        {
+          "facility": "RM Pharma Specialists",
+          "city": "Mexico City",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Clinica Omega",
+          "city": "Mexico City",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Diseno y Planeacion en Investigacion Medica",
+          "city": "Guadalajara",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Clinica de Investigacion en Reumatologia y Obesidad S. C.",
+          "city": "Guadalajara",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Private Practice - Dr. Arechavaleta Granell Maria del Rosario",
+          "city": "Guadalajara",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Unidad de Investigación Clínica y Atención Médica HEPA",
+          "city": "Guadalajara",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Instituto de Diabetes, Obesidad y Nutricion",
+          "city": "Cuernavaca",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Unidad biomedica avanzada monterrey",
+          "city": "Monterrey",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Hospital Universitario Dr. Jose Eleuterio Gonzalez",
+          "city": "Monterrey",
+          "country": "Mexico"
+        },
+        {
+          "facility": "EME RED Hospitalaria",
+          "city": "Mérida",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Kohler and Milstein Research S.A. de C.V.",
+          "city": "Mérida",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Centro de Atención e Investigación Clínica",
+          "city": "Aguascalientes",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Investigacion En Salud Y Metabolismo S.C / Nutricion Clinica / Unidad de Base de Datos",
+          "city": "Chihuahua",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Arké SMO S.A de C.V",
+          "city": "Veracruz",
+          "country": "Mexico"
+        },
+        {
+          "facility": "INTERCOR",
+          "city": "Bydgoszcz",
+          "country": "Poland"
+        },
+        {
+          "facility": "CenterMed Lublin NZOZ",
+          "city": "Lublin",
+          "country": "Poland"
+        },
+        {
+          "facility": "Gabinety TERPA",
+          "city": "Lublin",
+          "country": "Poland"
+        },
+        {
+          "facility": "MICS Centrum Medyczne Warszawa",
+          "city": "Warszawa",
+          "country": "Poland"
+        },
+        {
+          "facility": "Private Practice - Dr. Robert Witek",
+          "city": "Tarnów",
+          "country": "Poland"
+        },
+        {
+          "facility": "Uniwersytecki Szpital Kliniczny w Białymstoku",
+          "city": "Białystok",
+          "country": "Poland"
+        },
+        {
+          "facility": "Centrum Badan Klinicznych PI-House sp. z o.o.",
+          "city": "Gdansk",
+          "country": "Poland"
+        },
+        {
+          "facility": "Centrum Kliniczno-Badawcze",
+          "city": "Elblag",
+          "country": "Poland"
+        },
+        {
+          "facility": "Ambulatorium Sp. z o.o.",
+          "city": "Elbląg",
+          "country": "Poland"
+        },
+        {
+          "facility": "Centrum Zdrowia Metabolicznego Pawel Bogdanski",
+          "city": "Poznań",
+          "country": "Poland"
+        },
+        {
+          "facility": "NZOZ Salvia CM",
+          "city": "Katowice",
+          "country": "Poland"
+        },
+        {
+          "facility": "Specjalistyczna Praktyka Lekarska Diabetologia, Leczenie Cukrzycy i Otylosci",
+          "city": "Kielce",
+          "country": "Poland"
+        },
+        {
+          "facility": "Ponce Medical School Foundation Inc.",
+          "city": "Ponce",
+          "country": "Puerto Rico"
+        },
+        {
+          "facility": "Diabdana",
+          "city": "Oradea",
+          "country": "Romania"
+        },
+        {
+          "facility": "C.M.D.T.A. Neomed",
+          "city": "Brasov",
+          "country": "Romania"
+        },
+        {
+          "facility": "Hightech Medical Services SRL-Centrul pentru Studiul Metabolismului",
+          "city": "Bucharest",
+          "country": "Romania"
+        },
+        {
+          "facility": "Gama Diamed",
+          "city": "Mangalia",
+          "country": "Romania"
+        },
+        {
+          "facility": "Cabinet Medical Dr.Geru",
+          "city": "Timisoara",
+          "country": "Romania"
+        },
+        {
+          "facility": "SC Minimed SRL",
+          "city": "Bacău",
+          "country": "Romania"
+        },
+        {
+          "facility": "Diamed Obesity",
+          "city": "Galați",
+          "country": "Romania"
+        },
+        {
+          "facility": "Centrul Medical Consultmed",
+          "city": "Iași",
+          "country": "Romania"
+        },
+        {
+          "facility": "Clinica Korall",
+          "city": "Satu Mare",
+          "country": "Romania"
+        },
+        {
+          "facility": "Policlinica Astra Sibiu",
+          "city": "Sibiu",
+          "country": "Romania"
+        },
+        {
+          "facility": "CHUAC-Complejo Hospitalario Universitario A Coruña",
+          "city": "A Coruña",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complejo Hospitalario Universitario de Ferrol (CHUF)- Hospital Naval",
+          "city": "Ferrol",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitari Vall d'Hebron",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Marqués de Valdecilla",
+          "city": "Santander",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital General Universitario de Valencia",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clínica nuevas Tecnologías en Diabetes y Endocrinología (NTDE)",
+          "city": "Sevilla",
+          "country": "Spain"
+        },
+        {
+          "facility": "Rowden Surgery",
+          "city": "Chippenham",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Layton Medical Centre",
+          "city": "Blackpool",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Leicester General Hospital",
+          "city": "Leicester",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Panthera Biopartners - North London",
+          "city": "Enfield",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Glasgow Royal Infirmary",
+          "city": "Glasgow",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Heartlands Hospital",
+          "city": "Birmingham",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Aintree University Hospital NHS Foundation Trust",
+          "city": "Liverpool",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "St Clare Medical Centre",
+          "city": "Penzance",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Panthera Biopartners - Sheffield",
+          "city": "Sheffield",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-04-18"
+    },
+    {
+      "nctId": "NCT05929079",
+      "briefTitle": "A Study of Retatrutide (LY3437943) in Participants With Type 2 Diabetes Mellitus Who Have Obesity or Overweight",
+      "officialTitle": "A Master Protocol to Investigate the Efficacy and Safety of LY3437943 Once Weekly in Participants With Type 2 Diabetes Mellitus Who Have Obesity or Overweight: A Randomized Double-Blind, Placebo-Controlled Trial",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Type 2 Diabetes",
+        "Obesity",
+        "Overweight",
+        "Obstructive Sleep Apnea"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Retatrutide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "enrollment": 1000,
+      "locations": [
+        {
+          "facility": "Pinnacle Research Group, LLC",
+          "city": "Anniston",
+          "country": "United States"
+        },
+        {
+          "facility": "Cullman Clinical Trials",
+          "city": "Cullman",
+          "country": "United States"
+        },
+        {
+          "facility": "Preferred Research Partners",
+          "city": "Little Rock",
+          "country": "United States"
+        },
+        {
+          "facility": "Core Healthcare Group",
+          "city": "Cerritos",
+          "country": "United States"
+        },
+        {
+          "facility": "Velocity Clinical Research, Westlake",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "Valley Clinical Trials, Inc.",
+          "city": "Northridge",
+          "country": "United States"
+        },
+        {
+          "facility": "Diablo Clinical Research, Inc.",
+          "city": "Walnut Creek",
+          "country": "United States"
+        },
+        {
+          "facility": "Chase Medical Research, LLC",
+          "city": "Waterbury",
+          "country": "United States"
+        },
+        {
+          "facility": "Excel Medical Clinical Trials",
+          "city": "Boca Raton",
+          "country": "United States"
+        },
+        {
+          "facility": "Teradan Clinical Trials, LLC",
+          "city": "Brandon",
+          "country": "United States"
+        },
+        {
+          "facility": "Fleming Island Center for Clinical Research",
+          "city": "Fleming Island",
+          "country": "United States"
+        },
+        {
+          "facility": "Therafirst Medical Center",
+          "city": "Fort Lauderdale",
+          "country": "United States"
+        },
+        {
+          "facility": "Quantum Clinical Trials",
+          "city": "Miami Beach",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Site Partners LLC, dba Flourish Research",
+          "city": "Miami",
+          "country": "United States"
+        },
+        {
+          "facility": "Renstar Medical Research",
+          "city": "Ocala",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Research Center of Florida",
+          "city": "Pompano Beach",
+          "country": "United States"
+        },
+        {
+          "facility": "Palm Beach Research Center",
+          "city": "West Palm Beach",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Site Partners, LLC dba Flourish Research",
+          "city": "Winter Park",
+          "country": "United States"
+        },
+        {
+          "facility": "NeuroTrials Research Inc",
+          "city": "Atlanta",
+          "country": "United States"
+        },
+        {
+          "facility": "Centricity Research Rincon Pulmonology",
+          "city": "Rincon",
+          "country": "United States"
+        },
+        {
+          "facility": "East-West Medical Research Institute",
+          "city": "Honolulu",
+          "country": "United States"
+        },
+        {
+          "facility": "Brengle Family Medicine",
+          "city": "Indianapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "MedVadis Research Corporation",
+          "city": "Waltham",
+          "country": "United States"
+        },
+        {
+          "facility": "StudyMetrix Research",
+          "city": "Saint Peters",
+          "country": "United States"
+        },
+        {
+          "facility": "Las Vegas Medical Research",
+          "city": "Las Vegas",
+          "country": "United States"
+        },
+        {
+          "facility": "Mid Hudson Medical Research",
+          "city": "New Windsor",
+          "country": "United States"
+        },
+        {
+          "facility": "Monroe Biomedical Research",
+          "city": "Monroe",
+          "country": "United States"
+        },
+        {
+          "facility": "Carteret Medical Group",
+          "city": "Morehead City",
+          "country": "United States"
+        },
+        {
+          "facility": "Lillestol Research",
+          "city": "Fargo",
+          "country": "United States"
+        },
+        {
+          "facility": "CTI Clinical Research Center",
+          "city": "Cincinnati",
+          "country": "United States"
+        },
+        {
+          "facility": "Intrepid Research",
+          "city": "Cincinnati",
+          "country": "United States"
+        },
+        {
+          "facility": "Preferred Primary Care Physicians, Preferred Clinical Research (Ofc 18)",
+          "city": "Pittsburgh",
+          "country": "United States"
+        },
+        {
+          "facility": "Preferred Primary Care Physicians",
+          "city": "Uniontown",
+          "country": "United States"
+        },
+        {
+          "facility": "Tribe Clinical Research, LLC",
+          "city": "Greenville",
+          "country": "United States"
+        },
+        {
+          "facility": "Trial Management Associates",
+          "city": "Myrtle Beach",
+          "country": "United States"
+        },
+        {
+          "facility": "Tribe Clinical Research - Spartanburg",
+          "city": "Spartanburg",
+          "country": "United States"
+        },
+        {
+          "facility": "FutureSearch Trials of Neurology",
+          "city": "Austin",
+          "country": "United States"
+        },
+        {
+          "facility": "Velocity Clinical Research, Dallas",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "Advanced Research Institute",
+          "city": "Ogden",
+          "country": "United States"
+        },
+        {
+          "facility": "Northwest Clinical Research Center",
+          "city": "Bellevue",
+          "country": "United States"
+        },
+        {
+          "facility": "Centro Médico Viamonte",
+          "city": "Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Consultorio de Investigación Clínica EMO SRL",
+          "city": "Ciudad Autonoma de Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Centro Medico Dra. Laura Maffei- Investigacion Clinica Aplicada",
+          "city": "Ciudad Autonoma de Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Centro de Salud e Investigaciones Médicas",
+          "city": "Santa Rosa",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Emeritus Research",
+          "city": "Botany",
+          "country": "Australia"
+        },
+        {
+          "facility": "Woolcock Institute of Medical Research",
+          "city": "Macquarie Park",
+          "country": "Australia"
+        },
+        {
+          "facility": "The AIM Centre / Hunter Diabetes Centre",
+          "city": "Merewether",
+          "country": "Australia"
+        },
+        {
+          "facility": "Royal Brisbane and Women's Hospital",
+          "city": "Brisbane",
+          "country": "Australia"
+        },
+        {
+          "facility": "Core Research Group",
+          "city": "Brisbane",
+          "country": "Australia"
+        },
+        {
+          "facility": "Nightingale Research",
+          "city": "Adelaide",
+          "country": "Australia"
+        },
+        {
+          "facility": "Flinders University",
+          "city": "Bedford Park",
+          "country": "Australia"
+        },
+        {
+          "facility": "Southern Adelaide Diabetes & Endocrine Services",
+          "city": "Oaklands Park",
+          "country": "Australia"
+        },
+        {
+          "facility": "Box Hill Hospital",
+          "city": "Box Hill",
+          "country": "Australia"
+        },
+        {
+          "facility": "Emeritus Research",
+          "city": "Camberwell",
+          "country": "Australia"
+        },
+        {
+          "facility": "Austin Health - Repatriation Hospital",
+          "city": "Heidelberg West",
+          "country": "Australia"
+        },
+        {
+          "facility": "Advara HeartCare Joondalup",
+          "city": "Joondalup",
+          "country": "Australia"
+        },
+        {
+          "facility": "BR Trials - Ensaios Clinicos e Consultoria",
+          "city": "Sao Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "CPQuali Pesquisa Clínica",
+          "city": "São Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "CEPIC - Centro Paulista de Investigação Clínica",
+          "city": "São Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "All India Institute of Medical Sciences",
+          "city": "Raipur",
+          "country": "India"
+        },
+        {
+          "facility": "V.S. General Hospital",
+          "city": "Ahmedabad",
+          "country": "India"
+        },
+        {
+          "facility": "Avron Hospitals",
+          "city": "Ahmedabad",
+          "country": "India"
+        },
+        {
+          "facility": "Zydus Hospitals & Healthcare Research Pvt.Ltd.",
+          "city": "Ahmedabad",
+          "country": "India"
+        },
+        {
+          "facility": "Life Care Hospital and Research Centre",
+          "city": "Bangalore",
+          "country": "India"
+        },
+        {
+          "facility": "Sushruta Multispeciality Hospital & Research Centre",
+          "city": "Hubli",
+          "country": "India"
+        },
+        {
+          "facility": "Mysore Medical College",
+          "city": "Mysore",
+          "country": "India"
+        },
+        {
+          "facility": "CARE CHL-Hospitals",
+          "city": "Indore",
+          "country": "India"
+        },
+        {
+          "facility": "Sawai Man Singh Medical College Hospital (SMS Hospital)",
+          "city": "Jaipur",
+          "country": "India"
+        },
+        {
+          "facility": "Madras Diabetes Research Foundation",
+          "city": "Chennai",
+          "country": "India"
+        },
+        {
+          "facility": "Christian Medical College Vellore",
+          "city": "Vellore",
+          "country": "India"
+        },
+        {
+          "facility": "Care Hospitals Hyderabad- Banjara Hills",
+          "city": "Hyderabad",
+          "country": "India"
+        },
+        {
+          "facility": "Diabetes Research Center",
+          "city": "Hyderabad",
+          "country": "India"
+        },
+        {
+          "facility": "Institute of Post Graduate Medical Education and Research and Seth Sukhlal Karnani Memorial Hospital",
+          "city": "Kolkata",
+          "country": "India"
+        },
+        {
+          "facility": "Centro de Investigacion en Artritis y Osteoporosis SC",
+          "city": "Mexicali",
+          "country": "Mexico"
+        },
+        {
+          "facility": "RM Pharma Specialists",
+          "city": "Mexico City",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Clinica Omega",
+          "city": "Mexico City",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Centro Especializado En Diabetes, Obesidad Y Prevencion De Enfermedades Cardiovasculares",
+          "city": "Mexico City",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Diseno y Planeacion en Investigacion Medica",
+          "city": "Guadalajara",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Private Practice - Dr. Arechavaleta Granell Maria del Rosario",
+          "city": "Guadalajara",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Unidad de Investigación Clínica y Atención Médica HEPA",
+          "city": "Guadalajara",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Cardiolink Clin Trials",
+          "city": "Monterrey",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Unidad biomedica avanzada monterrey",
+          "city": "Monterrey",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Investigacion En Salud Y Metabolismo S.C / Nutricion Clinica / Unidad de Base de Datos",
+          "city": "Chihuahua",
+          "country": "Mexico"
+        },
+        {
+          "facility": "FAICIC S. de R.L. de C.V.",
+          "city": "Veracruz",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Arké SMO S.A de C.V",
+          "city": "Veracruz",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Diabdana",
+          "city": "Oradea",
+          "country": "Romania"
+        },
+        {
+          "facility": "Geea Medical Easy Diet",
+          "city": "Bucharest",
+          "country": "Romania"
+        },
+        {
+          "facility": "Centrul Medical NutriLife",
+          "city": "Bucharest",
+          "country": "Romania"
+        },
+        {
+          "facility": "Gama Diamed",
+          "city": "Mangalia",
+          "country": "Romania"
+        },
+        {
+          "facility": "Centrul Medical Mediab",
+          "city": "Târgu-Mureș",
+          "country": "Romania"
+        },
+        {
+          "facility": "CMI Dr.Pletea Noemi SRL",
+          "city": "Bacău",
+          "country": "Romania"
+        },
+        {
+          "facility": "Centro Periférico de Especialidades Bola Azul",
+          "city": "Almeria",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen de la Victoria",
+          "city": "Malaga",
+          "country": "Spain"
+        },
+        {
+          "facility": "H.R.U Málaga - Hospital Civil",
+          "city": "Málaga",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complejo Asistencial Universitario de León - Hospital de León",
+          "city": "León",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Ramón y Cajal",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Vithas Hospital Sevilla",
+          "city": "Seville",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen Del Rocio",
+          "city": "Sevilla",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-04-18"
+    },
+    {
+      "nctId": "NCT06423651",
+      "briefTitle": "Benefits of Combining MCT With CR in the Recovery of Patients With Psychotic Spectrum Disorders",
+      "officialTitle": "Benefits of Combining Metacognitive Training (MCT) With Cognitive Remediation (CR) in the Recovery of Patients With Psychotic Spectrum Disorders (CR+MCTp)",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Schizophrenia",
+        "Schizophreniform Disorders",
+        "Delusional Disorder",
+        "Brief Psychotic Disorder",
+        "Schizoaffective Disorder",
+        "Schizophrenia Spectrum and Other Psychotic Disorders"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Cognitive Remediation (REHACOP)"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Metacognitive Training (MCT)"
+        }
+      ],
+      "enrollment": 160,
+      "locations": [
+        {
+          "facility": "Universitat Autonoma de Barcelona",
+          "city": "Cerdanyola Del Vallès",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2024-05-23"
+    },
+    {
+      "nctId": "NCT05455593",
+      "briefTitle": "Effectiveness of the Combination of Water Aerobics and Metacognitive Training",
+      "officialTitle": "Efficacy of the Combination of Water Aerobics and Metacognitive Training (MCT) on Psychological and Physical Health Variables and Their Relationship With SP1 and SP4 Biomarkers in People With Psychosis",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Psychosis"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Water aerobics"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Metacognitive Training (MCT)"
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Combined intervention"
+        }
+      ],
+      "enrollment": 50,
+      "locations": [
+        {
+          "facility": "Parc Sanitari Sant Joan de Déu",
+          "city": "Sant Boi De Llobregat",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2024-08-22"
+    },
+    {
+      "nctId": "NCT05219617",
+      "briefTitle": "Investigate Efficacy and Safety of Carisbamate as Adjunctive Treatment for Seizures Associated With LGS in Children and Adults",
+      "officialTitle": "A Randomized, Double-Blind, Placebo-Controlled Study to Investigate the Efficacy and Safety of Carisbamate (YKP509) as Adjunctive Treatment for Seizures Associated With Lennox-Gastaut Syndrome in Children and Adults, With Optional Open-Label Extension",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Seizures",
+        "Lennox Gastaut Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Carisbamate"
+        }
+      ],
+      "enrollment": 252,
+      "locations": [
+        {
+          "facility": "Stanford University Hospital",
+          "city": "Palo Alto",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Florida Health Science Center",
+          "city": "Jacksonville",
+          "country": "United States"
+        },
+        {
+          "facility": "AdventHealth",
+          "city": "Orlando",
+          "country": "United States"
+        },
+        {
+          "facility": "Pediatric Epilepsy and Neurology Specialists",
+          "city": "Tampa",
+          "country": "United States"
+        },
+        {
+          "facility": "University of South Florida",
+          "city": "Tampa",
+          "country": "United States"
+        },
+        {
+          "facility": "Axcess Medical Research",
+          "city": "Wellington",
+          "country": "United States"
+        },
+        {
+          "facility": "Consultants in Epilepsy and Neurology PLLC",
+          "city": "Boise",
+          "country": "United States"
+        },
+        {
+          "facility": "Bluegrass Epilepsy Research, LLC",
+          "city": "Lexington",
+          "country": "United States"
+        },
+        {
+          "facility": "University Medical Center New Orleans",
+          "city": "New Orleans",
+          "country": "United States"
+        },
+        {
+          "facility": "Johns Hopkins Hospital",
+          "city": "Baltimore",
+          "country": "United States"
+        },
+        {
+          "facility": "Mid-Atlantic Epilepsy and Sleep Center",
+          "city": "Bethesda",
+          "country": "United States"
+        },
+        {
+          "facility": "Mayo Clinic",
+          "city": "Rochester",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Missouri School of Medicine",
+          "city": "Columbia",
+          "country": "United States"
+        },
+        {
+          "facility": "Northeast Regional Epilepsy Group",
+          "city": "Hackensack",
+          "country": "United States"
+        },
+        {
+          "facility": "St. Peters Hospital",
+          "city": "New Brunswick",
+          "country": "United States"
+        },
+        {
+          "facility": "Montefiore",
+          "city": "Bronx",
+          "country": "United States"
+        },
+        {
+          "facility": "Duke University Clinical Research at Pickett Road",
+          "city": "Durham",
+          "country": "United States"
+        },
+        {
+          "facility": "Wake Forest University - School of Medicine",
+          "city": "Winston-Salem",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Philadelphia",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Austin Epilepsy Care Center - Clinic/Outpatient Facility",
+          "city": "Austin",
+          "country": "United States"
+        },
+        {
+          "facility": "Neurology Consultants of Dallas, PA - Hospital",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "Virginia Epilepsy and Neurodevelopmental Clinic at WNC",
+          "city": "Winchester",
+          "country": "United States"
+        },
+        {
+          "facility": "Hospital de Ninos de La Santisma Trinidad",
+          "city": "Córdoba",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Resolution Psychopharmacology Research Institute",
+          "city": "Mendoza",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Austin Hosptial",
+          "city": "Heidelberg",
+          "country": "Australia"
+        },
+        {
+          "facility": "Alfred Health",
+          "city": "Melbourne",
+          "country": "Australia"
+        },
+        {
+          "facility": "Perth's Children Hospital",
+          "city": "Nedlands",
+          "country": "Australia"
+        },
+        {
+          "facility": "Queensland Children's Hospital",
+          "city": "South Brisbane",
+          "country": "Australia"
+        },
+        {
+          "facility": "Fundacion Hospital Universidad del Norte",
+          "city": "Barranquilla",
+          "country": "Colombia"
+        },
+        {
+          "facility": "Fundacion Valle del Lili/Clinic - Outpatient",
+          "city": "Cali",
+          "country": "Colombia"
+        },
+        {
+          "facility": "CliniSalud del Sur S.A.S - Centro de Investigación",
+          "city": "Envigado",
+          "country": "Colombia"
+        },
+        {
+          "facility": "Hospital Pabloe Tubon Uribe",
+          "city": "Medellín",
+          "country": "Colombia"
+        },
+        {
+          "facility": "Institutio Neurologico de Colombia",
+          "city": "Medellín",
+          "country": "Colombia"
+        },
+        {
+          "facility": "Universitatsklinikum Erangen",
+          "city": "Erlangen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Kleinwachau Sächsisches Epilepsiezentrum",
+          "city": "Radeberg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Iaso Children's Hospital",
+          "city": "Maroúsi",
+          "country": "Greece"
+        },
+        {
+          "facility": "Orszagos Mentalis, Ideggyogyaszati es Idegsebezeti Intezet",
+          "city": "Budapest",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Semmelweis Egyetem Idegsebeszeti es Neurointervencios Klinika",
+          "city": "Budapest",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Tela Viv Sourlasky Medical Center",
+          "city": "Tel Aviv Yafo",
+          "country": "Israel"
+        },
+        {
+          "facility": "Soroka University Medical Centre",
+          "city": "Be'er Sheva",
+          "country": "Israel"
+        },
+        {
+          "facility": "Hadassah Medical Center",
+          "city": "Jerusalem",
+          "country": "Israel"
+        },
+        {
+          "facility": "Sheba Medical Center",
+          "city": "Ramat Gan",
+          "country": "Israel"
+        },
+        {
+          "facility": "Istituto G Gaslini Ospedale Pediatrico IRCCS - INCIPIT - PIN",
+          "city": "Genova",
+          "country": "Italy"
+        },
+        {
+          "facility": "ASST Fatebenefratelli Sacco - Ospedale dei Bambini Vittore Buzzi",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione IRCCS Di Rilievo Nazionale Instituto",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliero Universitaria A Meyer - INCIPIT - PIN",
+          "city": "Firenze",
+          "country": "Italy"
+        },
+        {
+          "facility": "ASST Santi Paolo E Carlo - Azienda Universitaria-Polo Universitaria - San Paolo",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera Universitaria Integrata Di Verona",
+          "city": "Verona",
+          "country": "Italy"
+        },
+        {
+          "facility": "Kyungpook National University Chilgok Hospital",
+          "city": "Daegu",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Samsung Medical Center",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Seoul National University Hospital",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Hospital Civil Fray Antonio Alcalde",
+          "city": "Guadalajara",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Neurociencias Estudios Clinicos S.C.",
+          "city": "Culiacán",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Clinstile, S.A. de C.V.",
+          "city": "Mexico City",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Szpital Kliniczny im.H.Swiecickiego Uniwersytetu Medycznego im.K.Marcinkowskiego w Poznaniu-Dluga1/2",
+          "city": "Poznan",
+          "country": "Poland"
+        },
+        {
+          "facility": "Centrum Medyczne Plejady",
+          "city": "Kraków",
+          "country": "Poland"
+        },
+        {
+          "facility": "Hospital Garcia de Orta",
+          "city": "Almada",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Centro Hospitalar de Lisboa Norte, EPE",
+          "city": "Lisboa",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Centro Hospitalar de Lisboa Ocidental, EPE - Hospital Sao Francisco Xavier",
+          "city": "Lisboa",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Centro Hospitalar de Sao Joao, EPE",
+          "city": "Porto",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Childrens University Hospital",
+          "city": "Belgrade",
+          "country": "Serbia"
+        },
+        {
+          "facility": "University Clinical Center of Serbia - PPDS",
+          "city": "Belgrade",
+          "country": "Serbia"
+        },
+        {
+          "facility": "University Clinical Center Kragujevac",
+          "city": "Kragujevac",
+          "country": "Serbia"
+        },
+        {
+          "facility": "University Clinical Center Nis",
+          "city": "Niš",
+          "country": "Serbia"
+        },
+        {
+          "facility": "Children and Youth Health Care Institute of Vojvodina",
+          "city": "Novi Sad",
+          "country": "Serbia"
+        },
+        {
+          "facility": "Hospital Sant Joan de Deu - PIN",
+          "city": "Esplugues De Llobregat",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Infantil Universitario Niño Jesus - PIN",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Ruber Internacional (Grupo Quironsalud)",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "National Taiwan University Hospital",
+          "city": "Taipei",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Taipei Veterans General Hospital",
+          "city": "Taipei",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Chang Gung Memorial Hospital",
+          "city": "Taoyuan",
+          "country": "Taiwan"
+        }
+      ],
+      "lastUpdateDate": "2025-03-24"
+    },
+    {
+      "nctId": "NCT04462770",
+      "briefTitle": "A Study of EPX-100 (Clemizole Hydrochloride) in Participants With Dravet Syndrome",
+      "officialTitle": "A 20-Week Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial of EPX-100 (Clemizole Hydrochloride) as Adjunctive Therapy in Children and Adult Participants With Dravet Syndrome (ARGUS Trial)",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Dravet Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Clemizole HCl"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "enrollment": 150,
+      "locations": [
+        {
+          "facility": "Children's Hospital of Los Angeles",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "University of California Irvine",
+          "city": "Orange",
+          "country": "United States"
+        },
+        {
+          "facility": "UCSF Medical Center",
+          "city": "San Francisco",
+          "country": "United States"
+        },
+        {
+          "facility": "The Nemours Foundation",
+          "city": "Wilmington",
+          "country": "United States"
+        },
+        {
+          "facility": "Rare Disease Research FL",
+          "city": "Kissimmee",
+          "country": "United States"
+        },
+        {
+          "facility": "Pediatric Neurology and Epilepsy Specialists",
+          "city": "Winter Park",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Integrative Research Center of Atlanta (CIRCA)",
+          "city": "Atlanta",
+          "country": "United States"
+        },
+        {
+          "facility": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "Norton Children's Research Institute",
+          "city": "Louisville",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Michigan- Mott Children's Hospital",
+          "city": "Ann Arbor",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Nebraska",
+          "city": "Omaha",
+          "country": "United States"
+        },
+        {
+          "facility": "Northeast Regional Epilepsy Group",
+          "city": "Hackensack",
+          "country": "United States"
+        },
+        {
+          "facility": "Neurology Center for Epilepsy and Seizures",
+          "city": "Marlboro",
+          "country": "United States"
+        },
+        {
+          "facility": "Weill Cornell Medical Center",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Duke University Health System",
+          "city": "Durham",
+          "country": "United States"
+        },
+        {
+          "facility": "Wake Forest Baptist Medical Center",
+          "city": "Winston-Salem",
+          "country": "United States"
+        },
+        {
+          "facility": "Cincinnati Children's Hospital Medical Center",
+          "city": "Cincinnati",
+          "country": "United States"
+        },
+        {
+          "facility": "Cleveland Clinic",
+          "city": "Cleveland",
+          "country": "United States"
+        },
+        {
+          "facility": "Nationwide Children's Hospital",
+          "city": "Columbus",
+          "country": "United States"
+        },
+        {
+          "facility": "The Children's Hospital of Philadelphia",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Le Bonheur Children's Hospital",
+          "city": "Memphis",
+          "country": "United States"
+        },
+        {
+          "facility": "Child Neurology Consultants of Austin",
+          "city": "Austin",
+          "country": "United States"
+        },
+        {
+          "facility": "UT Southwestern/Children's Health",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Utah",
+          "city": "Salt Lake City",
+          "country": "United States"
+        },
+        {
+          "facility": "Seattle Children's Hospital",
+          "city": "Seattle",
+          "country": "United States"
+        },
+        {
+          "facility": "UBC Children's Hospital Research Institute",
+          "city": "Vancouver",
+          "country": "Canada"
+        },
+        {
+          "facility": "Children's Hospital of Eastern Ontario Research Institute Inc.",
+          "city": "Ottawa",
+          "country": "Canada"
+        },
+        {
+          "facility": "The Hospital for Sick Children",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Toronto Western Hospital, University Health Network",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Tbilisi State Medical University, Givi Zhvania Academic, Clinic of Pediatry",
+          "city": "Tbilisi",
+          "country": "Georgia"
+        },
+        {
+          "facility": "Medi Club Georgia LLC",
+          "city": "Tbilisi",
+          "country": "Georgia"
+        },
+        {
+          "facility": "Institute of Neurology and Neuropsychology",
+          "city": "Tbilisi",
+          "country": "Georgia"
+        },
+        {
+          "facility": "Semmelweis University",
+          "city": "Budapest",
+          "country": "Hungary"
+        },
+        {
+          "facility": "University of Debrecen",
+          "city": "Debrecen",
+          "country": "Hungary"
+        },
+        {
+          "facility": "University Clinical Center in Gdansk, Division of Developmental Neurology",
+          "city": "Gdańsk",
+          "country": "Poland"
+        },
+        {
+          "facility": "Medical Centre Plejady",
+          "city": "Kraków",
+          "country": "Poland"
+        },
+        {
+          "facility": "Institute of Mother and Child",
+          "city": "Warsaw",
+          "country": "Poland"
+        },
+        {
+          "facility": "\"Prof. Dr. Al. Obregia\" Psychiatry Clinical Hospital",
+          "city": "Bucharest",
+          "country": "Romania"
+        },
+        {
+          "facility": "Hospital Infantil Universitario Niño Jesús",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital de la Santa Creu i Sant Pau",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Cardiff and Vale University Health Board",
+          "city": "Cardiff",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Alder Hey Children's NHS Foundation Trust",
+          "city": "Liverpool",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Great Ormond Street Hospital For Children",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Sheffield Children's Hospital",
+          "city": "Sheffield",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-05-16"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:12:47.491341",
+  "run_number": 1,
+  "total_trials_found": 6
+}

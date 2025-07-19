@@ -1,0 +1,528 @@
+{
+  "disease_name": "Spinocerebellar ataxia type 28",
+  "orpha_code": "101109",
+  "drugs": [
+    {
+      "name": "Befiradol fumarate",
+      "substance_url": "/en/drug/substance/686840?name=101109&mode=orpha&region=&status=all",
+      "substance_id": "686840",
+      "regulatory_url": "/en/drug/regulatory/686930?name=101109&mode=orpha&region=",
+      "regulatory_id": "686930",
+      "orpha_substance_code": "ORPHA:99",
+      "details": [
+        "Befiradol fumarate(Medicinal product                        - 25/07/2024)Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "Befiradol fumarate(Medicinal product                        - 25/07/2024)",
+        "(Medicinal product                        - 25/07/2024)",
+        "Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/686840?name=101109&mode=orpha&region=&status=all",
+          "text": "Befiradol fumarate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/99",
+          "text": "ORPHA:99 Autosomal dominant cerebellar ataxia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/686930?name=101109&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Rovatirelin",
+      "substance_url": "/en/drug/substance/635854?name=101109&mode=orpha&region=&status=all",
+      "substance_id": "635854",
+      "regulatory_url": "/en/drug/regulatory/635855?name=101109&mode=orpha&region=",
+      "regulatory_id": "635855",
+      "orpha_substance_code": "ORPHA:99",
+      "details": [
+        "Rovatirelin(Medicinal product                        - 10/11/2022)Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "Rovatirelin(Medicinal product                        - 10/11/2022)",
+        "(Medicinal product                        - 10/11/2022)",
+        "Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/635854?name=101109&mode=orpha&region=&status=all",
+          "text": "Rovatirelin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/99",
+          "text": "ORPHA:99 Autosomal dominant cerebellar ataxia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/635855?name=101109&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Troriluzole hydrochloride",
+      "substance_url": "/en/drug/substance/628292?name=101109&mode=orpha&region=&status=all",
+      "substance_id": "628292",
+      "regulatory_url": "/en/drug/regulatory/628294?name=101109&mode=orpha&region=",
+      "regulatory_id": "628294",
+      "orpha_substance_code": "ORPHA:99",
+      "details": [
+        "Troriluzole hydrochloride(Medicinal product                        - 10/12/2021)Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "Troriluzole hydrochloride(Medicinal product                        - 10/12/2021)",
+        "(Medicinal product                        - 10/12/2021)",
+        "Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/628292?name=101109&mode=orpha&region=&status=all",
+          "text": "Troriluzole hydrochloride",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/99",
+          "text": "ORPHA:99 Autosomal dominant cerebellar ataxia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/628294?name=101109&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Acetylleucine",
+      "substance_url": "/en/drug/substance/479413?name=101109&mode=orpha&region=&status=all",
+      "substance_id": "479413",
+      "regulatory_url": "/en/drug/regulatory/529063?name=101109&mode=orpha&region=",
+      "regulatory_id": "529063",
+      "orpha_substance_code": "ORPHA:99",
+      "details": [
+        "Acetylleucine(Medicinal product                        - 24/08/2018)Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "Acetylleucine(Medicinal product                        - 24/08/2018)",
+        "(Medicinal product                        - 24/08/2018)",
+        "Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/479413?name=101109&mode=orpha&region=&status=all",
+          "text": "Acetylleucine",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/99",
+          "text": "ORPHA:99 Autosomal dominant cerebellar ataxia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/529063?name=101109&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Trans-resveratrol",
+      "substance_url": "/en/drug/substance/531922?name=101109&mode=orpha&region=&status=all",
+      "substance_id": "531922",
+      "regulatory_url": "/en/drug/regulatory/531923?name=101109&mode=orpha&region=",
+      "regulatory_id": "531923",
+      "orpha_substance_code": "ORPHA:99",
+      "details": [
+        "Trans-resveratrol(Medicinal product                        - 12/01/2017)Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "Trans-resveratrol(Medicinal product                        - 12/01/2017)",
+        "(Medicinal product                        - 12/01/2017)",
+        "Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/531922?name=101109&mode=orpha&region=&status=all",
+          "text": "Trans-resveratrol",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/99",
+          "text": "ORPHA:99 Autosomal dominant cerebellar ataxia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/531923?name=101109&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Ceftriaxone",
+      "substance_url": "/en/drug/substance/418160?name=101109&mode=orpha&region=&status=all",
+      "substance_id": "418160",
+      "regulatory_url": "/en/drug/regulatory/437311?name=101109&mode=orpha&region=",
+      "regulatory_id": "437311",
+      "orpha_substance_code": "ORPHA:247765",
+      "details": [
+        "Ceftriaxone(Medicinal product                        - 15/01/2015)Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxiaORPHA:1172 Autosomal recessive cerebellar ataxiaORPHA:247765 X-linked cerebellar ataxia",
+        "Ceftriaxone(Medicinal product                        - 15/01/2015)",
+        "(Medicinal product                        - 15/01/2015)",
+        "Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxiaORPHA:1172 Autosomal recessive cerebellar ataxiaORPHA:247765 X-linked cerebellar ataxia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/418160?name=101109&mode=orpha&region=&status=all",
+          "text": "Ceftriaxone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/99",
+          "text": "ORPHA:99 Autosomal dominant cerebellar ataxia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/1172",
+          "text": "ORPHA:1172 Autosomal recessive cerebellar ataxia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/247765",
+          "text": "ORPHA:247765 X-linked cerebellar ataxia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/437311?name=101109&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Befiradol fumarate",
+      "substance_url": "/en/drug/substance/686840?name=101109&mode=orpha&region=&status=all",
+      "substance_id": "686840",
+      "regulatory_url": "/en/drug/regulatory/704768?name=101109&mode=orpha&region=",
+      "regulatory_id": "704768",
+      "orpha_substance_code": "ORPHA:99",
+      "details": [
+        "Befiradol fumarate(Medicinal product                        - 15/05/2025)Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "Befiradol fumarate(Medicinal product                        - 15/05/2025)",
+        "(Medicinal product                        - 15/05/2025)",
+        "Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/686840?name=101109&mode=orpha&region=&status=all",
+          "text": "Befiradol fumarate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/99",
+          "text": "ORPHA:99 Autosomal dominant cerebellar ataxia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/704768?name=101109&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Single stranded 2-methoxyethyl RNA nucleotide with a full-length phosphorothioate backbone",
+      "substance_url": "/en/drug/substance/704629?name=101109&mode=orpha&region=&status=all",
+      "substance_id": "704629",
+      "regulatory_url": "/en/drug/regulatory/704757?name=101109&mode=orpha&region=",
+      "regulatory_id": "704757",
+      "orpha_substance_code": "ORPHA:99",
+      "details": [
+        "Single stranded 2-methoxyethyl RNA nucleotide with a full-length phosphorothioate backbone(Medicinal product                        - 09/05/2025)Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "Single stranded 2-methoxyethyl RNA nucleotide with a full-length phosphorothioate backbone(Medicinal product                        - 09/05/2025)",
+        "(Medicinal product                        - 09/05/2025)",
+        "Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/704629?name=101109&mode=orpha&region=&status=all",
+          "text": "Single stranded 2-methoxyethyl RNA nucleotide with a full-length phosphorothioate backbone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/99",
+          "text": "ORPHA:99 Autosomal dominant cerebellar ataxia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/704757?name=101109&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "4-aminopyridine",
+      "substance_url": "/en/drug/substance/88874?name=101109&mode=orpha&region=&status=all",
+      "substance_id": "88874",
+      "regulatory_url": "/en/drug/regulatory/687322?name=101109&mode=orpha&region=",
+      "regulatory_id": "687322",
+      "orpha_substance_code": "ORPHA:99",
+      "details": [
+        "4-aminopyridine(Medicinal product                        - 26/07/2024)Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "4-aminopyridine(Medicinal product                        - 26/07/2024)",
+        "(Medicinal product                        - 26/07/2024)",
+        "Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/88874?name=101109&mode=orpha&region=&status=all",
+          "text": "4-aminopyridine",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/99",
+          "text": "ORPHA:99 Autosomal dominant cerebellar ataxia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/687322?name=101109&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/646586?name=101109&mode=orpha&region=&status=all",
+      "substance_id": "646586",
+      "regulatory_url": "/en/drug/regulatory/646683?name=101109&mode=orpha&region=",
+      "regulatory_id": "646683",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)",
+        "(Medicinal product                        - 14/04/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/646586?name=101109&mode=orpha&region=&status=all",
+          "text": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/646683?name=101109&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Zagociguat",
+      "substance_url": "/en/drug/substance/644348?name=101109&mode=orpha&region=&status=all",
+      "substance_id": "644348",
+      "regulatory_url": "/en/drug/regulatory/644353?name=101109&mode=orpha&region=",
+      "regulatory_id": "644353",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Zagociguat(Medicinal product                        - 23/03/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Zagociguat(Medicinal product                        - 23/03/2023)",
+        "(Medicinal product                        - 23/03/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/644348?name=101109&mode=orpha&region=&status=all",
+          "text": "Zagociguat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/644353?name=101109&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Rovatirelin",
+      "substance_url": "/en/drug/substance/635854?name=101109&mode=orpha&region=&status=all",
+      "substance_id": "635854",
+      "regulatory_url": "/en/drug/regulatory/637244?name=101109&mode=orpha&region=",
+      "regulatory_id": "637244",
+      "orpha_substance_code": "ORPHA:99",
+      "details": [
+        "Rovatirelin(Medicinal product                        - 15/08/2022)Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "Rovatirelin(Medicinal product                        - 15/08/2022)",
+        "(Medicinal product                        - 15/08/2022)",
+        "Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/635854?name=101109&mode=orpha&region=&status=all",
+          "text": "Rovatirelin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/99",
+          "text": "ORPHA:99 Autosomal dominant cerebellar ataxia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/637244?name=101109&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Vatiquinone",
+      "substance_url": "/en/drug/substance/285822?name=101109&mode=orpha&region=&status=all",
+      "substance_id": "285822",
+      "regulatory_url": "/en/drug/regulatory/299940?name=101109&mode=orpha&region=",
+      "regulatory_id": "299940",
+      "orpha_substance_code": "ORPHA:254827",
+      "details": [
+        "Vatiquinone(Medicinal product                        - 21/12/2010)Disease(s) concernedORPHA:223713 Mitochondrial oxidative phosphorylation disorderORPHA:254827 Mitochondrial membrane transport disorder",
+        "Vatiquinone(Medicinal product                        - 21/12/2010)",
+        "(Medicinal product                        - 21/12/2010)",
+        "Disease(s) concernedORPHA:223713 Mitochondrial oxidative phosphorylation disorderORPHA:254827 Mitochondrial membrane transport disorder",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/285822?name=101109&mode=orpha&region=&status=all",
+          "text": "Vatiquinone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/223713",
+          "text": "ORPHA:223713 Mitochondrial oxidative phosphorylation disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/254827",
+          "text": "ORPHA:254827 Mitochondrial membrane transport disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/299940?name=101109&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "ORPHA:254827 Mitochondrial membrane transport disorder\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:02:05.774291",
+  "run_number": 1,
+  "total_drugs_found": 13,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Spinocerebellar+ataxia+type+28&orphaCode=101109&name=101109&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Spinocerebellar ataxia type 28",
+    "orphaCode": "101109",
+    "name": "101109",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

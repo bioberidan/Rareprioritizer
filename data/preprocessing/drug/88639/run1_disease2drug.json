@@ -1,0 +1,17 @@
+{
+  "disease_name": "Neurodegeneration due to 3-hydroxyisobutyryl-CoA hydrolase deficiency",
+  "orpha_code": "88639",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:19:37.820880",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Neurodegeneration+due+to+3-hydroxyisobutyryl-CoA+hydrolase+deficiency&orphaCode=88639&name=88639&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Neurodegeneration due to 3-hydroxyisobutyryl-CoA hydrolase deficiency",
+    "orphaCode": "88639",
+    "name": "88639",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

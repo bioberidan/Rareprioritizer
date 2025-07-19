@@ -1,0 +1,124 @@
+{
+  "disease_name": "PMM2-CDG",
+  "orpha_code": "79318",
+  "trials": [
+    {
+      "nctId": "NCT05549219",
+      "briefTitle": "24-Week Study to Assess the PD, Safety, Tolerability, and PK of GLM101 in Participants With PMM2-CDG",
+      "officialTitle": "A Phase 2, Randomized, Open-Label, 24-Week Study to Assess the Pharmacodynamics, Safety, Tolerability, and Pharmacokinetics of Multiple Doses of GLM101 Administered Intravenously to Adult, Adolescent, and Pediatric Participants With PMM2-CDG",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Pmm2-CDG",
+        "Phosphomannomutase 2 Deficiency"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "GLM101"
+        }
+      ],
+      "enrollment": 44,
+      "locations": [
+        {
+          "facility": "Clinical Research of West Florida",
+          "city": "Tampa",
+          "country": "United States"
+        },
+        {
+          "facility": "Mayo Clinic",
+          "city": "Rochester",
+          "country": "United States"
+        },
+        {
+          "facility": "Hospital Sant Joan de Déu",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Great Ormond Street Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-05-31"
+    },
+    {
+      "nctId": "NCT03173300",
+      "briefTitle": "Natural History Study Protocol in PMM2-CDG (CDG-Ia)",
+      "officialTitle": "Clinical and Basic Investigations Into Phosphomannomutase Deficiency (PMM2-CDG)",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Phosphomannomutase 2 Deficiency"
+      ],
+      "interventions": [],
+      "enrollment": 120,
+      "locations": [
+        {
+          "facility": "Mayo Clinic College of Medicine",
+          "city": "Rochester",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Philadelphia (CHOP)",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Seattle Children's Hospital",
+          "city": "Seattle",
+          "country": "United States"
+        },
+        {
+          "facility": "University Hospital Leuven",
+          "city": "Leuven",
+          "country": "Belgium"
+        },
+        {
+          "facility": "General University Hospital in Prague",
+          "city": "Prague",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Necker Enfants-Malades Hospital",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "University Hospital of Catania",
+          "city": "Catania",
+          "country": "Italy"
+        },
+        {
+          "facility": "Radboud University Nejmegen Medical Center",
+          "city": "Nijmegen",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Mother and Child Institute (Instytut Matki i Dziecka)",
+          "city": "Warsaw",
+          "country": "Poland"
+        },
+        {
+          "facility": "Centro Hospitalar do Porto",
+          "city": "Porto",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Hospital Sant Joan de Déu",
+          "city": "Barcelona",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-05-04"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:12:35.933849",
+  "run_number": 1,
+  "total_trials_found": 2
+}

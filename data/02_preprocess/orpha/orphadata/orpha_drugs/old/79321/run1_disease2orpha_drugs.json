@@ -1,0 +1,17 @@
+{
+  "disease_name": "ALG3-CDG",
+  "orpha_code": "79321",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:34:47.212093",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=ALG3-CDG&orphaCode=79321&name=79321&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "ALG3-CDG",
+    "orphaCode": "79321",
+    "name": "79321",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

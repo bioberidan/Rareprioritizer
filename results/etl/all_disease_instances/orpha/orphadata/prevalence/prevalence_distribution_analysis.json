@@ -1,0 +1,626 @@
+{
+  "total_diseases_analyzed": 4924,
+  "prevalence_statistics": {
+    "min": 0.5,
+    "max": 500.0,
+    "mean": 29.172542648253454,
+    "median": 0.5,
+    "std": 84.61548332085003,
+    "percentiles": {
+      "p10": 0.5,
+      "p25": 0.5,
+      "p75": 5.0,
+      "p90": 50.0
+    }
+  },
+  "prevalence_ranges": {
+    "Ultra-rare (<0.1)": 0,
+    "Very rare (0.1-1)": 3442,
+    "Rare (1-10)": 428,
+    "Uncommon (10-100)": 683,
+    "Common (100-1000)": 371,
+    "Very common (>1000)": 0
+  },
+  "disease_distribution": [
+    {
+      "orpha_code": "166024",
+      "disease_name": "Multiple epiphyseal dysplasia-macrocephaly-facial dysmorphism syndrome",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "58",
+      "disease_name": "Alexander disease",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "166032",
+      "disease_name": "Multiple epiphyseal dysplasia-miniepiphyses syndrome",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "61",
+      "disease_name": "Alpha-mannosidosis",
+      "prevalence": 2.93,
+      "total_records": 7
+    },
+    {
+      "orpha_code": "166029",
+      "disease_name": "Multiple epiphyseal dysplasia-severe proximal femoral dysplasia syndrome",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "166038",
+      "disease_name": "Metaphyseal chondrodysplasia, Kaitila type",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "93",
+      "disease_name": "Aspartylglucosaminuria",
+      "prevalence": 20.0,
+      "total_records": 4
+    },
+    {
+      "orpha_code": "166035",
+      "disease_name": "Brachydactyly-short stature-retinitis pigmentosa syndrome",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "585",
+      "disease_name": "Multiple sulfatase deficiency",
+      "prevalence": 5.0,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "118",
+      "disease_name": "Beta-mannosidosis",
+      "prevalence": 5.0,
+      "total_records": 5
+    },
+    {
+      "orpha_code": "141",
+      "disease_name": "Canavan disease",
+      "prevalence": 50.0,
+      "total_records": 3
+    },
+    {
+      "orpha_code": "166063",
+      "disease_name": "Pontocerebellar hypoplasia type 4",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "166078",
+      "disease_name": "Von Willebrand disease type 1",
+      "prevalence": 300.0,
+      "total_records": 1
+    },
+    {
+      "orpha_code": "166073",
+      "disease_name": "Pontocerebellar hypoplasia type 6",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "213",
+      "disease_name": "Cystinosis",
+      "prevalence": 18.18,
+      "total_records": 10
+    },
+    {
+      "orpha_code": "333",
+      "disease_name": "Farber disease",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "166081",
+      "disease_name": "Von Willebrand disease type 2",
+      "prevalence": 5.0,
+      "total_records": 1
+    },
+    {
+      "orpha_code": "349",
+      "disease_name": "Fucosidosis",
+      "prevalence": 5.0,
+      "total_records": 4
+    },
+    {
+      "orpha_code": "365",
+      "disease_name": "Glycogen storage disease due to acid maltase deficiency",
+      "prevalence": 50.24,
+      "total_records": 14
+    },
+    {
+      "orpha_code": "366",
+      "disease_name": "Glycogen storage disease due to glycogen debranching enzyme deficiency",
+      "prevalence": 50.0,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "368",
+      "disease_name": "Glycogen storage disease due to muscle glycogen phosphorylase deficiency",
+      "prevalence": 5.0,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "166096",
+      "disease_name": "Von Willebrand disease type 3",
+      "prevalence": 1.57,
+      "total_records": 13
+    },
+    {
+      "orpha_code": "367",
+      "disease_name": "Glycogen storage disease due to glycogen branching enzyme deficiency",
+      "prevalence": 5.0,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "371",
+      "disease_name": "Glycogen storage disease due to muscle phosphofructokinase deficiency",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "166105",
+      "disease_name": "FASTKD2-related infantile mitochondrial encephalomyopathy",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "369",
+      "disease_name": "Glycogen storage disease due to liver glycogen phosphorylase deficiency",
+      "prevalence": 50.0,
+      "total_records": 3
+    },
+    {
+      "orpha_code": "447",
+      "disease_name": "Paroxysmal nocturnal hemoglobinuria",
+      "prevalence": 34.45,
+      "total_records": 3
+    },
+    {
+      "orpha_code": "166108",
+      "disease_name": "Birk-Barel syndrome",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "166113",
+      "disease_name": "Bazex syndrome",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "535",
+      "disease_name": "Rare cutaneous lupus erythematosus",
+      "prevalence": 293.24,
+      "total_records": 4
+    },
+    {
+      "orpha_code": "166119",
+      "disease_name": "Isolated osteopoikilosis",
+      "prevalence": 50.0,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "487",
+      "disease_name": "Krabbe disease",
+      "prevalence": 27.34,
+      "total_records": 12
+    },
+    {
+      "orpha_code": "166260",
+      "disease_name": "Dentinogenesis imperfecta type 2",
+      "prevalence": 300.0,
+      "total_records": 1
+    },
+    {
+      "orpha_code": "583",
+      "disease_name": "Mucopolysaccharidosis type 6",
+      "prevalence": 12.14,
+      "total_records": 27
+    },
+    {
+      "orpha_code": "166272",
+      "disease_name": "Odontochondrodysplasia",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "576",
+      "disease_name": "Mucolipidosis type II",
+      "prevalence": 55.27,
+      "total_records": 6
+    },
+    {
+      "orpha_code": "166277",
+      "disease_name": "Wormian bone-multiple fractures-dentinogenesis imperfecta-skeletal dysplasia",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "812",
+      "disease_name": "Sialidosis type 1",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "166282",
+      "disease_name": "Hereditary sick sinus syndrome",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "578",
+      "disease_name": "Mucolipidosis type IV",
+      "prevalence": 27.5,
+      "total_records": 3
+    },
+    {
+      "orpha_code": "166286",
+      "disease_name": "Porokeratotic eccrine ostial and dermal duct nevus",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "577",
+      "disease_name": "Mucolipidosis type III",
+      "prevalence": 100.95,
+      "total_records": 6
+    },
+    {
+      "orpha_code": "166291",
+      "disease_name": "Dirofilariasis",
+      "prevalence": 0.5,
+      "total_records": 1
+    },
+    {
+      "orpha_code": "166308",
+      "disease_name": "Benign infantile focal epilepsy with midline spikes and waves during sleep",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "2912",
+      "disease_name": "Poliomyelitis",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "796",
+      "disease_name": "Sandhoff disease",
+      "prevalence": 10.42,
+      "total_records": 9
+    },
+    {
+      "orpha_code": "166409",
+      "disease_name": "Photosensitive occipital lobe epilepsy",
+      "prevalence": 300.0,
+      "total_records": 1
+    },
+    {
+      "orpha_code": "801",
+      "disease_name": "Scleroderma",
+      "prevalence": 500.0,
+      "total_records": 5
+    },
+    {
+      "orpha_code": "461",
+      "disease_name": "Recessive X-linked ichthyosis",
+      "prevalence": 226.14,
+      "total_records": 3
+    },
+    {
+      "orpha_code": "166421",
+      "disease_name": "Orgasm-induced seizures",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "166418",
+      "disease_name": "Eating reflex epilepsy",
+      "prevalence": 5.0,
+      "total_records": 1
+    },
+    {
+      "orpha_code": "584",
+      "disease_name": "Mucopolysaccharidosis type 7",
+      "prevalence": 1.43,
+      "total_records": 10
+    },
+    {
+      "orpha_code": "166412",
+      "disease_name": "Hot water reflex epilepsy",
+      "prevalence": 50.0,
+      "total_records": 1
+    },
+    {
+      "orpha_code": "166433",
+      "disease_name": "Epilepsy with reading-induced seizures",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "881",
+      "disease_name": "Turner syndrome",
+      "prevalence": 144.85,
+      "total_records": 23
+    },
+    {
+      "orpha_code": "95",
+      "disease_name": "Friedreich ataxia",
+      "prevalence": 34.3,
+      "total_records": 17
+    },
+    {
+      "orpha_code": "848",
+      "disease_name": "Beta-thalassemia",
+      "prevalence": 103.1,
+      "total_records": 4
+    },
+    {
+      "orpha_code": "846",
+      "disease_name": "Alpha-thalassemia",
+      "prevalence": 300.0,
+      "total_records": 3
+    },
+    {
+      "orpha_code": "586",
+      "disease_name": "Cystic fibrosis",
+      "prevalence": 193.35,
+      "total_records": 62
+    },
+    {
+      "orpha_code": "262",
+      "disease_name": "Duchenne and Becker muscular dystrophy",
+      "prevalence": 128.26,
+      "total_records": 3
+    },
+    {
+      "orpha_code": "261",
+      "disease_name": "Emery-Dreifuss muscular dystrophy",
+      "prevalence": 5.0,
+      "total_records": 1
+    },
+    {
+      "orpha_code": "550",
+      "disease_name": "MELAS",
+      "prevalence": 500.0,
+      "total_records": 5
+    },
+    {
+      "orpha_code": "269",
+      "disease_name": "Facioscapulohumeral dystrophy",
+      "prevalence": 84.83,
+      "total_records": 6
+    },
+    {
+      "orpha_code": "480",
+      "disease_name": "Kearns-Sayre syndrome",
+      "prevalence": 27.61,
+      "total_records": 4
+    },
+    {
+      "orpha_code": "551",
+      "disease_name": "MERRF",
+      "prevalence": 5.0,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "597",
+      "disease_name": "Central core disease",
+      "prevalence": 5.0,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "607",
+      "disease_name": "Nemaline myopathy",
+      "prevalence": 27.27,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "163746",
+      "disease_name": "Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "684",
+      "disease_name": "Paramyotonia congenita of Von Eulenburg",
+      "prevalence": 5.0,
+      "total_records": 4
+    },
+    {
+      "orpha_code": "163931",
+      "disease_name": "Acrodermatitis continua of Hallopeau",
+      "prevalence": 50.0,
+      "total_records": 1
+    },
+    {
+      "orpha_code": "273",
+      "disease_name": "Steinert myotonic dystrophy",
+      "prevalence": 500.0,
+      "total_records": 16
+    },
+    {
+      "orpha_code": "163937",
+      "disease_name": "X-linked intellectual disability, Najm type",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "163934",
+      "disease_name": "Atopic keratoconjunctivitis",
+      "prevalence": 300.0,
+      "total_records": 1
+    },
+    {
+      "orpha_code": "614",
+      "disease_name": "Thomsen and Becker disease",
+      "prevalence": 25.89,
+      "total_records": 6
+    },
+    {
+      "orpha_code": "163966",
+      "disease_name": "X-linked dominant chondrodysplasia, Chassaing-Lacombe type",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "163971",
+      "disease_name": "X-linked intellectual disability, Cilliers type",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "163976",
+      "disease_name": "X-linked intellectual disability, Van Esch type",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "163979",
+      "disease_name": "X-linked intellectual disability-craniofacioskeletal syndrome",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "163956",
+      "disease_name": "X-linked intellectual disability, Nascimento type",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "163961",
+      "disease_name": "X-linked cerebral-cerebellar-coloboma syndrome",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "164726",
+      "disease_name": "Acute myeloid leukemia and myelodysplastic syndromes related to radiation",
+      "prevalence": 5.0,
+      "total_records": 1
+    },
+    {
+      "orpha_code": "324",
+      "disease_name": "Fabry disease",
+      "prevalence": 20.86,
+      "total_records": 11
+    },
+    {
+      "orpha_code": "163985",
+      "disease_name": "Hyperekplexia-epilepsy syndrome",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "778",
+      "disease_name": "Rett syndrome",
+      "prevalence": 78.01,
+      "total_records": 11
+    },
+    {
+      "orpha_code": "72",
+      "disease_name": "Angelman syndrome",
+      "prevalence": 69.61,
+      "total_records": 12
+    },
+    {
+      "orpha_code": "307",
+      "disease_name": "Juvenile myoclonic epilepsy",
+      "prevalence": 50.0,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "1941",
+      "disease_name": "Juvenile absence epilepsy",
+      "prevalence": 50.0,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "892",
+      "disease_name": "Von Hippel-Lindau disease",
+      "prevalence": 50.0,
+      "total_records": 5
+    },
+    {
+      "orpha_code": "731",
+      "disease_name": "Autosomal recessive polycystic kidney disease",
+      "prevalence": 50.0,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "138",
+      "disease_name": "CHARGE syndrome",
+      "prevalence": 50.0,
+      "total_records": 4
+    },
+    {
+      "orpha_code": "558",
+      "disease_name": "Marfan syndrome",
+      "prevalence": 251.27,
+      "total_records": 6
+    },
+    {
+      "orpha_code": "803",
+      "disease_name": "Amyotrophic lateral sclerosis",
+      "prevalence": 55.73,
+      "total_records": 33
+    },
+    {
+      "orpha_code": "100",
+      "disease_name": "Ataxia-telangiectasia",
+      "prevalence": 55.7,
+      "total_records": 8
+    },
+    {
+      "orpha_code": "733",
+      "disease_name": "Familial adenomatous polyposis",
+      "prevalence": 112.25,
+      "total_records": 12
+    },
+    {
+      "orpha_code": "399",
+      "disease_name": "Huntington disease",
+      "prevalence": 50.55,
+      "total_records": 32
+    },
+    {
+      "orpha_code": "165955",
+      "disease_name": "Wound myiasis",
+      "prevalence": 0.5,
+      "total_records": 2
+    },
+    {
+      "orpha_code": "501",
+      "disease_name": "Lafora disease",
+      "prevalence": 5.0,
+      "total_records": 4
+    },
+    {
+      "orpha_code": "165958",
+      "disease_name": "Cavitary myiasis",
+      "prevalence": 0.5,
+      "total_records": 1
+    },
+    {
+      "orpha_code": "870",
+      "disease_name": "Down syndrome",
+      "prevalence": 500.0,
+      "total_records": 24
+    },
+    {
+      "orpha_code": "512",
+      "disease_name": "Metachromatic leukodystrophy",
+      "prevalence": 34.69,
+      "total_records": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "creation_metadata": {
+    "timestamp": "2025-07-12T06:44:45.598038",
+    "input_path": "data\\04_curated\\orpha\\ordo\\metabolic_disease_instances.json",
+    "output_path": "data\\04_curated\\orpha\\ordo\\orphacode2disease_name.json",
+    "script_version": "1.0.0"
+  },
+  "mapping_statistics": {
+    "total_diseases": 665,
+    "unique_names": 665,
+    "sample_mappings": {
+      "79318": "PMM2-CDG",
+      "79319": "MPI-CDG",
+      "79320": "ALG6-CDG",
+      "79321": "ALG3-CDG",
+      "79324": "ALG12-CDG"
+    }
+  },
+  "data_quality": {
+    "empty_names": 0,
+    "average_name_length": 40.07368421052632,
+    "shortest_name": "MELAS",
+    "longest_name": "Cataract-growth hormone deficiency-sensory neuropathy-sensorineural hearing loss-skeletal dysplasia syndrome"
+  }
+}

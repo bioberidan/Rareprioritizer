@@ -1,0 +1,17 @@
+{
+  "disease_name": "1p36.33 duplication syndrome",
+  "orpha_code": "656279",
+  "drugs": [],
+  "processing_timestamp": "2025-07-07T06:03:17.043447",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=1p36.33+duplication+syndrome&orphaCode=656279&name=656279&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "1p36.33 duplication syndrome",
+    "orphaCode": "656279",
+    "name": "656279",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

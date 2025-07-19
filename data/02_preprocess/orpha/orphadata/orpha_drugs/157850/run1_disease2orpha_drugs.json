@@ -1,0 +1,78 @@
+{
+  "disease_name": "Pantothenate kinase-associated neurodegeneration",
+  "orpha_code": "157850",
+  "drugs": [
+    {
+      "name": "S-acetyl-(S)-4'-phosphopantetheine, calcium salt",
+      "substance_url": "/en/drug/substance/459199?name=157850&mode=orpha&region=&status=all",
+      "substance_id": "459199",
+      "regulatory_url": "/en/drug/regulatory/459203?name=157850&mode=orpha&region=",
+      "regulatory_id": "459203",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "1-(4-(6-chloropyridazin-3-yl)piperazin-1-yl)-2-(4-cyclopropyl-3-fluorophenyl)ethan-1-one",
+      "substance_url": "/en/drug/substance/627847?name=157850&mode=orpha&region=&status=all",
+      "substance_id": "627847",
+      "regulatory_url": "/en/drug/regulatory/627850?name=157850&mode=orpha&region=",
+      "regulatory_id": "627850",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Fosmetpantotenate",
+      "substance_url": "/en/drug/substance/456120?name=157850&mode=orpha&region=&status=all",
+      "substance_id": "456120",
+      "regulatory_url": "/en/drug/regulatory/456121?name=157850&mode=orpha&region=",
+      "regulatory_id": "456121",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Small molecule activator of pantothenate kinases",
+      "substance_url": "/en/drug/substance/651182?name=157850&mode=orpha&region=&status=all",
+      "substance_id": "651182",
+      "regulatory_url": "/en/drug/regulatory/651184?name=157850&mode=orpha&region=",
+      "regulatory_id": "651184",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Deferiprone",
+      "substance_url": "/en/drug/substance/42568?name=157850&mode=orpha&region=&status=all",
+      "substance_id": "42568",
+      "regulatory_url": "/en/drug/regulatory/520903?name=157850&mode=orpha&region=",
+      "regulatory_id": "520903",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:43:10.839875",
+  "run_number": 1,
+  "total_drugs_found": 5,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Pantothenate+kinase-associated+neurodegeneration&orphaCode=157850&name=157850&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Pantothenate kinase-associated neurodegeneration",
+    "orphaCode": "157850",
+    "name": "157850",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

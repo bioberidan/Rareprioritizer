@@ -1,0 +1,17 @@
+{
+  "disease_name": "3-methylglutaconic aciduria type 9",
+  "orpha_code": "505216",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:19:42.872458",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=3-methylglutaconic+aciduria+type+9&orphaCode=505216&name=505216&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "3-methylglutaconic aciduria type 9",
+    "orphaCode": "505216",
+    "name": "505216",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

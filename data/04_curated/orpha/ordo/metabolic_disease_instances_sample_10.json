@@ -1,0 +1,42 @@
+[
+  {
+    "disease_name": "Acrodermatitis enteropathica",
+    "orpha_code": "37"
+  },
+  {
+    "disease_name": "Niemann-Pick disease type C",
+    "orpha_code": "646"
+  },
+  {
+    "disease_name": "POGLUT1-related limb-girdle muscular dystrophy R21",
+    "orpha_code": "480682"
+  },
+  {
+    "disease_name": "Glycogen storage disease due to liver and muscle phosphorylase kinase deficiency",
+    "orpha_code": "79240"
+  },
+  {
+    "disease_name": "3-methylglutaconic aciduria type 3",
+    "orpha_code": "67047"
+  },
+  {
+    "disease_name": "D,L-2-hydroxyglutaric aciduria",
+    "orpha_code": "356978"
+  },
+  {
+    "disease_name": "Refsum disease",
+    "orpha_code": "773"
+  },
+  {
+    "disease_name": "Mucopolysaccharidosis type 3",
+    "orpha_code": "581"
+  },
+  {
+    "disease_name": "CK syndrome",
+    "orpha_code": "251383"
+  },
+  {
+    "disease_name": "Progressive myoclonic epilepsy type 3",
+    "orpha_code": "263516"
+  }
+]

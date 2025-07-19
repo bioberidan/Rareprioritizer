@@ -1,0 +1,582 @@
+{
+  "disease_name": "Mucolipidosis type IV",
+  "orpha_code": "578",
+  "trials": [
+    {
+      "nctId": "NCT05150704",
+      "briefTitle": "MYTHS - MYocarditis THerapy With Steroids",
+      "officialTitle": "Single Blind Randomized Controlled Trial to Assess the Safety and Efficacy of High Dose Pulse Intravenous Corticosteroid Therapy to Treat Patients With Complicated/Fulminant Acute Myocarditis",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Myocarditis Acute"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Methylprednisolone"
+        },
+        {
+          "type": "DRUG",
+          "name": "saline solution"
+        }
+      ],
+      "enrollment": 288,
+      "locations": [
+        {
+          "facility": "University of California San Diego",
+          "city": "San Diego",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Texas",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Virginia",
+          "city": "Charlottesville",
+          "country": "United States"
+        },
+        {
+          "facility": "Virginia Commonwealth University",
+          "city": "Richmond",
+          "country": "United States"
+        },
+        {
+          "facility": "Medical University of Graz",
+          "city": "Graz",
+          "country": "Austria"
+        },
+        {
+          "facility": "Medical University Innsbruck",
+          "city": "Innsbruck",
+          "country": "Austria"
+        },
+        {
+          "facility": "Medical University of Wien",
+          "city": "Wien",
+          "country": "Austria"
+        },
+        {
+          "facility": "Onze Lieve Vrouwziekenhuis",
+          "city": "Aalst",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Antwerp University Hospital",
+          "city": "Edegem",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Jessa Hospital Hasselt",
+          "city": "Hasselt",
+          "country": "Belgium"
+        },
+        {
+          "facility": "University Hospitals Leuven",
+          "city": "Leuven",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Masaryk University and St. Anne's University Hospital",
+          "city": "Brno",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Charles University in Prague and General University Hospital",
+          "city": "Prague",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Institute for Clinical and Experimental Medicine - IKEM",
+          "city": "Prague",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Rigshospitalet and University of Copenhagen",
+          "city": "Copenhagen",
+          "country": "Denmark"
+        },
+        {
+          "facility": "Heart and Lung Center, Helsinki University Hospital",
+          "city": "Helsinki",
+          "country": "Finland"
+        },
+        {
+          "facility": "AOU Ospedali Riuniti Umberto I°-Lancisi-Salesi di Ancona",
+          "city": "Ancona",
+          "country": "Italy"
+        },
+        {
+          "facility": "ASST Papa Giovanni XXIII",
+          "city": "Bergamo",
+          "country": "Italy"
+        },
+        {
+          "facility": "Policlinico S.Orsola-Malpighi",
+          "city": "Bologna",
+          "country": "Italy"
+        },
+        {
+          "facility": "ASST Spedali Civili",
+          "city": "Brescia",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera \"G.Brotzu\"",
+          "city": "Cagliari",
+          "country": "Italy"
+        },
+        {
+          "facility": "P.O. SS. Annunziata Chieti -ASL 2 Abruzzo",
+          "city": "Chieti",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliero-Universitaria Careggi",
+          "city": "Firenze",
+          "country": "Italy"
+        },
+        {
+          "facility": "Ospedale Policlinico San Martino, IRCCS",
+          "city": "Genova",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Socio-Sanitaria Territoriale (ASST) di Lecco",
+          "city": "Lecco",
+          "country": "Italy"
+        },
+        {
+          "facility": "ASST Grande Ospedale Metropolitano Niguarda",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Centro Cardiologico Monzino",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "ASST Monza, Ospedale San Gerardo",
+          "city": "Monza",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera Specialistica dei Colli - Ospedale Monaldi",
+          "city": "Napoli",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliero Universitaria di Parma",
+          "city": "Parma",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione IRCCS Policlinico San Matteo",
+          "city": "Pavia",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione Toscana Gabriele Monasterio",
+          "city": "Pisa",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera San Camillo Forlanini di Roma",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera Universitaria Senese, Policlinico Santa Maria alle Scotte",
+          "city": "Siena",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera Universitaria Città della Salute e della Scienza di Torino",
+          "city": "Torino",
+          "country": "Italy"
+        },
+        {
+          "facility": "Presidio Ospedaliero Universitario \"Santa Maria della Misericordia\"",
+          "city": "Udine",
+          "country": "Italy"
+        },
+        {
+          "facility": "University Medical Centre Ljubljana",
+          "city": "Ljubljana",
+          "country": "Slovenia"
+        },
+        {
+          "facility": "Complexo Hospitalario Universitario A Coruña (CHUAC)",
+          "city": "A Coruña",
+          "country": "Spain"
+        },
+        {
+          "facility": "Barcelona",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Bellvitge University Hospital",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Vall d'Hebron",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital General Universitario Gregorio Marañón in Madrid",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Puerta de Hierro Majadahonda",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen de la Arrixaca",
+          "city": "Murcia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen de la Victoria",
+          "city": "Málaga",
+          "country": "Spain"
+        },
+        {
+          "facility": "Sahlgrenska Universitetssjukhuset",
+          "city": "Göthenburg",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Lund University and Skåne University Hospital",
+          "city": "Lund",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Karolinska Universitetssjukhuset",
+          "city": "Stockholm",
+          "country": "Sweden"
+        }
+      ],
+      "lastUpdateDate": "2024-12-13"
+    },
+    {
+      "nctId": "NCT05947851",
+      "briefTitle": "A Study of Nemtabrutinib Plus Venetoclax vs Venetoclax + Rituximab (VR) in Second-line (2L) + Relapsed/Refractory (R/R) Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL) (MK-1026-010/BELLWAVE-010).",
+      "officialTitle": "A Phase 3, Open-label, Randomized Study to Compare the Efficacy and Safety of Nemtabrutinib (MK-1026) Plus Venetoclax Versus Venetoclax Plus Rituximab in Participants With Relapsed/Refractory Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma Following at Least 1 Prior Therapy (BELLWAVE-010)",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Leukemia, Lymphocytic, Chronic, B-Cell",
+        "Leukemia, Chronic Lymphocytic",
+        "Small-Cell Lymphoma",
+        "Lymphoma, Small Lymphocytic",
+        "CLL",
+        "SLL"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Nemtabrutinib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Venetoclax"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "Rituximab"
+        }
+      ],
+      "enrollment": 720,
+      "locations": [
+        {
+          "facility": "Highlands Oncology Group ( Site 5405)",
+          "city": "Springdale",
+          "country": "United States"
+        },
+        {
+          "facility": "MemorialCare Health System - Long Beach Medical Center ( Site 5421)",
+          "city": "Long Beach",
+          "country": "United States"
+        },
+        {
+          "facility": "Memorial Hospital West ( Site 5410)",
+          "city": "Pembroke Pines",
+          "country": "United States"
+        },
+        {
+          "facility": "Oregon Health and Science University ( Site 5425)",
+          "city": "Portland",
+          "country": "United States"
+        },
+        {
+          "facility": "Medical Oncology Associates, PS ( Site 5406)",
+          "city": "Spokane",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Wisconsin Hospital and Clinics-Carbone Cancer Center ( Site 5423)",
+          "city": "Madison",
+          "country": "United States"
+        },
+        {
+          "facility": "Instituto Alexander Fleming ( Site 1005)",
+          "city": "Ciudad Autónoma de Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Instituto de Investigaciones Clínicas Mar del Plata ( Site 1007)",
+          "city": "Mar del Plata",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Sanatorio Parque ( Site 1003)",
+          "city": "Rosario",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Centro Medico Fleischer ( Site 1006)",
+          "city": "Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Hospital Aleman-oncohematologic diseases ( Site 1001)",
+          "city": "Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Royal Adelaide Hospital ( Site 1104)",
+          "city": "Adelaide",
+          "country": "Australia"
+        },
+        {
+          "facility": "Western Health-Sunshine & Footscray Hospitals-Cancer Services-Cancer Research ( Site 1103)",
+          "city": "Melbourne",
+          "country": "Australia"
+        },
+        {
+          "facility": "UZ Leuven-Hematology ( Site 1200)",
+          "city": "Leuven",
+          "country": "Belgium"
+        },
+        {
+          "facility": "ZAS Cadix ( Site 1203)",
+          "city": "Antwerpen",
+          "country": "Belgium"
+        },
+        {
+          "facility": "ICESP - INSTITUTO DO CÂNCER DO ESTADO DE SÃO PAULO-Pesquisa Clinica ( Site 1308)",
+          "city": "Sao Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "The Moncton Hospital ( Site 1414)",
+          "city": "Moncton",
+          "country": "Canada"
+        },
+        {
+          "facility": "Biocenter ( Site 1507)",
+          "city": "Concepcion.",
+          "country": "Chile"
+        },
+        {
+          "facility": "IC La Serena Research ( Site 1506)",
+          "city": "La Serena.",
+          "country": "Chile"
+        },
+        {
+          "facility": "Centro de Estudios Clínicos SAGA-CECSAGA ( Site 1509)",
+          "city": "Santiago.",
+          "country": "Chile"
+        },
+        {
+          "facility": "FALP-UIDO ( Site 1500)",
+          "city": "Santiago",
+          "country": "Chile"
+        },
+        {
+          "facility": "Clínica Inmunocel ( Site 1511)",
+          "city": "Santiago",
+          "country": "Chile"
+        },
+        {
+          "facility": "Fundación Valle del Lili ( Site 1703)",
+          "city": "Cali",
+          "country": "Colombia"
+        },
+        {
+          "facility": "Hopital Claude Huriez - CHU de Lille ( Site 2107)",
+          "city": "Lille",
+          "country": "France"
+        },
+        {
+          "facility": "Centre Hospitalier Universitaire Estaing ( Site 2105)",
+          "city": "Clermont-Ferrand",
+          "country": "France"
+        },
+        {
+          "facility": "CHD Vendee ( Site 2100)",
+          "city": "La Roche-sur-Yon",
+          "country": "France"
+        },
+        {
+          "facility": "Klinikum Mutterhaus der Borromäerinnen-Innere Medizin I ( Site 2203)",
+          "city": "Trier",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitätsklinikum Leipzig-Medical Department I - Hematology and Celltherapy ( Site 2201)",
+          "city": "Leipzig",
+          "country": "Germany"
+        },
+        {
+          "facility": "Rambam Health Care Campus ( Site 2801)",
+          "city": "Haifa",
+          "country": "Israel"
+        },
+        {
+          "facility": "Hadassah Medical Center-Hemato-Oncology ( Site 2812)",
+          "city": "Jerusalem",
+          "country": "Israel"
+        },
+        {
+          "facility": "Sheba Medical Center-Hemato Oncology ( Site 2809)",
+          "city": "Ramat Gan",
+          "country": "Israel"
+        },
+        {
+          "facility": "Sourasky Medical Center ( Site 2811)",
+          "city": "Tel Aviv",
+          "country": "Israel"
+        },
+        {
+          "facility": "Azienda Ospedaliero-Universitaria SS. Antonio e Biagio e Cesare Arrigo ( Site 2906)",
+          "city": "Alessandria",
+          "country": "Italy"
+        },
+        {
+          "facility": "Ospedale San Raffaele-Programma di Ricerca Strategica sulla LLC ( Site 2902)",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Arcispedale Santa Maria Nuova-Hematology ( Site 2900)",
+          "city": "Reggio Emilia",
+          "country": "Italy"
+        },
+        {
+          "facility": "Centro de Infusion Superare ( Site 3314)",
+          "city": "Ciudad de México",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Health Pharma Professional Research S.A. de C.V: ( Site 3301)",
+          "city": "Ciudad de México",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Centro de Investigacion Clinica Chapultepec ( Site 3309)",
+          "city": "Morelia",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Auxilio Mutuo Cancer Center ( Site 3900)",
+          "city": "San Juan",
+          "country": "Puerto Rico"
+        },
+        {
+          "facility": "Netcare Pretoria East Hospital-Albert Alberts Stem Cell Transplant Centre ( Site 4401)",
+          "city": "Moreletta Park",
+          "country": "South Africa"
+        },
+        {
+          "facility": "Groote Schuur Hospital ( Site 4400)",
+          "city": "Cape Town",
+          "country": "South Africa"
+        },
+        {
+          "facility": "Haemalife ( Site 4407)",
+          "city": "Kuilsriver",
+          "country": "South Africa"
+        },
+        {
+          "facility": "Instituto Catalan de Oncologia - Hospital Duran i Reynals-Haematology Department ( Site 4601)",
+          "city": "L'Hospitalet Del Llobregat",
+          "country": "Spain"
+        },
+        {
+          "facility": "HOSPITAL UNIVERSITARIO QUIRONSALUD MADRID ( Site 4602)",
+          "city": "Pozuelo de Alarcon",
+          "country": "Spain"
+        },
+        {
+          "facility": "HOSPITAL CLINICO DE VALENCIA-HEMATOLOGY ( Site 4603)",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Namik Kemal University Medical Faculty-Hematology ( Site 4912)",
+          "city": "Tekirdag",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Ankara Universitesi Tip Fakultesi Hastanesi-hematology ( Site 4913)",
+          "city": "Ankara",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Mega Medipol-Hematology ( Site 4904)",
+          "city": "İstanbul",
+          "country": "Turkey"
+        },
+        {
+          "facility": "TC Saglik Bakanligi Goztepe Prof. Dr. Suleyman Yalcin Sehir Hastanesi ( Site 4906)",
+          "city": "Istanbul",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Ege Universitesi Hastanesi ( Site 4902)",
+          "city": "İzmir",
+          "country": "Turkey"
+        },
+        {
+          "facility": "City Hospital, Nottingham University Hospitals-Hematology ( Site 5002)",
+          "city": "Nottingham",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "University College London Hospital-Cancer Clinical Trials Unit ( Site 5001)",
+          "city": "London-Camden",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-06-29"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:13:10.255028",
+  "run_number": 1,
+  "total_trials_found": 2
+}

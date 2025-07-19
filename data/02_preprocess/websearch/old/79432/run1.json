@@ -1,0 +1,50 @@
+{
+  "orphacode": "79432",
+  "disease_name": "Oculocutaneous albinism type 2",
+  "groups": [
+    {
+      "unit_id": "U756",
+      "official_name": "Unidad 756: Edición genómica y terapia génica",
+      "host_institution": "Centro Nacional de Biotecnología (CNB-CSIC)",
+      "city": "Madrid",
+      "principal_investigators": [
+        {
+          "name": "Lluís Montoliu",
+          "role": "Principal Investigator"
+        }
+      ],
+      "justification": "El grupo U756, dirigido por el Dr. Lluís Montoliu, ha liderado diversas investigaciones sobre la vía de pigmentación de la retina en el albinismo humano y desarrollado aproximaciones terapéuticas preclínicas basadas en CRISPR para el albinismo, demostrando su implicación directa en el estudio y posible tratamiento de Oculocutaneous albinism type 2 citeturn3search0turn3search1.",
+      "sources": [
+        {
+          "label": "Revisión del papel de la vía de pigmentación de la retina en el albinismo humano",
+          "url": "https://www.ciberer.es/noticias/revisan-el-papel-de-la-via-de-pigmentacion-de-la-retina-en-el-albinismo-humano"
+        },
+        {
+          "label": "Financiación de proyecto sobre terapias con CRISPR para albinismo",
+          "url": "https://www.ciberer.es/noticias/la-plataforma-de-apoyo-a-la-internacionalizacion-del-ciber-financiara-dos-proyectos-sobre-telomeropatias-y-albinismo-de-investigadores-del-ciberer"
+        }
+      ],
+      "disease_related_publications": [
+        {
+          "pmid": "33960688",
+          "title": "Genetics of non-syndromic and syndromic oculocutaneous albinism in human and mouse",
+          "year": 2021,
+          "journal": "Pigment Cell Melanoma Res",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33960688"
+        },
+        {
+          "pmid": "35729001",
+          "title": "The retinal pigmentation pathway in human albinism: Not so black and white",
+          "year": 2022,
+          "journal": "Prog Retin Eye Res",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35729001"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "processing_timestamp": "2025-07-18T12:10:25.237243",
+    "run_number": 1,
+    "orphacode": "79432"
+  }
+}

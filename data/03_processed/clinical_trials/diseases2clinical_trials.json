@@ -1,0 +1,941 @@
+{
+  "101109": {
+    "disease_name": "Spinocerebellar ataxia type 28",
+    "orpha_code": "101109",
+    "trials_count": 2,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT06472557",
+      "NCT06953583"
+    ]
+  },
+  "111": {
+    "disease_name": "Barth syndrome",
+    "orpha_code": "111",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT06056297"
+    ]
+  },
+  "1195": {
+    "disease_name": "Congenital atransferrinemia",
+    "orpha_code": "1195",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT01797055"
+    ]
+  },
+  "139": {
+    "disease_name": "CHILD syndrome",
+    "orpha_code": "139",
+    "trials_count": 82,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT06362486",
+      "NCT06392386",
+      "NCT06021522",
+      "NCT06197035",
+      "NCT05216835",
+      "NCT05723835",
+      "NCT05942924",
+      "NCT05317416",
+      "NCT05522374",
+      "NCT04528082",
+      "NCT05630066",
+      "NCT05627557",
+      "NCT05101148",
+      "NCT04797260",
+      "NCT06574399",
+      "NCT05846126",
+      "NCT03915366",
+      "NCT04766866",
+      "NCT00825929",
+      "NCT05661331",
+      "NCT02066220",
+      "NCT05386173",
+      "NCT03635073",
+      "NCT03486873",
+      "NCT05965427",
+      "NCT04833894",
+      "NCT05693129",
+      "NCT05477589",
+      "NCT06660394",
+      "NCT05218655",
+      "NCT06258512",
+      "NCT05330325",
+      "NCT05388708",
+      "NCT06758492",
+      "NCT06857604",
+      "NCT05309668",
+      "NCT06757543",
+      "NCT05949684",
+      "NCT06366464",
+      "NCT06388564",
+      "NCT04963179",
+      "NCT02962414",
+      "NCT05405114",
+      "NCT04337450",
+      "NCT05163314",
+      "NCT06209346",
+      "NCT06673069",
+      "NCT05453968",
+      "NCT05200715",
+      "NCT06115109",
+      "NCT06392009",
+      "NCT06183788",
+      "NCT05572515",
+      "NCT03717909",
+      "NCT05388370",
+      "NCT06668805",
+      "NCT06305611",
+      "NCT05219617",
+      "NCT05912517",
+      "NCT06052436",
+      "NCT05020236",
+      "NCT05468736",
+      "NCT04462770",
+      "NCT03227042",
+      "NCT06193200",
+      "NCT04649359",
+      "NCT04924075",
+      "NCT04015141",
+      "NCT06515106",
+      "NCT06719141",
+      "NCT06317883",
+      "NCT03089905",
+      "NCT05319353",
+      "NCT06125093",
+      "NCT06694805",
+      "NCT05639647",
+      "NCT05767047",
+      "NCT02621645",
+      "NCT03339128",
+      "NCT06664853",
+      "NCT04777851",
+      "NCT04069533"
+    ]
+  },
+  "156": {
+    "disease_name": "Carnitine palmitoyl transferase 1A deficiency",
+    "orpha_code": "156",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05933200"
+    ]
+  },
+  "157": {
+    "disease_name": "Carnitine palmitoyltransferase II deficiency",
+    "orpha_code": "157",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05933200"
+    ]
+  },
+  "157846": {
+    "disease_name": "Neuroferritinopathy",
+    "orpha_code": "157846",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05522374"
+    ]
+  },
+  "157850": {
+    "disease_name": "Pantothenate kinase-associated neurodegeneration",
+    "orpha_code": "157850",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05522374"
+    ]
+  },
+  "159": {
+    "disease_name": "Carnitine-acylcarnitine translocase deficiency",
+    "orpha_code": "159",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05933200"
+    ]
+  },
+  "166073": {
+    "disease_name": "Pontocerebellar hypoplasia type 6",
+    "orpha_code": "166073",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05218655"
+    ]
+  },
+  "172": {
+    "disease_name": "Progressive familial intrahepatic cholestasis",
+    "orpha_code": "172",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT03659916"
+    ]
+  },
+  "22": {
+    "disease_name": "Succinic semialdehyde dehydrogenase deficiency",
+    "orpha_code": "22",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT03758521"
+    ]
+  },
+  "234": {
+    "disease_name": "Dubin-Johnson syndrome",
+    "orpha_code": "234",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT06767605"
+    ]
+  },
+  "251383": {
+    "disease_name": "CK syndrome",
+    "orpha_code": "251383",
+    "trials_count": 4,
+    "last_processed_run": 2,
+    "trials": [
+      "NCT02938520",
+      "NCT05027984",
+      "NCT06684379",
+      "NCT02951052"
+    ]
+  },
+  "2596": {
+    "disease_name": "Myopathy and diabetes mellitus",
+    "orpha_code": "2596",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05650229"
+    ]
+  },
+  "26793": {
+    "disease_name": "Very long chain acyl-CoA dehydrogenase deficiency",
+    "orpha_code": "26793",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05933200"
+    ]
+  },
+  "275761": {
+    "disease_name": "Lysosomal acid lipase deficiency",
+    "orpha_code": "275761",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT01633489"
+    ]
+  },
+  "298": {
+    "disease_name": "Mitochondrial neurogastrointestinal encephalomyopathy",
+    "orpha_code": "298",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05658822"
+    ]
+  },
+  "3111": {
+    "disease_name": "Rotor syndrome",
+    "orpha_code": "3111",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT06767605"
+    ]
+  },
+  "314629": {
+    "disease_name": "CLN11 disease",
+    "orpha_code": "314629",
+    "trials_count": 3,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT04408625",
+      "NCT06064890",
+      "NCT04374136"
+    ]
+  },
+  "324": {
+    "disease_name": "Fabry disease",
+    "orpha_code": "324",
+    "trials_count": 6,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05280548",
+      "NCT04020055",
+      "NCT03737214",
+      "NCT06328608",
+      "NCT00196742",
+      "NCT02988128"
+    ]
+  },
+  "329308": {
+    "disease_name": "Fatty acid hydroxylase-associated neurodegeneration",
+    "orpha_code": "329308",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05522374"
+    ]
+  },
+  "333": {
+    "disease_name": "Farber disease",
+    "orpha_code": "333",
+    "trials_count": 100,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT01804686",
+      "NCT04245839",
+      "NCT06479135",
+      "NCT01844986",
+      "NCT05382286",
+      "NCT06090539",
+      "NCT05153239",
+      "NCT05768139",
+      "NCT06140524",
+      "NCT05006716",
+      "NCT04077463",
+      "NCT04626635",
+      "NCT05183035",
+      "NCT03142334",
+      "NCT03093116",
+      "NCT02716116",
+      "NCT05836324",
+      "NCT03175224",
+      "NCT06625320",
+      "NCT04449874",
+      "NCT03394365",
+      "NCT04601857",
+      "NCT04590326",
+      "NCT05384626",
+      "NCT04720157",
+      "NCT05592626",
+      "NCT05718557",
+      "NCT04401748",
+      "NCT06065748",
+      "NCT03844048",
+      "NCT05696626",
+      "NCT06396065",
+      "NCT03662126",
+      "NCT04404660",
+      "NCT04710576",
+      "NCT04811560",
+      "NCT05224141",
+      "NCT05993299",
+      "NCT05218499",
+      "NCT02912949",
+      "NCT04736706",
+      "NCT03615326",
+      "NCT06143891",
+      "NCT05608291",
+      "NCT06047080",
+      "NCT05059262",
+      "NCT03731260",
+      "NCT05117476",
+      "NCT06312176",
+      "NCT04083976",
+      "NCT03975829",
+      "NCT05563220",
+      "NCT03301220",
+      "NCT02576431",
+      "NCT04681131",
+      "NCT02285582",
+      "NCT03486873",
+      "NCT05975073",
+      "NCT06782373",
+      "NCT05552976",
+      "NCT04104776",
+      "NCT03260894",
+      "NCT05580562",
+      "NCT06356129",
+      "NCT02513394",
+      "NCT02651662",
+      "NCT03289962",
+      "NCT06179160",
+      "NCT03151629",
+      "NCT03260491",
+      "NCT05557591",
+      "NCT03734029",
+      "NCT06435429",
+      "NCT05999994",
+      "NCT04585750",
+      "NCT04195750",
+      "NCT06703346",
+      "NCT03805789",
+      "NCT04619004",
+      "NCT03969004",
+      "NCT02375204",
+      "NCT04188548",
+      "NCT06003231",
+      "NCT06307431",
+      "NCT06026410",
+      "NCT02503423",
+      "NCT01594723",
+      "NCT03967223",
+      "NCT05573555",
+      "NCT05280314",
+      "NCT04554914",
+      "NCT06112314",
+      "NCT03650114",
+      "NCT03108495",
+      "NCT05386108",
+      "NCT02032823",
+      "NCT04662710",
+      "NCT05201781",
+      "NCT06203210",
+      "NCT03786081"
+    ]
+  },
+  "35": {
+    "disease_name": "Propionic acidemia",
+    "orpha_code": "35",
+    "trials_count": 3,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT04176523",
+      "NCT05769621",
+      "NCT05295433"
+    ]
+  },
+  "35069": {
+    "disease_name": "Infantile neuroaxonal dystrophy",
+    "orpha_code": "35069",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05522374"
+    ]
+  },
+  "355": {
+    "disease_name": "Gaucher disease",
+    "orpha_code": "355",
+    "trials_count": 7,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT00358943",
+      "NCT05641103",
+      "NCT05324943",
+      "NCT05992532",
+      "NCT06545136",
+      "NCT05487599",
+      "NCT03485677"
+    ]
+  },
+  "35710": {
+    "disease_name": "Glucose-galactose malabsorption",
+    "orpha_code": "35710",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT06498128"
+    ]
+  },
+  "36386": {
+    "disease_name": "Hereditary sensory and autonomic neuropathy type 1",
+    "orpha_code": "36386",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT04561518"
+    ]
+  },
+  "364": {
+    "disease_name": "Glycogen storage disease due to glucose-6-phosphatase deficiency",
+    "orpha_code": "364",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05139316"
+    ]
+  },
+  "391665": {
+    "disease_name": "Homozygous familial hypercholesterolemia",
+    "orpha_code": "391665",
+    "trials_count": 2,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05682378",
+      "NCT04370899"
+    ]
+  },
+  "416": {
+    "disease_name": "Primary hyperoxaluria",
+    "orpha_code": "416",
+    "trials_count": 3,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT04580420",
+      "NCT04042402",
+      "NCT04982393"
+    ]
+  },
+  "42": {
+    "disease_name": "Medium chain acyl-CoA dehydrogenase deficiency",
+    "orpha_code": "42",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05933200"
+    ]
+  },
+  "43": {
+    "disease_name": "X-linked adrenoleukodystrophy",
+    "orpha_code": "43",
+    "trials_count": 2,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05819866",
+      "NCT06513533"
+    ]
+  },
+  "443197": {
+    "disease_name": "X-linked erythropoietic protoporphyria",
+    "orpha_code": "443197",
+    "trials_count": 2,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT06144840",
+      "NCT05005975"
+    ]
+  },
+  "444490": {
+    "disease_name": "Familial chylomicronemia syndrome",
+    "orpha_code": "444490",
+    "trials_count": 2,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05130450",
+      "NCT05089084"
+    ]
+  },
+  "447": {
+    "disease_name": "Paroxysmal nocturnal hemoglobinuria",
+    "orpha_code": "447",
+    "trials_count": 10,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05133531",
+      "NCT05741346",
+      "NCT04434092",
+      "NCT05776472",
+      "NCT05744921",
+      "NCT04432584",
+      "NCT03531255",
+      "NCT04747613",
+      "NCT04901936",
+      "NCT05389449"
+    ]
+  },
+  "48818": {
+    "disease_name": "Aceruloplasminemia",
+    "orpha_code": "48818",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05522374"
+    ]
+  },
+  "5": {
+    "disease_name": "Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency",
+    "orpha_code": "5",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05933200"
+    ]
+  },
+  "506": {
+    "disease_name": "Leigh syndrome",
+    "orpha_code": "506",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05218655"
+    ]
+  },
+  "510": {
+    "disease_name": "Lesch-Nyhan syndrome",
+    "orpha_code": "510",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT04641741"
+    ]
+  },
+  "512": {
+    "disease_name": "Metachromatic leukodystrophy",
+    "orpha_code": "512",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT03771898"
+    ]
+  },
+  "542585": {
+    "disease_name": "Auditory neuropathy-optic atrophy syndrome",
+    "orpha_code": "542585",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT04940572"
+    ]
+  },
+  "550": {
+    "disease_name": "MELAS",
+    "orpha_code": "550",
+    "trials_count": 5,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT06685835",
+      "NCT05218655",
+      "NCT06028230",
+      "NCT05581004",
+      "NCT05255328"
+    ]
+  },
+  "551": {
+    "disease_name": "MERRF",
+    "orpha_code": "551",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05218655"
+    ]
+  },
+  "578": {
+    "disease_name": "Mucolipidosis type IV",
+    "orpha_code": "578",
+    "trials_count": 2,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05150704",
+      "NCT05947851"
+    ]
+  },
+  "579": {
+    "disease_name": "Mucopolysaccharidosis type 1",
+    "orpha_code": "579",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT02716246"
+    ]
+  },
+  "580": {
+    "disease_name": "Mucopolysaccharidosis type 2",
+    "orpha_code": "580",
+    "trials_count": 3,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT02716246",
+      "NCT04573023",
+      "NCT05371613"
+    ]
+  },
+  "581": {
+    "disease_name": "Mucopolysaccharidosis type 3",
+    "orpha_code": "581",
+    "trials_count": 3,
+    "last_processed_run": 2,
+    "trials": [
+      "NCT02716246",
+      "NCT05371613",
+      "NCT03227042"
+    ]
+  },
+  "582": {
+    "disease_name": "Mucopolysaccharidosis type 4",
+    "orpha_code": "582",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT02716246"
+    ]
+  },
+  "583": {
+    "disease_name": "Mucopolysaccharidosis type 6",
+    "orpha_code": "583",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05371613"
+    ]
+  },
+  "584": {
+    "disease_name": "Mucopolysaccharidosis type 7",
+    "orpha_code": "584",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT03604835"
+    ]
+  },
+  "588": {
+    "disease_name": "Muscle-eye-brain disease",
+    "orpha_code": "588",
+    "trials_count": 12,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT06925022",
+      "NCT06839482",
+      "NCT06965660",
+      "NCT07040748",
+      "NCT06884579",
+      "NCT04084795",
+      "NCT06513533",
+      "NCT07025070",
+      "NCT03889132",
+      "NCT06515106",
+      "NCT02983370",
+      "NCT06149897"
+    ]
+  },
+  "611237": {
+    "disease_name": "Parkinsonism with polyneuropathy",
+    "orpha_code": "611237",
+    "trials_count": 2,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT02726386",
+      "NCT04379050"
+    ]
+  },
+  "646": {
+    "disease_name": "Niemann-Pick disease type C",
+    "orpha_code": "646",
+    "trials_count": 3,
+    "last_processed_run": 2,
+    "trials": [
+      "NCT04860960",
+      "NCT05641103",
+      "NCT05992532"
+    ]
+  },
+  "662216": {
+    "disease_name": "Mucopolysaccharidosis type 10",
+    "orpha_code": "662216",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT02716246"
+    ]
+  },
+  "663": {
+    "disease_name": "Mitochondrial DNA-related progressive external ophthalmoplegia",
+    "orpha_code": "663",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05162768"
+    ]
+  },
+  "664": {
+    "disease_name": "Ornithine transcarbamylase deficiency",
+    "orpha_code": "664",
+    "trials_count": 3,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT06255782",
+      "NCT03636438",
+      "NCT05345171"
+    ]
+  },
+  "67041": {
+    "disease_name": "Hyaluronidase deficiency",
+    "orpha_code": "67041",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05755035"
+    ]
+  },
+  "699": {
+    "disease_name": "Pearson syndrome",
+    "orpha_code": "699",
+    "trials_count": 5,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05993299",
+      "NCT06703346",
+      "NCT04998812",
+      "NCT06521996",
+      "NCT02598661"
+    ]
+  },
+  "709": {
+    "disease_name": "Peters plus syndrome",
+    "orpha_code": "709",
+    "trials_count": 6,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05929066",
+      "NCT05929079",
+      "NCT06423651",
+      "NCT05455593",
+      "NCT05219617",
+      "NCT04462770"
+    ]
+  },
+  "716": {
+    "disease_name": "Phenylketonuria",
+    "orpha_code": "716",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05166161"
+    ]
+  },
+  "726": {
+    "disease_name": "Alpers-Huttenlocher syndrome",
+    "orpha_code": "726",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05218655"
+    ]
+  },
+  "746": {
+    "disease_name": "Mitochondrial trifunctional protein deficiency",
+    "orpha_code": "746",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05933200"
+    ]
+  },
+  "765": {
+    "disease_name": "Pyruvate dehydrogenase deficiency",
+    "orpha_code": "765",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05175105"
+    ]
+  },
+  "766": {
+    "disease_name": "Hemolytic anemia due to red cell pyruvate kinase deficiency",
+    "orpha_code": "766",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT06213402"
+    ]
+  },
+  "79095": {
+    "disease_name": "Congenital bile acid synthesis defect type 4",
+    "orpha_code": "79095",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT04526665"
+    ]
+  },
+  "79301": {
+    "disease_name": "Congenital bile acid synthesis defect type 1",
+    "orpha_code": "79301",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT04526665"
+    ]
+  },
+  "79302": {
+    "disease_name": "Congenital bile acid synthesis defect type 3",
+    "orpha_code": "79302",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT04526665"
+    ]
+  },
+  "79303": {
+    "disease_name": "Congenital bile acid synthesis defect type 2",
+    "orpha_code": "79303",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT04526665"
+    ]
+  },
+  "79318": {
+    "disease_name": "PMM2-CDG",
+    "orpha_code": "79318",
+    "trials_count": 2,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05549219",
+      "NCT03173300"
+    ]
+  },
+  "905": {
+    "disease_name": "Wilson disease",
+    "orpha_code": "905",
+    "trials_count": 34,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05860816",
+      "NCT05507216",
+      "NCT06151574",
+      "NCT05085366",
+      "NCT05239858",
+      "NCT05890729",
+      "NCT05917327",
+      "NCT06466291",
+      "NCT03233191",
+      "NCT02032823",
+      "NCT04899310",
+      "NCT06072781",
+      "NCT06120140",
+      "NCT06082167",
+      "NCT06534892",
+      "NCT03567889",
+      "NCT06615921",
+      "NCT06455202",
+      "NCT06383390",
+      "NCT02362503",
+      "NCT05535946",
+      "NCT04965493",
+      "NCT05018585",
+      "NCT06378632",
+      "NCT02308085",
+      "NCT05362370",
+      "NCT04884815",
+      "NCT05371613",
+      "NCT05653349",
+      "NCT05639400",
+      "NCT04396236",
+      "NCT05849298",
+      "NCT04849728",
+      "NCT06671483"
+    ]
+  },
+  "909": {
+    "disease_name": "Cerebrotendinous xanthomatosis",
+    "orpha_code": "909",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT06934681"
+    ]
+  },
+  "99718": {
+    "disease_name": "Leber plus disease",
+    "orpha_code": "99718",
+    "trials_count": 1,
+    "last_processed_run": 1,
+    "trials": [
+      "NCT05718700"
+    ]
+  }
+}

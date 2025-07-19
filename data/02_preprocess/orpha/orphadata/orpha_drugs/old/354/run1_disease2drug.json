@@ -1,0 +1,681 @@
+{
+  "disease_name": "GM1 gangliosidosis",
+  "orpha_code": "354",
+  "drugs": [
+    {
+      "name": "Nizubaglustat",
+      "substance_url": "/en/drug/substance/684449?name=354&mode=orpha&region=&status=all",
+      "substance_id": "684449",
+      "regulatory_url": "/en/drug/regulatory/684465?name=354&mode=orpha&region=",
+      "regulatory_id": "684465",
+      "orpha_substance_code": "ORPHA:354",
+      "details": [
+        "Nizubaglustat(Medicinal product                        - 28/06/2024)Disease(s) concernedORPHA:354 GM1 gangliosidosis",
+        "Nizubaglustat(Medicinal product                        - 28/06/2024)",
+        "(Medicinal product                        - 28/06/2024)",
+        "Disease(s) concernedORPHA:354 GM1 gangliosidosis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/684449?name=354&mode=orpha&region=&status=all",
+          "text": "Nizubaglustat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/354",
+          "text": "ORPHA:354 GM1 gangliosidosis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/684465?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Acetylleucine",
+      "substance_url": "/en/drug/substance/479413?name=354&mode=orpha&region=&status=all",
+      "substance_id": "479413",
+      "regulatory_url": "/en/drug/regulatory/633498?name=354&mode=orpha&region=",
+      "regulatory_id": "633498",
+      "orpha_substance_code": "ORPHA:354",
+      "details": [
+        "Acetylleucine(Medicinal product                        - 11/10/2022)Disease(s) concernedORPHA:354 GM1 gangliosidosis",
+        "Acetylleucine(Medicinal product                        - 11/10/2022)",
+        "(Medicinal product                        - 11/10/2022)",
+        "Disease(s) concernedORPHA:354 GM1 gangliosidosis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/479413?name=354&mode=orpha&region=&status=all",
+          "text": "Acetylleucine",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/354",
+          "text": "ORPHA:354 GM1 gangliosidosis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/633498?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Adeno-associated virus serotype hu68 containing the human GLB1 gene",
+      "substance_url": "/en/drug/substance/604890?name=354&mode=orpha&region=&status=all",
+      "substance_id": "604890",
+      "regulatory_url": "/en/drug/regulatory/604891?name=354&mode=orpha&region=",
+      "regulatory_id": "604891",
+      "orpha_substance_code": "ORPHA:354",
+      "details": [
+        "Adeno-associated virus serotype hu68 containing the human GLB1 gene(Medicinal product                        - 19/10/2020)Disease(s) concernedORPHA:354 GM1 gangliosidosis",
+        "Adeno-associated virus serotype hu68 containing the human GLB1 gene(Medicinal product                        - 19/10/2020)",
+        "(Medicinal product                        - 19/10/2020)",
+        "Disease(s) concernedORPHA:354 GM1 gangliosidosis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/604890?name=354&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus serotype hu68 containing the human GLB1 gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/354",
+          "text": "ORPHA:354 GM1 gangliosidosis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/604891?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector serotype rh.10 expressing beta-galactosidase",
+      "substance_url": "/en/drug/substance/488012?name=354&mode=orpha&region=&status=all",
+      "substance_id": "488012",
+      "regulatory_url": "/en/drug/regulatory/488013?name=354&mode=orpha&region=",
+      "regulatory_id": "488013",
+      "orpha_substance_code": "ORPHA:354",
+      "details": [
+        "Adeno-associated viral vector serotype rh.10 expressing beta-galactosidase(Medicinal product                        - 20/03/2017)Disease(s) concernedORPHA:354 GM1 gangliosidosis",
+        "Adeno-associated viral vector serotype rh.10 expressing beta-galactosidase(Medicinal product                        - 20/03/2017)",
+        "(Medicinal product                        - 20/03/2017)",
+        "Disease(s) concernedORPHA:354 GM1 gangliosidosis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/488012?name=354&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector serotype rh.10 expressing beta-galactosidase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/354",
+          "text": "ORPHA:354 GM1 gangliosidosis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/488013?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Nizubaglustat",
+      "substance_url": "/en/drug/substance/684449?name=354&mode=orpha&region=&status=all",
+      "substance_id": "684449",
+      "regulatory_url": "/en/drug/regulatory/691592?name=354&mode=orpha&region=",
+      "regulatory_id": "691592",
+      "orpha_substance_code": "ORPHA:354",
+      "details": [
+        "Nizubaglustat(Medicinal product                        - 25/11/2024)Disease(s) concernedORPHA:354 GM1 gangliosidosis",
+        "Nizubaglustat(Medicinal product                        - 25/11/2024)",
+        "(Medicinal product                        - 25/11/2024)",
+        "Disease(s) concernedORPHA:354 GM1 gangliosidosis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/684449?name=354&mode=orpha&region=&status=all",
+          "text": "Nizubaglustat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/354",
+          "text": "ORPHA:354 GM1 gangliosidosis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/691592?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Aloxistatin",
+      "substance_url": "/en/drug/substance/644160?name=354&mode=orpha&region=&status=all",
+      "substance_id": "644160",
+      "regulatory_url": "/en/drug/regulatory/644161?name=354&mode=orpha&region=",
+      "regulatory_id": "644161",
+      "orpha_substance_code": "ORPHA:354",
+      "details": [
+        "Aloxistatin(Medicinal product                        - 10/05/2022)Disease(s) concernedORPHA:354 GM1 gangliosidosis",
+        "Aloxistatin(Medicinal product                        - 10/05/2022)",
+        "(Medicinal product                        - 10/05/2022)",
+        "Disease(s) concernedORPHA:354 GM1 gangliosidosis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/644160?name=354&mode=orpha&region=&status=all",
+          "text": "Aloxistatin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/354",
+          "text": "ORPHA:354 GM1 gangliosidosis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/644161?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "N-Acetyl-L-Leucine",
+      "substance_url": "/en/drug/substance/591528?name=354&mode=orpha&region=&status=all",
+      "substance_id": "591528",
+      "regulatory_url": "/en/drug/regulatory/634656?name=354&mode=orpha&region=",
+      "regulatory_id": "634656",
+      "orpha_substance_code": "ORPHA:354",
+      "details": [
+        "N-Acetyl-L-Leucine(Medicinal product                        - 13/04/2022)Disease(s) concernedORPHA:354 GM1 gangliosidosis",
+        "N-Acetyl-L-Leucine(Medicinal product                        - 13/04/2022)",
+        "(Medicinal product                        - 13/04/2022)",
+        "Disease(s) concernedORPHA:354 GM1 gangliosidosis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/591528?name=354&mode=orpha&region=&status=all",
+          "text": "N-Acetyl-L-Leucine",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/354",
+          "text": "ORPHA:354 GM1 gangliosidosis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/634656?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "PLERIXAFOR ACCORD",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/642317?name=354&mode=orpha&region=",
+      "regulatory_id": "642317",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "PLERIXAFOR ACCORD(Tradename                        - 16/12/2022)Disease(s) concernedORPHA:29073 Multiple myelomaORPHA:223735 LymphomaORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "PLERIXAFOR ACCORD(Tradename                        - 16/12/2022)",
+        "(Tradename                        - 16/12/2022)",
+        "Disease(s) concernedORPHA:29073 Multiple myelomaORPHA:223735 LymphomaORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/642316?name=354&mode=orpha&region=&status=all",
+          "text": "PLERIXAFOR ACCORD",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/29073",
+          "text": "ORPHA:29073 Multiple myeloma",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/223735",
+          "text": "ORPHA:223735 Lymphoma",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/642317?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Thiotepa Riemser",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/610636?name=354&mode=orpha&region=",
+      "regulatory_id": "610636",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Thiotepa Riemser(Tradename                        - 26/03/2021)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Thiotepa Riemser(Tradename                        - 26/03/2021)",
+        "(Tradename                        - 26/03/2021)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/610616?name=354&mode=orpha&region=&status=all",
+          "text": "Thiotepa Riemser",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/610636?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "motixafortide",
+      "substance_url": "/en/drug/substance/588874?name=354&mode=orpha&region=&status=all",
+      "substance_id": "588874",
+      "regulatory_url": "/en/drug/regulatory/661036?name=354&mode=orpha&region=",
+      "regulatory_id": "661036",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "motixafortide(Medicinal product                        - 12/01/2024)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "motixafortide(Medicinal product                        - 12/01/2024)",
+        "(Medicinal product                        - 12/01/2024)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/588874?name=354&mode=orpha&region=&status=all",
+          "text": "motixafortide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/661036?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate",
+      "substance_url": "/en/drug/substance/589233?name=354&mode=orpha&region=&status=all",
+      "substance_id": "589233",
+      "regulatory_url": "/en/drug/regulatory/589234?name=354&mode=orpha&region=",
+      "regulatory_id": "589234",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate(Medicinal product                        - 20/04/2020)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate(Medicinal product                        - 20/04/2020)",
+        "(Medicinal product                        - 20/04/2020)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/589233?name=354&mode=orpha&region=&status=all",
+          "text": "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/589234?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus",
+      "substance_url": "/en/drug/substance/589056?name=354&mode=orpha&region=&status=all",
+      "substance_id": "589056",
+      "regulatory_url": "/en/drug/regulatory/589057?name=354&mode=orpha&region=",
+      "regulatory_id": "589057",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus(Medicinal product                        - 24/03/2020)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus(Medicinal product                        - 24/03/2020)",
+        "(Medicinal product                        - 24/03/2020)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/589056?name=354&mode=orpha&region=&status=all",
+          "text": "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/589057?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=354&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=354&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Burixafor(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Burixafor(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689505?name=354&mode=orpha&region=&status=all",
+          "text": "Burixafor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689915?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Besilesomab",
+      "substance_url": "/en/drug/substance/571152?name=354&mode=orpha&region=&status=all",
+      "substance_id": "571152",
+      "regulatory_url": "/en/drug/regulatory/641081?name=354&mode=orpha&region=",
+      "regulatory_id": "641081",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Besilesomab(Medicinal product                        - 28/03/2022)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Besilesomab(Medicinal product                        - 28/03/2022)",
+        "(Medicinal product                        - 28/03/2022)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/571152?name=354&mode=orpha&region=&status=all",
+          "text": "Besilesomab",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/641081?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Besilesomab",
+      "substance_url": "/en/drug/substance/571152?name=354&mode=orpha&region=&status=all",
+      "substance_id": "571152",
+      "regulatory_url": "/en/drug/regulatory/641075?name=354&mode=orpha&region=",
+      "regulatory_id": "641075",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Besilesomab(Medicinal product                        - 28/03/2022)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Besilesomab(Medicinal product                        - 28/03/2022)",
+        "(Medicinal product                        - 28/03/2022)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/571152?name=354&mode=orpha&region=&status=all",
+          "text": "Besilesomab",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/641075?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=354&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=354&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Treosulfan(Medicinal product                        - 08/04/2015)Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Treosulfan(Medicinal product                        - 08/04/2015)",
+        "(Medicinal product                        - 08/04/2015)",
+        "Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90799?name=354&mode=orpha&region=&status=all",
+          "text": "Treosulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/213500",
+          "text": "ORPHA:213500 Rare ovarian cancer",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136690?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=354&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=354&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "busulfan(Medicinal product                        - 21/04/1994)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "busulfan(Medicinal product                        - 21/04/1994)",
+        "(Medicinal product                        - 21/04/1994)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/46335?name=354&mode=orpha&region=&status=all",
+          "text": "busulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131973?name=354&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:00:00.628237",
+  "run_number": 1,
+  "total_drugs_found": 17,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=GM1+gangliosidosis&orphaCode=354&name=354&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "GM1 gangliosidosis",
+    "orphaCode": "354",
+    "name": "354",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

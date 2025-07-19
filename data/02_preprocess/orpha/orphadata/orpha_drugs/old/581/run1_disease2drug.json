@@ -1,0 +1,1477 @@
+{
+  "disease_name": "Mucopolysaccharidosis type 3",
+  "orpha_code": "581",
+  "drugs": [
+    {
+      "name": "Trehalose",
+      "substance_url": "/en/drug/substance/418127?name=581&mode=orpha&region=&status=all",
+      "substance_id": "418127",
+      "regulatory_url": "/en/drug/regulatory/604845?name=581&mode=orpha&region=",
+      "regulatory_id": "604845",
+      "orpha_substance_code": "ORPHA:581",
+      "details": [
+        "Trehalose(Medicinal product                        - 21/08/2020)Disease(s) concernedORPHA:581 Mucopolysaccharidosis type 3",
+        "Trehalose(Medicinal product                        - 21/08/2020)",
+        "(Medicinal product                        - 21/08/2020)",
+        "Disease(s) concernedORPHA:581 Mucopolysaccharidosis type 3",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/418127?name=581&mode=orpha&region=&status=all",
+          "text": "Trehalose",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/581",
+          "text": "ORPHA:581 Mucopolysaccharidosis type 3",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/604845?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Genistein sodium salt dihydrate",
+      "substance_url": "/en/drug/substance/299549?name=581&mode=orpha&region=&status=all",
+      "substance_id": "299549",
+      "regulatory_url": "/en/drug/regulatory/301149?name=581&mode=orpha&region=",
+      "regulatory_id": "301149",
+      "orpha_substance_code": "ORPHA:581",
+      "details": [
+        "Genistein sodium salt dihydrate(Medicinal product                        - 02/04/2012)Disease(s) concernedORPHA:581 Mucopolysaccharidosis type 3",
+        "Genistein sodium salt dihydrate(Medicinal product                        - 02/04/2012)",
+        "(Medicinal product                        - 02/04/2012)",
+        "Disease(s) concernedORPHA:581 Mucopolysaccharidosis type 3",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/299549?name=581&mode=orpha&region=&status=all",
+          "text": "Genistein sodium salt dihydrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/581",
+          "text": "ORPHA:581 Mucopolysaccharidosis type 3",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/301149?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant human heparan-N-sulfatase",
+      "substance_url": "/en/drug/substance/165346?name=581&mode=orpha&region=&status=all",
+      "substance_id": "165346",
+      "regulatory_url": "/en/drug/regulatory/661148?name=581&mode=orpha&region=",
+      "regulatory_id": "661148",
+      "orpha_substance_code": "ORPHA:79269",
+      "details": [
+        "Recombinant human heparan-N-sulfatase(Medicinal product                        - 12/01/2024)Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "Recombinant human heparan-N-sulfatase(Medicinal product                        - 12/01/2024)",
+        "(Medicinal product                        - 12/01/2024)",
+        "Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/165346?name=581&mode=orpha&region=&status=all",
+          "text": "Recombinant human heparan-N-sulfatase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79269",
+          "text": "ORPHA:79269 Sanfilippo syndrome type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/661148?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type A\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "N-sulfoglucosamine sulfohydrolase fused to a humanised monoclonal antibody targeting the human transferrin receptor",
+      "substance_url": "/en/drug/substance/628237?name=581&mode=orpha&region=&status=all",
+      "substance_id": "628237",
+      "regulatory_url": "/en/drug/regulatory/628238?name=581&mode=orpha&region=",
+      "regulatory_id": "628238",
+      "orpha_substance_code": "ORPHA:79269",
+      "details": [
+        "N-sulfoglucosamine sulfohydrolase fused to a humanised monoclonal antibody targeting the human transferrin receptor(Medicinal product                        - 14/01/2022)Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "N-sulfoglucosamine sulfohydrolase fused to a humanised monoclonal antibody targeting the human transferrin receptor(Medicinal product                        - 14/01/2022)",
+        "(Medicinal product                        - 14/01/2022)",
+        "Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/628237?name=581&mode=orpha&region=&status=all",
+          "text": "N-sulfoglucosamine sulfohydrolase fused to a humanised monoclonal antibody targeting the human transferrin receptor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79269",
+          "text": "ORPHA:79269 Sanfilippo syndrome type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/628238?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type A\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant adeno-associated viral vector serotype 9 containing the human N-alpha-acetylglucosaminidase gene",
+      "substance_url": "/en/drug/substance/531913?name=581&mode=orpha&region=&status=all",
+      "substance_id": "531913",
+      "regulatory_url": "/en/drug/regulatory/531914?name=581&mode=orpha&region=",
+      "regulatory_id": "531914",
+      "orpha_substance_code": "ORPHA:79270",
+      "details": [
+        "Recombinant adeno-associated viral vector serotype 9 containing the human N-alpha-acetylglucosaminidase gene(Medicinal product                        - 12/01/2017)Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "Recombinant adeno-associated viral vector serotype 9 containing the human N-alpha-acetylglucosaminidase gene(Medicinal product                        - 12/01/2017)",
+        "(Medicinal product                        - 12/01/2017)",
+        "Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/531913?name=581&mode=orpha&region=&status=all",
+          "text": "Recombinant adeno-associated viral vector serotype 9 containing the human N-alpha-acetylglucosaminidase gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79270",
+          "text": "ORPHA:79270 Sanfilippo syndrome type B",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/531914?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type B\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Chemically modified human recombinant sulfamidase",
+      "substance_url": "/en/drug/substance/484789?name=581&mode=orpha&region=&status=all",
+      "substance_id": "484789",
+      "regulatory_url": "/en/drug/regulatory/484790?name=581&mode=orpha&region=",
+      "regulatory_id": "484790",
+      "orpha_substance_code": "ORPHA:79269",
+      "details": [
+        "Chemically modified human recombinant sulfamidase(Medicinal product                        - 14/10/2016)Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "Chemically modified human recombinant sulfamidase(Medicinal product                        - 14/10/2016)",
+        "(Medicinal product                        - 14/10/2016)",
+        "Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/484789?name=581&mode=orpha&region=&status=all",
+          "text": "Chemically modified human recombinant sulfamidase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79269",
+          "text": "ORPHA:79269 Sanfilippo syndrome type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/484790?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type A\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Self-complementary adeno-associated viral vector serotype 9 containing the SGSH gene",
+      "substance_url": "/en/drug/substance/484726?name=581&mode=orpha&region=&status=all",
+      "substance_id": "484726",
+      "regulatory_url": "/en/drug/regulatory/484745?name=581&mode=orpha&region=",
+      "regulatory_id": "484745",
+      "orpha_substance_code": "ORPHA:79269",
+      "details": [
+        "Self-complementary adeno-associated viral vector serotype 9 containing the SGSH gene(Medicinal product                        - 20/09/2016)Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "Self-complementary adeno-associated viral vector serotype 9 containing the SGSH gene(Medicinal product                        - 20/09/2016)",
+        "(Medicinal product                        - 20/09/2016)",
+        "Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/484726?name=581&mode=orpha&region=&status=all",
+          "text": "Self-complementary adeno-associated viral vector serotype 9 containing the SGSH gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79269",
+          "text": "ORPHA:79269 Sanfilippo syndrome type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/484745?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type A\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "adeno-associated viral vector serotype 9 containing the human HGSNAT gene",
+      "substance_url": "/en/drug/substance/444449?name=581&mode=orpha&region=&status=all",
+      "substance_id": "444449",
+      "regulatory_url": "/en/drug/regulatory/444451?name=581&mode=orpha&region=",
+      "regulatory_id": "444451",
+      "orpha_substance_code": "ORPHA:79271",
+      "details": [
+        "adeno-associated viral vector serotype 9 containing the human HGSNAT gene(Medicinal product                        - 21/05/2015)Disease(s) concernedORPHA:79271 Sanfilippo syndrome type C",
+        "adeno-associated viral vector serotype 9 containing the human HGSNAT gene(Medicinal product                        - 21/05/2015)",
+        "(Medicinal product                        - 21/05/2015)",
+        "Disease(s) concernedORPHA:79271 Sanfilippo syndrome type C",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/444449?name=581&mode=orpha&region=&status=all",
+          "text": "adeno-associated viral vector serotype 9 containing the human HGSNAT gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79271",
+          "text": "ORPHA:79271 Sanfilippo syndrome type C",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/444451?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type C\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Chimeric fusion protein of recombinant human alpha-N-acetylglucosaminidase and human insulin-like growth factor 2",
+      "substance_url": "/en/drug/substance/418092?name=581&mode=orpha&region=&status=all",
+      "substance_id": "418092",
+      "regulatory_url": "/en/drug/regulatory/437343?name=581&mode=orpha&region=",
+      "regulatory_id": "437343",
+      "orpha_substance_code": "ORPHA:79270",
+      "details": [
+        "Chimeric fusion protein of recombinant human alpha-N-acetylglucosaminidase and human insulin-like growth factor 2(Medicinal product                        - 15/01/2015)Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "Chimeric fusion protein of recombinant human alpha-N-acetylglucosaminidase and human insulin-like growth factor 2(Medicinal product                        - 15/01/2015)",
+        "(Medicinal product                        - 15/01/2015)",
+        "Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/418092?name=581&mode=orpha&region=&status=all",
+          "text": "Chimeric fusion protein of recombinant human alpha-N-acetylglucosaminidase and human insulin-like growth factor 2",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79270",
+          "text": "ORPHA:79270 Sanfilippo syndrome type B",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/437343?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type B\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector serotype rh.10 carrying the human N-sulfoglucosamine sulfohydrolase cDNA",
+      "substance_url": "/en/drug/substance/414082?name=581&mode=orpha&region=&status=all",
+      "substance_id": "414082",
+      "regulatory_url": "/en/drug/regulatory/437406?name=581&mode=orpha&region=",
+      "regulatory_id": "437406",
+      "orpha_substance_code": "ORPHA:79269",
+      "details": [
+        "Adeno-associated viral vector serotype rh.10 carrying the human N-sulfoglucosamine sulfohydrolase cDNA(Medicinal product                        - 16/12/2014)Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "Adeno-associated viral vector serotype rh.10 carrying the human N-sulfoglucosamine sulfohydrolase cDNA(Medicinal product                        - 16/12/2014)",
+        "(Medicinal product                        - 16/12/2014)",
+        "Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/414082?name=581&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector serotype rh.10 carrying the human N-sulfoglucosamine sulfohydrolase cDNA",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79269",
+          "text": "ORPHA:79269 Sanfilippo syndrome type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/437406?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type A\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Autologous CD34+ cells transduced with a lentiviral vector containing the human SGSH gene",
+      "substance_url": "/en/drug/substance/399640?name=581&mode=orpha&region=&status=all",
+      "substance_id": "399640",
+      "regulatory_url": "/en/drug/regulatory/406120?name=581&mode=orpha&region=",
+      "regulatory_id": "406120",
+      "orpha_substance_code": "ORPHA:79269",
+      "details": [
+        "Autologous CD34+ cells transduced with a lentiviral vector containing the human SGSH gene(Medicinal product                        - 10/06/2014)Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "Autologous CD34+ cells transduced with a lentiviral vector containing the human SGSH gene(Medicinal product                        - 10/06/2014)",
+        "(Medicinal product                        - 10/06/2014)",
+        "Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/399640?name=581&mode=orpha&region=&status=all",
+          "text": "Autologous CD34+ cells transduced with a lentiviral vector containing the human SGSH gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79269",
+          "text": "ORPHA:79269 Sanfilippo syndrome type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/406120?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type A\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector containing the human alpha-N-acetylglucosaminidase gene",
+      "substance_url": "/en/drug/substance/275655?name=581&mode=orpha&region=&status=all",
+      "substance_id": "275655",
+      "regulatory_url": "/en/drug/regulatory/286416?name=581&mode=orpha&region=",
+      "regulatory_id": "286416",
+      "orpha_substance_code": "ORPHA:79270",
+      "details": [
+        "Adeno-associated viral vector containing the human alpha-N-acetylglucosaminidase gene(Medicinal product                        - 27/10/2011)Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "Adeno-associated viral vector containing the human alpha-N-acetylglucosaminidase gene(Medicinal product                        - 27/10/2011)",
+        "(Medicinal product                        - 27/10/2011)",
+        "Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/275655?name=581&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector containing the human alpha-N-acetylglucosaminidase gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79270",
+          "text": "ORPHA:79270 Sanfilippo syndrome type B",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/286416?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type B\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector serotype 9 containing the human sulfamidase gene",
+      "substance_url": "/en/drug/substance/260412?name=581&mode=orpha&region=&status=all",
+      "substance_id": "260412",
+      "regulatory_url": "/en/drug/regulatory/275275?name=581&mode=orpha&region=",
+      "regulatory_id": "275275",
+      "orpha_substance_code": "ORPHA:79269",
+      "details": [
+        "Adeno-associated viral vector serotype 9 containing the human sulfamidase gene(Medicinal product                        - 21/06/2011)Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "Adeno-associated viral vector serotype 9 containing the human sulfamidase gene(Medicinal product                        - 21/06/2011)",
+        "(Medicinal product                        - 21/06/2011)",
+        "Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/260412?name=581&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector serotype 9 containing the human sulfamidase gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79269",
+          "text": "ORPHA:79269 Sanfilippo syndrome type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/275275?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type A\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adenovirus-associated viral vector serotype 10 carrying the human N-sulfoglucosamine sulfohydrolase and sulfatase modifying factor 1 cDNAs",
+      "substance_url": "/en/drug/substance/230772?name=581&mode=orpha&region=&status=all",
+      "substance_id": "230772",
+      "regulatory_url": "/en/drug/regulatory/246930?name=581&mode=orpha&region=",
+      "regulatory_id": "246930",
+      "orpha_substance_code": "ORPHA:79269",
+      "details": [
+        "Adenovirus-associated viral vector serotype 10 carrying the human N-sulfoglucosamine sulfohydrolase and sulfatase modifying factor 1 cDNAs(Medicinal product                        - 20/09/2010)Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "Adenovirus-associated viral vector serotype 10 carrying the human N-sulfoglucosamine sulfohydrolase and sulfatase modifying factor 1 cDNAs(Medicinal product                        - 20/09/2010)",
+        "(Medicinal product                        - 20/09/2010)",
+        "Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/230772?name=581&mode=orpha&region=&status=all",
+          "text": "Adenovirus-associated viral vector serotype 10 carrying the human N-sulfoglucosamine sulfohydrolase and sulfatase modifying factor 1 cDNAs",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79269",
+          "text": "ORPHA:79269 Sanfilippo syndrome type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/246930?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type A\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant human alpha-N-acetylglucosaminidase",
+      "substance_url": "/en/drug/substance/332867?name=581&mode=orpha&region=&status=all",
+      "substance_id": "332867",
+      "regulatory_url": "/en/drug/regulatory/359498?name=581&mode=orpha&region=",
+      "regulatory_id": "359498",
+      "orpha_substance_code": "ORPHA:79270",
+      "details": [
+        "Recombinant human alpha-N-acetylglucosaminidase(Medicinal product                        - 19/06/2013)Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "Recombinant human alpha-N-acetylglucosaminidase(Medicinal product                        - 19/06/2013)",
+        "(Medicinal product                        - 19/06/2013)",
+        "Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/332867?name=581&mode=orpha&region=&status=all",
+          "text": "Recombinant human alpha-N-acetylglucosaminidase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79270",
+          "text": "ORPHA:79270 Sanfilippo syndrome type B",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/359498?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type B\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector serotype 9 containing the human N-acetylglucosaminidase alpha gene",
+      "substance_url": "/en/drug/substance/321495?name=581&mode=orpha&region=&status=all",
+      "substance_id": "321495",
+      "regulatory_url": "/en/drug/regulatory/323618?name=581&mode=orpha&region=",
+      "regulatory_id": "323618",
+      "orpha_substance_code": "ORPHA:79270",
+      "details": [
+        "Adeno-associated viral vector serotype 9 containing the human N-acetylglucosaminidase alpha gene(Medicinal product                        - 24/01/2013)Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "Adeno-associated viral vector serotype 9 containing the human N-acetylglucosaminidase alpha gene(Medicinal product                        - 24/01/2013)",
+        "(Medicinal product                        - 24/01/2013)",
+        "Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/321495?name=581&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector serotype 9 containing the human N-acetylglucosaminidase alpha gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79270",
+          "text": "ORPHA:79270 Sanfilippo syndrome type B",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/323618?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type B\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant human heparan-N-sulfatase",
+      "substance_url": "/en/drug/substance/165346?name=581&mode=orpha&region=&status=all",
+      "substance_id": "165346",
+      "regulatory_url": "/en/drug/regulatory/165347?name=581&mode=orpha&region=",
+      "regulatory_id": "165347",
+      "orpha_substance_code": "ORPHA:79269",
+      "details": [
+        "Recombinant human heparan-N-sulfatase(Medicinal product                        - 07/11/2008)Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "Recombinant human heparan-N-sulfatase(Medicinal product                        - 07/11/2008)",
+        "(Medicinal product                        - 07/11/2008)",
+        "Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/165346?name=581&mode=orpha&region=&status=all",
+          "text": "Recombinant human heparan-N-sulfatase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79269",
+          "text": "ORPHA:79269 Sanfilippo syndrome type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/165347?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type A\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant glycoprotein consisting of modified human alpha-N-acetylglucosaminidase (mhNAGLU) and a humanized antibody that specifically recognizes hTfR",
+      "substance_url": "/en/drug/substance/699865?name=581&mode=orpha&region=&status=all",
+      "substance_id": "699865",
+      "regulatory_url": "/en/drug/regulatory/700142?name=581&mode=orpha&region=",
+      "regulatory_id": "700142",
+      "orpha_substance_code": "ORPHA:79270",
+      "details": [
+        "Recombinant glycoprotein consisting of modified human alpha-N-acetylglucosaminidase (mhNAGLU) and a humanized antibody that specifically recognizes hTfR(Medicinal product                        - 25/04/2025)Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "Recombinant glycoprotein consisting of modified human alpha-N-acetylglucosaminidase (mhNAGLU) and a humanized antibody that specifically recognizes hTfR(Medicinal product                        - 25/04/2025)",
+        "(Medicinal product                        - 25/04/2025)",
+        "Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/699865?name=581&mode=orpha&region=&status=all",
+          "text": "Recombinant glycoprotein consisting of modified human alpha-N-acetylglucosaminidase (mhNAGLU) and a humanized antibody that specifically recognizes hTfR",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79270",
+          "text": "ORPHA:79270 Sanfilippo syndrome type B",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/700142?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type B\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "N-sulfoglucosamine sulfohydrolase",
+      "substance_url": "/en/drug/substance/662636?name=581&mode=orpha&region=&status=all",
+      "substance_id": "662636",
+      "regulatory_url": "/en/drug/regulatory/662828?name=581&mode=orpha&region=",
+      "regulatory_id": "662828",
+      "orpha_substance_code": "ORPHA:79269",
+      "details": [
+        "N-sulfoglucosamine sulfohydrolase(Medicinal product                        - 20/02/2024)Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "N-sulfoglucosamine sulfohydrolase(Medicinal product                        - 20/02/2024)",
+        "(Medicinal product                        - 20/02/2024)",
+        "Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/662636?name=581&mode=orpha&region=&status=all",
+          "text": "N-sulfoglucosamine sulfohydrolase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79269",
+          "text": "ORPHA:79269 Sanfilippo syndrome type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/662828?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type A\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant human N-acetylglucosamine-6-sulfatase enzyme (rhGNS)",
+      "substance_url": "/en/drug/substance/663169?name=581&mode=orpha&region=&status=all",
+      "substance_id": "663169",
+      "regulatory_url": "/en/drug/regulatory/663252?name=581&mode=orpha&region=",
+      "regulatory_id": "663252",
+      "orpha_substance_code": "ORPHA:79272",
+      "details": [
+        "Recombinant human N-acetylglucosamine-6-sulfatase enzyme (rhGNS)(Medicinal product                        - 16/01/2024)Disease(s) concernedORPHA:79272 Sanfilippo syndrome type D",
+        "Recombinant human N-acetylglucosamine-6-sulfatase enzyme (rhGNS)(Medicinal product                        - 16/01/2024)",
+        "(Medicinal product                        - 16/01/2024)",
+        "Disease(s) concernedORPHA:79272 Sanfilippo syndrome type D",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/663169?name=581&mode=orpha&region=&status=all",
+          "text": "Recombinant human N-acetylglucosamine-6-sulfatase enzyme (rhGNS)",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79272",
+          "text": "ORPHA:79272 Sanfilippo syndrome type D",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/663252?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type D\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Human N-sulfoglucosamine sulfohydrolase fused to a humanised monoclonal antibody targeting human transferrin receptor",
+      "substance_url": "/en/drug/substance/664315?name=581&mode=orpha&region=&status=all",
+      "substance_id": "664315",
+      "regulatory_url": "/en/drug/regulatory/664317?name=581&mode=orpha&region=",
+      "regulatory_id": "664317",
+      "orpha_substance_code": "ORPHA:79269",
+      "details": [
+        "Human N-sulfoglucosamine sulfohydrolase fused to a humanised monoclonal antibody targeting human transferrin receptor(Medicinal product                        - 12/12/2023)Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "Human N-sulfoglucosamine sulfohydrolase fused to a humanised monoclonal antibody targeting human transferrin receptor(Medicinal product                        - 12/12/2023)",
+        "(Medicinal product                        - 12/12/2023)",
+        "Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/664315?name=581&mode=orpha&region=&status=all",
+          "text": "Human N-sulfoglucosamine sulfohydrolase fused to a humanised monoclonal antibody targeting human transferrin receptor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79269",
+          "text": "ORPHA:79269 Sanfilippo syndrome type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/664317?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type A\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant adeno-associated virus serotype 9 vector containing the codon optimized human alpha-N-acetylglucosaminidase (NAGLU) gene",
+      "substance_url": "/en/drug/substance/666378?name=581&mode=orpha&region=&status=all",
+      "substance_id": "666378",
+      "regulatory_url": "/en/drug/regulatory/666429?name=581&mode=orpha&region=",
+      "regulatory_id": "666429",
+      "orpha_substance_code": "ORPHA:79270",
+      "details": [
+        "Recombinant adeno-associated virus serotype 9 vector containing the codon optimized human alpha-N-acetylglucosaminidase (NAGLU) gene(Medicinal product                        - 01/08/2023)Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "Recombinant adeno-associated virus serotype 9 vector containing the codon optimized human alpha-N-acetylglucosaminidase (NAGLU) gene(Medicinal product                        - 01/08/2023)",
+        "(Medicinal product                        - 01/08/2023)",
+        "Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/666378?name=581&mode=orpha&region=&status=all",
+          "text": "Recombinant adeno-associated virus serotype 9 vector containing the codon optimized human alpha-N-acetylglucosaminidase (NAGLU) gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79270",
+          "text": "ORPHA:79270 Sanfilippo syndrome type B",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/666429?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type B\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant self-complementary adeno-associated virus9 gene therapy expressing codon-optimized human N-Sulfoglucosamine Sulfohydrolase gene",
+      "substance_url": "/en/drug/substance/646592?name=581&mode=orpha&region=&status=all",
+      "substance_id": "646592",
+      "regulatory_url": "/en/drug/regulatory/646689?name=581&mode=orpha&region=",
+      "regulatory_id": "646689",
+      "orpha_substance_code": "ORPHA:79269",
+      "details": [
+        "Recombinant self-complementary adeno-associated virus9 gene therapy expressing codon-optimized human N-Sulfoglucosamine Sulfohydrolase gene(Medicinal product                        - 26/04/2023)Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "Recombinant self-complementary adeno-associated virus9 gene therapy expressing codon-optimized human N-Sulfoglucosamine Sulfohydrolase gene(Medicinal product                        - 26/04/2023)",
+        "(Medicinal product                        - 26/04/2023)",
+        "Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/646592?name=581&mode=orpha&region=&status=all",
+          "text": "Recombinant self-complementary adeno-associated virus9 gene therapy expressing codon-optimized human N-Sulfoglucosamine Sulfohydrolase gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79269",
+          "text": "ORPHA:79269 Sanfilippo syndrome type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/646689?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type A\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant human heparan-N-sulfatase",
+      "substance_url": "/en/drug/substance/165346?name=581&mode=orpha&region=&status=all",
+      "substance_id": "165346",
+      "regulatory_url": "/en/drug/regulatory/641312?name=581&mode=orpha&region=",
+      "regulatory_id": "641312",
+      "orpha_substance_code": "ORPHA:79269",
+      "details": [
+        "Recombinant human heparan-N-sulfatase(Medicinal product                        - 24/01/2023)Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "Recombinant human heparan-N-sulfatase(Medicinal product                        - 24/01/2023)",
+        "(Medicinal product                        - 24/01/2023)",
+        "Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/165346?name=581&mode=orpha&region=&status=all",
+          "text": "Recombinant human heparan-N-sulfatase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79269",
+          "text": "ORPHA:79269 Sanfilippo syndrome type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/641312?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type A\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Chimeric fusion protein of recombinant human alpha-N-acetylglucosaminidase and human insulin-like growth factor 2",
+      "substance_url": "/en/drug/substance/418092?name=581&mode=orpha&region=&status=all",
+      "substance_id": "418092",
+      "regulatory_url": "/en/drug/regulatory/418093?name=581&mode=orpha&region=",
+      "regulatory_id": "418093",
+      "orpha_substance_code": "ORPHA:79270",
+      "details": [
+        "Chimeric fusion protein of recombinant human alpha-N-acetylglucosaminidase and human insulin-like growth factor 2(Medicinal product                        - 25/11/2014)Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "Chimeric fusion protein of recombinant human alpha-N-acetylglucosaminidase and human insulin-like growth factor 2(Medicinal product                        - 25/11/2014)",
+        "(Medicinal product                        - 25/11/2014)",
+        "Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/418092?name=581&mode=orpha&region=&status=all",
+          "text": "Chimeric fusion protein of recombinant human alpha-N-acetylglucosaminidase and human insulin-like growth factor 2",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79270",
+          "text": "ORPHA:79270 Sanfilippo syndrome type B",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/418093?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type B\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant AAV9 expressing human alpha-N-acetylglucosaminidase",
+      "substance_url": "/en/drug/substance/404220?name=581&mode=orpha&region=&status=all",
+      "substance_id": "404220",
+      "regulatory_url": "/en/drug/regulatory/404221?name=581&mode=orpha&region=",
+      "regulatory_id": "404221",
+      "orpha_substance_code": "ORPHA:79270",
+      "details": [
+        "Recombinant AAV9 expressing human alpha-N-acetylglucosaminidase(Medicinal product                        - 30/04/2014)Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "Recombinant AAV9 expressing human alpha-N-acetylglucosaminidase(Medicinal product                        - 30/04/2014)",
+        "(Medicinal product                        - 30/04/2014)",
+        "Disease(s) concernedORPHA:79270 Sanfilippo syndrome type B",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/404220?name=581&mode=orpha&region=&status=all",
+          "text": "Recombinant AAV9 expressing human alpha-N-acetylglucosaminidase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79270",
+          "text": "ORPHA:79270 Sanfilippo syndrome type B",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/404221?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type B\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant AAV9 expressing human sulfoglucosamine sulfohydrolase",
+      "substance_url": "/en/drug/substance/404267?name=581&mode=orpha&region=&status=all",
+      "substance_id": "404267",
+      "regulatory_url": "/en/drug/regulatory/405616?name=581&mode=orpha&region=",
+      "regulatory_id": "405616",
+      "orpha_substance_code": "ORPHA:79269",
+      "details": [
+        "Recombinant AAV9 expressing human sulfoglucosamine sulfohydrolase(Medicinal product                        - 29/04/2014)Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "Recombinant AAV9 expressing human sulfoglucosamine sulfohydrolase(Medicinal product                        - 29/04/2014)",
+        "(Medicinal product                        - 29/04/2014)",
+        "Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/404267?name=581&mode=orpha&region=&status=all",
+          "text": "Recombinant AAV9 expressing human sulfoglucosamine sulfohydrolase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79269",
+          "text": "ORPHA:79269 Sanfilippo syndrome type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/405616?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type A\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adenovirus-associated viral vector serotype 10 carrying the human N-sulfoglucosamine sulfohydrolase and sulfatase modifying factor 1 cDNAs",
+      "substance_url": "/en/drug/substance/230772?name=581&mode=orpha&region=&status=all",
+      "substance_id": "230772",
+      "regulatory_url": "/en/drug/regulatory/357683?name=581&mode=orpha&region=",
+      "regulatory_id": "357683",
+      "orpha_substance_code": "ORPHA:79269",
+      "details": [
+        "Adenovirus-associated viral vector serotype 10 carrying the human N-sulfoglucosamine sulfohydrolase and sulfatase modifying factor 1 cDNAs(Medicinal product                        - 05/06/2013)Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "Adenovirus-associated viral vector serotype 10 carrying the human N-sulfoglucosamine sulfohydrolase and sulfatase modifying factor 1 cDNAs(Medicinal product                        - 05/06/2013)",
+        "(Medicinal product                        - 05/06/2013)",
+        "Disease(s) concernedORPHA:79269 Sanfilippo syndrome type A",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/230772?name=581&mode=orpha&region=&status=all",
+          "text": "Adenovirus-associated viral vector serotype 10 carrying the human N-sulfoglucosamine sulfohydrolase and sulfatase modifying factor 1 cDNAs",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79269",
+          "text": "ORPHA:79269 Sanfilippo syndrome type A",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/357683?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type A\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "PLERIXAFOR ACCORD",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/642317?name=581&mode=orpha&region=",
+      "regulatory_id": "642317",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "PLERIXAFOR ACCORD(Tradename                        - 16/12/2022)Disease(s) concernedORPHA:29073 Multiple myelomaORPHA:223735 LymphomaORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "PLERIXAFOR ACCORD(Tradename                        - 16/12/2022)",
+        "(Tradename                        - 16/12/2022)",
+        "Disease(s) concernedORPHA:29073 Multiple myelomaORPHA:223735 LymphomaORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/642316?name=581&mode=orpha&region=&status=all",
+          "text": "PLERIXAFOR ACCORD",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/29073",
+          "text": "ORPHA:29073 Multiple myeloma",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/223735",
+          "text": "ORPHA:223735 Lymphoma",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/642317?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Thiotepa Riemser",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/610636?name=581&mode=orpha&region=",
+      "regulatory_id": "610636",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Thiotepa Riemser(Tradename                        - 26/03/2021)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Thiotepa Riemser(Tradename                        - 26/03/2021)",
+        "(Tradename                        - 26/03/2021)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/610616?name=581&mode=orpha&region=&status=all",
+          "text": "Thiotepa Riemser",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/610636?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "motixafortide",
+      "substance_url": "/en/drug/substance/588874?name=581&mode=orpha&region=&status=all",
+      "substance_id": "588874",
+      "regulatory_url": "/en/drug/regulatory/661036?name=581&mode=orpha&region=",
+      "regulatory_id": "661036",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "motixafortide(Medicinal product                        - 12/01/2024)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "motixafortide(Medicinal product                        - 12/01/2024)",
+        "(Medicinal product                        - 12/01/2024)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/588874?name=581&mode=orpha&region=&status=all",
+          "text": "motixafortide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/661036?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate",
+      "substance_url": "/en/drug/substance/589233?name=581&mode=orpha&region=&status=all",
+      "substance_id": "589233",
+      "regulatory_url": "/en/drug/regulatory/589234?name=581&mode=orpha&region=",
+      "regulatory_id": "589234",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate(Medicinal product                        - 20/04/2020)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate(Medicinal product                        - 20/04/2020)",
+        "(Medicinal product                        - 20/04/2020)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/589233?name=581&mode=orpha&region=&status=all",
+          "text": "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/589234?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus",
+      "substance_url": "/en/drug/substance/589056?name=581&mode=orpha&region=&status=all",
+      "substance_id": "589056",
+      "regulatory_url": "/en/drug/regulatory/589057?name=581&mode=orpha&region=",
+      "regulatory_id": "589057",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus(Medicinal product                        - 24/03/2020)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus(Medicinal product                        - 24/03/2020)",
+        "(Medicinal product                        - 24/03/2020)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/589056?name=581&mode=orpha&region=&status=all",
+          "text": "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/589057?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=581&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=581&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Burixafor(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Burixafor(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689505?name=581&mode=orpha&region=&status=all",
+          "text": "Burixafor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689915?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Besilesomab",
+      "substance_url": "/en/drug/substance/571152?name=581&mode=orpha&region=&status=all",
+      "substance_id": "571152",
+      "regulatory_url": "/en/drug/regulatory/641081?name=581&mode=orpha&region=",
+      "regulatory_id": "641081",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Besilesomab(Medicinal product                        - 28/03/2022)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Besilesomab(Medicinal product                        - 28/03/2022)",
+        "(Medicinal product                        - 28/03/2022)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/571152?name=581&mode=orpha&region=&status=all",
+          "text": "Besilesomab",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/641081?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Besilesomab",
+      "substance_url": "/en/drug/substance/571152?name=581&mode=orpha&region=&status=all",
+      "substance_id": "571152",
+      "regulatory_url": "/en/drug/regulatory/641075?name=581&mode=orpha&region=",
+      "regulatory_id": "641075",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Besilesomab(Medicinal product                        - 28/03/2022)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Besilesomab(Medicinal product                        - 28/03/2022)",
+        "(Medicinal product                        - 28/03/2022)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/571152?name=581&mode=orpha&region=&status=all",
+          "text": "Besilesomab",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/641075?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=581&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=581&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Treosulfan(Medicinal product                        - 08/04/2015)Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Treosulfan(Medicinal product                        - 08/04/2015)",
+        "(Medicinal product                        - 08/04/2015)",
+        "Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90799?name=581&mode=orpha&region=&status=all",
+          "text": "Treosulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/213500",
+          "text": "ORPHA:213500 Rare ovarian cancer",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136690?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=581&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=581&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "busulfan(Medicinal product                        - 21/04/1994)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "busulfan(Medicinal product                        - 21/04/1994)",
+        "(Medicinal product                        - 21/04/1994)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/46335?name=581&mode=orpha&region=&status=all",
+          "text": "busulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131973?name=581&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T05:55:40.397885",
+  "run_number": 1,
+  "total_drugs_found": 38,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Mucopolysaccharidosis+type+3&orphaCode=581&name=581&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Mucopolysaccharidosis type 3",
+    "orphaCode": "581",
+    "name": "581",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

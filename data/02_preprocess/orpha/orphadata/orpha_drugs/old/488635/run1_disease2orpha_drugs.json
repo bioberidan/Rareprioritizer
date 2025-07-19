@@ -1,0 +1,17 @@
+{
+  "disease_name": "Early-onset epilepsy-intellectual disability-brain anomalies syndrome",
+  "orpha_code": "488635",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:35:16.228819",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Early-onset+epilepsy-intellectual+disability-brain+anomalies+syndrome&orphaCode=488635&name=488635&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Early-onset epilepsy-intellectual disability-brain anomalies syndrome",
+    "orphaCode": "488635",
+    "name": "488635",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

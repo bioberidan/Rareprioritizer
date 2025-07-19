@@ -1,0 +1,38 @@
+{
+  "orphacode": "2209",
+  "disease_name": "Maternal phenylketonuria",
+  "socioeconomic_impact_studies": [
+    {
+      "cost": 4239,
+      "measure": "mean healthcare cost per patient per year",
+      "label": "Admissions and Cost of Hospitalisation of Phenylketonuria: Spanish Claims Database Analysis",
+      "source": "https://doi.org/10.1007/s40261-019-00760-1",
+      "country": "Spain",
+      "year": "2019"
+    },
+    {
+      "cost": 667,
+      "measure": "annual direct medical cost per patient",
+      "label": "Characteristics, comorbidities, and use of healthcare resources of patients with phenylketonuria: a population-based study",
+      "source": "https://doi.org/10.1080/13696998.2019.1636381",
+      "country": "Spain",
+      "year": "2019"
+    },
+    {
+      "cost": 11144,
+      "measure": "mean healthcare cost per patient per year",
+      "label": "Health economic impact of patients with phenylketonuria (PKU) in France – A nationwide study of health insurance claims data",
+      "source": "https://doi.org/10.1016/j.ymgmr.2024.101134",
+      "country": "France",
+      "year": "2024"
+    }
+  ],
+  "score": 10,
+  "evidence_level": "High evidence",
+  "justification": "A peer-reviewed Spanish cost-of-illness study reported mean annual healthcare costs of €4239 per patient (2019), supported by regional Catalonia data (€667/year) and a nationwide French analysis (€11,144/year), providing robust Spain-specific and high-quality evidence.",
+  "metadata": {
+    "processing_timestamp": "2025-07-18T19:10:13.337940",
+    "run_number": 1,
+    "orphacode": "2209"
+  }
+}

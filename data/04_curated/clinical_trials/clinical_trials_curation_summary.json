@@ -1,0 +1,11 @@
+{
+  "curation_metadata": {
+    "total_diseases_with_trials": 73,
+    "diseases_with_eu_trials": 73,
+    "diseases_with_spanish_trials": 73,
+    "total_unique_trials": 317,
+    "eu_coverage_percentage": 100.0,
+    "spanish_coverage_percentage": 100.0,
+    "processing_timestamp": "2025-07-15T05:18:11.677615"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "disease_name": "Maple syrup urine disease",
+  "orpha_code": "511",
+  "drugs": [
+    {
+      "name": "Sodium phenylbutyrate",
+      "substance_url": "/en/drug/substance/25062?name=511&mode=orpha&region=&status=all",
+      "substance_id": "25062",
+      "regulatory_url": "/en/drug/regulatory/629590?name=511&mode=orpha&region=",
+      "regulatory_id": "629590",
+      "orpha_substance_code": "ORPHA:511",
+      "details": [
+        "Sodium phenylbutyrate(Medicinal product                        - 18/07/2022)Disease(s) concernedORPHA:511 Maple syrup urine disease",
+        "Sodium phenylbutyrate(Medicinal product                        - 18/07/2022)",
+        "(Medicinal product                        - 18/07/2022)",
+        "Disease(s) concernedORPHA:511 Maple syrup urine disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/25062?name=511&mode=orpha&region=&status=all",
+          "text": "Sodium phenylbutyrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/511",
+          "text": "ORPHA:511 Maple syrup urine disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/629590?name=511&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Glycine, L-alanine, L-arginine, L-aspartic acid, L -cysteine, L-cystine, L- glutamic acid, L-histidine, L-lysine monohydrate, L -methionine, L- phenylalanine, L-proline, L-serine, L-threonine, L-tryptophan, L-tyrosine, taurine",
+      "substance_url": "/en/drug/substance/531812?name=511&mode=orpha&region=&status=all",
+      "substance_id": "531812",
+      "regulatory_url": "/en/drug/regulatory/531813?name=511&mode=orpha&region=",
+      "regulatory_id": "531813",
+      "orpha_substance_code": "ORPHA:511",
+      "details": [
+        "Glycine, L-alanine, L-arginine, L-aspartic acid, L -cysteine, L-cystine, L- glutamic acid, L-histidine, L-lysine monohydrate, L -methionine, L- phenylalanine, L-proline, L-serine, L-threonine, L-tryptophan, L-tyrosine, taurine(Medicinal product                        - 26/10/2018)Disease(s) concernedORPHA:511 Maple syrup urine disease",
+        "Glycine, L-alanine, L-arginine, L-aspartic acid, L -cysteine, L-cystine, L- glutamic acid, L-histidine, L-lysine monohydrate, L -methionine, L- phenylalanine, L-proline, L-serine, L-threonine, L-tryptophan, L-tyrosine, taurine(Medicinal product                        - 26/10/2018)",
+        "(Medicinal product                        - 26/10/2018)",
+        "Disease(s) concernedORPHA:511 Maple syrup urine disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/531812?name=511&mode=orpha&region=&status=all",
+          "text": "Glycine, L-alanine, L-arginine, L-aspartic acid, L -cysteine, L-cystine, L- glutamic acid, L-histidine, L-lysine monohydrate, L -methionine, L- phenylalanine, L-proline, L-serine, L-threonine, L-tryptophan, L-tyrosine, taurine",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/511",
+          "text": "ORPHA:511 Maple syrup urine disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/531813?name=511&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant AAV9 vector expressing functional, codon-optimized, human BCKDHA and BCKDHB genes which encode for catalytic E1alpha and E1beta subunits, respectively, of the BCKDH holoenzyme",
+      "substance_url": "/en/drug/substance/704655?name=511&mode=orpha&region=&status=all",
+      "substance_id": "704655",
+      "regulatory_url": "/en/drug/regulatory/704791?name=511&mode=orpha&region=",
+      "regulatory_id": "704791",
+      "orpha_substance_code": "ORPHA:511",
+      "details": [
+        "Recombinant AAV9 vector expressing functional, codon-optimized, human BCKDHA and BCKDHB genes which encode for catalytic E1alpha and E1beta subunits, respectively, of the BCKDH holoenzyme(Medicinal product                        - 15/05/2025)Disease(s) concernedORPHA:511 Maple syrup urine disease",
+        "Recombinant AAV9 vector expressing functional, codon-optimized, human BCKDHA and BCKDHB genes which encode for catalytic E1alpha and E1beta subunits, respectively, of the BCKDH holoenzyme(Medicinal product                        - 15/05/2025)",
+        "(Medicinal product                        - 15/05/2025)",
+        "Disease(s) concernedORPHA:511 Maple syrup urine disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/704655?name=511&mode=orpha&region=&status=all",
+          "text": "Recombinant AAV9 vector expressing functional, codon-optimized, human BCKDHA and BCKDHB genes which encode for catalytic E1alpha and E1beta subunits, respectively, of the BCKDH holoenzyme",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/511",
+          "text": "ORPHA:511 Maple syrup urine disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/704791?name=511&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Modified version of a leucine decarboxylase enzyme from Planctomycetaceae bacterium",
+      "substance_url": "/en/drug/substance/638953?name=511&mode=orpha&region=&status=all",
+      "substance_id": "638953",
+      "regulatory_url": "/en/drug/regulatory/638957?name=511&mode=orpha&region=",
+      "regulatory_id": "638957",
+      "orpha_substance_code": "ORPHA:511",
+      "details": [
+        "Modified version of a leucine decarboxylase enzyme from Planctomycetaceae bacterium(Medicinal product                        - 20/12/2022)Disease(s) concernedORPHA:511 Maple syrup urine disease",
+        "Modified version of a leucine decarboxylase enzyme from Planctomycetaceae bacterium(Medicinal product                        - 20/12/2022)",
+        "(Medicinal product                        - 20/12/2022)",
+        "Disease(s) concernedORPHA:511 Maple syrup urine disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/638953?name=511&mode=orpha&region=&status=all",
+          "text": "Modified version of a leucine decarboxylase enzyme from Planctomycetaceae bacterium",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/511",
+          "text": "ORPHA:511 Maple syrup urine disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/638957?name=511&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Sodium phenylbutyrate",
+      "substance_url": "/en/drug/substance/25062?name=511&mode=orpha&region=&status=all",
+      "substance_id": "25062",
+      "regulatory_url": "/en/drug/regulatory/413227?name=511&mode=orpha&region=",
+      "regulatory_id": "413227",
+      "orpha_substance_code": "ORPHA:511",
+      "details": [
+        "Sodium phenylbutyrate(Medicinal product                        - 19/08/2014)Disease(s) concernedORPHA:511 Maple syrup urine disease",
+        "Sodium phenylbutyrate(Medicinal product                        - 19/08/2014)",
+        "(Medicinal product                        - 19/08/2014)",
+        "Disease(s) concernedORPHA:511 Maple syrup urine disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/25062?name=511&mode=orpha&region=&status=all",
+          "text": "Sodium phenylbutyrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/511",
+          "text": "ORPHA:511 Maple syrup urine disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/413227?name=511&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:00:56.548597",
+  "run_number": 1,
+  "total_drugs_found": 5,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Maple+syrup+urine+disease&orphaCode=511&name=511&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Maple syrup urine disease",
+    "orphaCode": "511",
+    "name": "511",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

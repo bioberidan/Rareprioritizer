@@ -1,0 +1,30 @@
+{
+  "orphacode": "272",
+  "disease_name": "Congenital muscular dystrophy, Fukuyama type",
+  "socioeconomic_impact_studies": [
+    {
+      "cost": 0,
+      "measure": "",
+      "label": "Congenital Muscular Dystrophies and Congenital Myopathies",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/24305446/",
+      "country": "USA",
+      "year": "2013"
+    },
+    {
+      "cost": 0,
+      "measure": "",
+      "label": "Distrofia muscular congénita tipo Fukuyama",
+      "source": "https://www.orpha.net/es/disease/detail/272",
+      "country": "International",
+      "year": "2023"
+    }
+  ],
+  "score": 3,
+  "evidence_level": "Low evidence",
+  "justification": "No cost-of-illness or quantitative economic data specific to FCMD were identified. Clinical reviews and Orphanet entries document severe disability, epilepsy, and high care needs, indicating substantial qualitative burden. citeturn3view0turn1search0",
+  "metadata": {
+    "processing_timestamp": "2025-07-18T19:22:18.215553",
+    "run_number": 1,
+    "orphacode": "272"
+  }
+}

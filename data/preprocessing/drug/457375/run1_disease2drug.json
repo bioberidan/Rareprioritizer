@@ -1,0 +1,17 @@
+{
+  "disease_name": "ITPA-related lethal infantile neurological disorder with cataract and cardiac involvement",
+  "orpha_code": "457375",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:22:04.035041",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=ITPA-related+lethal+infantile+neurological+disorder+with+cataract+and+cardiac+involvement&orphaCode=457375&name=457375&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "ITPA-related lethal infantile neurological disorder with cataract and cardiac involvement",
+    "orphaCode": "457375",
+    "name": "457375",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

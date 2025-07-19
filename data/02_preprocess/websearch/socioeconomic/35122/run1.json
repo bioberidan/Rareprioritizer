@@ -1,0 +1,46 @@
+{
+  "orphacode": "35122",
+  "disease_name": "Congenital sucrase-isomaltase deficiency",
+  "socioeconomic_impact_studies": [
+    {
+      "cost": 0,
+      "measure": "Out-of-pocket medical and dietary expenses",
+      "label": "Financial Concerns for Patients with CSID - CSID Cares",
+      "source": "https://www.csidcares.org/life-with-csid/financial-concerns/",
+      "country": "US",
+      "year": ""
+    },
+    {
+      "cost": 0,
+      "measure": "Copay and deductible savings program",
+      "label": "SucraidASSIST™ Patient Assistance Program - Sucraid",
+      "source": "https://www.sucraid.com/patient-support/financial-assistance/",
+      "country": "US",
+      "year": ""
+    },
+    {
+      "cost": 0,
+      "measure": "Cost of sacrosidase enzyme treatment",
+      "label": "Congenital Sucrase Isomaltase Deficiency | gutsandgrowth",
+      "source": "https://gutsandgrowth.com/2012/12/05/congenital-sucrase-isomaltase-deficiency/",
+      "country": "US",
+      "year": "2012"
+    },
+    {
+      "cost": 0,
+      "measure": "Qualitative impacts on daily activities and productivity",
+      "label": "The patient journey to diagnosis and treatment of congenital sucrase-isomaltase deficiency",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8298246/",
+      "country": "US",
+      "year": "2021"
+    }
+  ],
+  "score": 3,
+  "evidence_level": "Low evidence",
+  "justification": "Only qualitative descriptions of burden from patient journey reports citeturn0search3 and program information on financial concerns and assistance citeturn0search0turn0search1 were identified, with no peer-reviewed cost-of-illness studies specific to CSID.",
+  "metadata": {
+    "processing_timestamp": "2025-07-18T19:14:09.081655",
+    "run_number": 1,
+    "orphacode": "35122"
+  }
+}

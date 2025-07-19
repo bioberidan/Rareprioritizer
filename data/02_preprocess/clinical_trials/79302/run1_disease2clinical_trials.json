@@ -1,0 +1,611 @@
+{
+  "disease_name": "Congenital bile acid synthesis defect type 3",
+  "orpha_code": "79302",
+  "trials": [
+    {
+      "nctId": "NCT04526665",
+      "briefTitle": "Study of Elafibranor in Patients With Primary Biliary Cholangitis (PBC)",
+      "officialTitle": "A Double-blind, Randomized, Placebo-Controlled Study and Open-label Long Term Extension to Evaluate the Efficacy and Safety of Elafibranor 80 mg in Patients With Primary Biliary Cholangitis With Inadequate Response or Intolerance to Ursodeoxycholic Acid",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Primary Biliary Cirrhosis"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Elafibranor 80mg"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "enrollment": 161,
+      "locations": [
+        {
+          "facility": "The Institute for Liver Health",
+          "city": "Chandler",
+          "country": "United States"
+        },
+        {
+          "facility": "Keck Medical Center of USC",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "Ruane Clinical Research Group Inc.",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "Cedars-Sinai Medical Center",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "University of California, Davis Medical Center",
+          "city": "Sacramento",
+          "country": "United States"
+        },
+        {
+          "facility": "California Pacific Medical Center - Sutter Pacific Medical Foundation",
+          "city": "San Francisco",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Colorado Denver and Hospital",
+          "city": "Aurora",
+          "country": "United States"
+        },
+        {
+          "facility": "South Denver Gastroenterology, P.C.",
+          "city": "Englewood",
+          "country": "United States"
+        },
+        {
+          "facility": "Yale School of Medicine, Digestive Diseases",
+          "city": "New Haven",
+          "country": "United States"
+        },
+        {
+          "facility": "Encore Borland-Groover Clinical Research",
+          "city": "Jacksonville",
+          "country": "United States"
+        },
+        {
+          "facility": "Schiff Center for Liver Diseases/University of Miami",
+          "city": "Miami",
+          "country": "United States"
+        },
+        {
+          "facility": "Digestive Healthcare of Georgia",
+          "city": "Atlanta",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Kansas Medical Center",
+          "city": "Kansas City",
+          "country": "United States"
+        },
+        {
+          "facility": "Massachusetts General Hospital",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "Beth Israel Deaconess Medical Center (BIDMC)",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "Henry Ford Health System",
+          "city": "Novi",
+          "country": "United States"
+        },
+        {
+          "facility": "Saint Louis University",
+          "city": "Saint Louis",
+          "country": "United States"
+        },
+        {
+          "facility": "UPMC Center for Liver Diseases",
+          "city": "New Hyde Park",
+          "country": "United States"
+        },
+        {
+          "facility": "NYU Langone Health / NYU Grossman School of Medicine",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Columbia University Medical Center - Center for Liver Disease and Transplantation",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "The New York-Presbyterian Hospital, David H. Koch Center",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Duke University Medical Center",
+          "city": "Durham",
+          "country": "United States"
+        },
+        {
+          "facility": "Carolinas Centre for Liver disease/ Atrium Health",
+          "city": "Huntersville",
+          "country": "United States"
+        },
+        {
+          "facility": "Consultants for Clinical Research",
+          "city": "Cincinnati",
+          "country": "United States"
+        },
+        {
+          "facility": "University Hospitals Cleveland Medical Center",
+          "city": "Cleveland",
+          "country": "United States"
+        },
+        {
+          "facility": "The Ohio State University Wexner Medical Center",
+          "city": "Columbus",
+          "country": "United States"
+        },
+        {
+          "facility": "Investigational Drug Service Pharmacy Penn State Milton S. Hershey Medical Center",
+          "city": "Hershey",
+          "country": "United States"
+        },
+        {
+          "facility": "Thomas Jefferson University",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Medical University of South Carolina- College of Medicine",
+          "city": "Charleston",
+          "country": "United States"
+        },
+        {
+          "facility": "Vanderbilt Digestive Disease Center",
+          "city": "Nashville",
+          "country": "United States"
+        },
+        {
+          "facility": "Texas Clinical Research Institute, LLC",
+          "city": "Arlington",
+          "country": "United States"
+        },
+        {
+          "facility": "The Liver Institute at Methodist Dallas Medical Center",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "Liver Center of Texas, PLLC",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "The University of Texas Southwestern Medical Center-IDS Aston Pharmacy",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "Texas Digestive Disease Consultants dba GI Alliance",
+          "city": "Fort Worth",
+          "country": "United States"
+        },
+        {
+          "facility": "Liver Associates of Texas, P.A.",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "St. Luke's Health-Baylor St Luke's Medical center - Advanced Liver Therapies Research",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "American Research Corporation",
+          "city": "San Antonio",
+          "country": "United States"
+        },
+        {
+          "facility": "Gastro health & Nutrition-Victoria",
+          "city": "Victoria",
+          "country": "United States"
+        },
+        {
+          "facility": "Intermountain Medical Center - Transplant Services",
+          "city": "Murray",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Utah Hospital-Division of Gastroenterology, Hepatology, and Nutrition",
+          "city": "Salt Lake City",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Virginia Medical Center",
+          "city": "Charlottesville",
+          "country": "United States"
+        },
+        {
+          "facility": "Maryview Hospital Inc, Bon Secours Liver Institute of Hampton Roads",
+          "city": "Newport News",
+          "country": "United States"
+        },
+        {
+          "facility": "Richmond Community Hospital LLC, Bon Secours Liver Institute of Richmond",
+          "city": "Richmond",
+          "country": "United States"
+        },
+        {
+          "facility": "Virginia Commonwealth University Clinical Research Services Unit (CRSU)",
+          "city": "Richmond",
+          "country": "United States"
+        },
+        {
+          "facility": "Liver Institute Northwest",
+          "city": "Seattle",
+          "country": "United States"
+        },
+        {
+          "facility": "Hospital Italiano de Buenos Aires",
+          "city": "Caba",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Hospital Alemán",
+          "city": "Caba",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Hospital Británico de Buenos Aires",
+          "city": "Caba",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Hospital Espanol De Mendoza",
+          "city": "Godoy Cruz",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Hospital Italiano de La Plata",
+          "city": "La Plata",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Hospital Provincial del Centenario",
+          "city": "Rosario",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Hôpital Erasme",
+          "city": "Brussels",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Antwerp University Hospital",
+          "city": "Edegem",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Universitair Ziekenhuis Gent",
+          "city": "Gent",
+          "country": "Belgium"
+        },
+        {
+          "facility": "University Hospital Leuven",
+          "city": "Leuven",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Hospital de Clínicas de Porto Alegre",
+          "city": "Porto Alegre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Hospital das Clinicas da Faculdade de Medicina da Universidade de Sao Paulo-HCFMUSP",
+          "city": "São Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "University of Calgary Liver Unit - Heritage Medical Research Clinic (HMRC)",
+          "city": "Calgary",
+          "country": "Canada"
+        },
+        {
+          "facility": "Gordon and Leslie Diamond Health Care Centre, Division of Gastroenterology",
+          "city": "Vancouver",
+          "country": "Canada"
+        },
+        {
+          "facility": "Shared Health Inc.-Operating as Health Sciences Centre-John Buhler Research Centre",
+          "city": "Winnipeg",
+          "country": "Canada"
+        },
+        {
+          "facility": "Centre de Recherche du Centre Hospitalier de l'Université de Montreal (CRCHUM)",
+          "city": "Montréal",
+          "country": "Canada"
+        },
+        {
+          "facility": "Hospital de La Serena",
+          "city": "La Serena",
+          "country": "Chile"
+        },
+        {
+          "facility": "Centro de Investigaciones Clinicas (CIC)",
+          "city": "Viña Del Mar",
+          "country": "Chile"
+        },
+        {
+          "facility": "Clínica Universidad de los Andes",
+          "city": "Santiago",
+          "country": "Chile"
+        },
+        {
+          "facility": "Hospital Clínico Universidad de Chile",
+          "city": "Santiago",
+          "country": "Chile"
+        },
+        {
+          "facility": "Centro de Investigacion Clinica Universidad Catolica CICUC",
+          "city": "Santiago",
+          "country": "Chile"
+        },
+        {
+          "facility": "CHU Amiens Picardie",
+          "city": "Amiens",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Henri Mondor",
+          "city": "Créteil",
+          "country": "France"
+        },
+        {
+          "facility": "CHU Grenoble Alpes - Hôpital Albert Michallon",
+          "city": "Grenoble",
+          "country": "France"
+        },
+        {
+          "facility": "Centre Hospitalier Régional d'Orléans",
+          "city": "Orléans",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Saint-Antoine",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Cochin",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Pitié-Salpétrière",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Haut Lévêque",
+          "city": "Pessac",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Robert Debré - CHU de Reims",
+          "city": "Reims",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpitaux Universitaires de Strasbourg - Hôpital de Hautepierre",
+          "city": "Strasbourg",
+          "country": "France"
+        },
+        {
+          "facility": "Gastro - Sudien",
+          "city": "Berlin",
+          "country": "Germany"
+        },
+        {
+          "facility": "Charite - Universitätsmedizin Berlin- CVK - Medizinische Klinik",
+          "city": "Berlin",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitätsklinikum Frankfurt",
+          "city": "Frankfurt",
+          "country": "Germany"
+        },
+        {
+          "facility": "Medizinische Hochschule Hannover",
+          "city": "Hannover",
+          "country": "Germany"
+        },
+        {
+          "facility": "Center for Gastroenterology and Hepatology (GHZ) Kiel",
+          "city": "Kiel",
+          "country": "Germany"
+        },
+        {
+          "facility": "EUGASTRO GmbH",
+          "city": "Leipzig",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitätsmedizin der Johannes Gutenberg-Universität Mainz",
+          "city": "Mainz",
+          "country": "Germany"
+        },
+        {
+          "facility": "Ospedale Civile di Baggiovara-Struttura Complessa di Medicina ad indririzzo Metabolico Nutrizionale",
+          "city": "Modena",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliero-Universitaria di Bologna Policlinico S. Orsola-Malpighi",
+          "city": "Bologna",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera San Paolo, Dipartimento di Scienza della Salute, UO Medicina VI e Pathologia e Gastroenterologia",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "ASST Monza - Ospedale San Gerardo, Gastroenterologia",
+          "city": "Monza",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedale- Università degli Studi di Padova UOC Gastroenterologia",
+          "city": "Padova",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera Universitaria Policlinico P. Giaccone, UOC di Gastroenterologia-Dip.Medicina Interna e Specialistica",
+          "city": "Palermo",
+          "country": "Italy"
+        },
+        {
+          "facility": "Tiervlei Trial Centre",
+          "city": "Cape Town",
+          "country": "South Africa"
+        },
+        {
+          "facility": "Groote Schuur Hospital, University of Cape Town - Clinical Research Centre",
+          "city": "Cape Town",
+          "country": "South Africa"
+        },
+        {
+          "facility": "Mediclinic Constantiaberg, North Suites",
+          "city": "Cape Town",
+          "country": "South Africa"
+        },
+        {
+          "facility": "Hospital Universitario Vall d'Hebron",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Clinic de Barcelona",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital General Universitario Gregorio Marañón",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario La Paz",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Puerta de Hierro -Madrid",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complexo Hospitalario Universitario de Pontevedra",
+          "city": "Pontevedra",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Donostia",
+          "city": "San Sebastián",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Marqués de Valdecilla",
+          "city": "Santander",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen del Rocio",
+          "city": "Sevilla",
+          "country": "Spain"
+        },
+        {
+          "facility": "Inselspital, Universitätsspital Bern Universitätsklinik für Viszerale chirurgie und Medizin Hepatologie",
+          "city": "Bern",
+          "country": "Switzerland"
+        },
+        {
+          "facility": "Fondazione Epatocentro Ticino",
+          "city": "Lugano",
+          "country": "Switzerland"
+        },
+        {
+          "facility": "Ege Universitesi Tip Fakultesi Hastanesi",
+          "city": "İzmir",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Marmara Universitesi Pendik Egitim ve Arastirma Hastanesi, Gastroentoloji Bilim Dali",
+          "city": "Istanbul",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Hacette Universitesi Hastenesi IC, Hastaliklari Anabilim Dali, Gastronenteroloji Bilim Dali, Mithapasa Cad. Hacettepe Mah.",
+          "city": "Ankara",
+          "country": "Turkey"
+        },
+        {
+          "facility": "The Newcastle upon Tyne Hospitals NHS Foundation Trust-Freeman Hospital",
+          "city": "Newcastle-upon-Tyne",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Belfast Health and Social Care Trust-Royal Victoria Hospital",
+          "city": "Belfast",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Frimley Health NHS Foundation Trust - Frimley Park Hospital",
+          "city": "Camberley",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Cambridge University Hospitals NHS Foundation Trust - Addenbrookes Hospital",
+          "city": "Cambridge",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Hull University Teaching Hospitals NHS Trust , Hull Royal Infirmary",
+          "city": "Hull",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "King's College Hospital. King's College NHS Foundation Trust",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Nottingham University Hospitals NHS Trust - Queen's Medical Centre (QMC)",
+          "city": "Nottingham",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Plymouth Hospitals NHS Trust, Derriford Hospital",
+          "city": "Plymouth",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-06-22"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:15:08.503067",
+  "run_number": 1,
+  "total_trials_found": 1
+}

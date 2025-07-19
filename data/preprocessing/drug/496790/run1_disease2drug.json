@@ -1,0 +1,54 @@
+{
+  "disease_name": "Ocular anomalies-axonal neuropathy-developmental delay syndrome",
+  "orpha_code": "496790",
+  "drugs": [
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=496790&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=496790&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=496790&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=496790&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=496790&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=496790&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:21:30.618340",
+  "run_number": 1,
+  "total_drugs_found": 3,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Ocular+anomalies-axonal+neuropathy-developmental+delay+syndrome&orphaCode=496790&name=496790&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Ocular anomalies-axonal neuropathy-developmental delay syndrome",
+    "orphaCode": "496790",
+    "name": "496790",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

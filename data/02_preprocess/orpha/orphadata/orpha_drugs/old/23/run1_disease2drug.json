@@ -1,0 +1,696 @@
+{
+  "disease_name": "Argininosuccinic aciduria",
+  "orpha_code": "23",
+  "drugs": [
+    {
+      "name": "RAVICTI",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/445606?name=23&mode=orpha&region=",
+      "regulatory_id": "445606",
+      "orpha_substance_code": "ORPHA:247525",
+      "details": [
+        "RAVICTI(Tradename                        - 27/11/2015)Disease(s) concernedORPHA:664 Ornithine transcarbamylase deficiencyORPHA:90 ArgininemiaORPHA:23 Argininosuccinic aciduriaORPHA:147 Carbamoyl-phosphate synthetase 1 deficiencyORPHA:415 Hyperornithinemia-hyperammonemia-homocitrullinuria syndromeORPHA:247525 Citrullinemia type I",
+        "RAVICTI(Tradename                        - 27/11/2015)",
+        "(Tradename                        - 27/11/2015)",
+        "Disease(s) concernedORPHA:664 Ornithine transcarbamylase deficiencyORPHA:90 ArgininemiaORPHA:23 Argininosuccinic aciduriaORPHA:147 Carbamoyl-phosphate synthetase 1 deficiencyORPHA:415 Hyperornithinemia-hyperammonemia-homocitrullinuria syndromeORPHA:247525 Citrullinemia type I",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/445605?name=23&mode=orpha&region=&status=all",
+          "text": "RAVICTI",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/664",
+          "text": "ORPHA:664 Ornithine transcarbamylase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/90",
+          "text": "ORPHA:90 Argininemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/23",
+          "text": "ORPHA:23 Argininosuccinic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/147",
+          "text": "ORPHA:147 Carbamoyl-phosphate synthetase 1 deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/415",
+          "text": "ORPHA:415 Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/247525",
+          "text": "ORPHA:247525 Citrullinemia type I",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/445606?name=23&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "ORPHA:247525 Citrullinemia type I\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Heterologous human adult liver derived stem cells",
+      "substance_url": "/en/drug/substance/102674?name=23&mode=orpha&region=&status=all",
+      "substance_id": "102674",
+      "regulatory_url": "/en/drug/regulatory/628305?name=23&mode=orpha&region=",
+      "regulatory_id": "628305",
+      "orpha_substance_code": "ORPHA:23",
+      "details": [
+        "Heterologous human adult liver derived stem cells(Medicinal product                        - 16/03/2022)Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "Heterologous human adult liver derived stem cells(Medicinal product                        - 16/03/2022)",
+        "(Medicinal product                        - 16/03/2022)",
+        "Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/102674?name=23&mode=orpha&region=&status=all",
+          "text": "Heterologous human adult liver derived stem cells",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/23",
+          "text": "ORPHA:23 Argininosuccinic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/628305?name=23&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "sodium phenylacetate / sodium benzoate",
+      "substance_url": "/en/drug/substance/87861?name=23&mode=orpha&region=&status=all",
+      "substance_id": "87861",
+      "regulatory_url": "/en/drug/regulatory/563460?name=23&mode=orpha&region=",
+      "regulatory_id": "563460",
+      "orpha_substance_code": "ORPHA:23",
+      "details": [
+        "sodium phenylacetate / sodium benzoate(Medicinal product                        - 28/06/2019)Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "sodium phenylacetate / sodium benzoate(Medicinal product                        - 28/06/2019)",
+        "(Medicinal product                        - 28/06/2019)",
+        "Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/87861?name=23&mode=orpha&region=&status=all",
+          "text": "sodium phenylacetate / sodium benzoate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/23",
+          "text": "ORPHA:23 Argininosuccinic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/563460?name=23&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Modified messenger ribonucleic acid encoding human argininosuccinate lyase enzyme encapsulated into lipid nanoparticles",
+      "substance_url": "/en/drug/substance/500711?name=23&mode=orpha&region=&status=all",
+      "substance_id": "500711",
+      "regulatory_url": "/en/drug/regulatory/500713?name=23&mode=orpha&region=",
+      "regulatory_id": "500713",
+      "orpha_substance_code": "ORPHA:23",
+      "details": [
+        "Modified messenger ribonucleic acid encoding human argininosuccinate lyase enzyme encapsulated into lipid nanoparticles(Medicinal product                        - 12/12/2017)Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "Modified messenger ribonucleic acid encoding human argininosuccinate lyase enzyme encapsulated into lipid nanoparticles(Medicinal product                        - 12/12/2017)",
+        "(Medicinal product                        - 12/12/2017)",
+        "Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/500711?name=23&mode=orpha&region=&status=all",
+          "text": "Modified messenger ribonucleic acid encoding human argininosuccinate lyase enzyme encapsulated into lipid nanoparticles",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/23",
+          "text": "ORPHA:23 Argininosuccinic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/500713?name=23&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Sodium benzoate",
+      "substance_url": "/en/drug/substance/83694?name=23&mode=orpha&region=&status=all",
+      "substance_id": "83694",
+      "regulatory_url": "/en/drug/regulatory/480496?name=23&mode=orpha&region=",
+      "regulatory_id": "480496",
+      "orpha_substance_code": "ORPHA:23",
+      "details": [
+        "Sodium benzoate(Medicinal product                        - 18/11/2016)Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "Sodium benzoate(Medicinal product                        - 18/11/2016)",
+        "(Medicinal product                        - 18/11/2016)",
+        "Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/83694?name=23&mode=orpha&region=&status=all",
+          "text": "Sodium benzoate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/23",
+          "text": "ORPHA:23 Argininosuccinic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/480496?name=23&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Sodium benzoate",
+      "substance_url": "/en/drug/substance/83694?name=23&mode=orpha&region=&status=all",
+      "substance_id": "83694",
+      "regulatory_url": "/en/drug/regulatory/449894?name=23&mode=orpha&region=",
+      "regulatory_id": "449894",
+      "orpha_substance_code": "ORPHA:23",
+      "details": [
+        "Sodium benzoate(Medicinal product                        - 11/01/2016)Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "Sodium benzoate(Medicinal product                        - 11/01/2016)",
+        "(Medicinal product                        - 11/01/2016)",
+        "Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/83694?name=23&mode=orpha&region=&status=all",
+          "text": "Sodium benzoate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/23",
+          "text": "ORPHA:23 Argininosuccinic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/449894?name=23&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Heterologous human adult liver-derived progenitor cells",
+      "substance_url": "/en/drug/substance/356372?name=23&mode=orpha&region=&status=all",
+      "substance_id": "356372",
+      "regulatory_url": "/en/drug/regulatory/364067?name=23&mode=orpha&region=",
+      "regulatory_id": "364067",
+      "orpha_substance_code": "ORPHA:23",
+      "details": [
+        "Heterologous human adult liver-derived progenitor cells(Medicinal product                        - 17/07/2013)Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "Heterologous human adult liver-derived progenitor cells(Medicinal product                        - 17/07/2013)",
+        "(Medicinal product                        - 17/07/2013)",
+        "Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/356372?name=23&mode=orpha&region=&status=all",
+          "text": "Heterologous human adult liver-derived progenitor cells",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/23",
+          "text": "ORPHA:23 Argininosuccinic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/364067?name=23&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Human heterologous liver cells (for infusion)",
+      "substance_url": "/en/drug/substance/90800?name=23&mode=orpha&region=&status=all",
+      "substance_id": "90800",
+      "regulatory_url": "/en/drug/regulatory/260279?name=23&mode=orpha&region=",
+      "regulatory_id": "260279",
+      "orpha_substance_code": "ORPHA:23",
+      "details": [
+        "Human heterologous liver cells (for infusion)(Medicinal product                        - 17/12/2010)Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "Human heterologous liver cells (for infusion)(Medicinal product                        - 17/12/2010)",
+        "(Medicinal product                        - 17/12/2010)",
+        "Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90800?name=23&mode=orpha&region=&status=all",
+          "text": "Human heterologous liver cells (for infusion)",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/23",
+          "text": "ORPHA:23 Argininosuccinic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/260279?name=23&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Glycerol phenylbutyrate",
+      "substance_url": "/en/drug/substance/222387?name=23&mode=orpha&region=&status=all",
+      "substance_id": "222387",
+      "regulatory_url": "/en/drug/regulatory/238139?name=23&mode=orpha&region=",
+      "regulatory_id": "238139",
+      "orpha_substance_code": "ORPHA:23",
+      "details": [
+        "Glycerol phenylbutyrate(Medicinal product                        - 10/06/2010)Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "Glycerol phenylbutyrate(Medicinal product                        - 10/06/2010)",
+        "(Medicinal product                        - 10/06/2010)",
+        "Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/222387?name=23&mode=orpha&region=&status=all",
+          "text": "Glycerol phenylbutyrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/23",
+          "text": "ORPHA:23 Argininosuccinic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/238139?name=23&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "PHEBURANE",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/628626?name=23&mode=orpha&region=",
+      "regulatory_id": "628626",
+      "orpha_substance_code": "ORPHA:147",
+      "details": [
+        "PHEBURANE(Tradename                        - 17/06/2022)Disease(s) concernedORPHA:664 Ornithine transcarbamylase deficiencyORPHA:23 Argininosuccinic aciduriaORPHA:147 Carbamoyl-phosphate synthetase 1 deficiency",
+        "PHEBURANE(Tradename                        - 17/06/2022)",
+        "(Tradename                        - 17/06/2022)",
+        "Disease(s) concernedORPHA:664 Ornithine transcarbamylase deficiencyORPHA:23 Argininosuccinic aciduriaORPHA:147 Carbamoyl-phosphate synthetase 1 deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/628534?name=23&mode=orpha&region=&status=all",
+          "text": "PHEBURANE",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/664",
+          "text": "ORPHA:664 Ornithine transcarbamylase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/23",
+          "text": "ORPHA:23 Argininosuccinic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/147",
+          "text": "ORPHA:147 Carbamoyl-phosphate synthetase 1 deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/628626?name=23&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "RAVICTI",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/465104?name=23&mode=orpha&region=",
+      "regulatory_id": "465104",
+      "orpha_substance_code": "ORPHA:247525",
+      "details": [
+        "RAVICTI(Tradename                        - 01/02/2013)Disease(s) concernedORPHA:664 Ornithine transcarbamylase deficiencyORPHA:90 ArgininemiaORPHA:23 Argininosuccinic aciduriaORPHA:147 Carbamoyl-phosphate synthetase 1 deficiencyORPHA:415 Hyperornithinemia-hyperammonemia-homocitrullinuria syndromeORPHA:247525 Citrullinemia type I",
+        "RAVICTI(Tradename                        - 01/02/2013)",
+        "(Tradename                        - 01/02/2013)",
+        "Disease(s) concernedORPHA:664 Ornithine transcarbamylase deficiencyORPHA:90 ArgininemiaORPHA:23 Argininosuccinic aciduriaORPHA:147 Carbamoyl-phosphate synthetase 1 deficiencyORPHA:415 Hyperornithinemia-hyperammonemia-homocitrullinuria syndromeORPHA:247525 Citrullinemia type I",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/445605?name=23&mode=orpha&region=&status=all",
+          "text": "RAVICTI",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/664",
+          "text": "ORPHA:664 Ornithine transcarbamylase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/90",
+          "text": "ORPHA:90 Argininemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/23",
+          "text": "ORPHA:23 Argininosuccinic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/147",
+          "text": "ORPHA:147 Carbamoyl-phosphate synthetase 1 deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/415",
+          "text": "ORPHA:415 Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/247525",
+          "text": "ORPHA:247525 Citrullinemia type I",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/465104?name=23&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "ORPHA:247525 Citrullinemia type I\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "BUPHENYL",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131075?name=23&mode=orpha&region=",
+      "regulatory_id": "131075",
+      "orpha_substance_code": "ORPHA:147",
+      "details": [
+        "BUPHENYL(Tradename                        - 30/04/1996)Disease(s) concernedORPHA:664 Ornithine transcarbamylase deficiencyORPHA:23 Argininosuccinic aciduriaORPHA:147 Carbamoyl-phosphate synthetase 1 deficiency",
+        "BUPHENYL(Tradename                        - 30/04/1996)",
+        "(Tradename                        - 30/04/1996)",
+        "Disease(s) concernedORPHA:664 Ornithine transcarbamylase deficiencyORPHA:23 Argininosuccinic aciduriaORPHA:147 Carbamoyl-phosphate synthetase 1 deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/25061?name=23&mode=orpha&region=&status=all",
+          "text": "BUPHENYL",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/664",
+          "text": "ORPHA:664 Ornithine transcarbamylase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/23",
+          "text": "ORPHA:23 Argininosuccinic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/147",
+          "text": "ORPHA:147 Carbamoyl-phosphate synthetase 1 deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131075?name=23&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Modified messenger ribonucleic acid encoding human argininosuccinate lyase enzyme encapsulated into lipid nanoparticles",
+      "substance_url": "/en/drug/substance/500711?name=23&mode=orpha&region=&status=all",
+      "substance_id": "500711",
+      "regulatory_url": "/en/drug/regulatory/500717?name=23&mode=orpha&region=",
+      "regulatory_id": "500717",
+      "orpha_substance_code": "ORPHA:23",
+      "details": [
+        "Modified messenger ribonucleic acid encoding human argininosuccinate lyase enzyme encapsulated into lipid nanoparticles(Medicinal product                        - 18/09/2017)Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "Modified messenger ribonucleic acid encoding human argininosuccinate lyase enzyme encapsulated into lipid nanoparticles(Medicinal product                        - 18/09/2017)",
+        "(Medicinal product                        - 18/09/2017)",
+        "Disease(s) concernedORPHA:23 Argininosuccinic aciduria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/500711?name=23&mode=orpha&region=&status=all",
+          "text": "Modified messenger ribonucleic acid encoding human argininosuccinate lyase enzyme encapsulated into lipid nanoparticles",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/23",
+          "text": "ORPHA:23 Argininosuccinic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/500717?name=23&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Allogeneic adult liver-derived stem cells",
+      "substance_url": "/en/drug/substance/629851?name=23&mode=orpha&region=&status=all",
+      "substance_id": "629851",
+      "regulatory_url": "/en/drug/regulatory/629852?name=23&mode=orpha&region=",
+      "regulatory_id": "629852",
+      "orpha_substance_code": "ORPHA:79167",
+      "details": [
+        "Allogeneic adult liver-derived stem cells(Medicinal product                        - 10/08/2022)Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "Allogeneic adult liver-derived stem cells(Medicinal product                        - 10/08/2022)",
+        "(Medicinal product                        - 10/08/2022)",
+        "Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/629851?name=23&mode=orpha&region=&status=all",
+          "text": "Allogeneic adult liver-derived stem cells",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79167",
+          "text": "ORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/629852?name=23&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "of urea cycle metabolism and ammonia detoxification\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end",
+      "substance_url": "/en/drug/substance/688360?name=23&mode=orpha&region=&status=all",
+      "substance_id": "688360",
+      "regulatory_url": "/en/drug/regulatory/688517?name=23&mode=orpha&region=",
+      "regulatory_id": "688517",
+      "orpha_substance_code": "ORPHA:79167",
+      "details": [
+        "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end(Medicinal product                        - 11/09/2024)Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end(Medicinal product                        - 11/09/2024)",
+        "(Medicinal product                        - 11/09/2024)",
+        "Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/688360?name=23&mode=orpha&region=&status=all",
+          "text": "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79167",
+          "text": "ORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/688517?name=23&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "of urea cycle metabolism and ammonia detoxification\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Glycerol phenylbutyrate",
+      "substance_url": "/en/drug/substance/222387?name=23&mode=orpha&region=&status=all",
+      "substance_id": "222387",
+      "regulatory_url": "/en/drug/regulatory/238146?name=23&mode=orpha&region=",
+      "regulatory_id": "238146",
+      "orpha_substance_code": "ORPHA:79167",
+      "details": [
+        "Glycerol phenylbutyrate(Medicinal product                        - 27/04/2009)Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "Glycerol phenylbutyrate(Medicinal product                        - 27/04/2009)",
+        "(Medicinal product                        - 27/04/2009)",
+        "Disease(s) concernedORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/222387?name=23&mode=orpha&region=&status=all",
+          "text": "Glycerol phenylbutyrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79167",
+          "text": "ORPHA:79167 Disorder of urea cycle metabolism and ammonia detoxification",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/238146?name=23&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "of urea cycle metabolism and ammonia detoxification\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:00:29.395881",
+  "run_number": 1,
+  "total_drugs_found": 16,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Argininosuccinic+aciduria&orphaCode=23&name=23&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Argininosuccinic aciduria",
+    "orphaCode": "23",
+    "name": "23",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

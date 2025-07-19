@@ -1,0 +1,43 @@
+{
+  "disease_name": "D,L-2-hydroxyglutaric aciduria",
+  "orpha_code": "356978",
+  "processing_timestamp": "2025-07-16T08:13:10.843601",
+  "run_number": 1,
+  "analysis_type": "socioeconomic",
+  "processing_duration": 99.89,
+  "success": true,
+  "error_details": null,
+  "socioeconomic_analysis": {
+    "orphacode": "356978",
+    "disease_name": "D,L-2-hydroxyglutaric aciduria",
+    "socioeconomic_impact_studies": [
+      {
+        "cost": 0,
+        "measure": "Qualitative clinical burden description",
+        "label": "Glutaric aciduria and L-2-hydroxyglutaric aciduria: Clinical and molecular findings of 35 patients from Turkey",
+        "source": "https://doaj.org/article/e0ca45647d9f4801b711e9023ea4d0d5",
+        "country": "Turkey",
+        "year": "2023"
+      },
+      {
+        "cost": 220,
+        "measure": "Out-of-pocket cost for L2HGDH gene NGS diagnostic test",
+        "label": "L2HGDH Gene L-2-hydroxyglutaric aciduria NGS Genetic Test",
+        "source": "https://dnalabsindia.com/test/l2hgdh-gene-l-2-hydroxyglutaric-aciduria-ngs-genetic-dna-test",
+        "country": "India",
+        "year": "2024"
+      },
+      {
+        "cost": 1100,
+        "measure": "Out-of-pocket cost for L2HGDH gene NGS diagnostic test",
+        "label": "L2HGDH Gene L-2-hydroxyglutaric aciduria Genetic Test",
+        "source": "https://dnalabsuae.com/tests/l2hgdh-gene-l-2-hydroxyglutaric-aciduria-genetic-test/",
+        "country": "UAE",
+        "year": "2024"
+      }
+    ],
+    "score": 3,
+    "evidence_level": "Low evidence",
+    "justification": "No dedicated cost-of-illness or economic burden studies were identified; only qualitative clinical burden descriptions and out-of-pocket diagnostic test costs are available, indicating limited economic evidence."
+  }
+}

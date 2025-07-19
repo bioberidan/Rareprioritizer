@@ -1,0 +1,256 @@
+{
+  "disease_name": "Classic glucose transporter type 1 deficiency syndrome",
+  "orpha_code": "71277",
+  "drugs": [
+    {
+      "name": "Triheptanoin",
+      "substance_url": "/en/drug/substance/317333?name=71277&mode=orpha&region=&status=all",
+      "substance_id": "317333",
+      "regulatory_url": "/en/drug/regulatory/444626?name=71277&mode=orpha&region=",
+      "regulatory_id": "444626",
+      "orpha_substance_code": "ORPHA:71277",
+      "details": [
+        "Triheptanoin(Medicinal product                        - 21/05/2015)Disease(s) concernedORPHA:71277 Classic glucose transporter type 1 deficiency syndrome",
+        "Triheptanoin(Medicinal product                        - 21/05/2015)",
+        "(Medicinal product                        - 21/05/2015)",
+        "Disease(s) concernedORPHA:71277 Classic glucose transporter type 1 deficiency syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/317333?name=71277&mode=orpha&region=&status=all",
+          "text": "Triheptanoin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/71277",
+          "text": "ORPHA:71277 Classic glucose transporter type 1 deficiency syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/444626?name=71277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Mixture of decanoic acid (C10; tricaprin) and octanoic acid (C8; tricaprylin)",
+      "substance_url": "/en/drug/substance/687202?name=71277&mode=orpha&region=&status=all",
+      "substance_id": "687202",
+      "regulatory_url": "/en/drug/regulatory/687530?name=71277&mode=orpha&region=",
+      "regulatory_id": "687530",
+      "orpha_substance_code": "ORPHA:71277",
+      "details": [
+        "Mixture of decanoic acid (C10; tricaprin) and octanoic acid (C8; tricaprylin)(Medicinal product                        - 16/07/2024)Disease(s) concernedORPHA:71277 Classic glucose transporter type 1 deficiency syndrome",
+        "Mixture of decanoic acid (C10; tricaprin) and octanoic acid (C8; tricaprylin)(Medicinal product                        - 16/07/2024)",
+        "(Medicinal product                        - 16/07/2024)",
+        "Disease(s) concernedORPHA:71277 Classic glucose transporter type 1 deficiency syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/687202?name=71277&mode=orpha&region=&status=all",
+          "text": "Mixture of decanoic acid (C10; tricaprin) and octanoic acid (C8; tricaprylin)",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/71277",
+          "text": "ORPHA:71277 Classic glucose transporter type 1 deficiency syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/687530?name=71277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Triheptanoin",
+      "substance_url": "/en/drug/substance/317333?name=71277&mode=orpha&region=&status=all",
+      "substance_id": "317333",
+      "regulatory_url": "/en/drug/regulatory/412950?name=71277&mode=orpha&region=",
+      "regulatory_id": "412950",
+      "orpha_substance_code": "ORPHA:71277",
+      "details": [
+        "Triheptanoin(Medicinal product                        - 21/10/2014)Disease(s) concernedORPHA:71277 Classic glucose transporter type 1 deficiency syndrome",
+        "Triheptanoin(Medicinal product                        - 21/10/2014)",
+        "(Medicinal product                        - 21/10/2014)",
+        "Disease(s) concernedORPHA:71277 Classic glucose transporter type 1 deficiency syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/317333?name=71277&mode=orpha&region=&status=all",
+          "text": "Triheptanoin",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/71277",
+          "text": "ORPHA:71277 Classic glucose transporter type 1 deficiency syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/412950?name=71277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "BUCCOLAM",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/325650?name=71277&mode=orpha&region=",
+      "regulatory_id": "325650",
+      "orpha_substance_code": "ORPHA:693802",
+      "details": [
+        "BUCCOLAM(Tradename                        - 05/09/2011)Disease(s) concernedORPHA:98259 Childhood-onset epilepsy syndromeORPHA:98260 Adolescent-onset epilepsy syndromeORPHA:693802 Neonatal-infantile onset epilepsy syndrome",
+        "BUCCOLAM(Tradename                        - 05/09/2011)",
+        "(Tradename                        - 05/09/2011)",
+        "Disease(s) concernedORPHA:98259 Childhood-onset epilepsy syndromeORPHA:98260 Adolescent-onset epilepsy syndromeORPHA:693802 Neonatal-infantile onset epilepsy syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/325618?name=71277&mode=orpha&region=&status=all",
+          "text": "BUCCOLAM",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/98259",
+          "text": "ORPHA:98259 Childhood-onset epilepsy syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/98260",
+          "text": "ORPHA:98260 Adolescent-onset epilepsy syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/693802",
+          "text": "ORPHA:693802 Neonatal-infantile onset epilepsy syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/325650?name=71277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "ORPHA:98260 Adolescent-onset epilepsy syndrome\n                                \n\n\n\n\n                                    ORPHA:693802 Neonatal-infantile onset epilepsy syndrome\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "LIBERVANT",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/673903?name=71277&mode=orpha&region=",
+      "regulatory_id": "673903",
+      "orpha_substance_code": "ORPHA:166463",
+      "details": [
+        "LIBERVANT(Tradename                        - 26/04/2024)Disease(s) concernedORPHA:166463 Epilepsy syndrome",
+        "LIBERVANT(Tradename                        - 26/04/2024)",
+        "(Tradename                        - 26/04/2024)",
+        "Disease(s) concernedORPHA:166463 Epilepsy syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/673890?name=71277&mode=orpha&region=&status=all",
+          "text": "LIBERVANT",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/166463",
+          "text": "ORPHA:166463 Epilepsy syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/673903?name=71277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "SEZABY",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/635898?name=71277&mode=orpha&region=",
+      "regulatory_id": "635898",
+      "orpha_substance_code": "ORPHA:693802",
+      "details": [
+        "SEZABY(Tradename                        - 17/11/2022)Disease(s) concernedORPHA:693802 Neonatal-infantile onset epilepsy syndrome",
+        "SEZABY(Tradename                        - 17/11/2022)",
+        "(Tradename                        - 17/11/2022)",
+        "Disease(s) concernedORPHA:693802 Neonatal-infantile onset epilepsy syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/635897?name=71277&mode=orpha&region=&status=all",
+          "text": "SEZABY",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/693802",
+          "text": "ORPHA:693802 Neonatal-infantile onset epilepsy syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/635898?name=71277&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:01:51.353571",
+  "run_number": 1,
+  "total_drugs_found": 6,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Classic+glucose+transporter+type+1+deficiency+syndrome&orphaCode=71277&name=71277&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Classic glucose transporter type 1 deficiency syndrome",
+    "orphaCode": "71277",
+    "name": "71277",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

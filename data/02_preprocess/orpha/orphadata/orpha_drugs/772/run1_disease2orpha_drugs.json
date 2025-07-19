@@ -1,0 +1,17 @@
+{
+  "disease_name": "Infantile Refsum disease",
+  "orpha_code": "772",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:39:24.215463",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Infantile+Refsum+disease&orphaCode=772&name=772&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Infantile Refsum disease",
+    "orphaCode": "772",
+    "name": "772",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

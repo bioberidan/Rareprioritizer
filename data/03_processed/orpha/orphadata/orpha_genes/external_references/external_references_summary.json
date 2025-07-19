@@ -1,0 +1,23 @@
+{
+  "coverage_by_source": {
+    "ClinVar": 7657,
+    "Ensembl": 8240,
+    "Genatlas": 7657,
+    "HGNC": 8298,
+    "OMIM": 8247,
+    "Reactome": 6620,
+    "SwissProt": 8171,
+    "IUPHAR": 2158
+  },
+  "total_genes_with_references": 4521,
+  "reference_completeness": {
+    "ClinVar": 169.36518469365186,
+    "Ensembl": 182.2605618226056,
+    "Genatlas": 169.36518469365186,
+    "HGNC": 183.54346383543464,
+    "OMIM": 182.41539482415394,
+    "Reactome": 146.4277814642778,
+    "SwissProt": 180.7343508073435,
+    "IUPHAR": 47.73280247732802
+  }
+}

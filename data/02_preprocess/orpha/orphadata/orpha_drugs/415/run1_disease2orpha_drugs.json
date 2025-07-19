@@ -1,0 +1,90 @@
+{
+  "disease_name": "Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome",
+  "orpha_code": "415",
+  "drugs": [
+    {
+      "name": "RAVICTI",
+      "substance_url": "/en/drug/trade_name/445605?name=415&mode=orpha&region=&status=all",
+      "substance_id": "445605",
+      "regulatory_url": "/en/drug/regulatory/445606?name=415&mode=orpha&region=",
+      "regulatory_id": "445606",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Sodium benzoate",
+      "substance_url": "/en/drug/substance/83694?name=415&mode=orpha&region=&status=all",
+      "substance_id": "83694",
+      "regulatory_url": "/en/drug/regulatory/480444?name=415&mode=orpha&region=",
+      "regulatory_id": "480444",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Heterologous human adult liver-derived progenitor cells",
+      "substance_url": "/en/drug/substance/356372?name=415&mode=orpha&region=&status=all",
+      "substance_id": "356372",
+      "regulatory_url": "/en/drug/regulatory/364080?name=415&mode=orpha&region=",
+      "regulatory_id": "364080",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Glycerol phenylbutyrate",
+      "substance_url": "/en/drug/substance/222387?name=415&mode=orpha&region=&status=all",
+      "substance_id": "222387",
+      "regulatory_url": "/en/drug/regulatory/238152?name=415&mode=orpha&region=",
+      "regulatory_id": "238152",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Allogeneic adult liver-derived stem cells",
+      "substance_url": "/en/drug/substance/629851?name=415&mode=orpha&region=&status=all",
+      "substance_id": "629851",
+      "regulatory_url": "/en/drug/regulatory/629852?name=415&mode=orpha&region=",
+      "regulatory_id": "629852",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Single strand 20-mer antisense oligonucleotide (ASO) targeting a CPS1 regulatory RNA with a triantennary N-acetylgalactosamine (GalNAc) ligand attached at the 3' end",
+      "substance_url": "/en/drug/substance/688360?name=415&mode=orpha&region=&status=all",
+      "substance_id": "688360",
+      "regulatory_url": "/en/drug/regulatory/688517?name=415&mode=orpha&region=",
+      "regulatory_id": "688517",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:39:38.276672",
+  "run_number": 1,
+  "total_drugs_found": 6,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Hyperornithinemia-hyperammonemia-homocitrullinuria+syndrome&orphaCode=415&name=415&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome",
+    "orphaCode": "415",
+    "name": "415",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

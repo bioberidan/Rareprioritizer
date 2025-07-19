@@ -1,0 +1,30 @@
+{
+  "orphacode": "79435",
+  "disease_name": "Oculocutaneous albinism type 4",
+  "socioeconomic_impact_studies": [
+    {
+      "cost": 672,
+      "measure": "Average annual out-of-pocket healthcare expenditure",
+      "label": "Out-of-pocket healthcare expenditures of Turkish households living with rare diseases",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10020592/",
+      "country": "Turkey",
+      "year": "2023"
+    },
+    {
+      "cost": 0,
+      "measure": "Qualitative burden assessment measure",
+      "label": "Burden of albinism: development and validation of a burden assessment tool",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/30227882/",
+      "country": "France",
+      "year": "2018"
+    }
+  ],
+  "score": 3,
+  "evidence_level": "Low evidence",
+  "justification": "No peer-reviewed cost-of-illness study specific to Spain or other high-income country was identified; available evidence consists of an out-of-pocket expenditure study from Turkey and a qualitative burden assessment tool study in France.",
+  "metadata": {
+    "processing_timestamp": "2025-07-18T19:29:17.636596",
+    "run_number": 1,
+    "orphacode": "79435"
+  }
+}

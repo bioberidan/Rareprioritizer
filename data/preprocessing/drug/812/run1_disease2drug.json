@@ -1,0 +1,17 @@
+{
+  "disease_name": "Sialidosis type 1",
+  "orpha_code": "812",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:18:41.968645",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Sialidosis+type+1&orphaCode=812&name=812&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Sialidosis type 1",
+    "orphaCode": "812",
+    "name": "812",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

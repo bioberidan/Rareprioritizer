@@ -1,0 +1,30 @@
+{
+  "processing_metadata": {
+    "timestamp": "2025-07-12T06:41:45.527081",
+    "disease_subset_path": "data\\04_curated\\orpha\\ordo\\metabolic_disease_instances_sample_10.json",
+    "processed_prevalence_path": "data\\03_processed\\orpha\\orphadata\\orpha_prevalence\\disease2prevalence.json",
+    "output_dir": "data\\04_curated\\orpha\\orphadata\\test_sample"
+  },
+  "dataset_statistics": {
+    "total_diseases_in_subset": 10,
+    "diseases_with_prevalence": 9,
+    "diseases_without_prevalence": 1,
+    "coverage_percentage": 90.0
+  },
+  "selection_method_distribution": {
+    "point_prevalence": 8,
+    "worldwide_fallback": 1,
+    "regional_fallback": 1,
+    "no_data": 0
+  },
+  "prevalence_class_distribution": {
+    "1-9 / 1 000 000": 2,
+    "1-9 / 100 000": 2,
+    "<1 / 1 000 000": 3,
+    "Unknown": 2
+  },
+  "output_files": {
+    "disease2prevalence": "data\\04_curated\\orpha\\orphadata\\test_sample\\disease2prevalence.json",
+    "processing_summary": "data\\04_curated\\orpha\\orphadata\\test_sample\\orpha_prevalence_curation_summary.json"
+  }
+}

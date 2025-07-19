@@ -1,0 +1,436 @@
+{
+  "disease_name": "Barth syndrome",
+  "orpha_code": "111",
+  "trials": [
+    {
+      "nctId": "NCT06056297",
+      "briefTitle": "A Study of Mavorixafor in Participants With Congenital and Acquired Primary Autoimmune and Idiopathic Chronic Neutropenic Disorders Who Are Experiencing Recurrent and/or Serious Infections",
+      "officialTitle": "A Phase 3, Randomized, Double-blind, Placebo-controlled, Multicenter Study of Mavorixafor in Participants With Congenital and Acquired Primary Autoimmune and Idiopathic Chronic Neutropenic Disorders Who Are Experiencing Recurrent and/or Serious Infections",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Neutropenia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Mavorixafor"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "enrollment": 150,
+      "locations": [
+        {
+          "facility": "Phoenix Children's Hospital",
+          "city": "Phoenix",
+          "country": "United States"
+        },
+        {
+          "facility": "Orso Health",
+          "city": "La Jolla",
+          "country": "United States"
+        },
+        {
+          "facility": "Orso Health",
+          "city": "Torrance",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Michigan",
+          "city": "Ann Arbor",
+          "country": "United States"
+        },
+        {
+          "facility": "Washington University",
+          "city": "Saint Louis",
+          "country": "United States"
+        },
+        {
+          "facility": "Duke University Medical Center",
+          "city": "Durham",
+          "country": "United States"
+        },
+        {
+          "facility": "Cincinnati Children's Hospital Medical Center",
+          "city": "Cincinnati",
+          "country": "United States"
+        },
+        {
+          "facility": "UT Southwestern Medical Center",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "Cook Children's Medical Center",
+          "city": "Fort Worth",
+          "country": "United States"
+        },
+        {
+          "facility": "Instituto de Investigaciones Clínicas Córdoba",
+          "city": "Córdoba",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Santorio 9 de Julio",
+          "city": "San Miguel de Tucumán",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Icon Cancer Centre Southport",
+          "city": "Southport",
+          "country": "Australia"
+        },
+        {
+          "facility": "University of Alberta Hospital",
+          "city": "Edmonton",
+          "country": "Canada"
+        },
+        {
+          "facility": "The University Hospital Brno",
+          "city": "Brno",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Motol University Hospital",
+          "city": "Prague",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Institute of Hematology and Pediatric Oncology - Lyon",
+          "city": "Lyon",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Saint Louis",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Hospital Armand Trousseau Ap-Hp",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital Necker - Enfants Malade",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Centre Hospitalier Universitaire de Rennes",
+          "city": "Rennes",
+          "country": "France"
+        },
+        {
+          "facility": "LTD \"Israeli-Georgian Medical Research Clinic Healthycore\"",
+          "city": "Tbilisi",
+          "country": "Georgia"
+        },
+        {
+          "facility": "LEPL The First University Clinic of Tbilisi State Medical University",
+          "city": "Tbilisi",
+          "country": "Georgia"
+        },
+        {
+          "facility": "JSC K. Eristavi National Center of Experimental and Clinical Surgery",
+          "city": "Tbilisi",
+          "country": "Georgia"
+        },
+        {
+          "facility": "LTD Multiprofile Clinic Concilium Medulla",
+          "city": "Tbilisi",
+          "country": "Georgia"
+        },
+        {
+          "facility": "Klinik und Poliklinik fur Kinder- und Jugendmedizin, Universitatsklinikum Carl Gustav Carus an der TU",
+          "city": "Dresden",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitaetsklinikum Carl Gustav Carus Tu Dresden",
+          "city": "Dresden",
+          "country": "Germany"
+        },
+        {
+          "facility": "Hellenic Airforce 251 General Hospital",
+          "city": "Athens",
+          "country": "Greece"
+        },
+        {
+          "facility": "University General Hospital of Heraklion",
+          "city": "Iraklio",
+          "country": "Greece"
+        },
+        {
+          "facility": "The Olympion Private General Clinic",
+          "city": "Patra",
+          "country": "Greece"
+        },
+        {
+          "facility": "AHEPA General Hospital of Thessaloniki",
+          "city": "Thessaloniki",
+          "country": "Greece"
+        },
+        {
+          "facility": "CMC Deli Klinika",
+          "city": "Budapest",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Semmelweis University",
+          "city": "Budapest",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Teaching Hospital Markusovszky",
+          "city": "Szombathely",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Indira Gandhi Institute Of Medical Sciences",
+          "city": "Patna",
+          "country": "India"
+        },
+        {
+          "facility": "Nirmal Hospital Private Limited",
+          "city": "Surat",
+          "country": "India"
+        },
+        {
+          "facility": "Pacific Medical College and Hospital",
+          "city": "Udaipur",
+          "country": "India"
+        },
+        {
+          "facility": "Yashoda Hospital",
+          "city": "Hyderabad",
+          "country": "India"
+        },
+        {
+          "facility": "Ruth Rappaport Children's Hospital, Rambam Health Corporation",
+          "city": "Haifa",
+          "country": "Israel"
+        },
+        {
+          "facility": "A. O. U. delle Marche",
+          "city": "Torrette",
+          "country": "Italy"
+        },
+        {
+          "facility": "ASST Spedali Civili di Brescia",
+          "city": "Brescia",
+          "country": "Italy"
+        },
+        {
+          "facility": "IRCCS Instituto G. Gaslini",
+          "city": "Genova",
+          "country": "Italy"
+        },
+        {
+          "facility": "Istituto Scientifico Romagnolo Per Lo Studio E La Cura Dei Tumori (IRST) Dino Amadori",
+          "city": "Meldola",
+          "country": "Italy"
+        },
+        {
+          "facility": "IRCCS San Gerardo Dei Tintori",
+          "city": "Monza",
+          "country": "Italy"
+        },
+        {
+          "facility": "Unidade Local de Saúde da Região de Aveiro",
+          "city": "Aveiro",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Unidade Local de Saude Coimbra - Paediatric Hospital",
+          "city": "Coimbra",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Unidade Local de Saude Coimbra - Quinta dos Vales",
+          "city": "Coimbra",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Spitalul Clinic Colentina Site 1",
+          "city": "Bucharest",
+          "country": "Romania"
+        },
+        {
+          "facility": "Spitalul Clinic Colentina Site 2",
+          "city": "Bucharest",
+          "country": "Romania"
+        },
+        {
+          "facility": "Institutul Clinic Fundeni",
+          "city": "Bucharest",
+          "country": "Romania"
+        },
+        {
+          "facility": "Institutul Clinic Fundeni",
+          "city": "Bucharest",
+          "country": "Romania"
+        },
+        {
+          "facility": "Spitalul Clinic Județean de Urgență",
+          "city": "Târgu-Mureş",
+          "country": "Romania"
+        },
+        {
+          "facility": "University Clinical Centre of Serbia",
+          "city": "Belgrade",
+          "country": "Serbia"
+        },
+        {
+          "facility": "ICO Badalona - Institut Català d'Oncologia",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Del Mar",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital San Pedro De Alcantara",
+          "city": "Cáceres",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Reina Sofía",
+          "city": "Córdoba",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital De La Princesa",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Infanta Leonor",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Fundacion Jimenez Diaz",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Marqués de Valdecilla",
+          "city": "Santander",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen del Rocio",
+          "city": "Sevilla",
+          "country": "Spain"
+        },
+        {
+          "facility": "Inselspital - University Hospital Bern Site 1",
+          "city": "Bern",
+          "country": "Switzerland"
+        },
+        {
+          "facility": "Inselspital - University Hospital Bern Site 2",
+          "city": "Bern",
+          "country": "Switzerland"
+        },
+        {
+          "facility": "Ramathibodi Hospital",
+          "city": "Bangkok",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Siriraj Hospital",
+          "city": "Bangkok",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Dr. Abdurrahman Yurtaslan Ankara Oncology Training And Research Hospital",
+          "city": "Ankara",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Ankara University School of Medicine",
+          "city": "Ankara",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Uludag University Faculty Of Medicine",
+          "city": "Nilufer",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Ondokuz Mayis University Medical Faculty Hospital",
+          "city": "Samsun",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Lviv Regional Clinical Diagnostic Centre",
+          "city": "Lviv",
+          "country": "Ukraine"
+        },
+        {
+          "facility": "Medical Center Dobrobut-Clinic LLC",
+          "city": "Kyiv",
+          "country": "Ukraine"
+        },
+        {
+          "facility": "Medical Center Ok Clinic of International Institute of Clinical Research LLC",
+          "city": "Kyiv",
+          "country": "Ukraine"
+        },
+        {
+          "facility": "Llc Onto-Med",
+          "city": "Kyiv",
+          "country": "Ukraine"
+        },
+        {
+          "facility": "Communal non-commercial enterprise \"Ternopil City Children's Communal Hospital\"",
+          "city": "Ternopil",
+          "country": "Ukraine"
+        },
+        {
+          "facility": "Medical Center The Clinic of Hospodarskyy LLC",
+          "city": "Ternopil",
+          "country": "Ukraine"
+        },
+        {
+          "facility": "Cardiff And Vale University Health Board",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Royal Free London Nhs Foundation Trust Royal Free Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "King's College Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Imperial College Healthcare Nhs Trust - Hammersmith Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Great Ormond street Hospital for Children NHS Trust",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-04-17"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:13:44.898656",
+  "run_number": 1,
+  "total_trials_found": 1
+}

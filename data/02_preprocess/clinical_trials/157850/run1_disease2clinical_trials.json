@@ -1,0 +1,80 @@
+{
+  "disease_name": "Pantothenate kinase-associated neurodegeneration",
+  "orpha_code": "157850",
+  "trials": [
+    {
+      "nctId": "NCT05522374",
+      "briefTitle": "TIRCON International NBIA Registry",
+      "officialTitle": "TIRCON International NBIA (Neurodegeneration Associated With Brain Iron Accumulation) Patient Registry and Natural History Study",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Neurodegeneration With Brain Iron Accumulation (NBIA)",
+        "Pantothenate Kinase-associated Neurodegeneration (PKAN)",
+        "Beta-Propeller Protein-Associated Neurodegeneration (BPAN)",
+        "Mitochondrial Membrane Protein Associated Neurodegeneration (MPAN)",
+        "Fatty Acid Hydroxylase-associated Neurodegeneration (FAHN)",
+        "Kufor Rakeb Syndrome",
+        "Neuroferritinopathy",
+        "Aceruloplasminemia",
+        "Woodhouse Sakati Syndrome",
+        "COASY Protein-associated Neurodegeneration (CoPAN)",
+        "PLA2G6-Associated Neurodegeneration (PLAN)"
+      ],
+      "interventions": [],
+      "enrollment": 2000,
+      "locations": [
+        {
+          "facility": "Children's Hospital of Eastern Ontario, Division of Neurology, Department of Pediatrics",
+          "city": "Ottawa",
+          "country": "Canada"
+        },
+        {
+          "facility": "Charles University, Department of neurology",
+          "city": "Praha",
+          "country": "Czechia"
+        },
+        {
+          "facility": "LMU Klinikum, Friedrich-Baur-Institute",
+          "city": "Munich",
+          "country": "Germany"
+        },
+        {
+          "facility": "The Foundation of the Carlo Besta Neurological Institute, IRCCS",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        {
+          "facility": "University medical Center Groningen (UMCG) Department of Neurology AB 51",
+          "city": "Groningen",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "The Childrens Memorial Health Institute",
+          "city": "Warsaw",
+          "country": "Poland"
+        },
+        {
+          "facility": "University of Belgrade, Department of Movement Disorders and Degenerative Brain Diseases",
+          "city": "Belgrade",
+          "country": "Serbia"
+        },
+        {
+          "facility": "Hospital Vall d'Hebron - Institut de Recerca (VHIR), Pediatric Neurology, Movement Disorders",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Sant Joan de Déu, Universitat de Barcelona, Servei de Neurología",
+          "city": "Barcelona",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-06-05"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:15:18.976343",
+  "run_number": 1,
+  "total_trials_found": 1
+}

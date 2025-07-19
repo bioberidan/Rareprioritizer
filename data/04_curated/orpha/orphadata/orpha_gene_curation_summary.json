@@ -1,0 +1,102 @@
+{
+  "curation_metadata": {
+    "input_diseases": 665,
+    "diseases_with_genes": 549,
+    "diseases_without_genes": 116,
+    "coverage_percentage": 82.6,
+    "total_gene_associations": 820,
+    "unique_genes": 656,
+    "processing_timestamp": "2025-07-13T07:22:05.814649"
+  },
+  "disease_gene_distribution": {
+    "diseases_with_single_gene": 479,
+    "diseases_with_multiple_genes": 70,
+    "gene_count_distribution": {
+      "1_genes": 479,
+      "6+_genes": 17,
+      "2_genes": 36,
+      "3_genes": 4,
+      "5_genes": 4,
+      "4_genes": 9
+    }
+  },
+  "quality_statistics": {
+    "association_type_counts": {
+      "Disease-causing germline mutation(s) in": 660,
+      "Disease-causing germline mutation(s) (loss of function) in": 154,
+      "Disease-causing somatic mutation(s) in": 1,
+      "Candidate gene tested in": 30,
+      "Role in the phenotype of": 12,
+      "Disease-causing germline mutation(s) (gain of function) in": 5,
+      "Major susceptibility factor in": 1,
+      "Modifying germline mutation in": 1
+    },
+    "excluded_association_types": {
+      "Candidate gene tested in": 30,
+      "Role in the phenotype of": 12,
+      "Major susceptibility factor in": 1,
+      "Modifying germline mutation in": 1
+    },
+    "quality_issues": 10,
+    "validation_passed": false,
+    "average_genes_per_disease": 1.49
+  },
+  "selection_criteria": {
+    "metabolic_disease_filter": true,
+    "disease_causing_only": true,
+    "included_association_types": [
+      "Disease-causing germline mutation(s) in",
+      "Disease-causing germline mutation(s) (loss of function) in",
+      "Disease-causing germline mutation(s) (gain of function) in",
+      "Disease-causing somatic mutation(s) in"
+    ],
+    "excluded_association_types": [
+      "Candidate gene tested in",
+      "Role in the phenotype of",
+      "Major susceptibility factor in",
+      "Modifying germline mutation in"
+    ]
+  },
+  "top_genes": [
+    {
+      "gene": "POLG",
+      "disease_count": 7
+    },
+    {
+      "gene": "FKRP",
+      "disease_count": 6
+    },
+    {
+      "gene": "POMT1",
+      "disease_count": 6
+    },
+    {
+      "gene": "RRM2B",
+      "disease_count": 5
+    },
+    {
+      "gene": "MT-ATP6",
+      "disease_count": 5
+    },
+    {
+      "gene": "FKTN",
+      "disease_count": 5
+    },
+    {
+      "gene": "POMT2",
+      "disease_count": 5
+    },
+    {
+      "gene": "MT-ND1",
+      "disease_count": 4
+    },
+    {
+      "gene": "MT-ND4",
+      "disease_count": 4
+    },
+    {
+      "gene": "MT-ND5",
+      "disease_count": 4
+    }
+  ]
+}

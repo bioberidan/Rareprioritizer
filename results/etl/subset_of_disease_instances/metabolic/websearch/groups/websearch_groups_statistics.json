@@ -1,0 +1,338 @@
+{
+  "analysis_metadata": {
+    "generated_timestamp": "2025-07-18T18:32:12.730804",
+    "analysis_type": "complete_dataset_analysis",
+    "input_directory": "data\\04_curated\\websearch\\groups",
+    "output_directory": "results\\etl\\subset_of_disease_instances\\metabolic\\websearch\\groups"
+  },
+  "basic_statistics": {
+    "total_diseases_searched": 12,
+    "diseases_with_groups": 12,
+    "diseases_without_groups": 0,
+    "total_unique_groups": 17,
+    "total_sources": 27,
+    "avg_groups_per_disease": 1.9166666666666667,
+    "avg_sources_per_group": 1.588235294117647
+  },
+  "group_analysis": {
+    "most_active_groups": [
+      {
+        "group_name": "U746",
+        "disease_count": 5,
+        "diseases": [
+          "2157",
+          "2209",
+          "369",
+          "42",
+          "79318"
+        ],
+        "source_count": 7,
+        "sources": [
+          {
+            "label": "RARE.META-CBM group description",
+            "url": "https://www.rare-genomics.com/es/sobre-nosotros/rare-meta-cbm"
+          },
+          {
+            "label": "La U746 CIBERER desarrollará un proyecto de mejora del diagnóstico de enfermedades metabólicas",
+            "url": "https://www.ciberer.es/noticias/la-u746-ciberer-desarrollara-un-proyecto-de-mejora-del-diagnostico-de-enfermedades-metabolicas"
+          },
+          {
+            "label": "Proponen incluir un gen recientemente descrito en el cribado neonatal de la hiperfenilalaninemia",
+            "url": "https://www.ciberer.es/noticias/proponen-incluir-un-gen-recientemente-descrito-en-el-cribado-neonatal-de-la-hiperfenilalaninemia"
+          },
+          {
+            "label": "La U746 implementa una nueva técnica que abarata y perfecciona el diagnóstico de la glucogenosis",
+            "url": "https://www.ciberer.es/noticias/la-u746-implementa-una-nueva-tecnica-que-abarata-y-perfecciona-el-diagnostico-de-la-glucogenosis"
+          },
+          {
+            "label": "Lymphocyte Medium-Chain Acyl-CoA Dehydrogenase Activity and Its Potential as a Diagnostic Confirmation Tool in Newborn Screening Cases",
+            "url": "https://www.mdpi.com/2077-0383/11/10/2933"
+          },
+          {
+            "label": "Belén Pérez González: jefe de la Unidad U746 del Centro de Investigación Biomédica en red de Enfermedades Raras (CIBERER)",
+            "url": "https://cedem.cbm.uam.es/quienes-somos/"
+          },
+          {
+            "label": "CIBERER news: Proponen una nueva estrategia terapéutica para PMM2-CDG, el defecto congénito de la glicosilación más común",
+            "url": "https://www.ciberer.es/noticias/proponen-una-nueva-estrategia-terapeutica-para-pmm2-cdg-el-defecto-congenito-de-la-glicosilacion-mas-comun"
+          }
+        ]
+      },
+      {
+        "group_name": "U703",
+        "disease_count": 2,
+        "diseases": [
+          "2209",
+          "469"
+        ],
+        "source_count": 2,
+        "sources": [
+          {
+            "label": "Proponen incluir un gen recientemente descrito en el cribado neonatal de la hiperfenilalaninemia",
+            "url": "https://www.ciberer.es/noticias/proponen-incluir-un-gen-recientemente-descrito-en-el-cribado-neonatal-de-la-hiperfenilalaninemia"
+          },
+          {
+            "label": "11 grupos de investigación del CIBERER se han incorporado a las Redes Europeas de Referencia",
+            "url": "https://www.ciberisciii.es/noticias/11-grupos-de-investigacion-del-ciberer-se-han-incorporado-a-las-redes-europeas-de-referencia"
+          }
+        ]
+      },
+      {
+        "group_name": "U756 CIBERER",
+        "disease_count": 2,
+        "diseases": [
+          "79433",
+          "79435"
+        ],
+        "source_count": 2,
+        "sources": [
+          {
+            "label": "CIBERER news: ALBA y la U756 CIBERER obtienen el reconocimiento de FEDER a la actividad investigadora en ER por un proyecto sobre albinismo",
+            "url": "https://www.ciberisciii.es/noticias/alba-y-la-u756-ciberer-obtienen-el-reconocimiento-de-feder-a-la-actividad-investigadora-en-er-por-un-proyecto-sobre-albinismo"
+          },
+          {
+            "label": "CIBERER news: Revisan el papel de la vía de pigmentación de la retina en el albinismo humano",
+            "url": "https://www.ciberer.es/noticias/revisan-el-papel-de-la-via-de-pigmentacion-de-la-retina-en-el-albinismo-humano"
+          }
+        ]
+      },
+      {
+        "group_name": "CIBERER Biobank",
+        "disease_count": 1,
+        "diseases": [
+          "212"
+        ],
+        "source_count": 2,
+        "sources": [
+          {
+            "label": "Ancient origin of the CTH alelle carrying the c.200C>T (p.T67I) variant in patients with cystathioninuria",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20584029/"
+          },
+          {
+            "label": "CIBERER Biobank (official website)",
+            "url": "https://www.ciberer-biobank.es/"
+          }
+        ]
+      },
+      {
+        "group_name": "grupo del CIBERER que lidera Gloria Garrabou en el Hospital Clínic de Barcelona",
+        "disease_count": 1,
+        "diseases": [
+          "2209"
+        ],
+        "source_count": 1,
+        "sources": [
+          {
+            "label": "Podcast: Francesc J García explica el proyecto de búsqueda de tratamiento antienvejecimiento para la fenilcetonuria",
+            "url": "https://www.ciberer.es/noticias/podcast-francesc-j-garcia-explica-el-proyecto-de-busqueda-de-tratamiento-antienvejecimiento-para-la-fenilcetonuria"
+          }
+        ]
+      },
+      {
+        "group_name": "U731",
+        "disease_count": 1,
+        "diseases": [
+          "42062"
+        ],
+        "source_count": 2,
+        "sources": [
+          {
+            "label": "Diversos autores del CIBERER participan en una guía de referencia internacional para médicos sobre enfermedades metabólicas hereditarias",
+            "url": "https://www.ciberer.es/noticias/diversos-autores-del-ciberer-participan-en-una-guia-de-referencia-internacional-para-medicos-sobre-enfermedades-metabolicas-hereditarias"
+          },
+          {
+            "label": "Amino Acid Transporters and Disease",
+            "url": "https://www.irbbarcelona.org/es/research/amino-acid-transporters-and-disease"
+          }
+        ]
+      },
+      {
+        "group_name": "U723",
+        "disease_count": 1,
+        "diseases": [
+          "469"
+        ],
+        "source_count": 1,
+        "sources": [
+          {
+            "label": "Transferrin Isoforms, Old but New Biomarkers in Hereditary Fructose Intolerance",
+            "url": "https://www.mdpi.com/2077-0383/10/13/2932"
+          }
+        ]
+      },
+      {
+        "group_name": "GCV 5",
+        "disease_count": 1,
+        "diseases": [
+          "469"
+        ],
+        "source_count": 1,
+        "sources": [
+          {
+            "label": "11 grupos de investigación del CIBERER se han incorporado a las Redes Europeas de Referencia",
+            "url": "https://www.ciberisciii.es/noticias/11-grupos-de-investigacion-del-ciberer-se-han-incorporado-a-las-redes-europeas-de-referencia"
+          }
+        ]
+      },
+      {
+        "group_name": "GCV 10",
+        "disease_count": 1,
+        "diseases": [
+          "469"
+        ],
+        "source_count": 1,
+        "sources": [
+          {
+            "label": "11 grupos de investigación del CIBERER se han incorporado a las Redes Europeas de Referencia",
+            "url": "https://www.ciberisciii.es/noticias/11-grupos-de-investigacion-del-ciberer-se-han-incorporado-a-las-redes-europeas-de-referencia"
+          }
+        ]
+      },
+      {
+        "group_name": "GCV 9",
+        "disease_count": 1,
+        "diseases": [
+          "469"
+        ],
+        "source_count": 1,
+        "sources": [
+          {
+            "label": "11 grupos de investigación del CIBERER se han incorporado a las Redes Europeas de Referencia",
+            "url": "https://www.ciberisciii.es/noticias/11-grupos-de-investigacion-del-ciberer-se-han-incorporado-a-las-redes-europeas-de-referencia"
+          }
+        ]
+      }
+    ],
+    "group_type_distribution": {
+      "u_format": 12,
+      "descriptive": 4,
+      "pi_based": 1
+    },
+    "group_distribution_stats": {
+      "values": [
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        5,
+        3,
+        2,
+        2,
+        2,
+        1
+      ],
+      "mean": 1.9166666666666667,
+      "median": 1.5,
+      "std": 1.187317237397917,
+      "min": 1,
+      "max": 5
+    }
+  },
+  "source_analysis": {
+    "source_type_distribution": {
+      "pubmed": 1,
+      "ciberer_website": 20,
+      "other_websites": 6
+    },
+    "source_validation": {
+      "total_sources": 27,
+      "valid_format": 27,
+      "missing_url": 0,
+      "missing_label": 0,
+      "groups_validated": 17,
+      "valid_format_percentage": 100.0,
+      "invalid_sources": 0
+    },
+    "source_quality_score": 100.0
+  },
+  "coverage_analysis": {
+    "coverage_percentage": 100.0,
+    "diseases_per_group_stats": {
+      "values": [
+        1,
+        5,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1
+      ],
+      "mean": 1.3529411764705883,
+      "median": 1.0,
+      "std": 0.9665692191267636
+    }
+  },
+  "outlier_analysis": {
+    "groups_per_disease_outliers": {
+      "outlier_count": 1,
+      "lower_bound": -0.875,
+      "upper_bound": 4.125,
+      "outlier_diseases": [
+        {
+          "orpha_code": "469",
+          "group_count": 5,
+          "groups": [
+            "U723",
+            "GCV 5",
+            "GCV 10",
+            "GCV 9",
+            "U703"
+          ]
+        }
+      ]
+    },
+    "sources_per_group_outliers": {
+      "outlier_count": 1,
+      "lower_bound": -0.5,
+      "upper_bound": 3.5,
+      "outlier_groups": [
+        {
+          "group_name": "U746",
+          "source_count": 7,
+          "sources": [
+            {
+              "label": "RARE.META-CBM group description",
+              "url": "https://www.rare-genomics.com/es/sobre-nosotros/rare-meta-cbm"
+            },
+            {
+              "label": "La U746 CIBERER desarrollará un proyecto de mejora del diagnóstico de enfermedades metabólicas",
+              "url": "https://www.ciberer.es/noticias/la-u746-ciberer-desarrollara-un-proyecto-de-mejora-del-diagnostico-de-enfermedades-metabolicas"
+            },
+            {
+              "label": "Proponen incluir un gen recientemente descrito en el cribado neonatal de la hiperfenilalaninemia",
+              "url": "https://www.ciberer.es/noticias/proponen-incluir-un-gen-recientemente-descrito-en-el-cribado-neonatal-de-la-hiperfenilalaninemia"
+            },
+            {
+              "label": "La U746 implementa una nueva técnica que abarata y perfecciona el diagnóstico de la glucogenosis",
+              "url": "https://www.ciberer.es/noticias/la-u746-implementa-una-nueva-tecnica-que-abarata-y-perfecciona-el-diagnostico-de-la-glucogenosis"
+            },
+            {
+              "label": "Lymphocyte Medium-Chain Acyl-CoA Dehydrogenase Activity and Its Potential as a Diagnostic Confirmation Tool in Newborn Screening Cases",
+              "url": "https://www.mdpi.com/2077-0383/11/10/2933"
+            },
+            {
+              "label": "Belén Pérez González: jefe de la Unidad U746 del Centro de Investigación Biomédica en red de Enfermedades Raras (CIBERER)",
+              "url": "https://cedem.cbm.uam.es/quienes-somos/"
+            },
+            {
+              "label": "CIBERER news: Proponen una nueva estrategia terapéutica para PMM2-CDG, el defecto congénito de la glicosilación más común",
+              "url": "https://www.ciberer.es/noticias/proponen-una-nueva-estrategia-terapeutica-para-pmm2-cdg-el-defecto-congenito-de-la-glicosilacion-mas-comun"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

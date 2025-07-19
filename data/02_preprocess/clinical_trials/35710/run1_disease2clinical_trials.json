@@ -1,0 +1,73 @@
+{
+  "disease_name": "Glucose-galactose malabsorption",
+  "orpha_code": "35710",
+  "trials": [
+    {
+      "nctId": "NCT06498128",
+      "briefTitle": "Registry to Collect Information on Pregnancy, Neonatal, and Infant Outcomes in Pregnant Women Exposed to QUVIVIQ®",
+      "officialTitle": "QUVIVIQ® Pregnancy Registry",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Insomnia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Daridorexant"
+        },
+        {
+          "type": "DRUG",
+          "name": "Non-orexin receptor antagonist medications for insomnia"
+        },
+        {
+          "type": "OTHER",
+          "name": "No insomnia medication"
+        }
+      ],
+      "enrollment": 785,
+      "locations": [
+        {
+          "facility": "IQVIA US Office",
+          "city": "Durham",
+          "country": "United States"
+        },
+        {
+          "facility": "Jodha Tishon",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Hôpital Gui de Chauliac",
+          "city": "Montpellier",
+          "country": "France"
+        },
+        {
+          "facility": "Charité - Universitätsmedizin Berlin",
+          "city": "Berlin",
+          "country": "Germany"
+        },
+        {
+          "facility": "Azienda Ospedaliera Universitaria Policlinico Tor Vergata",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        {
+          "facility": "Hospital Txagorritxu",
+          "city": "Vitoria",
+          "country": "Spain"
+        },
+        {
+          "facility": "University College London Hospitals",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2024-12-18"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:14:00.968419",
+  "run_number": 1,
+  "total_trials_found": 1
+}

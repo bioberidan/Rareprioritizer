@@ -1,0 +1,43 @@
+{
+  "disease_name": "Hemolytic anemia due to red cell pyruvate kinase deficiency",
+  "orpha_code": "766",
+  "trials": [
+    {
+      "nctId": "NCT06213402",
+      "briefTitle": "RADeep Multicenter European Epidemiological Platform for Patients Diagnosed With Rare Anemia Disorders (RADs)",
+      "officialTitle": "A Retrospective/Prospective, Multicenter European Epidemiological Platform for Patients Diagnosed With Rare Anemia Disorders (RADs) With Clinical Significance.",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Sickle Cell Disease",
+        "Thalassemia",
+        "Hemolytic; Anemia, Hereditary, Due to Enzyme Disorder",
+        "Anemia Due to Membrane Defect",
+        "CDA",
+        "Sideroblastic Anemia",
+        "Constitutional Aplastic Anemia",
+        "Iron Metabolism Disorders",
+        "Hereditary Anemia"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Data collection from EHR."
+        }
+      ],
+      "enrollment": 32564,
+      "locations": [
+        {
+          "facility": "Vall d'hebron Research Institute - Vall d'Hebron Research Institute - University Hospital Vall d'Hebrón (VHIR/HUVH)",
+          "city": "Barcelona",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2024-01-19"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:14:53.623510",
+  "run_number": 1,
+  "total_trials_found": 1
+}

@@ -1,0 +1,64 @@
+{
+  "curation_metadata": {
+    "total_diseases_searched": 12,
+    "diseases_with_groups": 12,
+    "total_unique_groups": 17,
+    "total_sources": 27,
+    "group_type_distribution": {
+      "u_format": 10,
+      "descriptive": 6,
+      "pi_based": 1
+    },
+    "processing_timestamp": "2025-07-18T18:23:30.065018"
+  },
+  "quality_metrics": {
+    "total_groups": 17,
+    "total_sources": 27,
+    "sources_with_urls": 27,
+    "sources_with_labels": 27,
+    "valid_sources": 27,
+    "invalid_sources": 0
+  },
+  "most_active_groups": [
+    {
+      "group": "U746",
+      "disease_count": 5
+    },
+    {
+      "group": "U703",
+      "disease_count": 2
+    },
+    {
+      "group": "U756 CIBERER",
+      "disease_count": 2
+    },
+    {
+      "group": "CIBERER Biobank",
+      "disease_count": 1
+    },
+    {
+      "group": "grupo del CIBERER que lidera Gloria Garrabou en el Hospital Clínic de Barcelona",
+      "disease_count": 1
+    },
+    {
+      "group": "U731",
+      "disease_count": 1
+    },
+    {
+      "group": "U723",
+      "disease_count": 1
+    },
+    {
+      "group": "GCV 5",
+      "disease_count": 1
+    },
+    {
+      "group": "GCV 10",
+      "disease_count": 1
+    },
+    {
+      "group": "GCV 9",
+      "disease_count": 1
+    }
+  ]
+}

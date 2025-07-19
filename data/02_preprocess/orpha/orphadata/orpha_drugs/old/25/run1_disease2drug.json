@@ -1,0 +1,94 @@
+{
+  "disease_name": "Glutaryl-CoA dehydrogenase deficiency",
+  "orpha_code": "25",
+  "drugs": [
+    {
+      "name": "Adeno-associated virus vector serotype 9 containing the human GCDH gene",
+      "substance_url": "/en/drug/substance/686826?name=25&mode=orpha&region=&status=all",
+      "substance_id": "686826",
+      "regulatory_url": "/en/drug/regulatory/686862?name=25&mode=orpha&region=",
+      "regulatory_id": "686862",
+      "orpha_substance_code": "ORPHA:25",
+      "details": [
+        "Adeno-associated virus vector serotype 9 containing the human GCDH gene(Medicinal product                        - 21/08/2024)Disease(s) concernedORPHA:25 Glutaryl-CoA dehydrogenase deficiency",
+        "Adeno-associated virus vector serotype 9 containing the human GCDH gene(Medicinal product                        - 21/08/2024)",
+        "(Medicinal product                        - 21/08/2024)",
+        "Disease(s) concernedORPHA:25 Glutaryl-CoA dehydrogenase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/686826?name=25&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus vector serotype 9 containing the human GCDH gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/25",
+          "text": "ORPHA:25 Glutaryl-CoA dehydrogenase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/686862?name=25&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector 9 delivering human Glutaryl-CoA Dehydrogenase (GCDH) gene",
+      "substance_url": "/en/drug/substance/640975?name=25&mode=orpha&region=&status=all",
+      "substance_id": "640975",
+      "regulatory_url": "/en/drug/regulatory/640976?name=25&mode=orpha&region=",
+      "regulatory_id": "640976",
+      "orpha_substance_code": "ORPHA:25",
+      "details": [
+        "Adeno-associated viral vector 9 delivering human Glutaryl-CoA Dehydrogenase (GCDH) gene(Medicinal product                        - 26/05/2022)Disease(s) concernedORPHA:25 Glutaryl-CoA dehydrogenase deficiency",
+        "Adeno-associated viral vector 9 delivering human Glutaryl-CoA Dehydrogenase (GCDH) gene(Medicinal product                        - 26/05/2022)",
+        "(Medicinal product                        - 26/05/2022)",
+        "Disease(s) concernedORPHA:25 Glutaryl-CoA dehydrogenase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/640975?name=25&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector 9 delivering human Glutaryl-CoA Dehydrogenase (GCDH) gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/25",
+          "text": "ORPHA:25 Glutaryl-CoA dehydrogenase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/640976?name=25&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:01:05.647370",
+  "run_number": 1,
+  "total_drugs_found": 2,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Glutaryl-CoA+dehydrogenase+deficiency&orphaCode=25&name=25&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Glutaryl-CoA dehydrogenase deficiency",
+    "orphaCode": "25",
+    "name": "25",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

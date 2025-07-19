@@ -1,0 +1,53 @@
+{
+  "report_metadata": {
+    "generation_timestamp": "2025-07-12T10:34:38.158612",
+    "input_directory": "data\\04_curated\\orpha\\orphadata",
+    "output_directory": "results\\stats\\etl\\subset_of_disease_instances\\orpha\\orphadata\\orpha_prevalence\\metabolic",
+    "created_visualizations": [
+      "results\\stats\\etl\\subset_of_disease_instances\\orpha\\orphadata\\orpha_prevalence\\metabolic\\prevalence_class_distribution.png",
+      "results\\stats\\etl\\subset_of_disease_instances\\orpha\\orphadata\\orpha_prevalence\\metabolic\\coverage_analysis.png"
+    ]
+  },
+  "basic_statistics": {
+    "data_overview": {
+      "total_diseases": 532,
+      "diseases_with_known_prevalence": 532,
+      "diseases_with_unknown_prevalence": 0,
+      "coverage_percentage": 100.0
+    },
+    "prevalence_class_distribution": {
+      "1-9 / 100 000": 50,
+      "<1 / 1 000 000": 392,
+      ">1 / 1000": 2,
+      "1-9 / 1 000 000": 74,
+      "6-9 / 10 000": 3,
+      "1-5 / 10 000": 11
+    },
+    "selection_method_analysis": {
+      "point_prevalence": 460,
+      "worldwide_fallback": 19,
+      "regional_fallback": 65,
+      "birth_prevalence_fallback": 0,
+      "cases_families_fallback": 69,
+      "no_data": 0
+    },
+    "processing_metadata": {
+      "timestamp": "2025-07-12T10:34:15.474079",
+      "disease_subset_path": "data\\04_curated\\orpha\\ordo\\metabolic_disease_instances.json",
+      "processed_prevalence_path": "data\\03_processed\\orpha\\orphadata\\orpha_prevalence\\disease2prevalence.json",
+      "output_dir": "data\\04_curated\\orpha\\orphadata"
+    },
+    "generation_timestamp": "2025-07-12T10:34:35.622448"
+  },
+  "advanced_statistics": {
+    "error": "'ProcessedPrevalenceClient' object has no attribute 'get_disease_prevalence'"
+  },
+  "key_insights": [
+    "Data coverage: 100.0% of diseases have known prevalence classes",
+    "Most common prevalence class: '<1 / 1 000 000' (392 diseases)",
+    "Point prevalence data available for 75.0% of diseases with data"
+  ],
+  "recommendations": [
+    "Review 84 diseases using fallback methods for potential point prevalence data"
+  ]
+}

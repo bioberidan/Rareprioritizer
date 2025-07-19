@@ -1,0 +1,472 @@
+{
+  "disease_name": "Muscle-eye-brain disease",
+  "orpha_code": "588",
+  "trials": [
+    {
+      "nctId": "NCT06925022",
+      "briefTitle": "Educational Programs Based on Healthy Habits to Improve Quality of Life and Psychosocial Profile in Women With Neurodegenerative Diseases: The ADVICE Protocol Study (Phase 1)",
+      "officialTitle": "Educational Programs Based on Healthy Habits to Improve Quality of Life and Psychosocial Profile in Women With Neurodegenerative Diseases: The ADVICE Protocol Study",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Multiple Sclerosis (MS) - Relapsing-remitting"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Strength training session during Early Follicular Phase"
+        },
+        {
+          "type": "OTHER",
+          "name": "Strength Training Protocol during Late Follicular Phase"
+        },
+        {
+          "type": "OTHER",
+          "name": "Strength Training during Mid-Luteal Phase"
+        }
+      ],
+      "enrollment": 30,
+      "locations": [
+        {
+          "facility": "Hospital Universitario Virgen de la Arrixaca",
+          "city": "Murcia",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-05-08"
+    },
+    {
+      "nctId": "NCT06839482",
+      "briefTitle": "Robotic Rehabilitation of the Upper Limb in Subacute Stroke",
+      "officialTitle": "Efficacy of Robotic Rehabilitation for Neuro Recovery of the Upper Limb in Subacute Stroke Survivors: An International Multicenter Randomized Controlled Trial",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Stroke"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Robotic Assisted Upper Limb Rehabilitation"
+        },
+        {
+          "type": "OTHER",
+          "name": "Control Group (CG)"
+        }
+      ],
+      "enrollment": 130,
+      "locations": [
+        {
+          "facility": "Jefferson Moss-Magee Rehabilitation, Department of PMR",
+          "city": "Elkins Park",
+          "country": "United States"
+        },
+        {
+          "facility": "Rehabilitation Center of Kladruby",
+          "city": "Kladruby",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Lázně Bělohrad a.s., Centrum komplexní rehabilitace",
+          "city": "Lázně Bělohrad",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Agel Hospital Prostějov, Rehabilitation Centre, Mathonova 1, Clinical Rehabilitation Centre FZV UP, Hněvotínská 3",
+          "city": "Olomouc",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Charles University and General University Hospital in Prague",
+          "city": "Prague",
+          "country": "Czechia"
+        },
+        {
+          "facility": "European Society of Physical and Rehabilitation Medicine, SISC in New Technologies and Robotics in Rehabilitation",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        {
+          "facility": "San Vito Hospital, Rehabilitation Unit",
+          "city": "San Vito Sullo Ionio",
+          "country": "Italy"
+        },
+        {
+          "facility": "Valduce Hospital, Villa Beretta Rehabilitation Center",
+          "city": "Costa Masnaga",
+          "country": "Italy"
+        },
+        {
+          "facility": "Department of Rehabilitative Medicine, AUSL Piacenza",
+          "city": "Fiorenzuola d'Arda",
+          "country": "Italy"
+        },
+        {
+          "facility": "Passignano Hospital, Department of Specialized Medicine, Usl Umbria 1",
+          "city": "Passignano Sul Trasimeno",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione Policlinico Universitario Campus Bio-Medico di Roma, UOC di Medicina Fisica e Riabilitativa-CESA",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        {
+          "facility": "IRCCS San Raffaele Roma",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        {
+          "facility": "ASST Papa Giovanni XXIII",
+          "city": "Bergamo",
+          "country": "Italy"
+        },
+        {
+          "facility": "University of Catanzaro \"Magna Graecia\"",
+          "city": "Catanzaro",
+          "country": "Italy"
+        },
+        {
+          "facility": "IRCCS Fondazione Don Gnocchi",
+          "city": "Florence",
+          "country": "Italy"
+        },
+        {
+          "facility": "Riuniti Hospital, Neurorehabilitation, Spinal Cord Rehab. and Functional Recovery Section",
+          "city": "Foggia",
+          "country": "Italy"
+        },
+        {
+          "facility": "IRCCS Centro Neurolesi Bonino-Pulejo, Innovation Technology Laboratory",
+          "city": "Messina",
+          "country": "Italy"
+        },
+        {
+          "facility": "Medical Centre for Rehabilitation Treatment \"Consilium\"",
+          "city": "Moscow",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Centro Lescer, Occupational Therapy and Physical Therapy Department",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Chiang Mai University, Department of Occupational Therapy, Faculty of Associated Medical Sciences",
+          "city": "Chiang Mai",
+          "country": "Thailand"
+        }
+      ],
+      "lastUpdateDate": "2025-02-24"
+    },
+    {
+      "nctId": "NCT06965660",
+      "briefTitle": "Population Cohort Set-up for the Epidemiological Assessment of Balance Disorders in Elderly People",
+      "officialTitle": "Prevalence and Burden of Balance Disorders in Community-dwelling Older Adults: A Population-based Study Protocol",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Balance Disorders",
+        "Accidental Falls",
+        "Frailty",
+        "Aging"
+      ],
+      "interventions": [],
+      "enrollment": 1300,
+      "locations": [
+        {
+          "facility": "Fundacio d'Investigacio en Atencio Primaria Jordi Gol i Gurina - USR Metropolitan North.",
+          "city": "Mataró",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-05-11"
+    },
+    {
+      "nctId": "NCT07040748",
+      "briefTitle": "Immersive Virtual Reality Training for Improving Cognition in Adults With Metabolic Syndrome",
+      "officialTitle": "Multimodal Immersive Virtual Reality Training for Improving Cognition in Adults With Metabolic Syndrome: A Randomized Clinical Trial",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Metabolic Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Immersive VR-Based Multimodal Intervention (Virtual-METS)"
+        }
+      ],
+      "enrollment": 84,
+      "locations": [
+        {
+          "facility": "Consorci Sanitari de Terrassa",
+          "city": "Terrassa",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-06-27"
+    },
+    {
+      "nctId": "NCT06884579",
+      "briefTitle": "Educational Programs Based on Healthy Habits to Improve Quality of Life and Psychosocial Profile in Women With Neurodegenerative Diseases: the ADVICE Protocol Study (Phase 2)",
+      "officialTitle": "Educational Programs Based on Healthy Habits to Improve Quality of Life and Psychosocial Profile in Women With Neurodegenerative Diseases: The ADVICE Protocol Study",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Multiple Sclerosis (MS) - Relapsing-remitting"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Strength training, nutrition, and behavioral training"
+        },
+        {
+          "type": "OTHER",
+          "name": "Self-Guided and Unsupervised Program with General Recommendations"
+        }
+      ],
+      "enrollment": 60,
+      "locations": [
+        {
+          "facility": "Hospital Universitario Virgen de la Arrixaca",
+          "city": "Murcia",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-05-06"
+    },
+    {
+      "nctId": "NCT04084795",
+      "briefTitle": "Augmentation of EMDR With tDCS in the Treatment of Fibromyalgia",
+      "officialTitle": "Augmentation of EMDR With Transcranial Direct Current Stimulation in the Treatment of Fibromyalgia: a Randomized Controlled Trial",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Fibromyalgia",
+        "Psychological Trauma",
+        "Depressive Symptoms",
+        "Anxiety"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Eye Movement Desensitization and Reprocessing therapy"
+        },
+        {
+          "type": "OTHER",
+          "name": "Multifocal transcranial Current Stimulation"
+        }
+      ],
+      "enrollment": 96,
+      "locations": [
+        {
+          "facility": "Centre Forum (Parc de Salut Mar)",
+          "city": "Barcelona",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2024-04-03"
+    },
+    {
+      "nctId": "NCT06513533",
+      "briefTitle": "Dimethyl Fumarate in Adrenomyeloneuropathy",
+      "officialTitle": "Effect of Dimethyl Fumarate Administered to Patients With Adrenomyeloneuropathy: a Multicenter, Placebo Controlled, Phase IIb/III Trial",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "conditions": [
+        "Adrenomyeloneuropathy Without Cerebral Involvement"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        },
+        {
+          "type": "DRUG",
+          "name": "Dimethyl fumarate"
+        }
+      ],
+      "enrollment": 40,
+      "locations": [
+        {
+          "facility": "Bellvitge University Hospital",
+          "city": "L'Hospitalet De Llobregat",
+          "country": "Spain"
+        },
+        {
+          "facility": "Donostia University Hospital",
+          "city": "Donostia",
+          "country": "Spain"
+        },
+        {
+          "facility": "University Hospital 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2024-07-25"
+    },
+    {
+      "nctId": "NCT07025070",
+      "briefTitle": "The Link Between Physical Activity and Brain Health in Healthy Adults",
+      "officialTitle": "The Link Between Strength and Endurance Training and Brain Health in Healthy Adults: A Comparative Study of Former Professional Athletes and Sedentary Individuals",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Alzheimer Disease",
+        "Inactivity",
+        "Preventive Therapy"
+      ],
+      "interventions": [],
+      "enrollment": 60,
+      "locations": [
+        {
+          "facility": "Faculty of Physical Activity and Sports Sciences (INEF)",
+          "city": "Madrid",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-06-17"
+    },
+    {
+      "nctId": "NCT03889132",
+      "briefTitle": "Glucose, Brain and Microbiota",
+      "officialTitle": "Integrated Analysis of the Interactions Between Glycemia and Microbiota Composition, and Their Impact on Brain Iron Deposition and Cognition in Subjects With Obesity",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Obesity"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Bariatric Surgery"
+        }
+      ],
+      "enrollment": 128,
+      "locations": [
+        {
+          "facility": "Institut d'Investigació Biomèdica de Girona (IDIBGI)",
+          "city": "Girona",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2024-03-08"
+    },
+    {
+      "nctId": "NCT06515106",
+      "briefTitle": "Antibody-mediated LGI1 Encephalitis: Symptoms, Biomarkers, and Mechanisms of the Chronic Phase of the Disease",
+      "officialTitle": "Antibody-mediated LGI1 Encephalitis: Symptoms, Biomarkers, and Mechanisms of the Chronic Phase of the Disease",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Limbic Encephalitis With LGI1 Antibodies"
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Remote cognitive rehabilitation program"
+        }
+      ],
+      "enrollment": 20,
+      "locations": [
+        {
+          "facility": "Hospital Clínic de Barcelona",
+          "city": "Barcelona",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2024-07-23"
+    },
+    {
+      "nctId": "NCT02983370",
+      "briefTitle": "Development of a Cortical Visual Neuroprosthesis for the Blind",
+      "officialTitle": "Pilot Study for the Development of a Cortical Visual Neuroprosthesis for the Blind Based on Intracortical Microelectrodes",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Blindness"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Minicraniotomy"
+        }
+      ],
+      "enrollment": 5,
+      "locations": [
+        {
+          "facility": "Hospital IMED Elche",
+          "city": "Elche",
+          "country": "Spain"
+        },
+        {
+          "facility": "Universidad Miguel Hernandez de Elche",
+          "city": "Elche",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2024-05-08"
+    },
+    {
+      "nctId": "NCT06149897",
+      "briefTitle": "Feasibility and Effectiveness of tDCS in the Treatment of Post-stroke Fatigue (EFECTS).",
+      "officialTitle": "Feasibility and Effectiveness of Tdcs in a Multimodal Treatment With Health Education and Aerobic Exercise in the Treatment of Post-stroke Fatigue.",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Stroke"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "tDCS"
+        }
+      ],
+      "enrollment": 54,
+      "locations": [
+        {
+          "facility": "Hospital Clínic de Barcelona",
+          "city": "Barcelona",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2023-11-29"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:12:44.173599",
+  "run_number": 1,
+  "total_trials_found": 12
+}

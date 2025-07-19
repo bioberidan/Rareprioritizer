@@ -1,0 +1,17 @@
+{
+  "disease_name": "COG1-CDG",
+  "orpha_code": "263508",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:35:23.794138",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=COG1-CDG&orphaCode=263508&name=263508&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "COG1-CDG",
+    "orphaCode": "263508",
+    "name": "263508",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "disease_name": "Hemolytic anemia due to red cell pyruvate kinase deficiency",
+  "orpha_code": "766",
+  "drugs": [
+    {
+      "name": "Pyrukynd",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/635841?name=766&mode=orpha&region=",
+      "regulatory_id": "635841",
+      "orpha_substance_code": "ORPHA:766",
+      "details": [
+        "Pyrukynd(Tradename                        - 09/11/2022)Disease(s) concernedORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+        "Pyrukynd(Tradename                        - 09/11/2022)",
+        "(Tradename                        - 09/11/2022)",
+        "Disease(s) concernedORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/623132?name=766&mode=orpha&region=&status=all",
+          "text": "Pyrukynd",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/766",
+          "text": "ORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/635841?name=766&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Autologous CD34+ cells edited with CRISPR/Cas9 and transduced with an adeno-associated virus vector serotype 6 containing the codon-optimized version of PKLR gene",
+      "substance_url": "/en/drug/substance/628215?name=766&mode=orpha&region=&status=all",
+      "substance_id": "628215",
+      "regulatory_url": "/en/drug/regulatory/628216?name=766&mode=orpha&region=",
+      "regulatory_id": "628216",
+      "orpha_substance_code": "ORPHA:766",
+      "details": [
+        "Autologous CD34+ cells edited with CRISPR/Cas9 and transduced with an adeno-associated virus vector serotype 6 containing the codon-optimized version of PKLR gene(Medicinal product                        - 24/02/2022)Disease(s) concernedORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+        "Autologous CD34+ cells edited with CRISPR/Cas9 and transduced with an adeno-associated virus vector serotype 6 containing the codon-optimized version of PKLR gene(Medicinal product                        - 24/02/2022)",
+        "(Medicinal product                        - 24/02/2022)",
+        "Disease(s) concernedORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/628215?name=766&mode=orpha&region=&status=all",
+          "text": "Autologous CD34+ cells edited with CRISPR/Cas9 and transduced with an adeno-associated virus vector serotype 6 containing the codon-optimized version of PKLR gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/766",
+          "text": "ORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/628216?name=766&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Mitapivat sulfate",
+      "substance_url": "/en/drug/substance/504971?name=766&mode=orpha&region=&status=all",
+      "substance_id": "504971",
+      "regulatory_url": "/en/drug/regulatory/590144?name=766&mode=orpha&region=",
+      "regulatory_id": "590144",
+      "orpha_substance_code": "ORPHA:766",
+      "details": [
+        "Mitapivat sulfate(Medicinal product                        - 22/04/2020)Disease(s) concernedORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+        "Mitapivat sulfate(Medicinal product                        - 22/04/2020)",
+        "(Medicinal product                        - 22/04/2020)",
+        "Disease(s) concernedORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/504971?name=766&mode=orpha&region=&status=all",
+          "text": "Mitapivat sulfate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/766",
+          "text": "ORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/590144?name=766&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Lentiviral vector containing the human liver and erythroid pyruvate kinase (PKLR) gene",
+      "substance_url": "/en/drug/substance/406532?name=766&mode=orpha&region=&status=all",
+      "substance_id": "406532",
+      "regulatory_url": "/en/drug/regulatory/412031?name=766&mode=orpha&region=",
+      "regulatory_id": "412031",
+      "orpha_substance_code": "ORPHA:766",
+      "details": [
+        "Lentiviral vector containing the human liver and erythroid pyruvate kinase (PKLR) gene(Medicinal product                        - 22/08/2014)Disease(s) concernedORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+        "Lentiviral vector containing the human liver and erythroid pyruvate kinase (PKLR) gene(Medicinal product                        - 22/08/2014)",
+        "(Medicinal product                        - 22/08/2014)",
+        "Disease(s) concernedORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/406532?name=766&mode=orpha&region=&status=all",
+          "text": "Lentiviral vector containing the human liver and erythroid pyruvate kinase (PKLR) gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/766",
+          "text": "ORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/412031?name=766&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Pyrukynd",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/623133?name=766&mode=orpha&region=",
+      "regulatory_id": "623133",
+      "orpha_substance_code": "ORPHA:766",
+      "details": [
+        "Pyrukynd(Tradename                        - 17/02/2022)Disease(s) concernedORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+        "Pyrukynd(Tradename                        - 17/02/2022)",
+        "(Tradename                        - 17/02/2022)",
+        "Disease(s) concernedORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/623132?name=766&mode=orpha&region=&status=all",
+          "text": "Pyrukynd",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/766",
+          "text": "ORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/623133?name=766&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Autologous CD34+ cells edited with CRISPR/Cas9 and transduced with an adeno-associated virus vector serotype 6 containing the codon-optimized version of PKLR gene",
+      "substance_url": "/en/drug/substance/628215?name=766&mode=orpha&region=&status=all",
+      "substance_id": "628215",
+      "regulatory_url": "/en/drug/regulatory/644818?name=766&mode=orpha&region=",
+      "regulatory_id": "644818",
+      "orpha_substance_code": "ORPHA:766",
+      "details": [
+        "Autologous CD34+ cells edited with CRISPR/Cas9 and transduced with an adeno-associated virus vector serotype 6 containing the codon-optimized version of PKLR gene(Medicinal product                        - 07/03/2023)Disease(s) concernedORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+        "Autologous CD34+ cells edited with CRISPR/Cas9 and transduced with an adeno-associated virus vector serotype 6 containing the codon-optimized version of PKLR gene(Medicinal product                        - 07/03/2023)",
+        "(Medicinal product                        - 07/03/2023)",
+        "Disease(s) concernedORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/628215?name=766&mode=orpha&region=&status=all",
+          "text": "Autologous CD34+ cells edited with CRISPR/Cas9 and transduced with an adeno-associated virus vector serotype 6 containing the codon-optimized version of PKLR gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/766",
+          "text": "ORPHA:766 Hemolytic anemia due to red cell pyruvate kinase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/644818?name=766&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:03:32.491636",
+  "run_number": 1,
+  "total_drugs_found": 6,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Hemolytic+anemia+due+to+red+cell+pyruvate+kinase+deficiency&orphaCode=766&name=766&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Hemolytic anemia due to red cell pyruvate kinase deficiency",
+    "orphaCode": "766",
+    "name": "766",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

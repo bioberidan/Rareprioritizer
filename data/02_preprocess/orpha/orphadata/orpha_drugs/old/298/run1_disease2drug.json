@@ -1,0 +1,370 @@
+{
+  "disease_name": "Mitochondrial neurogastrointestinal encephalomyopathy",
+  "orpha_code": "298",
+  "drugs": [
+    {
+      "name": "Adeno-associated virus vector serotype 8 containing the human TYMP gene (CpG-depleted)",
+      "substance_url": "/en/drug/substance/686836?name=298&mode=orpha&region=&status=all",
+      "substance_id": "686836",
+      "regulatory_url": "/en/drug/regulatory/686924?name=298&mode=orpha&region=",
+      "regulatory_id": "686924",
+      "orpha_substance_code": "ORPHA:298",
+      "details": [
+        "Adeno-associated virus vector serotype 8 containing the human TYMP gene (CpG-depleted)(Medicinal product                        - 25/07/2024)Disease(s) concernedORPHA:298 Mitochondrial neurogastrointestinal encephalomyopathy",
+        "Adeno-associated virus vector serotype 8 containing the human TYMP gene (CpG-depleted)(Medicinal product                        - 25/07/2024)",
+        "(Medicinal product                        - 25/07/2024)",
+        "Disease(s) concernedORPHA:298 Mitochondrial neurogastrointestinal encephalomyopathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/686836?name=298&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus vector serotype 8 containing the human TYMP gene (CpG-depleted)",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/298",
+          "text": "ORPHA:298 Mitochondrial neurogastrointestinal encephalomyopathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/686924?name=298&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Vector based on an adeno-associated virus serotype 2 backbone, pseudo-serotyped with a type 8 capsid, which carries the coding sequence of the human TYMP gene under the control of the human thyroxine binding globulin promoter",
+      "substance_url": "/en/drug/substance/406542?name=298&mode=orpha&region=&status=all",
+      "substance_id": "406542",
+      "regulatory_url": "/en/drug/regulatory/412236?name=298&mode=orpha&region=",
+      "regulatory_id": "412236",
+      "orpha_substance_code": "ORPHA:298",
+      "details": [
+        "Vector based on an adeno-associated virus serotype 2 backbone, pseudo-serotyped with a type 8 capsid, which carries the coding sequence of the human TYMP gene under the control of the human thyroxine binding globulin promoter(Medicinal product                        - 22/08/2014)Disease(s) concernedORPHA:298 Mitochondrial neurogastrointestinal encephalomyopathy",
+        "Vector based on an adeno-associated virus serotype 2 backbone, pseudo-serotyped with a type 8 capsid, which carries the coding sequence of the human TYMP gene under the control of the human thyroxine binding globulin promoter(Medicinal product                        - 22/08/2014)",
+        "(Medicinal product                        - 22/08/2014)",
+        "Disease(s) concernedORPHA:298 Mitochondrial neurogastrointestinal encephalomyopathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/406542?name=298&mode=orpha&region=&status=all",
+          "text": "Vector based on an adeno-associated virus serotype 2 backbone, pseudo-serotyped with a type 8 capsid, which carries the coding sequence of the human TYMP gene under the control of the human thyroxine binding globulin promoter",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/298",
+          "text": "ORPHA:298 Mitochondrial neurogastrointestinal encephalomyopathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/412236?name=298&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Recombinant thymidine phosphorylase encapsulated in autologous erythrocytes",
+      "substance_url": "/en/drug/substance/252239?name=298&mode=orpha&region=&status=all",
+      "substance_id": "252239",
+      "regulatory_url": "/en/drug/regulatory/275142?name=298&mode=orpha&region=",
+      "regulatory_id": "275142",
+      "orpha_substance_code": "ORPHA:298",
+      "details": [
+        "Recombinant thymidine phosphorylase encapsulated in autologous erythrocytes(Medicinal product                        - 15/04/2011)Disease(s) concernedORPHA:298 Mitochondrial neurogastrointestinal encephalomyopathy",
+        "Recombinant thymidine phosphorylase encapsulated in autologous erythrocytes(Medicinal product                        - 15/04/2011)",
+        "(Medicinal product                        - 15/04/2011)",
+        "Disease(s) concernedORPHA:298 Mitochondrial neurogastrointestinal encephalomyopathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/252239?name=298&mode=orpha&region=&status=all",
+          "text": "Recombinant thymidine phosphorylase encapsulated in autologous erythrocytes",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/298",
+          "text": "ORPHA:298 Mitochondrial neurogastrointestinal encephalomyopathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/275142?name=298&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Adenoassociated virus vector (AAV) carrying a modified AAV serotype 2 backbone and coding sequence of human thymidine phosphorylase preceded by a human thyroxin-binding globulin promoter",
+      "substance_url": "/en/drug/substance/412975?name=298&mode=orpha&region=&status=all",
+      "substance_id": "412975",
+      "regulatory_url": "/en/drug/regulatory/412976?name=298&mode=orpha&region=",
+      "regulatory_id": "412976",
+      "orpha_substance_code": "ORPHA:298",
+      "details": [
+        "Adenoassociated virus vector (AAV) carrying a modified AAV serotype 2 backbone and coding sequence of human thymidine phosphorylase preceded by a human thyroxin-binding globulin promoter(Medicinal product                        - 04/09/2014)Disease(s) concernedORPHA:298 Mitochondrial neurogastrointestinal encephalomyopathy",
+        "Adenoassociated virus vector (AAV) carrying a modified AAV serotype 2 backbone and coding sequence of human thymidine phosphorylase preceded by a human thyroxin-binding globulin promoter(Medicinal product                        - 04/09/2014)",
+        "(Medicinal product                        - 04/09/2014)",
+        "Disease(s) concernedORPHA:298 Mitochondrial neurogastrointestinal encephalomyopathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/412975?name=298&mode=orpha&region=&status=all",
+          "text": "Adenoassociated virus vector (AAV) carrying a modified AAV serotype 2 backbone and coding sequence of human thymidine phosphorylase preceded by a human thyroxin-binding globulin promoter",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/298",
+          "text": "ORPHA:298 Mitochondrial neurogastrointestinal encephalomyopathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/412976?name=298&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Recombinant thymidine phosphorylase encapsulated in autologous erythrocytes",
+      "substance_url": "/en/drug/substance/252239?name=298&mode=orpha&region=&status=all",
+      "substance_id": "252239",
+      "regulatory_url": "/en/drug/regulatory/275145?name=298&mode=orpha&region=",
+      "regulatory_id": "275145",
+      "orpha_substance_code": "ORPHA:298",
+      "details": [
+        "Recombinant thymidine phosphorylase encapsulated in autologous erythrocytes(Medicinal product                        - 13/12/2010)Disease(s) concernedORPHA:298 Mitochondrial neurogastrointestinal encephalomyopathy",
+        "Recombinant thymidine phosphorylase encapsulated in autologous erythrocytes(Medicinal product                        - 13/12/2010)",
+        "(Medicinal product                        - 13/12/2010)",
+        "Disease(s) concernedORPHA:298 Mitochondrial neurogastrointestinal encephalomyopathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/252239?name=298&mode=orpha&region=&status=all",
+          "text": "Recombinant thymidine phosphorylase encapsulated in autologous erythrocytes",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/298",
+          "text": "ORPHA:298 Mitochondrial neurogastrointestinal encephalomyopathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/275145?name=298&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "2-(1H-imidazol-1-yl)-N-(2-(2-methoxyethoxy) pyrimidin-5-yl)-6-(trifluoromethyl) pyrimidine-4-carboxamide",
+      "substance_url": "/en/drug/substance/687120?name=298&mode=orpha&region=&status=all",
+      "substance_id": "687120",
+      "regulatory_url": "/en/drug/regulatory/687279?name=298&mode=orpha&region=",
+      "regulatory_id": "687279",
+      "orpha_substance_code": "ORPHA:206966",
+      "details": [
+        "2-(1H-imidazol-1-yl)-N-(2-(2-methoxyethoxy) pyrimidin-5-yl)-6-(trifluoromethyl) pyrimidine-4-carboxamide(Medicinal product                        - 26/08/2024)Disease(s) concernedORPHA:206966 Mitochondrial myopathy",
+        "2-(1H-imidazol-1-yl)-N-(2-(2-methoxyethoxy) pyrimidin-5-yl)-6-(trifluoromethyl) pyrimidine-4-carboxamide(Medicinal product                        - 26/08/2024)",
+        "(Medicinal product                        - 26/08/2024)",
+        "Disease(s) concernedORPHA:206966 Mitochondrial myopathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/687120?name=298&mode=orpha&region=&status=all",
+          "text": "2-(1H-imidazol-1-yl)-N-(2-(2-methoxyethoxy) pyrimidin-5-yl)-6-(trifluoromethyl) pyrimidine-4-carboxamide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/206966",
+          "text": "ORPHA:206966 Mitochondrial myopathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/687279?name=298&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/646586?name=298&mode=orpha&region=&status=all",
+      "substance_id": "646586",
+      "regulatory_url": "/en/drug/regulatory/646683?name=298&mode=orpha&region=",
+      "regulatory_id": "646683",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)",
+        "(Medicinal product                        - 14/04/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/646586?name=298&mode=orpha&region=&status=all",
+          "text": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/646683?name=298&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Zagociguat",
+      "substance_url": "/en/drug/substance/644348?name=298&mode=orpha&region=&status=all",
+      "substance_id": "644348",
+      "regulatory_url": "/en/drug/regulatory/644353?name=298&mode=orpha&region=",
+      "regulatory_id": "644353",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Zagociguat(Medicinal product                        - 23/03/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Zagociguat(Medicinal product                        - 23/03/2023)",
+        "(Medicinal product                        - 23/03/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/644348?name=298&mode=orpha&region=&status=all",
+          "text": "Zagociguat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/644353?name=298&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Vatiquinone",
+      "substance_url": "/en/drug/substance/285822?name=298&mode=orpha&region=&status=all",
+      "substance_id": "285822",
+      "regulatory_url": "/en/drug/regulatory/299940?name=298&mode=orpha&region=",
+      "regulatory_id": "299940",
+      "orpha_substance_code": "ORPHA:254827",
+      "details": [
+        "Vatiquinone(Medicinal product                        - 21/12/2010)Disease(s) concernedORPHA:223713 Mitochondrial oxidative phosphorylation disorderORPHA:254827 Mitochondrial membrane transport disorder",
+        "Vatiquinone(Medicinal product                        - 21/12/2010)",
+        "(Medicinal product                        - 21/12/2010)",
+        "Disease(s) concernedORPHA:223713 Mitochondrial oxidative phosphorylation disorderORPHA:254827 Mitochondrial membrane transport disorder",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/285822?name=298&mode=orpha&region=&status=all",
+          "text": "Vatiquinone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/223713",
+          "text": "ORPHA:223713 Mitochondrial oxidative phosphorylation disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/254827",
+          "text": "ORPHA:254827 Mitochondrial membrane transport disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/299940?name=298&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "ORPHA:254827 Mitochondrial membrane transport disorder\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:02:43.439007",
+  "run_number": 1,
+  "total_drugs_found": 9,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Mitochondrial+neurogastrointestinal+encephalomyopathy&orphaCode=298&name=298&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Mitochondrial neurogastrointestinal encephalomyopathy",
+    "orphaCode": "298",
+    "name": "298",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

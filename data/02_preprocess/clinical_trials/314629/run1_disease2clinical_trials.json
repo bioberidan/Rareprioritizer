@@ -1,0 +1,457 @@
+{
+  "disease_name": "CLN11 disease",
+  "orpha_code": "314629",
+  "trials": [
+    {
+      "nctId": "NCT04408625",
+      "briefTitle": "Phase 1/2 Clinical Trial of LY3884963 in Patients With Frontotemporal Dementia With Progranulin Mutations (FTD-GRN)",
+      "officialTitle": "A Phase 1/2 Ascending Dose Study to Evaluate the Safety and Effects on Progranulin Levels of LY3884963 in Patients With Fronto-Temporal Dementia With Progranulin Mutations (FTD-GRN)",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Frontotemporal Dementia"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "LY3884963"
+        },
+        {
+          "type": "DRUG",
+          "name": "Methylprednisolone"
+        },
+        {
+          "type": "DRUG",
+          "name": "Optional Sirolimus"
+        },
+        {
+          "type": "DRUG",
+          "name": "Optional Prednisone"
+        }
+      ],
+      "enrollment": 30,
+      "locations": [
+        {
+          "facility": "k2 Medical Research-Maitland",
+          "city": "Maitland",
+          "country": "United States"
+        },
+        {
+          "facility": "PPD Phase 1 Clinic, 100 West Gore Street, Suite 202",
+          "city": "Orlando",
+          "country": "United States"
+        },
+        {
+          "facility": "Hospital of the University of Pennsylvania, 3 West Gates Building, 3400 Spruce Street",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Royal Prince Alfred Hospital, Brain & Mind Research Institute, 94 Mallet Street",
+          "city": "Camperdown",
+          "country": "Australia"
+        },
+        {
+          "facility": "UZ Leuven, Neurologie Herestraat 49",
+          "city": "Leuven",
+          "country": "Belgium"
+        },
+        {
+          "facility": "AP-HM Hôpital de La Timone",
+          "city": "Saint-Pierre",
+          "country": "France"
+        },
+        {
+          "facility": "Centre Mémoire de Ressources",
+          "city": "Lille",
+          "country": "France"
+        },
+        {
+          "facility": "Le Ber, Institut du Cerveau et de la Moelle Epinière",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Hospital Clinic de Barcelona, Villaroel 170 Servicio de Neurología",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de Donostia, Servicio De Neurologia, Consultas Externas Neurologia, San Sebastian, Guipúzcoa",
+          "city": "San Sebastian",
+          "country": "Spain"
+        },
+        {
+          "facility": "University College London,Queen Square, Dementia Research Building, London,",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-03-18"
+    },
+    {
+      "nctId": "NCT06064890",
+      "briefTitle": "A Study to Evaluate the Safety and Effect of AVB-101, a Gene Therapy Product, in Subjects With a Genetic Sub-type of Frontotemporal Dementia (FTD-GRN)",
+      "officialTitle": "A Phase 1/2 Open-Label, Ascending Dose, Multicenter Study to Evaluate the Safety and Preliminary Efficacy of AVB-101 Administered by Bilateral Intrathalamic Infusion in Subjects With Frontotemporal Dementia With Progranulin Mutations (FTD-GRN)",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Frontotemporal Dementia",
+        "FTD",
+        "FTD-GRN",
+        "Dementia, Frontotemporal"
+      ],
+      "interventions": [
+        {
+          "type": "PROCEDURE",
+          "name": "Intrathalamic AAV.PGRN administration"
+        },
+        {
+          "type": "GENETIC",
+          "name": "Intrathalamic AVB-101"
+        }
+      ],
+      "enrollment": 9,
+      "locations": [
+        {
+          "facility": "The Ohio State University (OSU) Wexner Medical Center",
+          "city": "Columbus",
+          "country": "United States"
+        },
+        {
+          "facility": "Vanderbilt University Medical Centre",
+          "city": "Nashville",
+          "country": "United States"
+        },
+        {
+          "facility": "Houston Methodist Hospital",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "Amsterdam UMC",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "NEURO-CARE Sp. z o.o. Sp. Komandytowa",
+          "city": "Katowice",
+          "country": "Poland"
+        },
+        {
+          "facility": "Neurologia Slaska Centrum Medyczne",
+          "city": "Katowice",
+          "country": "Poland"
+        },
+        {
+          "facility": "Uniwersyteckie Centrum Kliniczne, SUM w Katowicach",
+          "city": "Katowice",
+          "country": "Poland"
+        },
+        {
+          "facility": "Euromedis Sp. z o.o.",
+          "city": "Szczecin",
+          "country": "Poland"
+        },
+        {
+          "facility": "Centrum Medyczne NeuroProtect Sp z o.o.",
+          "city": "Warsaw",
+          "country": "Poland"
+        },
+        {
+          "facility": "Mazowiecki Szpital Brodnowski Sp. z o. o.",
+          "city": "Warsaw",
+          "country": "Poland"
+        },
+        {
+          "facility": "Hospital Clinic Barcelona",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitari i Politecnic La Fe",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Skåne University Hospital",
+          "city": "Lund",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Cambridge University Hospitals NHS Foundation Trust",
+          "city": "Cambridge",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "University Hospital of Wales",
+          "city": "Cardiff",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-04-22"
+    },
+    {
+      "nctId": "NCT04374136",
+      "briefTitle": "A Phase 3 Study to Evaluate Efficacy and Safety of AL001 in Frontotemporal Dementia (INFRONT-3)",
+      "officialTitle": "A Phase 3, Multicenter, Randomized, Double Blind, Placebo Controlled Study to Evaluate the Efficacy and Safety of AL001 in Individuals at Risk for or With Frontotemporal Dementia Due to Heterozygous Mutations in the Progranulin Gene",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Frontotemporal Dementia"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "AL001"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        },
+        {
+          "type": "DRUG",
+          "name": "Open label - AL001"
+        }
+      ],
+      "enrollment": 110,
+      "locations": [
+        {
+          "facility": "Dignity Health",
+          "city": "Phoenix",
+          "country": "United States"
+        },
+        {
+          "facility": "University of California San Diego",
+          "city": "La Jolla",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Colorado",
+          "city": "Aurora",
+          "country": "United States"
+        },
+        {
+          "facility": "Emory University",
+          "city": "Atlanta",
+          "country": "United States"
+        },
+        {
+          "facility": "Indiana University Health Neuroscience Center",
+          "city": "Indianapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Kansas Alzheimer's Disease Center",
+          "city": "Fairway",
+          "country": "United States"
+        },
+        {
+          "facility": "Johns Hopkins University School of Medicine",
+          "city": "Baltimore",
+          "country": "United States"
+        },
+        {
+          "facility": "Mayo Comprehensive Cancer Center - PPDS",
+          "city": "Rochester",
+          "country": "United States"
+        },
+        {
+          "facility": "Irving Institute for Clinical and Translational Research",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "University Of Cincinnati Gardner Neuroscience institute",
+          "city": "Cincinnati",
+          "country": "United States"
+        },
+        {
+          "facility": "Oregon Health and Science University",
+          "city": "Portland",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Pennsylvania",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Vanderbilt University Medical Center",
+          "city": "Nashville",
+          "country": "United States"
+        },
+        {
+          "facility": "Houston Methodist Institute for Academic Medicine",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "Fundación Para La Lucha Contra Las Enfermedades Neurológicas de La Infancia",
+          "city": "Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Box Hill Hospital",
+          "city": "Box Hill",
+          "country": "Australia"
+        },
+        {
+          "facility": "The Queen Elizabeth Hospital",
+          "city": "Woodville",
+          "country": "Australia"
+        },
+        {
+          "facility": "UZ Leuven",
+          "city": "Leuven",
+          "country": "Belgium"
+        },
+        {
+          "facility": "The University of Western Ontario",
+          "city": "London",
+          "country": "Canada"
+        },
+        {
+          "facility": "Sunnybrook Research Institute - University of Toronto",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "CHU de Bordeaux",
+          "city": "Bordeaux",
+          "country": "France"
+        },
+        {
+          "facility": "CHRU Lille",
+          "city": "Lille",
+          "country": "France"
+        },
+        {
+          "facility": "Groupe Hospitalier Pitié Salpétrière",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Uniklinik Köln",
+          "city": "Köln",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitätsklinikum Ulm",
+          "city": "Ulm",
+          "country": "Germany"
+        },
+        {
+          "facility": "Eginitio University General Hospital of Athens - 1st University Neurology Clinic",
+          "city": "Athens",
+          "country": "Greece"
+        },
+        {
+          "facility": "University General Hospital of Alexandroupolis - Department of Neurology",
+          "city": "Alexandroupoli",
+          "country": "Greece"
+        },
+        {
+          "facility": "Nuovo Ospedale Civile S. Agostino-Estense di Baggiovara",
+          "city": "Baggiovara",
+          "country": "Italy"
+        },
+        {
+          "facility": "ASST degli Spedali Civili di Brescia - Spedali Civili di Brescia",
+          "city": "Brescia",
+          "country": "Italy"
+        },
+        {
+          "facility": "IRCCS - Centro S. Giovanni di Dio Fatebenefratelli",
+          "city": "Brescia",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione IRCCS Cà Granda Ospedale Maggiore Policlinico",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione IRCCS Di Rilievo Nazionale Istituto Nazionale Neurologico Carlo Besta",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "PIA Fondazione Panico",
+          "city": "Tricase",
+          "country": "Italy"
+        },
+        {
+          "facility": "Erasmus MC",
+          "city": "Rotterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Centro Hospitalar E Universitário de Coimbra EPE",
+          "city": "Coimbra",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Centro Hospitalar de Lisboa Norte, EPE - Hospital de Santa Maria",
+          "city": "Lisboa",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Hospital CUF Descobertas",
+          "city": "Lisboa",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Centro Hospitalar do Porto - Hospital de Santo António",
+          "city": "Porto",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Hospital Clinic de Barcelona",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de Donostia",
+          "city": "Donostia-san Sebastián",
+          "country": "Spain"
+        },
+        {
+          "facility": "Karolinska Universitetssjukhuset Huddinge - PPDS",
+          "city": "Huddinge",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Felix Platter Spital",
+          "city": "Basel",
+          "country": "Switzerland"
+        },
+        {
+          "facility": "Istanbul University Medical Faculty",
+          "city": "Istanbul",
+          "country": "Turkey"
+        },
+        {
+          "facility": "University College London",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-06-08"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:12:59.213384",
+  "run_number": 1,
+  "total_trials_found": 3
+}

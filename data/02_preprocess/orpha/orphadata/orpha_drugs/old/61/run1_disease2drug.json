@@ -1,0 +1,170 @@
+{
+  "disease_name": "Alpha-mannosidosis",
+  "orpha_code": "61",
+  "drugs": [
+    {
+      "name": "LAMZEDE",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/505832?name=61&mode=orpha&region=",
+      "regulatory_id": "505832",
+      "orpha_substance_code": "ORPHA:61",
+      "details": [
+        "LAMZEDE(Tradename                        - 23/03/2018)Disease(s) concernedORPHA:61 Alpha-mannosidosis",
+        "LAMZEDE(Tradename                        - 23/03/2018)",
+        "(Tradename                        - 23/03/2018)",
+        "Disease(s) concernedORPHA:61 Alpha-mannosidosis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/505801?name=61&mode=orpha&region=&status=all",
+          "text": "LAMZEDE",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/61",
+          "text": "ORPHA:61 Alpha-mannosidosis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/505832?name=61&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Lamazym",
+      "substance_url": "/en/drug/substance/79947?name=61&mode=orpha&region=&status=all",
+      "substance_id": "79947",
+      "regulatory_url": "/en/drug/regulatory/133939?name=61&mode=orpha&region=",
+      "regulatory_id": "133939",
+      "orpha_substance_code": "ORPHA:61",
+      "details": [
+        "Lamazym(Medicinal product                        - 26/01/2005)Disease(s) concernedORPHA:61 Alpha-mannosidosis",
+        "Lamazym(Medicinal product                        - 26/01/2005)",
+        "(Medicinal product                        - 26/01/2005)",
+        "Disease(s) concernedORPHA:61 Alpha-mannosidosis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/79947?name=61&mode=orpha&region=&status=all",
+          "text": "Lamazym",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/61",
+          "text": "ORPHA:61 Alpha-mannosidosis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/133939?name=61&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "LAMZEDE",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/642509?name=61&mode=orpha&region=",
+      "regulatory_id": "642509",
+      "orpha_substance_code": "ORPHA:61",
+      "details": [
+        "LAMZEDE(Tradename                        - 16/02/2023)Disease(s) concernedORPHA:61 Alpha-mannosidosis",
+        "LAMZEDE(Tradename                        - 16/02/2023)",
+        "(Tradename                        - 16/02/2023)",
+        "Disease(s) concernedORPHA:61 Alpha-mannosidosis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/505801?name=61&mode=orpha&region=&status=all",
+          "text": "LAMZEDE",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/61",
+          "text": "ORPHA:61 Alpha-mannosidosis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/642509?name=61&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Lamazym",
+      "substance_url": "/en/drug/substance/79947?name=61&mode=orpha&region=&status=all",
+      "substance_id": "79947",
+      "regulatory_url": "/en/drug/regulatory/132041?name=61&mode=orpha&region=",
+      "regulatory_id": "132041",
+      "orpha_substance_code": "ORPHA:61",
+      "details": [
+        "Lamazym(Medicinal product                        - 02/02/2006)Disease(s) concernedORPHA:61 Alpha-mannosidosis",
+        "Lamazym(Medicinal product                        - 02/02/2006)",
+        "(Medicinal product                        - 02/02/2006)",
+        "Disease(s) concernedORPHA:61 Alpha-mannosidosis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/79947?name=61&mode=orpha&region=&status=all",
+          "text": "Lamazym",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/61",
+          "text": "ORPHA:61 Alpha-mannosidosis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/132041?name=61&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:00:08.821978",
+  "run_number": 1,
+  "total_drugs_found": 4,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Alpha-mannosidosis&orphaCode=61&name=61&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Alpha-mannosidosis",
+    "orphaCode": "61",
+    "name": "61",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

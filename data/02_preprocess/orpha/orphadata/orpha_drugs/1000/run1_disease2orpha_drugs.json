@@ -1,0 +1,17 @@
+{
+  "disease_name": "Ocular albinism with late-onset sensorineural deafness",
+  "orpha_code": "1000",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:40:32.421439",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Ocular+albinism+with+late-onset+sensorineural+deafness&orphaCode=1000&name=1000&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Ocular albinism with late-onset sensorineural deafness",
+    "orphaCode": "1000",
+    "name": "1000",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

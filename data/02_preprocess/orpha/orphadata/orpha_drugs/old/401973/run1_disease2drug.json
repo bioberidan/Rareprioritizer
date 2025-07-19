@@ -1,0 +1,17 @@
+{
+  "disease_name": "MEND syndrome",
+  "orpha_code": "401973",
+  "drugs": [],
+  "processing_timestamp": "2025-07-07T06:04:10.945982",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=MEND+syndrome&orphaCode=401973&name=401973&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "MEND syndrome",
+    "orphaCode": "401973",
+    "name": "401973",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

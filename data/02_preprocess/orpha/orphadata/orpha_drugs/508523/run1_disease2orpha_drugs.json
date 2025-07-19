@@ -1,0 +1,78 @@
+{
+  "disease_name": "Hyperphenylalaninemia due to DNAJC12 deficiency",
+  "orpha_code": "508523",
+  "drugs": [
+    {
+      "name": "Adeno-associated virus vector serotype SNY001 containing the human PAH gene",
+      "substance_url": "/en/drug/substance/695211?name=508523&mode=orpha&region=&status=all",
+      "substance_id": "695211",
+      "regulatory_url": "/en/drug/regulatory/695273?name=508523&mode=orpha&region=",
+      "regulatory_id": "695273",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "2,4-Diamino-5-[[5-(1H-pyrazol-5-yl)-2-thienyl]methyl]-1H-pyrimidin-6-one",
+      "substance_url": "/en/drug/substance/676581?name=508523&mode=orpha&region=&status=all",
+      "substance_id": "676581",
+      "regulatory_url": "/en/drug/regulatory/676596?name=508523&mode=orpha&region=",
+      "regulatory_id": "676596",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Escherichia coli, strain Nissle 1917, expressing high affinity phenylalanine transporter, modified phenylalanine ammonia lyase (S92G, H133M, I167K, L432I, V470A) and L-amino acid deaminase",
+      "substance_url": "/en/drug/substance/646345?name=508523&mode=orpha&region=&status=all",
+      "substance_id": "646345",
+      "regulatory_url": "/en/drug/regulatory/646346?name=508523&mode=orpha&region=",
+      "regulatory_id": "646346",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Sepiapterin",
+      "substance_url": "/en/drug/substance/627485?name=508523&mode=orpha&region=&status=all",
+      "substance_id": "627485",
+      "regulatory_url": "/en/drug/regulatory/627490?name=508523&mode=orpha&region=",
+      "regulatory_id": "627490",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Escherichia coli, strain Nissle 1917, expressing high affinity phenylalanine transporter, phenylalanine ammonia lyase and L-amino acid deaminase",
+      "substance_url": "/en/drug/substance/628462?name=508523&mode=orpha&region=&status=all",
+      "substance_id": "628462",
+      "regulatory_url": "/en/drug/regulatory/628464?name=508523&mode=orpha&region=",
+      "regulatory_id": "628464",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:42:31.935025",
+  "run_number": 1,
+  "total_drugs_found": 5,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Hyperphenylalaninemia+due+to+DNAJC12+deficiency&orphaCode=508523&name=508523&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Hyperphenylalaninemia due to DNAJC12 deficiency",
+    "orphaCode": "508523",
+    "name": "508523",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

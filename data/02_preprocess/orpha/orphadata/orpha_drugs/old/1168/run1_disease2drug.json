@@ -1,0 +1,115 @@
+{
+  "disease_name": "Ataxia-oculomotor apraxia type 1",
+  "orpha_code": "1168",
+  "drugs": [
+    {
+      "name": "Acetylleucine",
+      "substance_url": "/en/drug/substance/479413?name=1168&mode=orpha&region=&status=all",
+      "substance_id": "479413",
+      "regulatory_url": "/en/drug/regulatory/673778?name=1168&mode=orpha&region=",
+      "regulatory_id": "673778",
+      "orpha_substance_code": "ORPHA:459033",
+      "details": [
+        "Acetylleucine(Medicinal product                        - 16/04/2024)Disease(s) concernedORPHA:1168 Ataxia-oculomotor apraxia type 1ORPHA:64753 Spinocerebellar ataxia with axonal neuropathy type 2ORPHA:459033 Ataxia-oculomotor apraxia type 4",
+        "Acetylleucine(Medicinal product                        - 16/04/2024)",
+        "(Medicinal product                        - 16/04/2024)",
+        "Disease(s) concernedORPHA:1168 Ataxia-oculomotor apraxia type 1ORPHA:64753 Spinocerebellar ataxia with axonal neuropathy type 2ORPHA:459033 Ataxia-oculomotor apraxia type 4",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/479413?name=1168&mode=orpha&region=&status=all",
+          "text": "Acetylleucine",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/1168",
+          "text": "ORPHA:1168 Ataxia-oculomotor apraxia type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/64753",
+          "text": "ORPHA:64753 Spinocerebellar ataxia with axonal neuropathy type 2",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/459033",
+          "text": "ORPHA:459033 Ataxia-oculomotor apraxia type 4",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/673778?name=1168&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Ceftriaxone",
+      "substance_url": "/en/drug/substance/418160?name=1168&mode=orpha&region=&status=all",
+      "substance_id": "418160",
+      "regulatory_url": "/en/drug/regulatory/437311?name=1168&mode=orpha&region=",
+      "regulatory_id": "437311",
+      "orpha_substance_code": "ORPHA:247765",
+      "details": [
+        "Ceftriaxone(Medicinal product                        - 15/01/2015)Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxiaORPHA:1172 Autosomal recessive cerebellar ataxiaORPHA:247765 X-linked cerebellar ataxia",
+        "Ceftriaxone(Medicinal product                        - 15/01/2015)",
+        "(Medicinal product                        - 15/01/2015)",
+        "Disease(s) concernedORPHA:99 Autosomal dominant cerebellar ataxiaORPHA:1172 Autosomal recessive cerebellar ataxiaORPHA:247765 X-linked cerebellar ataxia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/418160?name=1168&mode=orpha&region=&status=all",
+          "text": "Ceftriaxone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/99",
+          "text": "ORPHA:99 Autosomal dominant cerebellar ataxia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/1172",
+          "text": "ORPHA:1172 Autosomal recessive cerebellar ataxia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/247765",
+          "text": "ORPHA:247765 X-linked cerebellar ataxia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/437311?name=1168&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:01:59.558319",
+  "run_number": 1,
+  "total_drugs_found": 2,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Ataxia-oculomotor+apraxia+type+1&orphaCode=1168&name=1168&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Ataxia-oculomotor apraxia type 1",
+    "orphaCode": "1168",
+    "name": "1168",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

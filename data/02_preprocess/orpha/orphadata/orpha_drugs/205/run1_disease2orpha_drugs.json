@@ -1,0 +1,114 @@
+{
+  "disease_name": "Crigler-Najjar syndrome",
+  "orpha_code": "205",
+  "drugs": [
+    {
+      "name": "Modified mRNA encoding the UGT1A1 protein",
+      "substance_url": "/en/drug/substance/480199?name=205&mode=orpha&region=&status=all",
+      "substance_id": "480199",
+      "regulatory_url": "/en/drug/regulatory/480201?name=205&mode=orpha&region=",
+      "regulatory_id": "480201",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Adeno-associated viral vector serotype 8 containing the human UGT1A1 gene",
+      "substance_url": "/en/drug/substance/406528?name=205&mode=orpha&region=&status=all",
+      "substance_id": "406528",
+      "regulatory_url": "/en/drug/regulatory/414159?name=205&mode=orpha&region=",
+      "regulatory_id": "414159",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Heterologous human adult liver derived stem cells",
+      "substance_url": "/en/drug/substance/102674?name=205&mode=orpha&region=&status=all",
+      "substance_id": "102674",
+      "regulatory_url": "/en/drug/regulatory/134180?name=205&mode=orpha&region=",
+      "regulatory_id": "134180",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Adeno -associated viral vector serotype 8  containing the human functional version of UGT1A1 gene",
+      "substance_url": "/en/drug/substance/516992?name=205&mode=orpha&region=&status=all",
+      "substance_id": "516992",
+      "regulatory_url": "/en/drug/regulatory/485026?name=205&mode=orpha&region=",
+      "regulatory_id": "485026",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "rAAV8-hUGT1A1",
+      "substance_url": "/en/drug/substance/689451?name=205&mode=orpha&region=&status=all",
+      "substance_id": "689451",
+      "regulatory_url": "/en/drug/regulatory/689621?name=205&mode=orpha&region=",
+      "regulatory_id": "689621",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=205&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=205&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=205&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=205&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=205&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=205&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:43:24.648751",
+  "run_number": 1,
+  "total_drugs_found": 8,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Crigler-Najjar+syndrome&orphaCode=205&name=205&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Crigler-Najjar syndrome",
+    "orphaCode": "205",
+    "name": "205",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

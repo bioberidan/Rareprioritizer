@@ -1,0 +1,24 @@
+{
+  "orphacode": "212",
+  "disease_name": "Cystathioninuria",
+  "groups": [
+    {
+      "unit_name": "CIBERER Biobank",
+      "sources": [
+        {
+          "label": "Ancient origin of the CTH alelle carrying the c.200C>T (p.T67I) variant in patients with cystathioninuria",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20584029/"
+        },
+        {
+          "label": "CIBERER Biobank (official website)",
+          "url": "https://www.ciberer-biobank.es/"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "processing_timestamp": "2025-07-18T18:10:30.846250",
+    "run_number": 1,
+    "orphacode": "212"
+  }
+}

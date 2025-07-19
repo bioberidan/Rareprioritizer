@@ -1,0 +1,1274 @@
+{
+  "disease_name": "X-linked adrenoleukodystrophy",
+  "orpha_code": "43",
+  "drugs": [
+    {
+      "name": "potassium 2-chloro-3-(1-hydroxy-5,6,7,8-tetrahydronaphthalen-2-yl)-6-oxo- 5-phenyl-6,7-dihydrothieno[2, 3-b]pyridin-4-olate hydrate",
+      "substance_url": "/en/drug/substance/631641?name=43&mode=orpha&region=&status=all",
+      "substance_id": "631641",
+      "regulatory_url": "/en/drug/regulatory/638755?name=43&mode=orpha&region=",
+      "regulatory_id": "638755",
+      "orpha_substance_code": "ORPHA:43",
+      "details": [
+        "potassium 2-chloro-3-(1-hydroxy-5,6,7,8-tetrahydronaphthalen-2-yl)-6-oxo- 5-phenyl-6,7-dihydrothieno[2, 3-b]pyridin-4-olate hydrate(Medicinal product                        - 09/12/2022)Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "potassium 2-chloro-3-(1-hydroxy-5,6,7,8-tetrahydronaphthalen-2-yl)-6-oxo- 5-phenyl-6,7-dihydrothieno[2, 3-b]pyridin-4-olate hydrate(Medicinal product                        - 09/12/2022)",
+        "(Medicinal product                        - 09/12/2022)",
+        "Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/631641?name=43&mode=orpha&region=&status=all",
+          "text": "potassium 2-chloro-3-(1-hydroxy-5,6,7,8-tetrahydronaphthalen-2-yl)-6-oxo- 5-phenyl-6,7-dihydrothieno[2, 3-b]pyridin-4-olate hydrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/43",
+          "text": "ORPHA:43 X-linked adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/638755?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "(R)-deuteropioglitazone hydrochlorid",
+      "substance_url": "/en/drug/substance/635843?name=43&mode=orpha&region=&status=all",
+      "substance_id": "635843",
+      "regulatory_url": "/en/drug/regulatory/635844?name=43&mode=orpha&region=",
+      "regulatory_id": "635844",
+      "orpha_substance_code": "ORPHA:43",
+      "details": [
+        "(R)-deuteropioglitazone hydrochlorid(Medicinal product                        - 10/11/2022)Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "(R)-deuteropioglitazone hydrochlorid(Medicinal product                        - 10/11/2022)",
+        "(Medicinal product                        - 10/11/2022)",
+        "Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/635843?name=43&mode=orpha&region=&status=all",
+          "text": "(R)-deuteropioglitazone hydrochlorid",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/43",
+          "text": "ORPHA:43 X-linked adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/635844?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector serotype 9 containing the human ABCD1 gene",
+      "substance_url": "/en/drug/substance/635846?name=43&mode=orpha&region=&status=all",
+      "substance_id": "635846",
+      "regulatory_url": "/en/drug/regulatory/635847?name=43&mode=orpha&region=",
+      "regulatory_id": "635847",
+      "orpha_substance_code": "ORPHA:43",
+      "details": [
+        "Adeno-associated viral vector serotype 9 containing the human ABCD1 gene(Medicinal product                        - 10/11/2022)Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "Adeno-associated viral vector serotype 9 containing the human ABCD1 gene(Medicinal product                        - 10/11/2022)",
+        "(Medicinal product                        - 10/11/2022)",
+        "Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/635846?name=43&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector serotype 9 containing the human ABCD1 gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/43",
+          "text": "ORPHA:43 X-linked adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/635847?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Dimethyl fumarate",
+      "substance_url": "/en/drug/substance/480330?name=43&mode=orpha&region=&status=all",
+      "substance_id": "480330",
+      "regulatory_url": "/en/drug/regulatory/626988?name=43&mode=orpha&region=",
+      "regulatory_id": "626988",
+      "orpha_substance_code": "ORPHA:43",
+      "details": [
+        "Dimethyl fumarate(Medicinal product                        - 09/01/2020)Disease(s) concernedORPHA:44 Neonatal adrenoleukodystrophyORPHA:2971 Peroxisomal acyl-CoA oxidase deficiencyORPHA:43 X-linked adrenoleukodystrophy",
+        "Dimethyl fumarate(Medicinal product                        - 09/01/2020)",
+        "(Medicinal product                        - 09/01/2020)",
+        "Disease(s) concernedORPHA:44 Neonatal adrenoleukodystrophyORPHA:2971 Peroxisomal acyl-CoA oxidase deficiencyORPHA:43 X-linked adrenoleukodystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/480330?name=43&mode=orpha&region=&status=all",
+          "text": "Dimethyl fumarate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/44",
+          "text": "ORPHA:44 Neonatal adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2971",
+          "text": "ORPHA:2971 Peroxisomal acyl-CoA oxidase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/43",
+          "text": "ORPHA:43 X-linked adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/626988?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Hydroxypioglitazone",
+      "substance_url": "/en/drug/substance/485024?name=43&mode=orpha&region=&status=all",
+      "substance_id": "485024",
+      "regulatory_url": "/en/drug/regulatory/485025?name=43&mode=orpha&region=",
+      "regulatory_id": "485025",
+      "orpha_substance_code": "ORPHA:43",
+      "details": [
+        "Hydroxypioglitazone(Medicinal product                        - 18/11/2016)Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "Hydroxypioglitazone(Medicinal product                        - 18/11/2016)",
+        "(Medicinal product                        - 18/11/2016)",
+        "Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/485024?name=43&mode=orpha&region=&status=all",
+          "text": "Hydroxypioglitazone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/43",
+          "text": "ORPHA:43 X-linked adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/485025?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Pioglitazone",
+      "substance_url": "/en/drug/substance/376874?name=43&mode=orpha&region=&status=all",
+      "substance_id": "376874",
+      "regulatory_url": "/en/drug/regulatory/398146?name=43&mode=orpha&region=",
+      "regulatory_id": "398146",
+      "orpha_substance_code": "ORPHA:43",
+      "details": [
+        "Pioglitazone(Medicinal product                        - 19/02/2014)Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "Pioglitazone(Medicinal product                        - 19/02/2014)",
+        "(Medicinal product                        - 19/02/2014)",
+        "Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/376874?name=43&mode=orpha&region=&status=all",
+          "text": "Pioglitazone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/43",
+          "text": "ORPHA:43 X-linked adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/398146?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Autologous haematopoietic stem cells transduced with lentiviral vector Lenti-D encoding the human ABCD1 cDNA (elivaldogene autotemcel)",
+      "substance_url": "/en/drug/substance/300632?name=43&mode=orpha&region=&status=all",
+      "substance_id": "300632",
+      "regulatory_url": "/en/drug/regulatory/302527?name=43&mode=orpha&region=",
+      "regulatory_id": "302527",
+      "orpha_substance_code": "ORPHA:43",
+      "details": [
+        "Autologous haematopoietic stem cells transduced with lentiviral vector Lenti-D encoding the human ABCD1 cDNA (elivaldogene autotemcel)(Medicinal product                        - 06/06/2012)Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "Autologous haematopoietic stem cells transduced with lentiviral vector Lenti-D encoding the human ABCD1 cDNA (elivaldogene autotemcel)(Medicinal product                        - 06/06/2012)",
+        "(Medicinal product                        - 06/06/2012)",
+        "Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/300632?name=43&mode=orpha&region=&status=all",
+          "text": "Autologous haematopoietic stem cells transduced with lentiviral vector Lenti-D encoding the human ABCD1 cDNA (elivaldogene autotemcel)",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/43",
+          "text": "ORPHA:43 X-linked adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/302527?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "potassium 2-chloro-3-(1-hydroxy-5,6,7,8-tetrahydronaphthalen-2-yl)-6-oxo- 5-phenyl-6,7-dihydrothieno[2, 3-b]pyridin-4-olate hydrate",
+      "substance_url": "/en/drug/substance/631641?name=43&mode=orpha&region=&status=all",
+      "substance_id": "631641",
+      "regulatory_url": "/en/drug/regulatory/632186?name=43&mode=orpha&region=",
+      "regulatory_id": "632186",
+      "orpha_substance_code": "ORPHA:43",
+      "details": [
+        "potassium 2-chloro-3-(1-hydroxy-5,6,7,8-tetrahydronaphthalen-2-yl)-6-oxo- 5-phenyl-6,7-dihydrothieno[2, 3-b]pyridin-4-olate hydrate(Medicinal product                        - 12/05/2022)Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "potassium 2-chloro-3-(1-hydroxy-5,6,7,8-tetrahydronaphthalen-2-yl)-6-oxo- 5-phenyl-6,7-dihydrothieno[2, 3-b]pyridin-4-olate hydrate(Medicinal product                        - 12/05/2022)",
+        "(Medicinal product                        - 12/05/2022)",
+        "Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/631641?name=43&mode=orpha&region=&status=all",
+          "text": "potassium 2-chloro-3-(1-hydroxy-5,6,7,8-tetrahydronaphthalen-2-yl)-6-oxo- 5-phenyl-6,7-dihydrothieno[2, 3-b]pyridin-4-olate hydrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/43",
+          "text": "ORPHA:43 X-linked adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/632186?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "(R)-5-({4-[2-(5-ethyl-2-pyridyl)ethoxy]phenyl}methyl)-(5-2H)-1,3-thiazolidine-2,4-dione hydrochloride",
+      "substance_url": "/en/drug/substance/632214?name=43&mode=orpha&region=&status=all",
+      "substance_id": "632214",
+      "regulatory_url": "/en/drug/regulatory/632215?name=43&mode=orpha&region=",
+      "regulatory_id": "632215",
+      "orpha_substance_code": "ORPHA:43",
+      "details": [
+        "(R)-5-({4-[2-(5-ethyl-2-pyridyl)ethoxy]phenyl}methyl)-(5-2H)-1,3-thiazolidine-2,4-dione hydrochloride(Medicinal product                        - 11/04/2022)Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "(R)-5-({4-[2-(5-ethyl-2-pyridyl)ethoxy]phenyl}methyl)-(5-2H)-1,3-thiazolidine-2,4-dione hydrochloride(Medicinal product                        - 11/04/2022)",
+        "(Medicinal product                        - 11/04/2022)",
+        "Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/632214?name=43&mode=orpha&region=&status=all",
+          "text": "(R)-5-({4-[2-(5-ethyl-2-pyridyl)ethoxy]phenyl}methyl)-(5-2H)-1,3-thiazolidine-2,4-dione hydrochloride",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/43",
+          "text": "ORPHA:43 X-linked adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/632215?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "A non-replicating recombinant adeno-associated virus serotype 9 (AAV9) gene therapy vector containing the human adenosine triphosphate (ATP)-binding cassette (ABC) sub-family D member 1 (ABCD1) gene",
+      "substance_url": "/en/drug/substance/641602?name=43&mode=orpha&region=&status=all",
+      "substance_id": "641602",
+      "regulatory_url": "/en/drug/regulatory/641603?name=43&mode=orpha&region=",
+      "regulatory_id": "641603",
+      "orpha_substance_code": "ORPHA:43",
+      "details": [
+        "A non-replicating recombinant adeno-associated virus serotype 9 (AAV9) gene therapy vector containing the human adenosine triphosphate (ATP)-binding cassette (ABC) sub-family D member 1 (ABCD1) gene(Medicinal product                        - 14/03/2022)Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "A non-replicating recombinant adeno-associated virus serotype 9 (AAV9) gene therapy vector containing the human adenosine triphosphate (ATP)-binding cassette (ABC) sub-family D member 1 (ABCD1) gene(Medicinal product                        - 14/03/2022)",
+        "(Medicinal product                        - 14/03/2022)",
+        "Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/641602?name=43&mode=orpha&region=&status=all",
+          "text": "A non-replicating recombinant adeno-associated virus serotype 9 (AAV9) gene therapy vector containing the human adenosine triphosphate (ATP)-binding cassette (ABC) sub-family D member 1 (ABCD1) gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/43",
+          "text": "ORPHA:43 X-linked adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/641603?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "2' 3,5'dichloro'4'  4'hydroxy'3' propan'2'yl phenyl methyl phenoxy 'N'methylacetamide",
+      "substance_url": "/en/drug/substance/649500?name=43&mode=orpha&region=&status=all",
+      "substance_id": "649500",
+      "regulatory_url": "/en/drug/regulatory/649501?name=43&mode=orpha&region=",
+      "regulatory_id": "649501",
+      "orpha_substance_code": "ORPHA:43",
+      "details": [
+        "2' 3,5'dichloro'4'  4'hydroxy'3' propan'2'yl phenyl methyl phenoxy 'N'methylacetamide(Medicinal product                        - 22/07/2021)Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "2' 3,5'dichloro'4'  4'hydroxy'3' propan'2'yl phenyl methyl phenoxy 'N'methylacetamide(Medicinal product                        - 22/07/2021)",
+        "(Medicinal product                        - 22/07/2021)",
+        "Disease(s) concernedORPHA:43 X-linked adrenoleukodystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/649500?name=43&mode=orpha&region=&status=all",
+          "text": "2' 3,5'dichloro'4'  4'hydroxy'3' propan'2'yl phenyl methyl phenoxy 'N'methylacetamide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/43",
+          "text": "ORPHA:43 X-linked adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/649501?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Fingolimod",
+      "substance_url": "/en/drug/substance/216915?name=43&mode=orpha&region=&status=all",
+      "substance_id": "216915",
+      "regulatory_url": "/en/drug/regulatory/627633?name=43&mode=orpha&region=",
+      "regulatory_id": "627633",
+      "orpha_substance_code": "ORPHA:139396",
+      "details": [
+        "Fingolimod(Medicinal product                        - 12/11/2021)Disease(s) concernedORPHA:139396 X-linked cerebral adrenoleukodystrophy",
+        "Fingolimod(Medicinal product                        - 12/11/2021)",
+        "(Medicinal product                        - 12/11/2021)",
+        "Disease(s) concernedORPHA:139396 X-linked cerebral adrenoleukodystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/216915?name=43&mode=orpha&region=&status=all",
+          "text": "Fingolimod",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/139396",
+          "text": "ORPHA:139396 X-linked cerebral adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/627633?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Temsirolimus",
+      "substance_url": "/en/drug/substance/82051?name=43&mode=orpha&region=&status=all",
+      "substance_id": "82051",
+      "regulatory_url": "/en/drug/regulatory/480062?name=43&mode=orpha&region=",
+      "regulatory_id": "480062",
+      "orpha_substance_code": "ORPHA:139396",
+      "details": [
+        "Temsirolimus(Medicinal product                        - 30/05/2016)Disease(s) concernedORPHA:139396 X-linked cerebral adrenoleukodystrophy",
+        "Temsirolimus(Medicinal product                        - 30/05/2016)",
+        "(Medicinal product                        - 30/05/2016)",
+        "Disease(s) concernedORPHA:139396 X-linked cerebral adrenoleukodystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/82051?name=43&mode=orpha&region=&status=all",
+          "text": "Temsirolimus",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/139396",
+          "text": "ORPHA:139396 X-linked cerebral adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/480062?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Skysona",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/610558?name=43&mode=orpha&region=",
+      "regulatory_id": "610558",
+      "orpha_substance_code": "ORPHA:139396",
+      "details": [
+        "Skysona(Tradename                        - 16/07/2021)Disease(s) concernedORPHA:139396 X-linked cerebral adrenoleukodystrophy",
+        "Skysona(Tradename                        - 16/07/2021)",
+        "(Tradename                        - 16/07/2021)",
+        "Disease(s) concernedORPHA:139396 X-linked cerebral adrenoleukodystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/605019?name=43&mode=orpha&region=&status=all",
+          "text": "Skysona",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/139396",
+          "text": "ORPHA:139396 X-linked cerebral adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/610558?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Skysona",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/631397?name=43&mode=orpha&region=",
+      "regulatory_id": "631397",
+      "orpha_substance_code": "ORPHA:139396",
+      "details": [
+        "Skysona(Tradename                        - 16/09/2022)Disease(s) concernedORPHA:139396 X-linked cerebral adrenoleukodystrophy",
+        "Skysona(Tradename                        - 16/09/2022)",
+        "(Tradename                        - 16/09/2022)",
+        "Disease(s) concernedORPHA:139396 X-linked cerebral adrenoleukodystrophy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/605019?name=43&mode=orpha&region=&status=all",
+          "text": "Skysona",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/139396",
+          "text": "ORPHA:139396 X-linked cerebral adrenoleukodystrophy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/631397?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "PLERIXAFOR ACCORD",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/642317?name=43&mode=orpha&region=",
+      "regulatory_id": "642317",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "PLERIXAFOR ACCORD(Tradename                        - 16/12/2022)Disease(s) concernedORPHA:29073 Multiple myelomaORPHA:223735 LymphomaORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "PLERIXAFOR ACCORD(Tradename                        - 16/12/2022)",
+        "(Tradename                        - 16/12/2022)",
+        "Disease(s) concernedORPHA:29073 Multiple myelomaORPHA:223735 LymphomaORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/642316?name=43&mode=orpha&region=&status=all",
+          "text": "PLERIXAFOR ACCORD",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/29073",
+          "text": "ORPHA:29073 Multiple myeloma",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/223735",
+          "text": "ORPHA:223735 Lymphoma",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/642317?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Thiotepa Riemser",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/610636?name=43&mode=orpha&region=",
+      "regulatory_id": "610636",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Thiotepa Riemser(Tradename                        - 26/03/2021)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Thiotepa Riemser(Tradename                        - 26/03/2021)",
+        "(Tradename                        - 26/03/2021)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/610616?name=43&mode=orpha&region=&status=all",
+          "text": "Thiotepa Riemser",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/610636?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "ALKINDI",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/505896?name=43&mode=orpha&region=",
+      "regulatory_id": "505896",
+      "orpha_substance_code": "ORPHA:101958",
+      "details": [
+        "ALKINDI(Tradename                        - 09/02/2018)Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "ALKINDI(Tradename                        - 09/02/2018)",
+        "(Tradename                        - 09/02/2018)",
+        "Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/505888?name=43&mode=orpha&region=&status=all",
+          "text": "ALKINDI",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101958",
+          "text": "ORPHA:101958 Primary adrenal insufficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/505896?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "PLENADREN",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/352529?name=43&mode=orpha&region=",
+      "regulatory_id": "352529",
+      "orpha_substance_code": "ORPHA:101958",
+      "details": [
+        "PLENADREN(Tradename                        - 03/11/2011)Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "PLENADREN(Tradename                        - 03/11/2011)",
+        "(Tradename                        - 03/11/2011)",
+        "Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/352513?name=43&mode=orpha&region=&status=all",
+          "text": "PLENADREN",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101958",
+          "text": "ORPHA:101958 Primary adrenal insufficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/352529?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "motixafortide",
+      "substance_url": "/en/drug/substance/588874?name=43&mode=orpha&region=&status=all",
+      "substance_id": "588874",
+      "regulatory_url": "/en/drug/regulatory/661036?name=43&mode=orpha&region=",
+      "regulatory_id": "661036",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "motixafortide(Medicinal product                        - 12/01/2024)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "motixafortide(Medicinal product                        - 12/01/2024)",
+        "(Medicinal product                        - 12/01/2024)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/588874?name=43&mode=orpha&region=&status=all",
+          "text": "motixafortide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/661036?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate",
+      "substance_url": "/en/drug/substance/589233?name=43&mode=orpha&region=&status=all",
+      "substance_id": "589233",
+      "regulatory_url": "/en/drug/regulatory/589234?name=43&mode=orpha&region=",
+      "regulatory_id": "589234",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate(Medicinal product                        - 20/04/2020)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate(Medicinal product                        - 20/04/2020)",
+        "(Medicinal product                        - 20/04/2020)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/589233?name=43&mode=orpha&region=&status=all",
+          "text": "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/589234?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus",
+      "substance_url": "/en/drug/substance/589056?name=43&mode=orpha&region=&status=all",
+      "substance_id": "589056",
+      "regulatory_url": "/en/drug/regulatory/589057?name=43&mode=orpha&region=",
+      "regulatory_id": "589057",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus(Medicinal product                        - 24/03/2020)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus(Medicinal product                        - 24/03/2020)",
+        "(Medicinal product                        - 24/03/2020)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/589056?name=43&mode=orpha&region=&status=all",
+          "text": "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/589057?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Hydrocortisone",
+      "substance_url": "/en/drug/substance/505909?name=43&mode=orpha&region=&status=all",
+      "substance_id": "505909",
+      "regulatory_url": "/en/drug/regulatory/134118?name=43&mode=orpha&region=",
+      "regulatory_id": "134118",
+      "orpha_substance_code": "ORPHA:101958",
+      "details": [
+        "Hydrocortisone(Medicinal product                        - 20/03/2007)Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "Hydrocortisone(Medicinal product                        - 20/03/2007)",
+        "(Medicinal product                        - 20/03/2007)",
+        "Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/505909?name=43&mode=orpha&region=&status=all",
+          "text": "Hydrocortisone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101958",
+          "text": "ORPHA:101958 Primary adrenal insufficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/134118?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Prasterone",
+      "substance_url": "/en/drug/substance/97925?name=43&mode=orpha&region=&status=all",
+      "substance_id": "97925",
+      "regulatory_url": "/en/drug/regulatory/133836?name=43&mode=orpha&region=",
+      "regulatory_id": "133836",
+      "orpha_substance_code": "ORPHA:101958",
+      "details": [
+        "Prasterone(Medicinal product                        - 28/07/2003)Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "Prasterone(Medicinal product                        - 28/07/2003)",
+        "(Medicinal product                        - 28/07/2003)",
+        "Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/97925?name=43&mode=orpha&region=&status=all",
+          "text": "Prasterone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101958",
+          "text": "ORPHA:101958 Primary adrenal insufficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/133836?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Hydrocortisone (modified release tablet)",
+      "substance_url": "/en/drug/substance/65883?name=43&mode=orpha&region=&status=all",
+      "substance_id": "65883",
+      "regulatory_url": "/en/drug/regulatory/134049?name=43&mode=orpha&region=",
+      "regulatory_id": "134049",
+      "orpha_substance_code": "ORPHA:101958",
+      "details": [
+        "Hydrocortisone (modified release tablet)(Medicinal product                        - 22/05/2006)Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "Hydrocortisone (modified release tablet)(Medicinal product                        - 22/05/2006)",
+        "(Medicinal product                        - 22/05/2006)",
+        "Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/65883?name=43&mode=orpha&region=&status=all",
+          "text": "Hydrocortisone (modified release tablet)",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101958",
+          "text": "ORPHA:101958 Primary adrenal insufficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/134049?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "KHINDIVI",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/704611?name=43&mode=orpha&region=",
+      "regulatory_id": "704611",
+      "orpha_substance_code": "ORPHA:101958",
+      "details": [
+        "KHINDIVI(Tradename                        - 28/05/2025)Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "KHINDIVI(Tradename                        - 28/05/2025)",
+        "(Tradename                        - 28/05/2025)",
+        "Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/704608?name=43&mode=orpha&region=&status=all",
+          "text": "KHINDIVI",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101958",
+          "text": "ORPHA:101958 Primary adrenal insufficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/704611?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Alkindi Sprinkle",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/623088?name=43&mode=orpha&region=",
+      "regulatory_id": "623088",
+      "orpha_substance_code": "ORPHA:101958",
+      "details": [
+        "Alkindi Sprinkle(Tradename                        - 29/09/2020)Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "Alkindi Sprinkle(Tradename                        - 29/09/2020)",
+        "(Tradename                        - 29/09/2020)",
+        "Disease(s) concernedORPHA:101958 Primary adrenal insufficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/623087?name=43&mode=orpha&region=&status=all",
+          "text": "Alkindi Sprinkle",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/101958",
+          "text": "ORPHA:101958 Primary adrenal insufficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/623088?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=43&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=43&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Burixafor(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Burixafor(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689505?name=43&mode=orpha&region=&status=all",
+          "text": "Burixafor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689915?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Besilesomab",
+      "substance_url": "/en/drug/substance/571152?name=43&mode=orpha&region=&status=all",
+      "substance_id": "571152",
+      "regulatory_url": "/en/drug/regulatory/641081?name=43&mode=orpha&region=",
+      "regulatory_id": "641081",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Besilesomab(Medicinal product                        - 28/03/2022)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Besilesomab(Medicinal product                        - 28/03/2022)",
+        "(Medicinal product                        - 28/03/2022)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/571152?name=43&mode=orpha&region=&status=all",
+          "text": "Besilesomab",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/641081?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Besilesomab",
+      "substance_url": "/en/drug/substance/571152?name=43&mode=orpha&region=&status=all",
+      "substance_id": "571152",
+      "regulatory_url": "/en/drug/regulatory/641075?name=43&mode=orpha&region=",
+      "regulatory_id": "641075",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Besilesomab(Medicinal product                        - 28/03/2022)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Besilesomab(Medicinal product                        - 28/03/2022)",
+        "(Medicinal product                        - 28/03/2022)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/571152?name=43&mode=orpha&region=&status=all",
+          "text": "Besilesomab",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/641075?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=43&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=43&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Treosulfan(Medicinal product                        - 08/04/2015)Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Treosulfan(Medicinal product                        - 08/04/2015)",
+        "(Medicinal product                        - 08/04/2015)",
+        "Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90799?name=43&mode=orpha&region=&status=all",
+          "text": "Treosulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/213500",
+          "text": "ORPHA:213500 Rare ovarian cancer",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136690?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=43&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=43&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "busulfan(Medicinal product                        - 21/04/1994)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "busulfan(Medicinal product                        - 21/04/1994)",
+        "(Medicinal product                        - 21/04/1994)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/46335?name=43&mode=orpha&region=&status=all",
+          "text": "busulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131973?name=43&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:00:20.229733",
+  "run_number": 1,
+  "total_drugs_found": 32,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=X-linked+adrenoleukodystrophy&orphaCode=43&name=43&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "X-linked adrenoleukodystrophy",
+    "orphaCode": "43",
+    "name": "43",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

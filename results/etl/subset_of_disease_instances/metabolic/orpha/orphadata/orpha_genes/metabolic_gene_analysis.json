@@ -1,0 +1,800 @@
+{
+  "analysis_type": "curated_subset",
+  "dataset_scope": "metabolic",
+  "statistics": {
+    "subset_overview": {
+      "dataset_type": "metabolic",
+      "total_diseases": 665,
+      "diseases_with_genes": 549,
+      "diseases_without_genes": 116,
+      "coverage_percentage": 82.6,
+      "total_gene_associations": 820,
+      "unique_genes": 656,
+      "average_genes_per_disease": 1.493624772313297
+    },
+    "disease_gene_distribution": {
+      "1_gene": 479,
+      "6-10_genes": 7,
+      "11+_genes": 10,
+      "2-3_genes": 40,
+      "4-5_genes": 13
+    },
+    "top_genes": [
+      {
+        "gene": "POLG",
+        "disease_count": 7,
+        "diseases": [
+          "726",
+          "254886",
+          "254881",
+          "254892",
+          "298",
+          "70595",
+          "94125"
+        ]
+      },
+      {
+        "gene": "FKRP",
+        "disease_count": 6,
+        "diseases": [
+          "370959",
+          "370968",
+          "370980",
+          "588",
+          "899",
+          "34515"
+        ]
+      },
+      {
+        "gene": "POMT1",
+        "disease_count": 6,
+        "diseases": [
+          "370959",
+          "370968",
+          "370980",
+          "588",
+          "899",
+          "86812"
+        ]
+      },
+      {
+        "gene": "RRM2B",
+        "disease_count": 5,
+        "diseases": [
+          "480",
+          "254892",
+          "255235",
+          "329336",
+          "298"
+        ]
+      },
+      {
+        "gene": "MT-ATP6",
+        "disease_count": 5,
+        "diseases": [
+          "104",
+          "644",
+          "254913",
+          "255210",
+          "397750"
+        ]
+      },
+      {
+        "gene": "FKTN",
+        "disease_count": 5,
+        "diseases": [
+          "206554",
+          "370980",
+          "588",
+          "899",
+          "272"
+        ]
+      },
+      {
+        "gene": "POMT2",
+        "disease_count": 5,
+        "diseases": [
+          "206559",
+          "370959",
+          "370968",
+          "588",
+          "899"
+        ]
+      },
+      {
+        "gene": "MT-ND1",
+        "disease_count": 4,
+        "diseases": [
+          "550",
+          "104",
+          "2609",
+          "255210"
+        ]
+      },
+      {
+        "gene": "MT-ND4",
+        "disease_count": 4,
+        "diseases": [
+          "550",
+          "104",
+          "255210",
+          "99718"
+        ]
+      },
+      {
+        "gene": "MT-ND5",
+        "disease_count": 4,
+        "diseases": [
+          "550",
+          "551",
+          "104",
+          "255210"
+        ]
+      },
+      {
+        "gene": "MT-ND6",
+        "disease_count": 4,
+        "diseases": [
+          "550",
+          "104",
+          "255210",
+          "99718"
+        ]
+      },
+      {
+        "gene": "MT-TL1",
+        "disease_count": 4,
+        "diseases": [
+          "550",
+          "551",
+          "255210",
+          "324525"
+        ]
+      },
+      {
+        "gene": "BCS1L",
+        "disease_count": 4,
+        "diseases": [
+          "254902",
+          "1460",
+          "123",
+          "53693"
+        ]
+      },
+      {
+        "gene": "POMGNT1",
+        "disease_count": 4,
+        "diseases": [
+          "206564",
+          "370959",
+          "588",
+          "899"
+        ]
+      },
+      {
+        "gene": "GMPPB",
+        "disease_count": 4,
+        "diseases": [
+          "370959",
+          "370968",
+          "363623",
+          "588"
+        ]
+      },
+      {
+        "gene": "CRPPA",
+        "disease_count": 4,
+        "diseases": [
+          "370980",
+          "352479",
+          "588",
+          "899"
+        ]
+      },
+      {
+        "gene": "PIGA",
+        "disease_count": 3,
+        "diseases": [
+          "447",
+          "300496",
+          "397922"
+        ]
+      },
+      {
+        "gene": "MT-CO1",
+        "disease_count": 3,
+        "diseases": [
+          "550",
+          "254905",
+          "99845"
+        ]
+      },
+      {
+        "gene": "MT-TF",
+        "disease_count": 3,
+        "diseases": [
+          "550",
+          "551",
+          "620371"
+        ]
+      },
+      {
+        "gene": "MT-TS1",
+        "disease_count": 3,
+        "diseases": [
+          "550",
+          "551",
+          "663"
+        ]
+      }
+    ],
+    "complex_diseases": {
+      "total_complex_diseases": 34,
+      "complex_disease_examples": [
+        {
+          "orpha_code": "2609",
+          "disease_name": "Isolated complex I deficiency",
+          "genes": [
+            "FOXRED1",
+            "MT-ND1",
+            "MT-ND2",
+            "MT-ND3",
+            "NDUFA1",
+            "NDUFA11",
+            "NDUFA6",
+            "NDUFAF1",
+            "NDUFAF2",
+            "NDUFAF3",
+            "NDUFAF4",
+            "NDUFAF5",
+            "NDUFAF8",
+            "NDUFB10",
+            "NDUFB3",
+            "NDUFB9",
+            "NDUFS1",
+            "NDUFS2",
+            "NDUFS3",
+            "NDUFS4",
+            "NDUFS6",
+            "NDUFS7",
+            "NDUFS8",
+            "NDUFV1",
+            "NDUFV2",
+            "NUBPL",
+            "TIMMDC1",
+            "TMEM126B"
+          ],
+          "gene_count": 28
+        },
+        {
+          "orpha_code": "124",
+          "disease_name": "Diamond-Blackfan anemia",
+          "genes": [
+            "ADA2",
+            "GATA1",
+            "HEATR3",
+            "RPL11",
+            "RPL15",
+            "RPL18",
+            "RPL26",
+            "RPL35",
+            "RPL35A",
+            "RPL5",
+            "RPL8",
+            "RPL9",
+            "RPS10",
+            "RPS15A",
+            "RPS17",
+            "RPS19",
+            "RPS20",
+            "RPS24",
+            "RPS26",
+            "RPS28",
+            "RPS29",
+            "RPS7",
+            "TSR2"
+          ],
+          "gene_count": 23
+        },
+        {
+          "orpha_code": "254905",
+          "disease_name": "Isolated cytochrome C oxidase deficiency",
+          "genes": [
+            "COA3",
+            "COX10",
+            "COX14",
+            "COX16",
+            "COX20",
+            "COX4I1",
+            "COX5A",
+            "COX6A2",
+            "COX6B1",
+            "COX8A",
+            "MT-CO1",
+            "MT-CO2",
+            "MT-CO3",
+            "PET117"
+          ],
+          "gene_count": 14
+        },
+        {
+          "orpha_code": "912",
+          "disease_name": "Zellweger syndrome",
+          "genes": [
+            "PEX1",
+            "PEX10",
+            "PEX11B",
+            "PEX12",
+            "PEX13",
+            "PEX14",
+            "PEX16",
+            "PEX19",
+            "PEX2",
+            "PEX26",
+            "PEX3",
+            "PEX5",
+            "PEX6"
+          ],
+          "gene_count": 13
+        },
+        {
+          "orpha_code": "44",
+          "disease_name": "Neonatal adrenoleukodystrophy",
+          "genes": [
+            "PEX1",
+            "PEX10",
+            "PEX11B",
+            "PEX12",
+            "PEX13",
+            "PEX14",
+            "PEX16",
+            "PEX19",
+            "PEX2",
+            "PEX26",
+            "PEX3",
+            "PEX5",
+            "PEX6"
+          ],
+          "gene_count": 13
+        }
+      ]
+    },
+    "top_diseases_by_gene_count": [
+      {
+        "orpha_code": "2609",
+        "disease_name": "Isolated complex I deficiency",
+        "gene_count": 28,
+        "genes": [
+          "FOXRED1",
+          "MT-ND1",
+          "MT-ND2",
+          "MT-ND3",
+          "NDUFA1",
+          "NDUFA11",
+          "NDUFA6",
+          "NDUFAF1",
+          "NDUFAF2",
+          "NDUFAF3",
+          "NDUFAF4",
+          "NDUFAF5",
+          "NDUFAF8",
+          "NDUFB10",
+          "NDUFB3",
+          "NDUFB9",
+          "NDUFS1",
+          "NDUFS2",
+          "NDUFS3",
+          "NDUFS4",
+          "NDUFS6",
+          "NDUFS7",
+          "NDUFS8",
+          "NDUFV1",
+          "NDUFV2",
+          "NUBPL",
+          "TIMMDC1",
+          "TMEM126B"
+        ]
+      },
+      {
+        "orpha_code": "124",
+        "disease_name": "Diamond-Blackfan anemia",
+        "gene_count": 23,
+        "genes": [
+          "ADA2",
+          "GATA1",
+          "HEATR3",
+          "RPL11",
+          "RPL15",
+          "RPL18",
+          "RPL26",
+          "RPL35",
+          "RPL35A",
+          "RPL5",
+          "RPL8",
+          "RPL9",
+          "RPS10",
+          "RPS15A",
+          "RPS17",
+          "RPS19",
+          "RPS20",
+          "RPS24",
+          "RPS26",
+          "RPS28",
+          "RPS29",
+          "RPS7",
+          "TSR2"
+        ]
+      },
+      {
+        "orpha_code": "254905",
+        "disease_name": "Isolated cytochrome C oxidase deficiency",
+        "gene_count": 14,
+        "genes": [
+          "COA3",
+          "COX10",
+          "COX14",
+          "COX16",
+          "COX20",
+          "COX4I1",
+          "COX5A",
+          "COX6A2",
+          "COX6B1",
+          "COX8A",
+          "MT-CO1",
+          "MT-CO2",
+          "MT-CO3",
+          "PET117"
+        ]
+      },
+      {
+        "orpha_code": "912",
+        "disease_name": "Zellweger syndrome",
+        "gene_count": 13,
+        "genes": [
+          "PEX1",
+          "PEX10",
+          "PEX11B",
+          "PEX12",
+          "PEX13",
+          "PEX14",
+          "PEX16",
+          "PEX19",
+          "PEX2",
+          "PEX26",
+          "PEX3",
+          "PEX5",
+          "PEX6"
+        ]
+      },
+      {
+        "orpha_code": "44",
+        "disease_name": "Neonatal adrenoleukodystrophy",
+        "gene_count": 13,
+        "genes": [
+          "PEX1",
+          "PEX10",
+          "PEX11B",
+          "PEX12",
+          "PEX13",
+          "PEX14",
+          "PEX16",
+          "PEX19",
+          "PEX2",
+          "PEX26",
+          "PEX3",
+          "PEX5",
+          "PEX6"
+        ]
+      },
+      {
+        "orpha_code": "772",
+        "disease_name": "Infantile Refsum disease",
+        "gene_count": 13,
+        "genes": [
+          "PEX1",
+          "PEX10",
+          "PEX11B",
+          "PEX12",
+          "PEX13",
+          "PEX14",
+          "PEX16",
+          "PEX19",
+          "PEX2",
+          "PEX26",
+          "PEX3",
+          "PEX5",
+          "PEX6"
+        ]
+      },
+      {
+        "orpha_code": "899",
+        "disease_name": "Walker-Warburg syndrome",
+        "gene_count": 13,
+        "genes": [
+          "B3GALNT2",
+          "B4GAT1",
+          "CRPPA",
+          "DAG1",
+          "FKRP",
+          "FKTN",
+          "LARGE1",
+          "POMGNT1",
+          "POMGNT2",
+          "POMK",
+          "POMT1",
+          "POMT2",
+          "RXYLT1"
+        ]
+      },
+      {
+        "orpha_code": "104",
+        "disease_name": "Leber hereditary optic neuropathy",
+        "gene_count": 11,
+        "genes": [
+          "DNAJC30",
+          "MT-ATP6",
+          "MT-CO3",
+          "MT-CYB",
+          "MT-ND1",
+          "MT-ND2",
+          "MT-ND4",
+          "MT-ND4L",
+          "MT-ND5",
+          "MT-ND6",
+          "NDUFS2"
+        ]
+      },
+      {
+        "orpha_code": "255210",
+        "disease_name": "Mitochondrial DNA-associated Leigh syndrome",
+        "gene_count": 11,
+        "genes": [
+          "MT-ATP6",
+          "MT-ND1",
+          "MT-ND2",
+          "MT-ND3",
+          "MT-ND4",
+          "MT-ND5",
+          "MT-ND6",
+          "MT-TK",
+          "MT-TL1",
+          "MT-TV",
+          "MT-TW"
+        ]
+      },
+      {
+        "orpha_code": "1460",
+        "disease_name": "Isolated complex III deficiency",
+        "gene_count": 11,
+        "genes": [
+          "BCS1L",
+          "CYC1",
+          "LYRM7",
+          "MT-CYB",
+          "TTC19",
+          "UQCC2",
+          "UQCC3",
+          "UQCRB",
+          "UQCRC2",
+          "UQCRFS1",
+          "UQCRQ"
+        ]
+      },
+      {
+        "orpha_code": "550",
+        "disease_name": "MELAS",
+        "gene_count": 10,
+        "genes": [
+          "MT-CO1",
+          "MT-CO2",
+          "MT-ND1",
+          "MT-ND4",
+          "MT-ND5",
+          "MT-ND6",
+          "MT-TF",
+          "MT-TL1",
+          "MT-TS1",
+          "MT-TW"
+        ]
+      },
+      {
+        "orpha_code": "588",
+        "disease_name": "Muscle-eye-brain disease",
+        "gene_count": 8,
+        "genes": [
+          "B3GALNT2",
+          "CRPPA",
+          "FKRP",
+          "FKTN",
+          "GMPPB",
+          "POMGNT1",
+          "POMT1",
+          "POMT2"
+        ]
+      },
+      {
+        "orpha_code": "551",
+        "disease_name": "MERRF",
+        "gene_count": 7,
+        "genes": [
+          "MT-ND5",
+          "MT-TF",
+          "MT-TH",
+          "MT-TK",
+          "MT-TL1",
+          "MT-TP",
+          "MT-TS1"
+        ]
+      },
+      {
+        "orpha_code": "247262",
+        "disease_name": "Hyperphosphatasia-intellectual disability syndrome",
+        "gene_count": 7,
+        "genes": [
+          "PGAP2",
+          "PGAP3",
+          "PIGL",
+          "PIGO",
+          "PIGV",
+          "PIGW",
+          "PIGY"
+        ]
+      },
+      {
+        "orpha_code": "254913",
+        "disease_name": "Isolated ATP synthase deficiency",
+        "gene_count": 7,
+        "genes": [
+          "ATP5F1A",
+          "ATP5F1D",
+          "ATP5F1E",
+          "ATP5MK",
+          "ATPAF2",
+          "MT-ATP6",
+          "MT-ATP8"
+        ]
+      },
+      {
+        "orpha_code": "2311",
+        "disease_name": "Autosomal recessive spondylocostal dysostosis",
+        "gene_count": 6,
+        "genes": [
+          "DLL3",
+          "HES7",
+          "LFNG",
+          "MESP2",
+          "RIPPLY2",
+          "TBX6"
+        ]
+      },
+      {
+        "orpha_code": "370959",
+        "disease_name": "Congenital muscular dystrophy with cerebellar involvement",
+        "gene_count": 6,
+        "genes": [
+          "FKRP",
+          "GMPPB",
+          "POMGNT1",
+          "POMK",
+          "POMT1",
+          "POMT2"
+        ]
+      },
+      {
+        "orpha_code": "254892",
+        "disease_name": "Autosomal dominant progressive external ophthalmoplegia",
+        "gene_count": 5,
+        "genes": [
+          "POLG",
+          "POLG2",
+          "RRM2B",
+          "SLC25A4",
+          "TWNK"
+        ]
+      },
+      {
+        "orpha_code": "3197",
+        "disease_name": "Hereditary hyperekplexia",
+        "gene_count": 5,
+        "genes": [
+          "ATAD1",
+          "GLRA1",
+          "GLRB",
+          "GPHN",
+          "SLC6A5"
+        ]
+      },
+      {
+        "orpha_code": "1561",
+        "disease_name": "Fatal infantile cytochrome C oxidase deficiency",
+        "gene_count": 5,
+        "genes": [
+          "COA5",
+          "COA6",
+          "COX15",
+          "SCO1",
+          "SCO2"
+        ]
+      }
+    ],
+    "monogenic_analysis": {
+      "single_gene_diseases": 479,
+      "multi_gene_diseases": 70,
+      "monogenic_percentage": 87.24954462659382
+    },
+    "gene_distribution": {
+      "POLG": 7,
+      "FKRP": 6,
+      "POMT1": 6,
+      "RRM2B": 5,
+      "MT-ATP6": 5,
+      "FKTN": 5,
+      "POMT2": 5,
+      "MT-ND1": 4,
+      "MT-ND4": 4,
+      "MT-ND5": 4,
+      "MT-ND6": 4,
+      "MT-TL1": 4,
+      "BCS1L": 4,
+      "POMGNT1": 4,
+      "GMPPB": 4,
+      "CRPPA": 4,
+      "PIGA": 3,
+      "MT-CO1": 3,
+      "MT-TF": 3,
+      "MT-TS1": 3,
+      "MT-TK": 3,
+      "MT-CO3": 3,
+      "MT-ND2": 3,
+      "PEX1": 3,
+      "PEX10": 3,
+      "PEX11B": 3,
+      "PEX12": 3,
+      "PEX13": 3,
+      "PEX14": 3,
+      "PEX16": 3,
+      "PEX19": 3,
+      "PEX2": 3,
+      "PEX26": 3,
+      "PEX3": 3,
+      "PEX5": 3,
+      "PEX6": 3,
+      "MT-ND3": 3,
+      "SLC19A3": 3,
+      "TWNK": 3,
+      "PRPS1": 3,
+      "KCNJ11": 3,
+      "ABCC8": 3,
+      "POMK": 3,
+      "MT-CO2": 2,
+      "MT-TW": 2,
+      "SLC16A1": 2,
+      "MT-CYB": 2,
+      "NDUFS2": 2,
+      "HPRT1": 2,
+      "ATP7A": 2
+    },
+    "analysis_timestamp": "2025-07-13T07:46:34.038929"
+  },
+  "comparative_analysis": {
+    "curation_impact": {
+      "diseases_analyzed": 549,
+      "processed_associations": 846,
+      "curated_associations": 820,
+      "association_reduction": 0.030732860520094607,
+      "focus_improvement": "disease-causing associations only",
+      "average_reduction_per_disease": 0.04735883424408015
+    },
+    "quality_improvement": {
+      "curation_method": "disease-causing gene filtering",
+      "excluded_association_types": [
+        "Major susceptibility factor",
+        "Candidate gene",
+        "Biomarker",
+        "Fusion gene"
+      ]
+    },
+    "analysis_timestamp": "2025-07-13T07:46:34.206715"
+  },
+  "generated_at": "2025-07-13T07:46:34.206715"
+}

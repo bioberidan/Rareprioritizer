@@ -1,0 +1,102 @@
+{
+  "disease_name": "Gitelman-like kidney tubulopathy due to mitochondrial DNA mutation",
+  "orpha_code": "620371",
+  "drugs": [
+    {
+      "name": "3-{[2,3,5,6-tetrafluoro-3'-(trifluoromethoxy)biphenyl-4-yl]carbamoyl}thiophene-2-carboxylic acid",
+      "substance_url": "/en/drug/substance/444708?name=620371&mode=orpha&region=&status=all",
+      "substance_id": "444708",
+      "regulatory_url": "/en/drug/regulatory/444712?name=620371&mode=orpha&region=",
+      "regulatory_id": "444712",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=620371&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=620371&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/646586?name=620371&mode=orpha&region=&status=all",
+      "substance_id": "646586",
+      "regulatory_url": "/en/drug/regulatory/646683?name=620371&mode=orpha&region=",
+      "regulatory_id": "646683",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Zagociguat",
+      "substance_url": "/en/drug/substance/644348?name=620371&mode=orpha&region=&status=all",
+      "substance_id": "644348",
+      "regulatory_url": "/en/drug/regulatory/644353?name=620371&mode=orpha&region=",
+      "regulatory_id": "644353",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Vatiquinone",
+      "substance_url": "/en/drug/substance/285822?name=620371&mode=orpha&region=&status=all",
+      "substance_id": "285822",
+      "regulatory_url": "/en/drug/regulatory/708703?name=620371&mode=orpha&region=",
+      "regulatory_id": "708703",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=620371&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=620371&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=620371&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=620371&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:21:24.659967",
+  "run_number": 1,
+  "total_drugs_found": 7,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Gitelman-like+kidney+tubulopathy+due+to+mitochondrial+DNA+mutation&orphaCode=620371&name=620371&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Gitelman-like kidney tubulopathy due to mitochondrial DNA mutation",
+    "orphaCode": "620371",
+    "name": "620371",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

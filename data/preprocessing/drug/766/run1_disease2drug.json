@@ -1,0 +1,66 @@
+{
+  "disease_name": "Hemolytic anemia due to red cell pyruvate kinase deficiency",
+  "orpha_code": "766",
+  "drugs": [
+    {
+      "name": "Pyrukynd",
+      "substance_url": "/en/drug/trade_name/623132?name=766&mode=orpha&region=&status=all",
+      "substance_id": "623132",
+      "regulatory_url": "/en/drug/regulatory/635841?name=766&mode=orpha&region=",
+      "regulatory_id": "635841",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Autologous CD34+ cells edited with CRISPR/Cas9 and transduced with an adeno-associated virus vector serotype 6 containing the codon-optimized version of PKLR gene",
+      "substance_url": "/en/drug/substance/628215?name=766&mode=orpha&region=&status=all",
+      "substance_id": "628215",
+      "regulatory_url": "/en/drug/regulatory/628216?name=766&mode=orpha&region=",
+      "regulatory_id": "628216",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Mitapivat sulfate",
+      "substance_url": "/en/drug/substance/504971?name=766&mode=orpha&region=&status=all",
+      "substance_id": "504971",
+      "regulatory_url": "/en/drug/regulatory/590144?name=766&mode=orpha&region=",
+      "regulatory_id": "590144",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Lentiviral vector containing the human liver and erythroid pyruvate kinase (PKLR) gene",
+      "substance_url": "/en/drug/substance/406532?name=766&mode=orpha&region=&status=all",
+      "substance_id": "406532",
+      "regulatory_url": "/en/drug/regulatory/412031?name=766&mode=orpha&region=",
+      "regulatory_id": "412031",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:21:46.280692",
+  "run_number": 1,
+  "total_drugs_found": 4,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Hemolytic+anemia+due+to+red+cell+pyruvate+kinase+deficiency&orphaCode=766&name=766&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Hemolytic anemia due to red cell pyruvate kinase deficiency",
+    "orphaCode": "766",
+    "name": "766",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

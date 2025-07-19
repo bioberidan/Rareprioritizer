@@ -1,0 +1,625 @@
+{
+  "disease_name": "Infantile neurovisceral acid sphingomyelinase deficiency",
+  "orpha_code": "77292",
+  "drugs": [
+    {
+      "name": "Ursodeoxycholic acid",
+      "substance_url": "/en/drug/substance/25078?name=77292&mode=orpha&region=&status=all",
+      "substance_id": "25078",
+      "regulatory_url": "/en/drug/regulatory/489675?name=77292&mode=orpha&region=",
+      "regulatory_id": "489675",
+      "orpha_substance_code": "ORPHA:77293",
+      "details": [
+        "Ursodeoxycholic acid(Medicinal product                        - 22/05/2017)Disease(s) concernedORPHA:646 Niemann-Pick disease type CORPHA:77292 Infantile neurovisceral acid sphingomyelinase deficiencyORPHA:77293 Chronic visceral acid sphingomyelinase deficiency",
+        "Ursodeoxycholic acid(Medicinal product                        - 22/05/2017)",
+        "(Medicinal product                        - 22/05/2017)",
+        "Disease(s) concernedORPHA:646 Niemann-Pick disease type CORPHA:77292 Infantile neurovisceral acid sphingomyelinase deficiencyORPHA:77293 Chronic visceral acid sphingomyelinase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/25078?name=77292&mode=orpha&region=&status=all",
+          "text": "Ursodeoxycholic acid",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/646",
+          "text": "ORPHA:646 Niemann-Pick disease type C",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77292",
+          "text": "ORPHA:77292 Infantile neurovisceral acid sphingomyelinase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77293",
+          "text": "ORPHA:77293 Chronic visceral acid sphingomyelinase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/489675?name=77292&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type C\n                                \n\n\n\n\n                                    ORPHA:77292 Infantile neurovisceral acid sphingomyelinase deficiency\n                                \n\n\n\n\n                                    ORPHA:77293 Chronic visceral acid sphingomyelinase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Acetylleucine",
+      "substance_url": "/en/drug/substance/479413?name=77292&mode=orpha&region=&status=all",
+      "substance_id": "479413",
+      "regulatory_url": "/en/drug/regulatory/487840?name=77292&mode=orpha&region=",
+      "regulatory_id": "487840",
+      "orpha_substance_code": "ORPHA:77293",
+      "details": [
+        "Acetylleucine(Medicinal product                        - 20/03/2017)Disease(s) concernedORPHA:646 Niemann-Pick disease type CORPHA:77292 Infantile neurovisceral acid sphingomyelinase deficiencyORPHA:77293 Chronic visceral acid sphingomyelinase deficiency",
+        "Acetylleucine(Medicinal product                        - 20/03/2017)",
+        "(Medicinal product                        - 20/03/2017)",
+        "Disease(s) concernedORPHA:646 Niemann-Pick disease type CORPHA:77292 Infantile neurovisceral acid sphingomyelinase deficiencyORPHA:77293 Chronic visceral acid sphingomyelinase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/479413?name=77292&mode=orpha&region=&status=all",
+          "text": "Acetylleucine",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/646",
+          "text": "ORPHA:646 Niemann-Pick disease type C",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77292",
+          "text": "ORPHA:77292 Infantile neurovisceral acid sphingomyelinase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77293",
+          "text": "ORPHA:77293 Chronic visceral acid sphingomyelinase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/487840?name=77292&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type C\n                                \n\n\n\n\n                                    ORPHA:77292 Infantile neurovisceral acid sphingomyelinase deficiency\n                                \n\n\n\n\n                                    ORPHA:77293 Chronic visceral acid sphingomyelinase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "XENPOZYME",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/629878?name=77292&mode=orpha&region=",
+      "regulatory_id": "629878",
+      "orpha_substance_code": "ORPHA:618899",
+      "details": [
+        "XENPOZYME(Tradename                        - 24/06/2022)Disease(s) concernedORPHA:618899 Acid sphingomyelinase deficiency",
+        "XENPOZYME(Tradename                        - 24/06/2022)",
+        "(Tradename                        - 24/06/2022)",
+        "Disease(s) concernedORPHA:618899 Acid sphingomyelinase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/629877?name=77292&mode=orpha&region=&status=all",
+          "text": "XENPOZYME",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/618899",
+          "text": "ORPHA:618899 Acid sphingomyelinase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/629878?name=77292&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "PLERIXAFOR ACCORD",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/642317?name=77292&mode=orpha&region=",
+      "regulatory_id": "642317",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "PLERIXAFOR ACCORD(Tradename                        - 16/12/2022)Disease(s) concernedORPHA:29073 Multiple myelomaORPHA:223735 LymphomaORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "PLERIXAFOR ACCORD(Tradename                        - 16/12/2022)",
+        "(Tradename                        - 16/12/2022)",
+        "Disease(s) concernedORPHA:29073 Multiple myelomaORPHA:223735 LymphomaORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/642316?name=77292&mode=orpha&region=&status=all",
+          "text": "PLERIXAFOR ACCORD",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/29073",
+          "text": "ORPHA:29073 Multiple myeloma",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/223735",
+          "text": "ORPHA:223735 Lymphoma",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/642317?name=77292&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Thiotepa Riemser",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/610636?name=77292&mode=orpha&region=",
+      "regulatory_id": "610636",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Thiotepa Riemser(Tradename                        - 26/03/2021)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Thiotepa Riemser(Tradename                        - 26/03/2021)",
+        "(Tradename                        - 26/03/2021)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/610616?name=77292&mode=orpha&region=&status=all",
+          "text": "Thiotepa Riemser",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/610636?name=77292&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "OFEV",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/692773?name=77292&mode=orpha&region=",
+      "regulatory_id": "692773",
+      "orpha_substance_code": "ORPHA:182095",
+      "details": [
+        "OFEV(Tradename                        - 13/07/2020)Disease(s) concernedORPHA:182095 Interstitial lung disease",
+        "OFEV(Tradename                        - 13/07/2020)",
+        "(Tradename                        - 13/07/2020)",
+        "Disease(s) concernedORPHA:182095 Interstitial lung disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/412134?name=77292&mode=orpha&region=&status=all",
+          "text": "OFEV",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/182095",
+          "text": "ORPHA:182095 Interstitial lung disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/692773?name=77292&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "motixafortide",
+      "substance_url": "/en/drug/substance/588874?name=77292&mode=orpha&region=&status=all",
+      "substance_id": "588874",
+      "regulatory_url": "/en/drug/regulatory/661036?name=77292&mode=orpha&region=",
+      "regulatory_id": "661036",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "motixafortide(Medicinal product                        - 12/01/2024)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "motixafortide(Medicinal product                        - 12/01/2024)",
+        "(Medicinal product                        - 12/01/2024)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/588874?name=77292&mode=orpha&region=&status=all",
+          "text": "motixafortide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/661036?name=77292&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate",
+      "substance_url": "/en/drug/substance/589233?name=77292&mode=orpha&region=&status=all",
+      "substance_id": "589233",
+      "regulatory_url": "/en/drug/regulatory/589234?name=77292&mode=orpha&region=",
+      "regulatory_id": "589234",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate(Medicinal product                        - 20/04/2020)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate(Medicinal product                        - 20/04/2020)",
+        "(Medicinal product                        - 20/04/2020)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/589233?name=77292&mode=orpha&region=&status=all",
+          "text": "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/589234?name=77292&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus",
+      "substance_url": "/en/drug/substance/589056?name=77292&mode=orpha&region=&status=all",
+      "substance_id": "589056",
+      "regulatory_url": "/en/drug/regulatory/589057?name=77292&mode=orpha&region=",
+      "regulatory_id": "589057",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus(Medicinal product                        - 24/03/2020)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus(Medicinal product                        - 24/03/2020)",
+        "(Medicinal product                        - 24/03/2020)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/589056?name=77292&mode=orpha&region=&status=all",
+          "text": "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/589057?name=77292&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "XENPOZYME",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/629911?name=77292&mode=orpha&region=",
+      "regulatory_id": "629911",
+      "orpha_substance_code": "ORPHA:618899",
+      "details": [
+        "XENPOZYME(Tradename                        - 31/08/2022)Disease(s) concernedORPHA:618899 Acid sphingomyelinase deficiency",
+        "XENPOZYME(Tradename                        - 31/08/2022)",
+        "(Tradename                        - 31/08/2022)",
+        "Disease(s) concernedORPHA:618899 Acid sphingomyelinase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/629877?name=77292&mode=orpha&region=&status=all",
+          "text": "XENPOZYME",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/618899",
+          "text": "ORPHA:618899 Acid sphingomyelinase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/629911?name=77292&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=77292&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=77292&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Burixafor(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Burixafor(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689505?name=77292&mode=orpha&region=&status=all",
+          "text": "Burixafor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689915?name=77292&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Besilesomab",
+      "substance_url": "/en/drug/substance/571152?name=77292&mode=orpha&region=&status=all",
+      "substance_id": "571152",
+      "regulatory_url": "/en/drug/regulatory/641081?name=77292&mode=orpha&region=",
+      "regulatory_id": "641081",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Besilesomab(Medicinal product                        - 28/03/2022)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Besilesomab(Medicinal product                        - 28/03/2022)",
+        "(Medicinal product                        - 28/03/2022)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/571152?name=77292&mode=orpha&region=&status=all",
+          "text": "Besilesomab",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/641081?name=77292&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Besilesomab",
+      "substance_url": "/en/drug/substance/571152?name=77292&mode=orpha&region=&status=all",
+      "substance_id": "571152",
+      "regulatory_url": "/en/drug/regulatory/641075?name=77292&mode=orpha&region=",
+      "regulatory_id": "641075",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Besilesomab(Medicinal product                        - 28/03/2022)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Besilesomab(Medicinal product                        - 28/03/2022)",
+        "(Medicinal product                        - 28/03/2022)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/571152?name=77292&mode=orpha&region=&status=all",
+          "text": "Besilesomab",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/641075?name=77292&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=77292&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=77292&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Treosulfan(Medicinal product                        - 08/04/2015)Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Treosulfan(Medicinal product                        - 08/04/2015)",
+        "(Medicinal product                        - 08/04/2015)",
+        "Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90799?name=77292&mode=orpha&region=&status=all",
+          "text": "Treosulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/213500",
+          "text": "ORPHA:213500 Rare ovarian cancer",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136690?name=77292&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=77292&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=77292&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "busulfan(Medicinal product                        - 21/04/1994)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "busulfan(Medicinal product                        - 21/04/1994)",
+        "(Medicinal product                        - 21/04/1994)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/46335?name=77292&mode=orpha&region=&status=all",
+          "text": "busulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131973?name=77292&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:00:05.501486",
+  "run_number": 1,
+  "total_drugs_found": 15,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Infantile+neurovisceral+acid+sphingomyelinase+deficiency&orphaCode=77292&name=77292&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Infantile neurovisceral acid sphingomyelinase deficiency",
+    "orphaCode": "77292",
+    "name": "77292",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

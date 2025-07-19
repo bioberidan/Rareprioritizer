@@ -1,0 +1,398 @@
+{
+  "disease_name": "Familial chylomicronemia syndrome",
+  "orpha_code": "444490",
+  "drugs": [
+    {
+      "name": "WAYLIVRA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/556976?name=444490&mode=orpha&region=",
+      "regulatory_id": "556976",
+      "orpha_substance_code": "ORPHA:444490",
+      "details": [
+        "WAYLIVRA(Tradename                        - 03/05/2019)Disease(s) concernedORPHA:444490 Familial chylomicronemia syndrome",
+        "WAYLIVRA(Tradename                        - 03/05/2019)",
+        "(Tradename                        - 03/05/2019)",
+        "Disease(s) concernedORPHA:444490 Familial chylomicronemia syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/556969?name=444490&mode=orpha&region=&status=all",
+          "text": "WAYLIVRA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/444490",
+          "text": "ORPHA:444490 Familial chylomicronemia syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/556976?name=444490&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Olezarsen",
+      "substance_url": "/en/drug/substance/622060?name=444490&mode=orpha&region=&status=all",
+      "substance_id": "622060",
+      "regulatory_url": "/en/drug/regulatory/686872?name=444490&mode=orpha&region=",
+      "regulatory_id": "686872",
+      "orpha_substance_code": "ORPHA:444490",
+      "details": [
+        "Olezarsen(Medicinal product                        - 21/08/2024)Disease(s) concernedORPHA:444490 Familial chylomicronemia syndrome",
+        "Olezarsen(Medicinal product                        - 21/08/2024)",
+        "(Medicinal product                        - 21/08/2024)",
+        "Disease(s) concernedORPHA:444490 Familial chylomicronemia syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/622060?name=444490&mode=orpha&region=&status=all",
+          "text": "Olezarsen",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/444490",
+          "text": "ORPHA:444490 Familial chylomicronemia syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/686872?name=444490&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Synthetic double-stranded siRNA oligonucleotide directed against apolipoprotein C-III mRNA and covalently linked to a ligand containing three N-acetylgalactosamine residues",
+      "substance_url": "/en/drug/substance/627673?name=444490&mode=orpha&region=&status=all",
+      "substance_id": "627673",
+      "regulatory_url": "/en/drug/regulatory/627674?name=444490&mode=orpha&region=",
+      "regulatory_id": "627674",
+      "orpha_substance_code": "ORPHA:444490",
+      "details": [
+        "Synthetic double-stranded siRNA oligonucleotide directed against apolipoprotein C-III mRNA and covalently linked to a ligand containing three N-acetylgalactosamine residues(Medicinal product                        - 19/07/2021)Disease(s) concernedORPHA:444490 Familial chylomicronemia syndrome",
+        "Synthetic double-stranded siRNA oligonucleotide directed against apolipoprotein C-III mRNA and covalently linked to a ligand containing three N-acetylgalactosamine residues(Medicinal product                        - 19/07/2021)",
+        "(Medicinal product                        - 19/07/2021)",
+        "Disease(s) concernedORPHA:444490 Familial chylomicronemia syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/627673?name=444490&mode=orpha&region=&status=all",
+          "text": "Synthetic double-stranded siRNA oligonucleotide directed against apolipoprotein C-III mRNA and covalently linked to a ligand containing three N-acetylgalactosamine residues",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/444490",
+          "text": "ORPHA:444490 Familial chylomicronemia syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/627674?name=444490&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Apolipotrotein C-III antisense oligonucleotide",
+      "substance_url": "/en/drug/substance/376872?name=444490&mode=orpha&region=&status=all",
+      "substance_id": "376872",
+      "regulatory_url": "/en/drug/regulatory/397921?name=444490&mode=orpha&region=",
+      "regulatory_id": "397921",
+      "orpha_substance_code": "ORPHA:444490",
+      "details": [
+        "Apolipotrotein C-III antisense oligonucleotide(Medicinal product                        - 19/02/2014)Disease(s) concernedORPHA:444490 Familial chylomicronemia syndrome",
+        "Apolipotrotein C-III antisense oligonucleotide(Medicinal product                        - 19/02/2014)",
+        "(Medicinal product                        - 19/02/2014)",
+        "Disease(s) concernedORPHA:444490 Familial chylomicronemia syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/376872?name=444490&mode=orpha&region=&status=all",
+          "text": "Apolipotrotein C-III antisense oligonucleotide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/444490",
+          "text": "ORPHA:444490 Familial chylomicronemia syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/397921?name=444490&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Lomitapide",
+      "substance_url": "/en/drug/substance/240492?name=444490&mode=orpha&region=&status=all",
+      "substance_id": "240492",
+      "regulatory_url": "/en/drug/regulatory/260317?name=444490&mode=orpha&region=",
+      "regulatory_id": "260317",
+      "orpha_substance_code": "ORPHA:444490",
+      "details": [
+        "Lomitapide(Medicinal product                        - 17/12/2010)Disease(s) concernedORPHA:444490 Familial chylomicronemia syndrome",
+        "Lomitapide(Medicinal product                        - 17/12/2010)",
+        "(Medicinal product                        - 17/12/2010)",
+        "Disease(s) concernedORPHA:444490 Familial chylomicronemia syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/240492?name=444490&mode=orpha&region=&status=all",
+          "text": "Lomitapide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/444490",
+          "text": "ORPHA:444490 Familial chylomicronemia syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/260317?name=444490&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Trans-4-[4-[5-[[6-(trifluoromethyl)-3-pyridinyl]amino]-2-pyridinyl]phenyl] cyclohexane acetic acid sodium salt",
+      "substance_url": "/en/drug/substance/317205?name=444490&mode=orpha&region=&status=all",
+      "substance_id": "317205",
+      "regulatory_url": "/en/drug/regulatory/360541?name=444490&mode=orpha&region=",
+      "regulatory_id": "360541",
+      "orpha_substance_code": "ORPHA:444490",
+      "details": [
+        "Trans-4-[4-[5-[[6-(trifluoromethyl)-3-pyridinyl]amino]-2-pyridinyl]phenyl] cyclohexane acetic acid sodium salt(Medicinal product                        - 14/09/2013)Disease(s) concernedORPHA:444490 Familial chylomicronemia syndrome",
+        "Trans-4-[4-[5-[[6-(trifluoromethyl)-3-pyridinyl]amino]-2-pyridinyl]phenyl] cyclohexane acetic acid sodium salt(Medicinal product                        - 14/09/2013)",
+        "(Medicinal product                        - 14/09/2013)",
+        "Disease(s) concernedORPHA:444490 Familial chylomicronemia syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/317205?name=444490&mode=orpha&region=&status=all",
+          "text": "Trans-4-[4-[5-[[6-(trifluoromethyl)-3-pyridinyl]amino]-2-pyridinyl]phenyl] cyclohexane acetic acid sodium salt",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/444490",
+          "text": "ORPHA:444490 Familial chylomicronemia syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/360541?name=444490&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "TRYNGOLZA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/692505?name=444490&mode=orpha&region=",
+      "regulatory_id": "692505",
+      "orpha_substance_code": "ORPHA:444490",
+      "details": [
+        "TRYNGOLZA(Tradename                        - 19/12/2024)Disease(s) concernedORPHA:444490 Familial chylomicronemia syndrome",
+        "TRYNGOLZA(Tradename                        - 19/12/2024)",
+        "(Tradename                        - 19/12/2024)",
+        "Disease(s) concernedORPHA:444490 Familial chylomicronemia syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/692409?name=444490&mode=orpha&region=&status=all",
+          "text": "TRYNGOLZA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/444490",
+          "text": "ORPHA:444490 Familial chylomicronemia syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/692505?name=444490&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Olezarsen",
+      "substance_url": "/en/drug/substance/622060?name=444490&mode=orpha&region=&status=all",
+      "substance_id": "622060",
+      "regulatory_url": "/en/drug/regulatory/662832?name=444490&mode=orpha&region=",
+      "regulatory_id": "662832",
+      "orpha_substance_code": "ORPHA:444490",
+      "details": [
+        "Olezarsen(Medicinal product                        - 14/02/2024)Disease(s) concernedORPHA:444490 Familial chylomicronemia syndrome",
+        "Olezarsen(Medicinal product                        - 14/02/2024)",
+        "(Medicinal product                        - 14/02/2024)",
+        "Disease(s) concernedORPHA:444490 Familial chylomicronemia syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/622060?name=444490&mode=orpha&region=&status=all",
+          "text": "Olezarsen",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/444490",
+          "text": "ORPHA:444490 Familial chylomicronemia syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/662832?name=444490&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "GLYBERA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/352359?name=444490&mode=orpha&region=",
+      "regulatory_id": "352359",
+      "orpha_substance_code": "ORPHA:309015",
+      "details": [
+        "GLYBERA(Tradename                        - 25/10/2012)Disease(s) concernedORPHA:309015 Familial lipoprotein lipase deficiency",
+        "GLYBERA(Tradename                        - 25/10/2012)",
+        "(Tradename                        - 25/10/2012)",
+        "Disease(s) concernedORPHA:309015 Familial lipoprotein lipase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/352356?name=444490&mode=orpha&region=&status=all",
+          "text": "GLYBERA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/309015",
+          "text": "ORPHA:309015 Familial lipoprotein lipase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/352359?name=444490&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Alipogene tiparvovec",
+      "substance_url": "/en/drug/substance/82361?name=444490&mode=orpha&region=&status=all",
+      "substance_id": "82361",
+      "regulatory_url": "/en/drug/regulatory/133874?name=444490&mode=orpha&region=",
+      "regulatory_id": "133874",
+      "orpha_substance_code": "ORPHA:309015",
+      "details": [
+        "Alipogene tiparvovec(Medicinal product                        - 08/03/2004)Disease(s) concernedORPHA:309015 Familial lipoprotein lipase deficiency",
+        "Alipogene tiparvovec(Medicinal product                        - 08/03/2004)",
+        "(Medicinal product                        - 08/03/2004)",
+        "Disease(s) concernedORPHA:309015 Familial lipoprotein lipase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/82361?name=444490&mode=orpha&region=&status=all",
+          "text": "Alipogene tiparvovec",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/309015",
+          "text": "ORPHA:309015 Familial lipoprotein lipase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/133874?name=444490&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:04:13.175238",
+  "run_number": 1,
+  "total_drugs_found": 10,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Familial+chylomicronemia+syndrome&orphaCode=444490&name=444490&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Familial chylomicronemia syndrome",
+    "orphaCode": "444490",
+    "name": "444490",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "disease_name": "Succinic semialdehyde dehydrogenase deficiency",
+  "orpha_code": "22",
+  "trials": [
+    {
+      "nctId": "NCT03758521",
+      "briefTitle": "Natural History Study of Patients with Succinic Semialdehyde Dehydrogenase (SSADH) Deficiency",
+      "officialTitle": "Natural History Study of Patients with Succinic Semialdehyde Dehydrogenase (SSADH) Deficiency",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Succinic Semialdehyde Dehydrogenase Deficiency"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Transcranial magnetic stimulation (TMS)"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Magnetic resonance imaging (MRI)"
+        },
+        {
+          "type": "DEVICE",
+          "name": "Electroencephalogram (EEG)"
+        },
+        {
+          "type": "PROCEDURE",
+          "name": "Bio-specimen Collection"
+        }
+      ],
+      "enrollment": 55,
+      "locations": [
+        {
+          "facility": "Boston Children's Hospital",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "University Children's Hospital",
+          "city": "Heidelberg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Sant Joan de Deu Hospital Barcelona",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Birmingham Children's Hospital NHS Foundation Trust",
+          "city": "Birmingham",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2024-12-16"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:14:56.828433",
+  "run_number": 1,
+  "total_trials_found": 1
+}

@@ -1,0 +1,126 @@
+{
+  "disease_name": "Cystinuria",
+  "orpha_code": "214",
+  "drugs": [
+    {
+      "name": "L-ergothioneine",
+      "substance_url": "/en/drug/substance/627494?name=214&mode=orpha&region=&status=all",
+      "substance_id": "627494",
+      "regulatory_url": "/en/drug/regulatory/627498?name=214&mode=orpha&region=",
+      "regulatory_id": "627498",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Tripotassium citrate monohydrate and potassium hydrogen carbonate",
+      "substance_url": "/en/drug/substance/489774?name=214&mode=orpha&region=&status=all",
+      "substance_id": "489774",
+      "regulatory_url": "/en/drug/regulatory/588821?name=214&mode=orpha&region=",
+      "regulatory_id": "588821",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "L-cystine bis(N-methylpiperazide)",
+      "substance_url": "/en/drug/substance/520905?name=214&mode=orpha&region=&status=all",
+      "substance_id": "520905",
+      "regulatory_url": "/en/drug/regulatory/520913?name=214&mode=orpha&region=",
+      "regulatory_id": "520913",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "THIOLA",
+      "substance_url": "/en/drug/trade_name/25072?name=214&mode=orpha&region=&status=all",
+      "substance_id": "25072",
+      "regulatory_url": "/en/drug/regulatory/131080?name=214&mode=orpha&region=",
+      "regulatory_id": "131080",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Fixed-dose combination of potassium citrate and potassium bicarbonate",
+      "substance_url": "/en/drug/substance/638983?name=214&mode=orpha&region=&status=all",
+      "substance_id": "638983",
+      "regulatory_url": "/en/drug/regulatory/665276?name=214&mode=orpha&region=",
+      "regulatory_id": "665276",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "3-{[2,3,5,6-tetrafluoro-3'-(trifluoromethoxy)biphenyl-4-yl]carbamoyl}thiophene-2-carboxylic acid",
+      "substance_url": "/en/drug/substance/444708?name=214&mode=orpha&region=&status=all",
+      "substance_id": "444708",
+      "regulatory_url": "/en/drug/regulatory/444712?name=214&mode=orpha&region=",
+      "regulatory_id": "444712",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=214&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=214&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=214&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=214&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=214&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=214&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:18:51.641340",
+  "run_number": 1,
+  "total_drugs_found": 9,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Cystinuria&orphaCode=214&name=214&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Cystinuria",
+    "orphaCode": "214",
+    "name": "214",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

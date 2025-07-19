@@ -1,0 +1,132 @@
+{
+  "disease_name": "X-linked intellectual disability-limb spasticity-retinal dystrophy-arginine vasopressin deficiency",
+  "orpha_code": "423479",
+  "drugs": [
+    {
+      "name": "Adeno-associated virus serotype 5 containing the human RDH12 gene",
+      "substance_url": "/en/drug/substance/605032?name=423479&mode=orpha&region=&status=all",
+      "substance_id": "605032",
+      "regulatory_url": "/en/drug/regulatory/605033?name=423479&mode=orpha&region=",
+      "regulatory_id": "605033",
+      "orpha_substance_code": "ORPHA:71862",
+      "details": [
+        "Adeno-associated virus serotype 5 containing the human RDH12 gene(Medicinal product                        - 19/10/2020)Disease(s) concernedORPHA:71862 Inherited retinal disorder",
+        "Adeno-associated virus serotype 5 containing the human RDH12 gene(Medicinal product                        - 19/10/2020)",
+        "(Medicinal product                        - 19/10/2020)",
+        "Disease(s) concernedORPHA:71862 Inherited retinal disorder",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/605032?name=423479&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus serotype 5 containing the human RDH12 gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/71862",
+          "text": "ORPHA:71862 Inherited retinal disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/605033?name=423479&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Combination of three adeno-associated viral vectors of serotype 8 containing the 5'-, the body- and the 3'- coding sequences of human CEP290 fused to inteins",
+      "substance_url": "/en/drug/substance/588772?name=423479&mode=orpha&region=&status=all",
+      "substance_id": "588772",
+      "regulatory_url": "/en/drug/regulatory/588773?name=423479&mode=orpha&region=",
+      "regulatory_id": "588773",
+      "orpha_substance_code": "ORPHA:71862",
+      "details": [
+        "Combination of three adeno-associated viral vectors of serotype 8 containing the 5'-, the body- and the 3'- coding sequences of human CEP290 fused to inteins(Medicinal product                        - 28/02/2020)Disease(s) concernedORPHA:71862 Inherited retinal disorder",
+        "Combination of three adeno-associated viral vectors of serotype 8 containing the 5'-, the body- and the 3'- coding sequences of human CEP290 fused to inteins(Medicinal product                        - 28/02/2020)",
+        "(Medicinal product                        - 28/02/2020)",
+        "Disease(s) concernedORPHA:71862 Inherited retinal disorder",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/588772?name=423479&mode=orpha&region=&status=all",
+          "text": "Combination of three adeno-associated viral vectors of serotype 8 containing the 5'-, the body- and the 3'- coding sequences of human CEP290 fused to inteins",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/71862",
+          "text": "ORPHA:71862 Inherited retinal disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/588773?name=423479&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated virus serotype 8 containing the human RdCVF sequence and the human RdCVFL sequence",
+      "substance_url": "/en/drug/substance/588591?name=423479&mode=orpha&region=&status=all",
+      "substance_id": "588591",
+      "regulatory_url": "/en/drug/regulatory/588593?name=423479&mode=orpha&region=",
+      "regulatory_id": "588593",
+      "orpha_substance_code": "ORPHA:71862",
+      "details": [
+        "Adeno-associated virus serotype 8 containing the human RdCVF sequence and the human RdCVFL sequence(Medicinal product                        - 28/02/2020)Disease(s) concernedORPHA:71862 Inherited retinal disorder",
+        "Adeno-associated virus serotype 8 containing the human RdCVF sequence and the human RdCVFL sequence(Medicinal product                        - 28/02/2020)",
+        "(Medicinal product                        - 28/02/2020)",
+        "Disease(s) concernedORPHA:71862 Inherited retinal disorder",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/588591?name=423479&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus serotype 8 containing the human RdCVF sequence and the human RdCVFL sequence",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/71862",
+          "text": "ORPHA:71862 Inherited retinal disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/588593?name=423479&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:03:51.411331",
+  "run_number": 1,
+  "total_drugs_found": 3,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=X-linked+intellectual+disability-limb+spasticity-retinal+dystrophy-arginine+vasopressin+deficiency&orphaCode=423479&name=423479&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "X-linked intellectual disability-limb spasticity-retinal dystrophy-arginine vasopressin deficiency",
+    "orphaCode": "423479",
+    "name": "423479",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

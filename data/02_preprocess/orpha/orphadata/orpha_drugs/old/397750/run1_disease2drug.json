@@ -1,0 +1,251 @@
+{
+  "disease_name": "Periodic paralysis with later-onset distal motor neuropathy",
+  "orpha_code": "397750",
+  "drugs": [
+    {
+      "name": "Acetazolamide",
+      "substance_url": "/en/drug/substance/541988?name=397750&mode=orpha&region=&status=all",
+      "substance_id": "541988",
+      "regulatory_url": "/en/drug/regulatory/570539?name=397750&mode=orpha&region=",
+      "regulatory_id": "570539",
+      "orpha_substance_code": "ORPHA:206976",
+      "details": [
+        "Acetazolamide(Medicinal product                        - 21/08/2019)Disease(s) concernedORPHA:206976 Periodic paralysis",
+        "Acetazolamide(Medicinal product                        - 21/08/2019)",
+        "(Medicinal product                        - 21/08/2019)",
+        "Disease(s) concernedORPHA:206976 Periodic paralysis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/541988?name=397750&mode=orpha&region=&status=all",
+          "text": "Acetazolamide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/206976",
+          "text": "ORPHA:206976 Periodic paralysis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/570539?name=397750&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Diclofenamide",
+      "substance_url": "/en/drug/substance/456170?name=397750&mode=orpha&region=&status=all",
+      "substance_id": "456170",
+      "regulatory_url": "/en/drug/regulatory/480192?name=397750&mode=orpha&region=",
+      "regulatory_id": "480192",
+      "orpha_substance_code": "ORPHA:206976",
+      "details": [
+        "Diclofenamide(Medicinal product                        - 27/06/2016)Disease(s) concernedORPHA:206976 Periodic paralysis",
+        "Diclofenamide(Medicinal product                        - 27/06/2016)",
+        "(Medicinal product                        - 27/06/2016)",
+        "Disease(s) concernedORPHA:206976 Periodic paralysis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/456170?name=397750&mode=orpha&region=&status=all",
+          "text": "Diclofenamide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/206976",
+          "text": "ORPHA:206976 Periodic paralysis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/480192?name=397750&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Diclofenamide",
+      "substance_url": "/en/drug/substance/456170?name=397750&mode=orpha&region=&status=all",
+      "substance_id": "456170",
+      "regulatory_url": "/en/drug/regulatory/456171?name=397750&mode=orpha&region=",
+      "regulatory_id": "456171",
+      "orpha_substance_code": "ORPHA:206976",
+      "details": [
+        "Diclofenamide(Medicinal product                        - 17/02/2016)Disease(s) concernedORPHA:206976 Periodic paralysis",
+        "Diclofenamide(Medicinal product                        - 17/02/2016)",
+        "(Medicinal product                        - 17/02/2016)",
+        "Disease(s) concernedORPHA:206976 Periodic paralysis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/456170?name=397750&mode=orpha&region=&status=all",
+          "text": "Diclofenamide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/206976",
+          "text": "ORPHA:206976 Periodic paralysis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/456171?name=397750&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/646586?name=397750&mode=orpha&region=&status=all",
+      "substance_id": "646586",
+      "regulatory_url": "/en/drug/regulatory/646683?name=397750&mode=orpha&region=",
+      "regulatory_id": "646683",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)",
+        "(Medicinal product                        - 14/04/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/646586?name=397750&mode=orpha&region=&status=all",
+          "text": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/646683?name=397750&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Zagociguat",
+      "substance_url": "/en/drug/substance/644348?name=397750&mode=orpha&region=&status=all",
+      "substance_id": "644348",
+      "regulatory_url": "/en/drug/regulatory/644353?name=397750&mode=orpha&region=",
+      "regulatory_id": "644353",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Zagociguat(Medicinal product                        - 23/03/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Zagociguat(Medicinal product                        - 23/03/2023)",
+        "(Medicinal product                        - 23/03/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/644348?name=397750&mode=orpha&region=&status=all",
+          "text": "Zagociguat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/644353?name=397750&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Vatiquinone",
+      "substance_url": "/en/drug/substance/285822?name=397750&mode=orpha&region=&status=all",
+      "substance_id": "285822",
+      "regulatory_url": "/en/drug/regulatory/299940?name=397750&mode=orpha&region=",
+      "regulatory_id": "299940",
+      "orpha_substance_code": "ORPHA:254827",
+      "details": [
+        "Vatiquinone(Medicinal product                        - 21/12/2010)Disease(s) concernedORPHA:223713 Mitochondrial oxidative phosphorylation disorderORPHA:254827 Mitochondrial membrane transport disorder",
+        "Vatiquinone(Medicinal product                        - 21/12/2010)",
+        "(Medicinal product                        - 21/12/2010)",
+        "Disease(s) concernedORPHA:223713 Mitochondrial oxidative phosphorylation disorderORPHA:254827 Mitochondrial membrane transport disorder",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/285822?name=397750&mode=orpha&region=&status=all",
+          "text": "Vatiquinone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/223713",
+          "text": "ORPHA:223713 Mitochondrial oxidative phosphorylation disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/254827",
+          "text": "ORPHA:254827 Mitochondrial membrane transport disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/299940?name=397750&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "ORPHA:254827 Mitochondrial membrane transport disorder\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:03:08.428726",
+  "run_number": 1,
+  "total_drugs_found": 6,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Periodic+paralysis+with+later-onset+distal+motor+neuropathy&orphaCode=397750&name=397750&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Periodic paralysis with later-onset distal motor neuropathy",
+    "orphaCode": "397750",
+    "name": "397750",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "disease_name": "Mitochondrial DNA-related progressive external ophthalmoplegia",
+  "orpha_code": "663",
+  "trials": [
+    {
+      "nctId": "NCT05162768",
+      "briefTitle": "Study to Evaluate Efficacy and Safety of Elamipretide in Subjects With Primary Mitochondrial Disease From Nuclear DNA Mutations (nPMD)",
+      "officialTitle": "A Phase 3 Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Daily Subcutaneous Injections of Elamipretide in Subjects With Primary Mitochondrial Disease Resulting From Pathogenic Nuclear DNA Mutations (nPMD) NuPower",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Mitochondrial Myopathies",
+        "Mitochondrial Pathology",
+        "Mitochondrial DNA Mutation",
+        "Mitochondrial Diseases",
+        "Mitochondrial DNA Deletion",
+        "Mitochondrial DNA Depletion",
+        "Mitochondrial Metabolism Defect",
+        "Mitochondrial Complex I Deficiency"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Elamipretide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "enrollment": 102,
+      "locations": [
+        {
+          "facility": "University of California, San Diego",
+          "city": "San Diego",
+          "country": "United States"
+        },
+        {
+          "facility": "Rare Disease Research, LLC",
+          "city": "Atlanta",
+          "country": "United States"
+        },
+        {
+          "facility": "Massachusetts General Hospital",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "Washington University School of Medicine",
+          "city": "Saint Louis",
+          "country": "United States"
+        },
+        {
+          "facility": "Columbia University Medical Center College of Physician and Surgeon",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Akron Children's Hospital",
+          "city": "Akron",
+          "country": "United States"
+        },
+        {
+          "facility": "The Children's Hospital of Philadelphia",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Pittsburgh School of Medicine Children's Hospital of Pittsburgh of UPMC Department of Genetics",
+          "city": "Pittsburgh",
+          "country": "United States"
+        },
+        {
+          "facility": "UT Health,Center for the Treatment of Pediatric Neurodegenerative Disease",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "Royal North Shore Hospital Neurology",
+          "city": "Sydney",
+          "country": "Australia"
+        },
+        {
+          "facility": "Calvary Health Care Bethlehem",
+          "city": "Parkdale",
+          "country": "Australia"
+        },
+        {
+          "facility": "Department of Neurology, University Clinics Munich",
+          "city": "Munich",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitaetsklinikum Carl Gustav Carus Dresden Neurologie",
+          "city": "Dresden",
+          "country": "Germany"
+        },
+        {
+          "facility": "Univ of Tubingen, Hertie Institute for Clinical Brain Research",
+          "city": "Tübingen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Semmelweis Egyetem Genomikai Medicina es Ritka Betegsegek",
+          "city": "Budapest",
+          "country": "Hungary"
+        },
+        {
+          "facility": "University of Pécs, Department of Neurology Klinikai Kozpont - neurologiai Klinika",
+          "city": "Pecs",
+          "country": "Hungary"
+        },
+        {
+          "facility": "University of Brescia, NeMO Clinical Center for Neuromuscular Diseases",
+          "city": "Gussago",
+          "country": "Italy"
+        },
+        {
+          "facility": "Istituto di Neurologia, Fondazione Policlinico Universitario A. Gemelli, Università Cattolica del Sacro Cuore",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "IRCCS Institute of Neorological Sciences of Bologna Bellaria Hospital",
+          "city": "Bologna",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliero Universitaria Policlinico G. Martino",
+          "city": "Messina",
+          "country": "Italy"
+        },
+        {
+          "facility": "Istituto Nazionale Neurologico Carlo Besta",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliero Universitario Pisana, Dipartimento Ambientale di Neuroscienze",
+          "city": "Pisa",
+          "country": "Italy"
+        },
+        {
+          "facility": "Radboud University Medical Center",
+          "city": "Nijmegen",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "University of Auckland - Auckland City Hospital, Neurology Department",
+          "city": "Auckland",
+          "country": "New Zealand"
+        },
+        {
+          "facility": "Helse Bergen HF",
+          "city": "Bergen",
+          "country": "Norway"
+        },
+        {
+          "facility": "Hospital de la Sta Creu i Sant Pau",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Clinic de Barcelona",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital la Fe de Valencia",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "University of Cambridge, Department of Clinical Neurosciences",
+          "city": "Cambridge",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Queen Square Centre for Neuromuscular Diseases The National Hospital for Neurology and Neurosurgery",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Newcastle upon Tyne Hospitals Freeman Hospital",
+          "city": "Newcastle",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2023-12-12"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:14:36.454674",
+  "run_number": 1,
+  "total_trials_found": 1
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "prevalence_id": "8045",
+    "orpha_code": "103909",
+    "disease_name": "Trehalase deficiency",
+    "source": "[EXPERT]",
+    "prevalence_type": "Annual incidence",
+    "prevalence_class": ">1 / 1000",
+    "qualification": "Value and class",
+    "geographic_area": "Greenland",
+    "validation_status": "Validated",
+    "reliability_score": 8.5,
+    "is_fiable": true,
+    "per_million_estimate": 5000.0,
+    "confidence_level": "high",
+    "estimate_source": "class_midpoint"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "disease_name": "Musculocontractural Ehlers-Danlos syndrome",
+  "orpha_code": "2953",
+  "drugs": [
+    {
+      "name": "Enzastaurin",
+      "substance_url": "/en/drug/substance/76236?name=2953&mode=orpha&region=&status=all",
+      "substance_id": "76236",
+      "regulatory_url": "/en/drug/regulatory/627654?name=2953&mode=orpha&region=",
+      "regulatory_id": "627654",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:38:22.031928",
+  "run_number": 1,
+  "total_drugs_found": 1,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Musculocontractural+Ehlers-Danlos+syndrome&orphaCode=2953&name=2953&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Musculocontractural Ehlers-Danlos syndrome",
+    "orphaCode": "2953",
+    "name": "2953",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

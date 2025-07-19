@@ -1,0 +1,2135 @@
+{
+  "disease_name": "Gaucher disease",
+  "orpha_code": "355",
+  "trials": [
+    {
+      "nctId": "NCT00358943",
+      "briefTitle": "International Collaborative Gaucher Group (ICGG) Gaucher Disease Registry & Pregnancy Sub-registry",
+      "officialTitle": "Gaucher Disease Registry Protocol",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Gaucher Disease",
+        "Cerebroside Lipidosis Syndrome",
+        "Glucocerebrosidase Deficiency Disease",
+        "Glucosylceramide Beta-Glucosidase Deficiency Disease"
+      ],
+      "interventions": [],
+      "enrollment": 12000,
+      "locations": [
+        {
+          "facility": "Phoenix Children's Hospital- Site Number : 840003",
+          "city": "Phoenix",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Arizona- Site Number : 840015",
+          "city": "Tucson",
+          "country": "United States"
+        },
+        {
+          "facility": "Arkansas Childrens Hospital- Site Number : 840109",
+          "city": "Little Rock",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Arkansas for Medical Sciences- Site Number : 840113",
+          "city": "Little Rock",
+          "country": "United States"
+        },
+        {
+          "facility": "Tower Hematology/Oncology Medical Group- Site Number : 840056",
+          "city": "Beverly Hills",
+          "country": "United States"
+        },
+        {
+          "facility": "University of California at Irvine- Site Number : 840036",
+          "city": "Irvine",
+          "country": "United States"
+        },
+        {
+          "facility": "Southern California Permanente Medical Group- Site Number : 840108",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "USC Health Sciences Center Dept of Genetics- Site Number : 840082",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Orange County- Site Number : 840074",
+          "city": "Orange",
+          "country": "United States"
+        },
+        {
+          "facility": "Stanford Unviersity MC Dept of Genetics- Site Number : 840022",
+          "city": "Palo Alto",
+          "country": "United States"
+        },
+        {
+          "facility": "UC Davis MIND Institute- Site Number : 840010",
+          "city": "Sacramento",
+          "country": "United States"
+        },
+        {
+          "facility": "Kaiser Permanente Hospital- Site Number : 840042",
+          "city": "Sacramento",
+          "country": "United States"
+        },
+        {
+          "facility": "Loma Linda University Children's Hospital- Site Number : 840117",
+          "city": "San Bernardino",
+          "country": "United States"
+        },
+        {
+          "facility": "University of California at San Diego- Site Number : 840007",
+          "city": "San Diego",
+          "country": "United States"
+        },
+        {
+          "facility": "University of California at San Francisco- Site Number : 840051",
+          "city": "San Francisco",
+          "country": "United States"
+        },
+        {
+          "facility": "Yale - Site Number : 840047",
+          "city": "New Haven",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's National Medical Center- Site Number : 840067",
+          "city": "Washington",
+          "country": "United States"
+        },
+        {
+          "facility": "University Hematology Oncology- Site Number : 840075",
+          "city": "Coral Springs",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Florida Pediatrics Genetics- Site Number : 840121",
+          "city": "Jacksonville",
+          "country": "United States"
+        },
+        {
+          "facility": "The Atwal Clinic- Site Number : 840112",
+          "city": "Jacksonville",
+          "country": "United States"
+        },
+        {
+          "facility": "University Of Miami SOM- Site Number : 840006",
+          "city": "Miami",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Florida-Genetics- Site Number : 840096",
+          "city": "Tampa",
+          "country": "United States"
+        },
+        {
+          "facility": "Pediatric Endocrine Associates- Site Number : 840017",
+          "city": "Tampa",
+          "country": "United States"
+        },
+        {
+          "facility": "Emory University School of Medicine- Human Genetics- Site Number : 840060",
+          "city": "Decatur",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Colorado at Denver Genetics- Site Number : 840068",
+          "city": "Aurora",
+          "country": "United States"
+        },
+        {
+          "facility": "Ann and Robert Lurie Children's Hospital- Site Number : 840011",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "Ann and Robert Lurie Children's Hospital- Site Number : 840013",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "Rush University Medical Center Genetics- Site Number : 840079",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "Indianapolis University School of Medicine- Site Number : 840027",
+          "city": "Indianapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Iowa- Site Number : 840032",
+          "city": "Iowa City",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Louisville- Genetics- Site Number : 840030",
+          "city": "Louisville",
+          "country": "United States"
+        },
+        {
+          "facility": "Tulane University Medical Center- Site Number : 840001",
+          "city": "New Orleans",
+          "country": "United States"
+        },
+        {
+          "facility": "Ochsner Medical Center - Site Number : 840120",
+          "city": "New Orleans",
+          "country": "United States"
+        },
+        {
+          "facility": "Maine Medical Center Pediatrics- Site Number : 840064",
+          "city": "Portland",
+          "country": "United States"
+        },
+        {
+          "facility": "John Hopkins- Site Number : 840044",
+          "city": "Baltimore",
+          "country": "United States"
+        },
+        {
+          "facility": "Massachusetts General Hospital-Genetics- Site Number : 840062",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "Boston Children's Hospital- Site Number : 840092",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Michigan Pediatrics- Site Number : 840107",
+          "city": "Ann Arbor",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Michigan- Site Number : 840066",
+          "city": "Detroit",
+          "country": "United States"
+        },
+        {
+          "facility": "Infusion Associates- Site Number : 840050",
+          "city": "Grand Rapids",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Health Care- Site Number : 840114",
+          "city": "Minneapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital and Clinics of Minnesota- Site Number : 840046",
+          "city": "Minneapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Minnesota Medical Center Pediatrics- Site Number : 840076",
+          "city": "Minneapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Missouri Health System Department of Genetics- Site Number : 840031",
+          "city": "Columibia",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Mercy Hospital- Pediatrics- Site Number : 840063",
+          "city": "Kansas City",
+          "country": "United States"
+        },
+        {
+          "facility": "Washington University of St. Louis- Site Number : 840100",
+          "city": "Saint Louis",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Nebraska Medical Center- Pediatrics- Site Number : 840084",
+          "city": "Omaha",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Specialty Center of Nevada- Site Number : 840008",
+          "city": "Las Vegas",
+          "country": "United States"
+        },
+        {
+          "facility": "Cooper Health Center- Site Number : 840098",
+          "city": "Camden",
+          "country": "United States"
+        },
+        {
+          "facility": "Joseph M. Sanzari Children's Hospital- Site Number : 840101",
+          "city": "Hackensack",
+          "country": "United States"
+        },
+        {
+          "facility": "Atlantic Health System- Site Number : 840099",
+          "city": "Morristown",
+          "country": "United States"
+        },
+        {
+          "facility": "St. Peter's University Hospital- Site Number : 840016",
+          "city": "New Brunswick",
+          "country": "United States"
+        },
+        {
+          "facility": "St. Joseph's Children's Hospital- Site Number : 840057",
+          "city": "Paterson",
+          "country": "United States"
+        },
+        {
+          "facility": "Northwell Health- Site Number : 840102",
+          "city": "Manhasset",
+          "country": "United States"
+        },
+        {
+          "facility": "New York University School Of Medicine- Site Number : 840040",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Metropolitan Hospital Center- Site Number : 840110",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Mt. Sinai School of Medicine- Site Number : 840005",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Site Number : 840026",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Rochester Medical Center SOM- Site Number : 840105",
+          "city": "Rochester",
+          "country": "United States"
+        },
+        {
+          "facility": "State University of New York- Site Number : 840052",
+          "city": "Syracuse",
+          "country": "United States"
+        },
+        {
+          "facility": "New York Medical College- Site Number : 840039",
+          "city": "Valhalla",
+          "country": "United States"
+        },
+        {
+          "facility": "Carolinas Medical Center Hospital- Site Number : 840065",
+          "city": "Charlotte",
+          "country": "United States"
+        },
+        {
+          "facility": "Duke University Medical Center Genetics Dept- Site Number : 840037",
+          "city": "Durham",
+          "country": "United States"
+        },
+        {
+          "facility": "UHCMC- Site Number : 840119",
+          "city": "Cleveland",
+          "country": "United States"
+        },
+        {
+          "facility": "Cleveland Clinic Foundation Pediatrics- Site Number : 840048",
+          "city": "Cleveland",
+          "country": "United States"
+        },
+        {
+          "facility": "Nationwide Children's Hospital- Site Number : 840091",
+          "city": "Columbus",
+          "country": "United States"
+        },
+        {
+          "facility": "LSD Data Registry Site LLC- Site Number : 840094",
+          "city": "Dublin",
+          "country": "United States"
+        },
+        {
+          "facility": "Oregon Health and Science University- Site Number : 840080",
+          "city": "Portland",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Philadelphia HUP Medical Genetics- Site Number : 840089",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Philadelphia- Site Number : 840034",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Pittsburgh- Site Number : 840023",
+          "city": "Pittsburgh",
+          "country": "United States"
+        },
+        {
+          "facility": "Rhode Island Hospital Genetics- Site Number : 840053",
+          "city": "Providence",
+          "country": "United States"
+        },
+        {
+          "facility": "Greenwood Genetcs- Site Number : 840055",
+          "city": "Greenville",
+          "country": "United States"
+        },
+        {
+          "facility": "Vanderbilt University Hospital-Pediatrics- Site Number : 840049",
+          "city": "Nashville",
+          "country": "United States"
+        },
+        {
+          "facility": "Baylor Research Center- Site Number : 840058",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "Cook Children's Health Care System- Site Number : 840024",
+          "city": "Fort Worth",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Utah Department of Medical Genetics- Site Number : 840043",
+          "city": "Salt Lake City",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Virginia School of Medicine-Pediatrics- Site Number : 840078",
+          "city": "Charlottesville",
+          "country": "United States"
+        },
+        {
+          "facility": "O&O Alpan, LLC- Site Number : 840025",
+          "city": "Fairfax",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of the Kings Daughters- Site Number : 840072",
+          "city": "Norfolk",
+          "country": "United States"
+        },
+        {
+          "facility": "Seattle Children's Hospital- Site Number : 840028",
+          "city": "Seattle",
+          "country": "United States"
+        },
+        {
+          "facility": "University Of Washington Medical Center- Site Number : 840059",
+          "city": "Seattle",
+          "country": "United States"
+        },
+        {
+          "facility": "Multicare Health System ¿ Mary Bridge Childrens Hospital- Site Number : 840115",
+          "city": "Tacoma",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Wisconsin-Pediatrics- Site Number : 840054",
+          "city": "Milwaukee",
+          "country": "United States"
+        },
+        {
+          "facility": "Investigational Site Number : 150661",
+          "city": "Caba",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Investigational Site Number : 032003",
+          "city": "La Plata",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Investigational Site Number : 151085",
+          "city": "Sarandi",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Investigational Site Number : 032012",
+          "city": "Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Investigational Site Number : 154176",
+          "city": "Corrientes",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Investigational Site Number : 032011",
+          "city": "Córdoba",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Investigational Site Number : 151431",
+          "city": "Sydney",
+          "country": "Australia"
+        },
+        {
+          "facility": "Investigational Site Number : 151069",
+          "city": "Westmead",
+          "country": "Australia"
+        },
+        {
+          "facility": "Investigational Site Number : 151010",
+          "city": "Brisbane",
+          "country": "Australia"
+        },
+        {
+          "facility": "Investigational Site Number : 151491",
+          "city": "Douglas",
+          "country": "Australia"
+        },
+        {
+          "facility": "Investigational Site Number : 151002",
+          "city": "Adelaide",
+          "country": "Australia"
+        },
+        {
+          "facility": "Investigational Site Number : 151725",
+          "city": "Hobart",
+          "country": "Australia"
+        },
+        {
+          "facility": "Investigational Site Number : 151011",
+          "city": "Clayton",
+          "country": "Australia"
+        },
+        {
+          "facility": "Investigational Site Number : 151008",
+          "city": "Parkville",
+          "country": "Australia"
+        },
+        {
+          "facility": "Investigational Site Number : 151015",
+          "city": "Murdoch",
+          "country": "Australia"
+        },
+        {
+          "facility": "Investigational Site Number : 150722",
+          "city": "Antwerp",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Investigational Site Number : 151156",
+          "city": "Bruges",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Investigational Site Number : 150944",
+          "city": "Brussels",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Investigational Site Number : 152345",
+          "city": "Brussels",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Investigational Site Number : 150517",
+          "city": "Brussels",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Investigational Site Number : 151796",
+          "city": "Bruxelles",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Investigational Site Number : 154285",
+          "city": "Edegem",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Investigational Site Number : 151134",
+          "city": "Gent",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Investigational Site Number : 151668",
+          "city": "Leuven",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Hospital das Clínicas da Universidade Federal do Paraná - HCUFPR- Site Number : 076010",
+          "city": "Curitiba",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Hospital de Clinicas de Porto Alegre- Site Number : 076007",
+          "city": "Porto Alegre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Hospital e Maternidade Celso Pierro - PUC-Campinas- Site Number : 076012",
+          "city": "Campinas",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Hospital das Clinicas da Faculdade de Medicina de Ribeirao Preto- Site Number : 076001",
+          "city": "Ribeirão Preto",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Hospital das ClÃ-nicas da Faculdade de Medicina da USP- Site Number : 076008",
+          "city": "SÃ£O Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Faculdade De Medicina - Unicamp- Site Number : 076005",
+          "city": "Campinas",
+          "country": "Brazil"
+        },
+        {
+          "facility": "HEMORIO- Site Number : 076006",
+          "city": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Instituto de Genética e Erros Inatos do Metabolismo - IGEIM- Site Number : 076002",
+          "city": "São Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Investigational Site Number : 100001",
+          "city": "Sofia",
+          "country": "Bulgaria"
+        },
+        {
+          "facility": "Investigational Site Number : 151164",
+          "city": "Sofia",
+          "country": "Bulgaria"
+        },
+        {
+          "facility": "Investigational Site Number : 124014",
+          "city": "Calgary",
+          "country": "Canada"
+        },
+        {
+          "facility": "Investigational Site Number : 124002",
+          "city": "Edmonton",
+          "country": "Canada"
+        },
+        {
+          "facility": "Investigational Site Number : 124010",
+          "city": "Vancouver",
+          "country": "Canada"
+        },
+        {
+          "facility": "Investigational Site Number : 124011",
+          "city": "Vancouver",
+          "country": "Canada"
+        },
+        {
+          "facility": "Investigational Site Number : 124019",
+          "city": "Winnipeg",
+          "country": "Canada"
+        },
+        {
+          "facility": "Investigational Site Number : 124022",
+          "city": "Moncton",
+          "country": "Canada"
+        },
+        {
+          "facility": "Investigational Site Number : 124024",
+          "city": "Kingston",
+          "country": "Canada"
+        },
+        {
+          "facility": "Investigational Site Number : 124005",
+          "city": "Kingston",
+          "country": "Canada"
+        },
+        {
+          "facility": "Investigational Site Number : 124021",
+          "city": "London",
+          "country": "Canada"
+        },
+        {
+          "facility": "Investigational Site Number : 124006",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Investigational Site Number : 124013",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Investigational Site Number : 124001",
+          "city": "Sherbrooke",
+          "country": "Canada"
+        },
+        {
+          "facility": "Investigational Site Number : 151787",
+          "city": "Beijing",
+          "country": "China"
+        },
+        {
+          "facility": "Investigational Site Number : 156003",
+          "city": "Beijing",
+          "country": "China"
+        },
+        {
+          "facility": "Investigational Site Number : 152357",
+          "city": "Guangzhou",
+          "country": "China"
+        },
+        {
+          "facility": "Investigational Site Number : 152358",
+          "city": "Hangzhou",
+          "country": "China"
+        },
+        {
+          "facility": "Investigational Site Number : 152359",
+          "city": "Hangzhou",
+          "country": "China"
+        },
+        {
+          "facility": "Investigational Site Number : 152356",
+          "city": "Shanghai",
+          "country": "China"
+        },
+        {
+          "facility": "Investigational Site Number : 150899",
+          "city": "Shanghai",
+          "country": "China"
+        },
+        {
+          "facility": "Investigational Site Number : 1910001",
+          "city": "Zagreb",
+          "country": "Croatia"
+        },
+        {
+          "facility": "Investigational Site Number : 1910002",
+          "city": "Zagreb",
+          "country": "Croatia"
+        },
+        {
+          "facility": "Investigational Site Number : 1910003",
+          "city": "Zagreb",
+          "country": "Croatia"
+        },
+        {
+          "facility": "Investigational Site Number : 150809",
+          "city": "Praha 2",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Investigational Site Number : 151229",
+          "city": "København Ø",
+          "country": "Denmark"
+        },
+        {
+          "facility": "Investigational Site Number : 2140001",
+          "city": "Santo Domingo",
+          "country": "Dominican Republic"
+        },
+        {
+          "facility": "Investigational Site Number : 5748",
+          "city": "Alexandria",
+          "country": "Egypt"
+        },
+        {
+          "facility": "Investigational Site Number : 9889",
+          "city": "Ash Sharqia",
+          "country": "Egypt"
+        },
+        {
+          "facility": "Investigational Site Number : 9888",
+          "city": "Assuit",
+          "country": "Egypt"
+        },
+        {
+          "facility": "Investigational Site Number : 9829",
+          "city": "Cairo",
+          "country": "Egypt"
+        },
+        {
+          "facility": "Investigational Site Number : 8345",
+          "city": "Cairo",
+          "country": "Egypt"
+        },
+        {
+          "facility": "Investigational Site Number : 9830",
+          "city": "Cairo",
+          "country": "Egypt"
+        },
+        {
+          "facility": "Investigational Site Number : 250015",
+          "city": "Angers",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 250004",
+          "city": "Besançon",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 250008",
+          "city": "Bordeaux",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 250005",
+          "city": "Brest",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 250014",
+          "city": "BRON Cedex",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 250002",
+          "city": "Caen",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 250001",
+          "city": "CLICHY Cedex",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 250003",
+          "city": "Garches",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 250009",
+          "city": "LYON Cedex 03",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 250011",
+          "city": "Marseille",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 2500013",
+          "city": "Montpellier",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 250006",
+          "city": "NANTES Cedex 1",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 250007",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 250010",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 250012",
+          "city": "Rennes",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 250018",
+          "city": "Strasbourg",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 250017",
+          "city": "Toulouse",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 250016",
+          "city": "TOURS Cedex 9",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 151686",
+          "city": "Berlin",
+          "country": "Germany"
+        },
+        {
+          "facility": "Investigational Site Number : 150783",
+          "city": "Düsseldorf",
+          "country": "Germany"
+        },
+        {
+          "facility": "Investigational Site Number : 154150",
+          "city": "Gießen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Investigational Site Number : 151369",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Investigational Site Number : 151368",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Investigational Site Number : 150031",
+          "city": "Mainz",
+          "country": "Germany"
+        },
+        {
+          "facility": "Investigational Site Number : 150432",
+          "city": "Oberhausen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Investigational Site Number : 300002",
+          "city": "Athens",
+          "country": "Greece"
+        },
+        {
+          "facility": "Investigational Site Number : 300004",
+          "city": "Athens",
+          "country": "Greece"
+        },
+        {
+          "facility": "Investigational Site Number : 300003",
+          "city": "Patras",
+          "country": "Greece"
+        },
+        {
+          "facility": "Investigational Site Number : 300001",
+          "city": "Thessaloniki",
+          "country": "Greece"
+        },
+        {
+          "facility": "Investigational Site Number : 344001",
+          "city": "Kowloon",
+          "country": "Hong Kong"
+        },
+        {
+          "facility": "Investigational Site Number : 3480006",
+          "city": "Budapest",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Investigational Site Number : 3480003",
+          "city": "Létavértes",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Investigational Site Number : 3480007",
+          "city": "Nyíregyháza",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Investigational Site Number : 3480008",
+          "city": "Székesfehérvár",
+          "country": "Hungary"
+        },
+        {
+          "facility": "Investigational Site Number : 356003",
+          "city": "Ahmedabad",
+          "country": "India"
+        },
+        {
+          "facility": "Investigational Site Number : 356004",
+          "city": "Jaipur",
+          "country": "India"
+        },
+        {
+          "facility": "Investigational Site Number : 356001",
+          "city": "Kolkata",
+          "country": "India"
+        },
+        {
+          "facility": "Investigational Site Number : 356005",
+          "city": "Mumbai",
+          "country": "India"
+        },
+        {
+          "facility": "Investigational Site Number : 3560006",
+          "city": "Secunderabad",
+          "country": "India"
+        },
+        {
+          "facility": "Investigational Site Number : 356002",
+          "city": "Vellore",
+          "country": "India"
+        },
+        {
+          "facility": "Investigational Site Number : 360001",
+          "city": "Jakarta",
+          "country": "Indonesia"
+        },
+        {
+          "facility": "Investigational Site Number : 3760003",
+          "city": "Haifa",
+          "country": "Israel"
+        },
+        {
+          "facility": "Investigational Site Number : 3760001",
+          "city": "Jerusalem",
+          "country": "Israel"
+        },
+        {
+          "facility": "Investigational Site Number : 3760002",
+          "city": "Petach-Tikva",
+          "country": "Israel"
+        },
+        {
+          "facility": "Investigational Site Number : 380008",
+          "city": "Catania",
+          "country": "Italy"
+        },
+        {
+          "facility": "Investigational Site Number : 380009",
+          "city": "Firenze",
+          "country": "Italy"
+        },
+        {
+          "facility": "Investigational Site Number : 380006",
+          "city": "Genova",
+          "country": "Italy"
+        },
+        {
+          "facility": "Investigational Site Number : 380004",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Investigational Site Number : 380005",
+          "city": "Modena",
+          "country": "Italy"
+        },
+        {
+          "facility": "Investigational Site Number : 380002",
+          "city": "Monza (MB)",
+          "country": "Italy"
+        },
+        {
+          "facility": "Investigational Site Number : 380011",
+          "city": "Monza",
+          "country": "Italy"
+        },
+        {
+          "facility": "Investigational Site Number : 380010",
+          "city": "Napoli",
+          "country": "Italy"
+        },
+        {
+          "facility": "Investigational Site Number : 380003",
+          "city": "Padova",
+          "country": "Italy"
+        },
+        {
+          "facility": "Investigational Site Number : 380007",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        {
+          "facility": "Investigational Site Number : 380001",
+          "city": "Udine",
+          "country": "Italy"
+        },
+        {
+          "facility": "Investigational Site Number : 153205",
+          "city": "Abeno-ku",
+          "country": "Japan"
+        },
+        {
+          "facility": "Investigational Site Number : 153203",
+          "city": "Yonago-shi",
+          "country": "Japan"
+        },
+        {
+          "facility": "Investigational Site Number : 153217",
+          "city": "Chiba",
+          "country": "Japan"
+        },
+        {
+          "facility": "Investigational Site Number : 153204",
+          "city": "Tokyo",
+          "country": "Japan"
+        },
+        {
+          "facility": "Investigational Site Number : 4000001",
+          "city": "Amman",
+          "country": "Jordan"
+        },
+        {
+          "facility": "Investigational Site Number : 151149",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Investigational Site Number : 153178",
+          "city": "Yangsan-si",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Investigational Site Number : 154148",
+          "city": "Yangsan",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Investigational Site Number : 154208",
+          "city": "Yangsan",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Investigational Site Number : 153191",
+          "city": "Daejeon",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Investigational Site Number : 153225",
+          "city": "Jeonnam",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Investigational Site Number : 153180",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Investigational Site Number : 153196",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Investigational Site Number : 153192",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Investigational Site Number : 153212",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Investigational Site Number : 153222",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Investigational Site Number : 154225",
+          "city": "Kuwait",
+          "country": "Kuwait"
+        },
+        {
+          "facility": "Investigational Site Number : 4220002",
+          "city": "Beirut",
+          "country": "Lebanon"
+        },
+        {
+          "facility": "Investigational Site Number : 4220004",
+          "city": "Beirut",
+          "country": "Lebanon"
+        },
+        {
+          "facility": "Investigational Site Number : 422001",
+          "city": "Beirut",
+          "country": "Lebanon"
+        },
+        {
+          "facility": "Investigational Site Number : 422006",
+          "city": "Douris",
+          "country": "Lebanon"
+        },
+        {
+          "facility": "Investigational Site Number : 154237",
+          "city": "Vilnius",
+          "country": "Lithuania"
+        },
+        {
+          "facility": "Investigational Site Number : 458001",
+          "city": "Jalan Pahang",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Investigational Site Number : 458002",
+          "city": "Kuala Lumpur",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Investigational Site Number : 150149",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Investigational Site Number : 151171",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Investigational Site Number : 154264",
+          "city": "Karachi",
+          "country": "Pakistan"
+        },
+        {
+          "facility": "Investigational Site Number : 154266",
+          "city": "Lahore",
+          "country": "Pakistan"
+        },
+        {
+          "facility": "Investigational Site Number : 604001",
+          "city": "Arequipa",
+          "country": "Peru"
+        },
+        {
+          "facility": "Investigational Site Number : 604002",
+          "city": "Callao",
+          "country": "Peru"
+        },
+        {
+          "facility": "Investigational Site Number : 608001",
+          "city": "Manila",
+          "country": "Philippines"
+        },
+        {
+          "facility": "Investigational Site Number : 150575",
+          "city": "Warszawa",
+          "country": "Poland"
+        },
+        {
+          "facility": "Investigational Site Number : 620003",
+          "city": "Coimbra",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Investigational Site Number : 620004",
+          "city": "Lisboa",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Investigational Site Number : 620009",
+          "city": "Ponta Delgada",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Investigational Site Number : 151188",
+          "city": "Cluj Napoca",
+          "country": "Romania"
+        },
+        {
+          "facility": "Investigational Site Number : 642002",
+          "city": "Cluj Napoca",
+          "country": "Romania"
+        },
+        {
+          "facility": "Investigational Site Number : 642001",
+          "city": "Cluj-Napoca",
+          "country": "Romania"
+        },
+        {
+          "facility": "Investigational Site Number : 643001",
+          "city": "Moscow",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Investigational Site Number : 643002",
+          "city": "sait-Petersburg",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Investigational Site Number : 682002",
+          "city": "Al Mubarraz",
+          "country": "Saudi Arabia"
+        },
+        {
+          "facility": "Investigational Site Number : 682003",
+          "city": "Jeddah",
+          "country": "Saudi Arabia"
+        },
+        {
+          "facility": "Investigational Site Number : 682004",
+          "city": "Makkah",
+          "country": "Saudi Arabia"
+        },
+        {
+          "facility": "Investigational Site Number : 688001",
+          "city": "Belgrade",
+          "country": "Serbia"
+        },
+        {
+          "facility": "Investigational Site Number : 688002",
+          "city": "Belgrade",
+          "country": "Serbia"
+        },
+        {
+          "facility": "Investigational Site Number : 688003",
+          "city": "Belgrade",
+          "country": "Serbia"
+        },
+        {
+          "facility": "Investigational Site Number : 688005",
+          "city": "Belgrade",
+          "country": "Serbia"
+        },
+        {
+          "facility": "Investigational Site Number : 688004",
+          "city": "NIŠ",
+          "country": "Serbia"
+        },
+        {
+          "facility": "Investigational Site Number : 702001",
+          "city": "Singapore",
+          "country": "Singapore"
+        },
+        {
+          "facility": "Investigational Site Number : 703001",
+          "city": "Bratislava",
+          "country": "Slovakia"
+        },
+        {
+          "facility": "Investigational Site Number : 154138",
+          "city": "Johannesburg",
+          "country": "South Africa"
+        },
+        {
+          "facility": "Investigational Site Number : 710-003",
+          "city": "Johannesburg",
+          "country": "South Africa"
+        },
+        {
+          "facility": "Investigational Site Number : 150346",
+          "city": "Sandton",
+          "country": "South Africa"
+        },
+        {
+          "facility": "Investigational Site Number : 154119",
+          "city": "Alcorcón",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 153215",
+          "city": "Seville",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 153219",
+          "city": "Seville",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 154146",
+          "city": "A Coruña",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 153237",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 154147",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 154163",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 154236",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 151524",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 153251",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 154199",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 154160",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 154145",
+          "city": "Sabadell",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 154222",
+          "city": "Santiago de Compostela",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 154205",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 153213",
+          "city": "Vigo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 154238",
+          "city": "Zaragoza",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 153216",
+          "city": "Zaragoza",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 154095",
+          "city": "Borås",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Investigational Site Number : 151726",
+          "city": "Malmö",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Investigational Site Number : 154092",
+          "city": "Norrköping",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Investigational Site Number : 157045",
+          "city": "Bern",
+          "country": "Switzerland"
+        },
+        {
+          "facility": "Investigational Site Number : 154093",
+          "city": "Chiayi",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Investigational Site Number : 152152",
+          "city": "Hualien",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Investigational Site Number : 152246",
+          "city": "Kaohsiung City",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Investigational Site Number : 152244",
+          "city": "Kaohsiung",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Investigational Site Number : 151534",
+          "city": "New Taipei City",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Investigational Site Number : 151500",
+          "city": "Putz City, Chia-yi",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Investigational Site Number : 151181",
+          "city": "Taichung",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Investigational Site Number : 151179",
+          "city": "Taichung",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Investigational Site Number : 153248",
+          "city": "Tainan City",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Investigational Site Number : 152153",
+          "city": "Tainan City",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Investigational Site Number : 151182",
+          "city": "Taipei City",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Investigational Site Number : 152226",
+          "city": "Taipei City",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Investigational Site Number : 152321",
+          "city": "Taipei",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Investigational Site Number : 153158",
+          "city": "Taoyuan City",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Investigational Site Number : 764003",
+          "city": "Bangkok",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Investigational Site Number : 764004",
+          "city": "Bangkok",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Investigational Site Number : 764001",
+          "city": "Bangkok",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Investigational Site Number : 764005",
+          "city": "Khon Kaen",
+          "country": "Thailand"
+        },
+        {
+          "facility": "Investigational Site Number : 792006",
+          "city": "Adana",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Investigational Site Number : 792005",
+          "city": "Ankara",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Investigational Site Number : 792001",
+          "city": "Ankara",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Investigational Site Number : 792002",
+          "city": "Ankara",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Investigational Site Number : 792004",
+          "city": "Istanbul",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Investigational Site Number : 792007",
+          "city": "Izmir",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Investigational Site Number : 792003",
+          "city": "Malatya",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Investigational Site Number : 7840001",
+          "city": "Dubai",
+          "country": "United Arab Emirates"
+        },
+        {
+          "facility": "Investigational Site Number : 151340",
+          "city": "Cambridge",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Investigational Site Number : 152287",
+          "city": "Birmingham",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Investigational Site Number : 154240",
+          "city": "Birmingham",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Investigational Site Number : 151646",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Investigational Site Number : 151123",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Investigational Site Number : 150303",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Investigational Site Number : 150455",
+          "city": "Manchester",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Investigational Site Number : 152361",
+          "city": "Salford",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Investigational Site Number : 154212",
+          "city": "Hanoi",
+          "country": "Vietnam"
+        },
+        {
+          "facility": "Investigational Site Number : 704002",
+          "city": "Ho Chi Minh City",
+          "country": "Vietnam"
+        }
+      ],
+      "lastUpdateDate": "2024-11-20"
+    },
+    {
+      "nctId": "NCT05641103",
+      "briefTitle": "PREDIGA 2: Spanish Acronym of \"Educational and Diagnostic Project for Gaucher and ASMD\"",
+      "officialTitle": "PREDIGA 2: Spanish Acronym of \"Educational and Diagnostic Project for Gaucher and ASMD\"",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Gaucher Disease",
+        "Acid SphingoMyelinase Deficiency",
+        "ASMD",
+        "Niemann-Pick Diseases",
+        "Splenomegaly"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Patient with splenomegaly or splenectomy"
+        }
+      ],
+      "enrollment": 122,
+      "locations": [
+        {
+          "facility": "Hospital de Poniente",
+          "city": "El Ejido",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de Cabueñes",
+          "city": "Gijón",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Central de Asturias - HUCA",
+          "city": "Oviedo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complejo Hospitalario Universitario de Santiago - CHUS",
+          "city": "Santiago De Compostela",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de Galdácano",
+          "city": "Galdácano",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital General Universitario de Alicante",
+          "city": "Alicante",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de Badajoz",
+          "city": "Badajoz",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Vall d'Hebron",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Juan Ramón Jiménez",
+          "city": "Huelva",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complejo Hospitalario Universitario La Coruña - CHUAC",
+          "city": "La Coruña",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Lucus Augusti",
+          "city": "Lugo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario La Princesa",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "CAU Salamanca",
+          "city": "Salamanca",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Joan XXIII",
+          "city": "Tarragona",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-02-19"
+    },
+    {
+      "nctId": "NCT05324943",
+      "briefTitle": "A Gene Therapy Study in Patients With Gaucher Disease Type 1",
+      "officialTitle": "A Phase 1, Open-label, Safety, Tolerability, and Efficacy Study of FLT201 in Adult Patients With Gaucher Disease Type 1 (GALILEO-1)",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Gaucher Disease, Type 1"
+      ],
+      "interventions": [
+        {
+          "type": "GENETIC",
+          "name": "FLT201"
+        }
+      ],
+      "enrollment": 18,
+      "locations": [
+        {
+          "facility": "Kaiser Permanente",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "Lysosomal Rare Disorders Research and Treatment Center",
+          "city": "Fairfax",
+          "country": "United States"
+        },
+        {
+          "facility": "Hospital de Clinicas de Porto Alegre (HCPA)",
+          "city": "Porto Alegre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "SphinCS",
+          "city": "Höchheim",
+          "country": "Germany"
+        },
+        {
+          "facility": "Shaare Zedek Medical Center",
+          "city": "Jerusalem",
+          "country": "Israel"
+        },
+        {
+          "facility": "Rabin Medical Center - PPDS",
+          "city": "Petah Tikva",
+          "country": "Israel"
+        },
+        {
+          "facility": "Tel Aviv Sourasky Medical Center",
+          "city": "Tel Aviv",
+          "country": "Israel"
+        },
+        {
+          "facility": "Hospital Quironsalud Zaragoza",
+          "city": "Zaragoza",
+          "country": "Spain"
+        },
+        {
+          "facility": "Royal Free Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Salford Royal Hospital",
+          "city": "Salford",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-05-15"
+    },
+    {
+      "nctId": "NCT05992532",
+      "briefTitle": "GammaGA: Prevalence of Acid Sphingomyelinase Deficiency Disease (ASMD) and Gaucher Disease in Patients With Monoclonal Gammopathies and/or Multiple Myeloma",
+      "officialTitle": "GammaGA: Study of the Prevalence of Acid Sphingomyelinase Deficiency Disease (ASMD) and Gaucher Disease in Patients With Monoclonal Gammopathies and/or Multiple Myeloma",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Gaucher Disease",
+        "Acid SphingoMyelinase Deficiency"
+      ],
+      "interventions": [],
+      "enrollment": 210,
+      "locations": [
+        {
+          "facility": "Hospital Universitario de Álava",
+          "city": "Vitoria",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Parc Taulí",
+          "city": "Sabadell",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital de Manises",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Son Espases",
+          "city": "Palma De Mallorca",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital del Bierzo",
+          "city": "Ponferrada",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Alvaro Cunqueiro",
+          "city": "Vigo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Alcañiz",
+          "city": "Alcañiz",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Clínico Universitario de Valladolid",
+          "city": "Valladolid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Torrecárdenas",
+          "city": "Almería",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de Burgos",
+          "city": "Burgos",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Dr. Josep Trueta",
+          "city": "Girona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen de las Nieves",
+          "city": "Granada",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital San Jorge",
+          "city": "Huesca",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital de Jaén",
+          "city": "Jaén",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Arnau de Vilanova",
+          "city": "Lleida",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Ramón y Cajal",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Fundación Jiménez Díaz",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Regional Universitario de Málaga",
+          "city": "Málaga",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complejo Hospitalario Universitario de Orense",
+          "city": "Orense",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario y Politécnico La Fe",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complejo Asistencial de Ávila",
+          "city": "Ávila",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2024-05-31"
+    },
+    {
+      "nctId": "NCT06545136",
+      "briefTitle": "Long Term Follow-up Study of Type-1 Gaucher Subjects Post FLT201 Dose (GALILEO-2)",
+      "officialTitle": "A Multicenter, Long-term, Follow-up Study to Investigate the Safety and Durability of Response Following Dosing of an Adeno-associated Viral Vector (FLT201) in Subjects With Gaucher Disease (GALILEO-2)",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Gaucher Disease, Type 1"
+      ],
+      "interventions": [
+        {
+          "type": "GENETIC",
+          "name": "FLT201"
+        }
+      ],
+      "enrollment": 75,
+      "locations": [
+        {
+          "facility": "Lysosomal Rare Disorders Research and Treatment Center",
+          "city": "Fairfax",
+          "country": "United States"
+        },
+        {
+          "facility": "Hospital de Clinicas de Porto Alegre (HCPA)",
+          "city": "Porto Alegre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Hospital Quironsalud Zaragoza",
+          "city": "Zaragoza",
+          "country": "Spain"
+        },
+        {
+          "facility": "Salford Royal Hospital",
+          "city": "Salford",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2024-08-09"
+    },
+    {
+      "nctId": "NCT05487599",
+      "briefTitle": "A Clinical Trial of PR001 (LY3884961) in Patients With Peripheral Manifestations of Gaucher Disease (PROCEED)",
+      "officialTitle": "An Open-label, Dose-Finding, Phase 1/2 Study to Evaluate the Safety and Tolerability of a Single Intravenous Dose of LY3884961 in Patients With Peripheral Manifestations of Gaucher Disease (PROCEED)",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Gaucher Disease",
+        "Gaucher Disease, Type 1"
+      ],
+      "interventions": [
+        {
+          "type": "GENETIC",
+          "name": "LY3884961"
+        }
+      ],
+      "enrollment": 15,
+      "locations": [
+        {
+          "facility": "Ann and Robert H Lurie Children's Hospital of Chicago",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "Duke University Health System",
+          "city": "Durham",
+          "country": "United States"
+        },
+        {
+          "facility": "Lysosomal Rare Disorders Research and Treatment Center",
+          "city": "Fairfax",
+          "country": "United States"
+        },
+        {
+          "facility": "Westmead Hospital-Cnr Hawkesbury and Darcy Rds",
+          "city": "Westmead",
+          "country": "Australia"
+        },
+        {
+          "facility": "SphinCS Clinical Science for LSD",
+          "city": "Hochheim",
+          "country": "Germany"
+        },
+        {
+          "facility": "Hospital Universitario Ramon y Cajal, Calle Colmenar Viejo Km 9100",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Quironsalud Zaragoza, Paseo Mariano Renovales Sn",
+          "city": "Zaragoza",
+          "country": "Spain"
+        },
+        {
+          "facility": "Royal Free Hospital NHS Trust",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-03-20"
+    },
+    {
+      "nctId": "NCT03485677",
+      "briefTitle": "Safety and Efficacy of Eliglustat With or Without Imiglucerase in Pediatric Patients With Gaucher Disease (GD) Type 1 and Type 3",
+      "officialTitle": "Open Label, Two Cohort (With and Without Imiglucerase), Multicenter Study to Evaluate Pharmacokinetics, Safety, and Efficacy of Eliglustat in Pediatric Patients With Gaucher Disease Type 1 and Type 3",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Gaucher's Disease Type I",
+        "Gaucher's Disease Type III"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Eliglustat GZ385660"
+        },
+        {
+          "type": "DRUG",
+          "name": "Imiglucerase GZ437843"
+        }
+      ],
+      "enrollment": 57,
+      "locations": [
+        {
+          "facility": "Investigational Site Number : 0320001",
+          "city": "Capital Federal",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Investigational Site Number : 1240002",
+          "city": "Calgary",
+          "country": "Canada"
+        },
+        {
+          "facility": "Investigational Site Number : 1240003",
+          "city": "Vancouver",
+          "country": "Canada"
+        },
+        {
+          "facility": "Investigational Site Number : 1240001",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Investigational Site Number : 2500002",
+          "city": "BRON Cedex",
+          "country": "France"
+        },
+        {
+          "facility": "Investigational Site Number : 3800002",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "Investigational Site Number : 3920002",
+          "city": "Koshigaya-shi",
+          "country": "Japan"
+        },
+        {
+          "facility": "Investigational Site Number : 3920001",
+          "city": "Minato-ku",
+          "country": "Japan"
+        },
+        {
+          "facility": "Investigational Site Number : 6430001",
+          "city": "Moscow",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Investigational Site Number : 6430004",
+          "city": "Moscow",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Investigational Site Number : 6430005",
+          "city": "St-Petersburg",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Investigational Site Number : 6430002",
+          "city": "Tomsk",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Investigational Site Number : 7240002",
+          "city": "Barakaldo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 7240001",
+          "city": "Esplugues de Llobregat",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 7240003",
+          "city": "Zaragoza",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 7520002",
+          "city": "Göteborg",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Investigational Site Number : 7520001",
+          "city": "Luleå",
+          "country": "Sweden"
+        },
+        {
+          "facility": "Investigational Site Number : 7920004",
+          "city": "Adana",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Investigational Site Number : 7920003",
+          "city": "Istanbul",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Investigational Site Number : 7920002",
+          "city": "Izmir",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Investigational Site Number : 8260002",
+          "city": "Birmingham",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2024-02-20"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:13:06.848970",
+  "run_number": 1,
+  "total_trials_found": 7
+}

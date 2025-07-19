@@ -1,0 +1,42 @@
+{
+  "disease_name": "Aspartylglucosaminuria",
+  "orpha_code": "93",
+  "drugs": [
+    {
+      "name": "Adeno-associated viral vector serotype 9 encoding a codon-optimised human aspartylglucosaminidase transgene",
+      "substance_url": "/en/drug/substance/604867?name=93&mode=orpha&region=&status=all",
+      "substance_id": "604867",
+      "regulatory_url": "/en/drug/regulatory/604868?name=93&mode=orpha&region=",
+      "regulatory_id": "604868",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Recombinant human aspartylglucosaminidase",
+      "substance_url": "/en/drug/substance/418152?name=93&mode=orpha&region=&status=all",
+      "substance_id": "418152",
+      "regulatory_url": "/en/drug/regulatory/437286?name=93&mode=orpha&region=",
+      "regulatory_id": "437286",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:35:52.776743",
+  "run_number": 1,
+  "total_drugs_found": 2,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Aspartylglucosaminuria&orphaCode=93&name=93&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Aspartylglucosaminuria",
+    "orphaCode": "93",
+    "name": "93",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

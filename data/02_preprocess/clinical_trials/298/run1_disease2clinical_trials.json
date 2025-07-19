@@ -1,0 +1,31 @@
+{
+  "disease_name": "Mitochondrial neurogastrointestinal encephalomyopathy",
+  "orpha_code": "298",
+  "trials": [
+    {
+      "nctId": "NCT05658822",
+      "briefTitle": "Digestive Dysmotility in Mitochondrial Neurogastrointestinal Encephalomyopathy",
+      "officialTitle": "Enteric Dysmotility in Mitochondrial Neurogastrointestinal Encephalomyopathy Patients Detected by High-resolution",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "MNGIE",
+        "Dysmotility"
+      ],
+      "interventions": [],
+      "enrollment": 6,
+      "locations": [
+        {
+          "facility": "Hospital Universitari Vall d'Hebron",
+          "city": "Barcelona",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2022-12-21"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:14:28.275847",
+  "run_number": 1,
+  "total_trials_found": 1
+}

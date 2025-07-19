@@ -1,0 +1,327 @@
+{
+  "disease_name": "Glycogen storage disease due to glucose-6-phosphatase deficiency",
+  "orpha_code": "364",
+  "drugs": [
+    {
+      "name": "Diazoxide choline",
+      "substance_url": "/en/drug/substance/403944?name=364&mode=orpha&region=&status=all",
+      "substance_id": "403944",
+      "regulatory_url": "/en/drug/regulatory/692363?name=364&mode=orpha&region=",
+      "regulatory_id": "692363",
+      "orpha_substance_code": "ORPHA:364",
+      "details": [
+        "Diazoxide choline(Medicinal product                        - 13/12/2024)Disease(s) concernedORPHA:364 Glycogen storage disease due to glucose-6-phosphatase deficiency",
+        "Diazoxide choline(Medicinal product                        - 13/12/2024)",
+        "(Medicinal product                        - 13/12/2024)",
+        "Disease(s) concernedORPHA:364 Glycogen storage disease due to glucose-6-phosphatase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/403944?name=364&mode=orpha&region=&status=all",
+          "text": "Diazoxide choline",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/364",
+          "text": "ORPHA:364 Glycogen storage disease due to glucose-6-phosphatase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/692363?name=364&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to glucose-6-phosphatase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Diazoxide choline",
+      "substance_url": "/en/drug/substance/403944?name=364&mode=orpha&region=&status=all",
+      "substance_id": "403944",
+      "regulatory_url": "/en/drug/regulatory/707968?name=364&mode=orpha&region=",
+      "regulatory_id": "707968",
+      "orpha_substance_code": "ORPHA:364",
+      "details": [
+        "Diazoxide choline(Medicinal product                        - 26/05/2021)Disease(s) concernedORPHA:364 Glycogen storage disease due to glucose-6-phosphatase deficiency",
+        "Diazoxide choline(Medicinal product                        - 26/05/2021)",
+        "(Medicinal product                        - 26/05/2021)",
+        "Disease(s) concernedORPHA:364 Glycogen storage disease due to glucose-6-phosphatase deficiency",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/403944?name=364&mode=orpha&region=&status=all",
+          "text": "Diazoxide choline",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/364",
+          "text": "ORPHA:364 Glycogen storage disease due to glucose-6-phosphatase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/707968?name=364&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to glucose-6-phosphatase deficiency\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "mRNA encoding human glucose-6-phosphatase variant S298C",
+      "substance_url": "/en/drug/substance/628240?name=364&mode=orpha&region=&status=all",
+      "substance_id": "628240",
+      "regulatory_url": "/en/drug/regulatory/628244?name=364&mode=orpha&region=",
+      "regulatory_id": "628244",
+      "orpha_substance_code": "ORPHA:79258",
+      "details": [
+        "mRNA encoding human glucose-6-phosphatase variant S298C(Medicinal product                        - 14/01/2022)Disease(s) concernedORPHA:79258 Glycogen storage disease due to glucose-6-phosphatase deficiency type Ia",
+        "mRNA encoding human glucose-6-phosphatase variant S298C(Medicinal product                        - 14/01/2022)",
+        "(Medicinal product                        - 14/01/2022)",
+        "Disease(s) concernedORPHA:79258 Glycogen storage disease due to glucose-6-phosphatase deficiency type Ia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/628240?name=364&mode=orpha&region=&status=all",
+          "text": "mRNA encoding human glucose-6-phosphatase variant S298C",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79258",
+          "text": "ORPHA:79258 Glycogen storage disease due to glucose-6-phosphatase deficiency type Ia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/628244?name=364&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to glucose-6-phosphatase deficiency type Ia\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "adeno-associated viral vector serotype 8 containing the human glucose-6-phosphatase gene",
+      "substance_url": "/en/drug/substance/485069?name=364&mode=orpha&region=&status=all",
+      "substance_id": "485069",
+      "regulatory_url": "/en/drug/regulatory/485070?name=364&mode=orpha&region=",
+      "regulatory_id": "485070",
+      "orpha_substance_code": "ORPHA:79258",
+      "details": [
+        "adeno-associated viral vector serotype 8 containing the human glucose-6-phosphatase gene(Medicinal product                        - 18/11/2016)Disease(s) concernedORPHA:79258 Glycogen storage disease due to glucose-6-phosphatase deficiency type Ia",
+        "adeno-associated viral vector serotype 8 containing the human glucose-6-phosphatase gene(Medicinal product                        - 18/11/2016)",
+        "(Medicinal product                        - 18/11/2016)",
+        "Disease(s) concernedORPHA:79258 Glycogen storage disease due to glucose-6-phosphatase deficiency type Ia",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/485069?name=364&mode=orpha&region=&status=all",
+          "text": "adeno-associated viral vector serotype 8 containing the human glucose-6-phosphatase gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79258",
+          "text": "ORPHA:79258 Glycogen storage disease due to glucose-6-phosphatase deficiency type Ia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/485070?name=364&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to glucose-6-phosphatase deficiency type Ia\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Lipid nanoparticles containing prime editing components (mRNA, pegRNA and ngRNA) capable of editing genetic mutations in the SLC37A4 gene",
+      "substance_url": "/en/drug/substance/689527?name=364&mode=orpha&region=&status=all",
+      "substance_id": "689527",
+      "regulatory_url": "/en/drug/regulatory/689729?name=364&mode=orpha&region=",
+      "regulatory_id": "689729",
+      "orpha_substance_code": "ORPHA:79259",
+      "details": [
+        "Lipid nanoparticles containing prime editing components (mRNA, pegRNA and ngRNA) capable of editing genetic mutations in the SLC37A4 gene(Medicinal product                        - 04/10/2024)Disease(s) concernedORPHA:79259 Glycogen storage disease due to glucose-6-phosphatase deficiency type Ib",
+        "Lipid nanoparticles containing prime editing components (mRNA, pegRNA and ngRNA) capable of editing genetic mutations in the SLC37A4 gene(Medicinal product                        - 04/10/2024)",
+        "(Medicinal product                        - 04/10/2024)",
+        "Disease(s) concernedORPHA:79259 Glycogen storage disease due to glucose-6-phosphatase deficiency type Ib",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689527?name=364&mode=orpha&region=&status=all",
+          "text": "Lipid nanoparticles containing prime editing components (mRNA, pegRNA and ngRNA) capable of editing genetic mutations in the SLC37A4 gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/79259",
+          "text": "ORPHA:79259 Glycogen storage disease due to glucose-6-phosphatase deficiency type Ib",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689729?name=364&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "due to glucose-6-phosphatase deficiency type Ib\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=364&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=364&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Burixafor(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Burixafor(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689505?name=364&mode=orpha&region=&status=all",
+          "text": "Burixafor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689915?name=364&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=364&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=364&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Treosulfan(Medicinal product                        - 08/04/2015)Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Treosulfan(Medicinal product                        - 08/04/2015)",
+        "(Medicinal product                        - 08/04/2015)",
+        "Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90799?name=364&mode=orpha&region=&status=all",
+          "text": "Treosulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/213500",
+          "text": "ORPHA:213500 Rare ovarian cancer",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136690?name=364&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=364&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=364&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "busulfan(Medicinal product                        - 21/04/1994)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "busulfan(Medicinal product                        - 21/04/1994)",
+        "(Medicinal product                        - 21/04/1994)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/46335?name=364&mode=orpha&region=&status=all",
+          "text": "busulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131973?name=364&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:01:35.692055",
+  "run_number": 1,
+  "total_drugs_found": 8,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Glycogen+storage+disease+due+to+glucose-6-phosphatase+deficiency&orphaCode=364&name=364&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Glycogen storage disease due to glucose-6-phosphatase deficiency",
+    "orphaCode": "364",
+    "name": "364",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

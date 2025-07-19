@@ -1,0 +1,150 @@
+{
+  "disease_name": "Familial steroid-resistant nephrotic syndrome with adrenal insufficiency",
+  "orpha_code": "506334",
+  "drugs": [
+    {
+      "name": "ALKINDI",
+      "substance_url": "/en/drug/trade_name/505888?name=506334&mode=orpha&region=&status=all",
+      "substance_id": "505888",
+      "regulatory_url": "/en/drug/regulatory/505896?name=506334&mode=orpha&region=",
+      "regulatory_id": "505896",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "PLENADREN",
+      "substance_url": "/en/drug/trade_name/352513?name=506334&mode=orpha&region=&status=all",
+      "substance_id": "352513",
+      "regulatory_url": "/en/drug/regulatory/352529?name=506334&mode=orpha&region=",
+      "regulatory_id": "352529",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "3-{[2,3,5,6-tetrafluoro-3'-(trifluoromethoxy)biphenyl-4-yl]carbamoyl}thiophene-2-carboxylic acid",
+      "substance_url": "/en/drug/substance/444708?name=506334&mode=orpha&region=&status=all",
+      "substance_id": "444708",
+      "regulatory_url": "/en/drug/regulatory/444712?name=506334&mode=orpha&region=",
+      "regulatory_id": "444712",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Prasterone",
+      "substance_url": "/en/drug/substance/97925?name=506334&mode=orpha&region=&status=all",
+      "substance_id": "97925",
+      "regulatory_url": "/en/drug/regulatory/133836?name=506334&mode=orpha&region=",
+      "regulatory_id": "133836",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Hydrocortisone",
+      "substance_url": "/en/drug/substance/505909?name=506334&mode=orpha&region=&status=all",
+      "substance_id": "505909",
+      "regulatory_url": "/en/drug/regulatory/134118?name=506334&mode=orpha&region=",
+      "regulatory_id": "134118",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Hydrocortisone (modified release tablet)",
+      "substance_url": "/en/drug/substance/65883?name=506334&mode=orpha&region=&status=all",
+      "substance_id": "65883",
+      "regulatory_url": "/en/drug/regulatory/134049?name=506334&mode=orpha&region=",
+      "regulatory_id": "134049",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "KHINDIVI",
+      "substance_url": "/en/drug/trade_name/704608?name=506334&mode=orpha&region=&status=all",
+      "substance_id": "704608",
+      "regulatory_url": "/en/drug/regulatory/704611?name=506334&mode=orpha&region=",
+      "regulatory_id": "704611",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Alkindi Sprinkle",
+      "substance_url": "/en/drug/trade_name/623087?name=506334&mode=orpha&region=&status=all",
+      "substance_id": "623087",
+      "regulatory_url": "/en/drug/regulatory/623088?name=506334&mode=orpha&region=",
+      "regulatory_id": "623088",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=506334&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=506334&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=506334&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=506334&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=506334&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=506334&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:22:38.770168",
+  "run_number": 1,
+  "total_drugs_found": 11,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Familial+steroid-resistant+nephrotic+syndrome+with+adrenal+insufficiency&orphaCode=506334&name=506334&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Familial steroid-resistant nephrotic syndrome with adrenal insufficiency",
+    "orphaCode": "506334",
+    "name": "506334",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

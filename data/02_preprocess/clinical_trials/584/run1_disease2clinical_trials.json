@@ -1,0 +1,103 @@
+{
+  "disease_name": "Mucopolysaccharidosis type 7",
+  "orpha_code": "584",
+  "trials": [
+    {
+      "nctId": "NCT03604835",
+      "briefTitle": "Mucopolysaccharidosis VII Disease Monitoring Program",
+      "officialTitle": "Mucopolysaccharidosis VII Disease Monitoring Program (MPS VII DMP)",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Mucopolysaccharidosis VII",
+        "MPS VII",
+        "MPS 7",
+        "Sly Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "No Intervention"
+        }
+      ],
+      "enrollment": 50,
+      "locations": [
+        {
+          "facility": "Children's Hospital of Orange County",
+          "city": "Orange",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's National Health System",
+          "city": "Washington",
+          "country": "United States"
+        },
+        {
+          "facility": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Michigan",
+          "city": "Ann Arbor",
+          "country": "United States"
+        },
+        {
+          "facility": "New York University Langone Medical Center",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Utah Medical Center",
+          "city": "Salt Lake City",
+          "country": "United States"
+        },
+        {
+          "facility": "Seattle Children's Hospital",
+          "city": "Seattle",
+          "country": "United States"
+        },
+        {
+          "facility": "Laboratorio de Neuroquimica Dr. N.A. Chamoles S.R.L.",
+          "city": "Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Hospital de Clínicas de Porto Alegre",
+          "city": "Porto Alegre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Centre Hospitalier Universitaire La Timone",
+          "city": "Marseille",
+          "country": "France"
+        },
+        {
+          "facility": "Universitätsmedizin der Johannes Gutenberg-Universität Mainz",
+          "city": "Mainz",
+          "country": "Germany"
+        },
+        {
+          "facility": "Erasmus University Medical Center Rotterdam",
+          "city": "Rotterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Centro Hospitalar do Porto",
+          "city": "Porto",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Hospital Universitario Virgen del Rocío Pabellón Infantil",
+          "city": "Sevilla",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-06-27"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:13:02.417465",
+  "run_number": 1,
+  "total_trials_found": 1
+}

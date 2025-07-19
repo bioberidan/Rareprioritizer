@@ -1,0 +1,27 @@
+{
+  "disease_name": "Glycogen storage disease due to liver and muscle phosphorylase kinase deficiency",
+  "orpha_code": "79240",
+  "processing_timestamp": "2025-07-16T08:11:06.408524",
+  "run_number": 1,
+  "analysis_type": "socioeconomic",
+  "processing_duration": 44.22,
+  "success": true,
+  "error_details": null,
+  "socioeconomic_analysis": {
+    "orphacode": "79240",
+    "disease_name": "Glycogen storage disease due to liver and muscle phosphorylase kinase deficiency",
+    "socioeconomic_impact_studies": [
+      {
+        "cost": 0,
+        "measure": "Qualitative description of clinical burden and management (dietary therapy with corn starch)",
+        "label": "Orphanet report on Glycogen storage disease due to liver and muscle phosphorylase kinase deficiency",
+        "source": "https://www.orpha.net/es/disease/detail/79240",
+        "country": "International",
+        "year": "2011"
+      }
+    ],
+    "score": 3,
+    "evidence_level": "Low evidence",
+    "justification": "Only qualitative burden descriptions and management guidelines were identified (Orphanet report); no published cost-of-illness or economic burden studies specific to this disease were found."
+  }
+}

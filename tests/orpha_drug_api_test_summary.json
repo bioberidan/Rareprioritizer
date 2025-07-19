@@ -1,0 +1,34 @@
+{
+  "test_timestamp": "2025-07-17T13:54:05.450871",
+  "test_results": [
+    {
+      "orpha_code": "584",
+      "disease_name": "Mucopolysaccharidosis type 7",
+      "status": "PASSED",
+      "total_drugs": 11,
+      "specific_drugs": 2,
+      "non_specific_drugs": 9,
+      "eu_drugs": 7,
+      "us_drugs": 5,
+      "tradename_drugs": 3,
+      "medical_product_drugs": 8,
+      "validation_errors": [],
+      "output_file": "tests/orpha_584_improved_results.json"
+    },
+    {
+      "orpha_code": "1168",
+      "disease_name": "Ataxia-oculomotor apraxia type 1",
+      "status": "PASSED",
+      "total_drugs": 2,
+      "specific_drugs": 1,
+      "non_specific_drugs": 1,
+      "eu_drugs": 2,
+      "us_drugs": 0,
+      "tradename_drugs": 0,
+      "medical_product_drugs": 2,
+      "validation_errors": [],
+      "output_file": "tests/orpha_1168_improved_results.json"
+    }
+  ],
+  "all_tests_passed": true
+}

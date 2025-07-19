@@ -1,0 +1,1803 @@
+{
+  "disease_name": "Gaucher disease",
+  "orpha_code": "355",
+  "drugs": [
+    {
+      "name": "Ambroxol hydrochloride",
+      "substance_url": "/en/drug/substance/527467?name=355&mode=orpha&region=&status=all",
+      "substance_id": "527467",
+      "regulatory_url": "/en/drug/regulatory/661042?name=355&mode=orpha&region=",
+      "regulatory_id": "661042",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "Ambroxol hydrochloride(Medicinal product                        - 08/11/2023)Disease(s) concernedORPHA:355 Gaucher disease",
+        "Ambroxol hydrochloride(Medicinal product                        - 08/11/2023)",
+        "(Medicinal product                        - 08/11/2023)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/527467?name=355&mode=orpha&region=&status=all",
+          "text": "Ambroxol hydrochloride",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/661042?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector serotype S3 containing codon-optimised expression cassette encoding human beta-glucocerebrosidase variant",
+      "substance_url": "/en/drug/substance/627910?name=355&mode=orpha&region=&status=all",
+      "substance_id": "627910",
+      "regulatory_url": "/en/drug/regulatory/627911?name=355&mode=orpha&region=",
+      "regulatory_id": "627911",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "Adeno-associated viral vector serotype S3 containing codon-optimised expression cassette encoding human beta-glucocerebrosidase variant(Medicinal product                        - 20/08/2021)Disease(s) concernedORPHA:355 Gaucher disease",
+        "Adeno-associated viral vector serotype S3 containing codon-optimised expression cassette encoding human beta-glucocerebrosidase variant(Medicinal product                        - 20/08/2021)",
+        "(Medicinal product                        - 20/08/2021)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/627910?name=355&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector serotype S3 containing codon-optimised expression cassette encoding human beta-glucocerebrosidase variant",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/627911?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector serotype 9 expressing codon-optimized human GBA gene",
+      "substance_url": "/en/drug/substance/627202?name=355&mode=orpha&region=&status=all",
+      "substance_id": "627202",
+      "regulatory_url": "/en/drug/regulatory/627203?name=355&mode=orpha&region=",
+      "regulatory_id": "627203",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "Adeno-associated viral vector serotype 9 expressing codon-optimized human GBA gene(Medicinal product                        - 19/02/2021)Disease(s) concernedORPHA:355 Gaucher disease",
+        "Adeno-associated viral vector serotype 9 expressing codon-optimized human GBA gene(Medicinal product                        - 19/02/2021)",
+        "(Medicinal product                        - 19/02/2021)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/627202?name=355&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector serotype 9 expressing codon-optimized human GBA gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/627203?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Venglustat",
+      "substance_url": "/en/drug/substance/406512?name=355&mode=orpha&region=&status=all",
+      "substance_id": "406512",
+      "regulatory_url": "/en/drug/regulatory/635789?name=355&mode=orpha&region=",
+      "regulatory_id": "635789",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "Venglustat(Medicinal product                        - 19/11/2014)Disease(s) concernedORPHA:355 Gaucher disease",
+        "Venglustat(Medicinal product                        - 19/11/2014)",
+        "(Medicinal product                        - 19/11/2014)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/406512?name=355&mode=orpha&region=&status=all",
+          "text": "Venglustat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/635789?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Taliglucerase alfa",
+      "substance_url": "/en/drug/substance/218401?name=355&mode=orpha&region=&status=all",
+      "substance_id": "218401",
+      "regulatory_url": "/en/drug/regulatory/227037?name=355&mode=orpha&region=",
+      "regulatory_id": "227037",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "Taliglucerase alfa(Medicinal product                        - 23/03/2010)Disease(s) concernedORPHA:355 Gaucher disease",
+        "Taliglucerase alfa(Medicinal product                        - 23/03/2010)",
+        "(Medicinal product                        - 23/03/2010)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/218401?name=355&mode=orpha&region=&status=all",
+          "text": "Taliglucerase alfa",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/227037?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "(1R,2R)-octanoic acid[2-(2',3'-dihydro-benzo[1,4] dioxin-6'-yl)-2-hydroxy-1-pyrrolidin-1-ylmethyl-ethyl]-amide-L-tartaric acid salt",
+      "substance_url": "/en/drug/substance/102668?name=355&mode=orpha&region=&status=all",
+      "substance_id": "102668",
+      "regulatory_url": "/en/drug/regulatory/134188?name=355&mode=orpha&region=",
+      "regulatory_id": "134188",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "(1R,2R)-octanoic acid[2-(2',3'-dihydro-benzo[1,4] dioxin-6'-yl)-2-hydroxy-1-pyrrolidin-1-ylmethyl-ethyl]-amide-L-tartaric acid salt(Medicinal product                        - 04/12/2007)Disease(s) concernedORPHA:355 Gaucher disease",
+        "(1R,2R)-octanoic acid[2-(2',3'-dihydro-benzo[1,4] dioxin-6'-yl)-2-hydroxy-1-pyrrolidin-1-ylmethyl-ethyl]-amide-L-tartaric acid salt(Medicinal product                        - 04/12/2007)",
+        "(Medicinal product                        - 04/12/2007)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/102668?name=355&mode=orpha&region=&status=all",
+          "text": "(1R,2R)-octanoic acid[2-(2',3'-dihydro-benzo[1,4] dioxin-6'-yl)-2-hydroxy-1-pyrrolidin-1-ylmethyl-ethyl]-amide-L-tartaric acid salt",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/134188?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Autologous CD34+ cells transduced with a lentiviral vector encoding glucosylceramidase beta",
+      "substance_url": "/en/drug/substance/604851?name=355&mode=orpha&region=&status=all",
+      "substance_id": "604851",
+      "regulatory_url": "/en/drug/regulatory/604852?name=355&mode=orpha&region=",
+      "regulatory_id": "604852",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "Autologous CD34+ cells transduced with a lentiviral vector encoding glucosylceramidase beta(Medicinal product                        - 21/08/2020)Disease(s) concernedORPHA:355 Gaucher disease",
+        "Autologous CD34+ cells transduced with a lentiviral vector encoding glucosylceramidase beta(Medicinal product                        - 21/08/2020)",
+        "(Medicinal product                        - 21/08/2020)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/604851?name=355&mode=orpha&region=&status=all",
+          "text": "Autologous CD34+ cells transduced with a lentiviral vector encoding glucosylceramidase beta",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/604852?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Velaglucerase alfa",
+      "substance_url": "/en/drug/substance/222655?name=355&mode=orpha&region=&status=all",
+      "substance_id": "222655",
+      "regulatory_url": "/en/drug/regulatory/240350?name=355&mode=orpha&region=",
+      "regulatory_id": "240350",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "Velaglucerase alfa(Medicinal product                        - 06/06/2010)Disease(s) concernedORPHA:355 Gaucher disease",
+        "Velaglucerase alfa(Medicinal product                        - 06/06/2010)",
+        "(Medicinal product                        - 06/06/2010)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/222655?name=355&mode=orpha&region=&status=all",
+          "text": "Velaglucerase alfa",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/240350?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Isofagomine tartrate",
+      "substance_url": "/en/drug/substance/101417?name=355&mode=orpha&region=&status=all",
+      "substance_id": "101417",
+      "regulatory_url": "/en/drug/regulatory/134167?name=355&mode=orpha&region=",
+      "regulatory_id": "134167",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "Isofagomine tartrate(Medicinal product                        - 22/10/2007)Disease(s) concernedORPHA:355 Gaucher disease",
+        "Isofagomine tartrate(Medicinal product                        - 22/10/2007)",
+        "(Medicinal product                        - 22/10/2007)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/101417?name=355&mode=orpha&region=&status=all",
+          "text": "Isofagomine tartrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/134167?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Miglustat",
+      "substance_url": "/en/drug/substance/65934?name=355&mode=orpha&region=&status=all",
+      "substance_id": "65934",
+      "regulatory_url": "/en/drug/regulatory/133692?name=355&mode=orpha&region=",
+      "regulatory_id": "133692",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "Miglustat(Medicinal product                        - 18/10/2000)Disease(s) concernedORPHA:355 Gaucher disease",
+        "Miglustat(Medicinal product                        - 18/10/2000)",
+        "(Medicinal product                        - 18/10/2000)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/65934?name=355&mode=orpha&region=&status=all",
+          "text": "Miglustat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/133692?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Ambroxol",
+      "substance_url": "/en/drug/substance/700218?name=355&mode=orpha&region=&status=all",
+      "substance_id": "700218",
+      "regulatory_url": "/en/drug/regulatory/700223?name=355&mode=orpha&region=",
+      "regulatory_id": "700223",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "Ambroxol(Medicinal product                        - 16/04/2025)Disease(s) concernedORPHA:355 Gaucher disease",
+        "Ambroxol(Medicinal product                        - 16/04/2025)",
+        "(Medicinal product                        - 16/04/2025)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/700218?name=355&mode=orpha&region=&status=all",
+          "text": "Ambroxol",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/700223?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated virus 9 vector expressing a functional human codon optimized cDNA encoding glucosylceramidase beta 1",
+      "substance_url": "/en/drug/substance/688298?name=355&mode=orpha&region=&status=all",
+      "substance_id": "688298",
+      "regulatory_url": "/en/drug/regulatory/688383?name=355&mode=orpha&region=",
+      "regulatory_id": "688383",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "Adeno-associated virus 9 vector expressing a functional human codon optimized cDNA encoding glucosylceramidase beta 1(Medicinal product                        - 09/09/2024)Disease(s) concernedORPHA:355 Gaucher disease",
+        "Adeno-associated virus 9 vector expressing a functional human codon optimized cDNA encoding glucosylceramidase beta 1(Medicinal product                        - 09/09/2024)",
+        "(Medicinal product                        - 09/09/2024)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/688298?name=355&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus 9 vector expressing a functional human codon optimized cDNA encoding glucosylceramidase beta 1",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/688383?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant adeno-associated virus vector serotype 8 carrying the coding sequence of human GBA1 gene",
+      "substance_url": "/en/drug/substance/666380?name=355&mode=orpha&region=&status=all",
+      "substance_id": "666380",
+      "regulatory_url": "/en/drug/regulatory/666433?name=355&mode=orpha&region=",
+      "regulatory_id": "666433",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "Recombinant adeno-associated virus vector serotype 8 carrying the coding sequence of human GBA1 gene(Medicinal product                        - 05/10/2023)Disease(s) concernedORPHA:355 Gaucher disease",
+        "Recombinant adeno-associated virus vector serotype 8 carrying the coding sequence of human GBA1 gene(Medicinal product                        - 05/10/2023)",
+        "(Medicinal product                        - 05/10/2023)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/666380?name=355&mode=orpha&region=&status=all",
+          "text": "Recombinant adeno-associated virus vector serotype 8 carrying the coding sequence of human GBA1 gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/666433?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Venglustat",
+      "substance_url": "/en/drug/substance/406512?name=355&mode=orpha&region=&status=all",
+      "substance_id": "406512",
+      "regulatory_url": "/en/drug/regulatory/412951?name=355&mode=orpha&region=",
+      "regulatory_id": "412951",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "Venglustat(Medicinal product                        - 11/09/2014)Disease(s) concernedORPHA:355 Gaucher disease",
+        "Venglustat(Medicinal product                        - 11/09/2014)",
+        "(Medicinal product                        - 11/09/2014)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/406512?name=355&mode=orpha&region=&status=all",
+          "text": "Venglustat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/412951?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Taliglucerase alfa",
+      "substance_url": "/en/drug/substance/218401?name=355&mode=orpha&region=&status=all",
+      "substance_id": "218401",
+      "regulatory_url": "/en/drug/regulatory/227044?name=355&mode=orpha&region=",
+      "regulatory_id": "227044",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "Taliglucerase alfa(Medicinal product                        - 03/09/2009)Disease(s) concernedORPHA:355 Gaucher disease",
+        "Taliglucerase alfa(Medicinal product                        - 03/09/2009)",
+        "(Medicinal product                        - 03/09/2009)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/218401?name=355&mode=orpha&region=&status=all",
+          "text": "Taliglucerase alfa",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/227044?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Velaglucerase alfa",
+      "substance_url": "/en/drug/substance/222655?name=355&mode=orpha&region=&status=all",
+      "substance_id": "222655",
+      "regulatory_url": "/en/drug/regulatory/240354?name=355&mode=orpha&region=",
+      "regulatory_id": "240354",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "Velaglucerase alfa(Medicinal product                        - 08/06/2009)Disease(s) concernedORPHA:355 Gaucher disease",
+        "Velaglucerase alfa(Medicinal product                        - 08/06/2009)",
+        "(Medicinal product                        - 08/06/2009)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/222655?name=355&mode=orpha&region=&status=all",
+          "text": "Velaglucerase alfa",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/240354?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Miglustat",
+      "substance_url": "/en/drug/substance/65934?name=355&mode=orpha&region=&status=all",
+      "substance_id": "65934",
+      "regulatory_url": "/en/drug/regulatory/131963?name=355&mode=orpha&region=",
+      "regulatory_id": "131963",
+      "orpha_substance_code": "ORPHA:355",
+      "details": [
+        "Miglustat(Medicinal product                        - 29/05/1998)Disease(s) concernedORPHA:355 Gaucher disease",
+        "Miglustat(Medicinal product                        - 29/05/1998)",
+        "(Medicinal product                        - 29/05/1998)",
+        "Disease(s) concernedORPHA:355 Gaucher disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/65934?name=355&mode=orpha&region=&status=all",
+          "text": "Miglustat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131963?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Imiglucerase",
+      "substance_url": "/en/drug/substance/24871?name=355&mode=orpha&region=&status=all",
+      "substance_id": "24871",
+      "regulatory_url": "/en/drug/regulatory/131914?name=355&mode=orpha&region=",
+      "regulatory_id": "131914",
+      "orpha_substance_code": "ORPHA:77261",
+      "details": [
+        "Imiglucerase(Medicinal product                        - 05/11/1991)Disease(s) concernedORPHA:355 Gaucher diseaseORPHA:77259 Gaucher disease type 1ORPHA:77260 Gaucher disease type 2ORPHA:77261 Gaucher disease type 3",
+        "Imiglucerase(Medicinal product                        - 05/11/1991)",
+        "(Medicinal product                        - 05/11/1991)",
+        "Disease(s) concernedORPHA:355 Gaucher diseaseORPHA:77259 Gaucher disease type 1ORPHA:77260 Gaucher disease type 2ORPHA:77261 Gaucher disease type 3",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/24871?name=355&mode=orpha&region=&status=all",
+          "text": "Imiglucerase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77260",
+          "text": "ORPHA:77260 Gaucher disease type 2",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77261",
+          "text": "ORPHA:77261 Gaucher disease type 3",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131914?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "ORPHA:77259 Gaucher disease type 1\n                                \n\n\n\n\n                                    ORPHA:77260 Gaucher disease type 2\n                                \n\n\n\n\n                                    ORPHA:77261 Gaucher disease type 3\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "CERDELGA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/420555?name=355&mode=orpha&region=",
+      "regulatory_id": "420555",
+      "orpha_substance_code": "ORPHA:77259",
+      "details": [
+        "CERDELGA(Tradename                        - 19/01/2015)Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "CERDELGA(Tradename                        - 19/01/2015)",
+        "(Tradename                        - 19/01/2015)",
+        "Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/410891?name=355&mode=orpha&region=&status=all",
+          "text": "CERDELGA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/420555?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "type 1\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "MIGLUSTAT DIPHARMA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/557010?name=355&mode=orpha&region=",
+      "regulatory_id": "557010",
+      "orpha_substance_code": "ORPHA:77259",
+      "details": [
+        "MIGLUSTAT DIPHARMA(Tradename                        - 18/02/2019)Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "MIGLUSTAT DIPHARMA(Tradename                        - 18/02/2019)",
+        "(Tradename                        - 18/02/2019)",
+        "Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/557002?name=355&mode=orpha&region=&status=all",
+          "text": "MIGLUSTAT DIPHARMA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/557010?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "type 1\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "MIGLUSTAT GEN. ORPH",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/501220?name=355&mode=orpha&region=",
+      "regulatory_id": "501220",
+      "orpha_substance_code": "ORPHA:77259",
+      "details": [
+        "MIGLUSTAT GEN. ORPH(Tradename                        - 10/11/2017)Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "MIGLUSTAT GEN. ORPH(Tradename                        - 10/11/2017)",
+        "(Tradename                        - 10/11/2017)",
+        "Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/501216?name=355&mode=orpha&region=&status=all",
+          "text": "MIGLUSTAT GEN. ORPH",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/501220?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "type 1\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "YARGESA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/484359?name=355&mode=orpha&region=",
+      "regulatory_id": "484359",
+      "orpha_substance_code": "ORPHA:77259",
+      "details": [
+        "YARGESA(Tradename                        - 22/03/2017)Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "YARGESA(Tradename                        - 22/03/2017)",
+        "(Tradename                        - 22/03/2017)",
+        "Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/484358?name=355&mode=orpha&region=&status=all",
+          "text": "YARGESA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/484359?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "type 1\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "VPRIV",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/242289?name=355&mode=orpha&region=",
+      "regulatory_id": "242289",
+      "orpha_substance_code": "ORPHA:77259",
+      "details": [
+        "VPRIV(Tradename                        - 26/08/2010)Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "VPRIV(Tradename                        - 26/08/2010)",
+        "(Tradename                        - 26/08/2010)",
+        "Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/242288?name=355&mode=orpha&region=&status=all",
+          "text": "VPRIV",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/242289?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "type 1\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "ZAVESCA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131346?name=355&mode=orpha&region=",
+      "regulatory_id": "131346",
+      "orpha_substance_code": "ORPHA:77259",
+      "details": [
+        "ZAVESCA(Tradename                        - 21/11/2002)Disease(s) concernedORPHA:646 Niemann-Pick disease type CORPHA:77259 Gaucher disease type 1",
+        "ZAVESCA(Tradename                        - 21/11/2002)",
+        "(Tradename                        - 21/11/2002)",
+        "Disease(s) concernedORPHA:646 Niemann-Pick disease type CORPHA:77259 Gaucher disease type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/39961?name=355&mode=orpha&region=&status=all",
+          "text": "ZAVESCA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/646",
+          "text": "ORPHA:646 Niemann-Pick disease type C",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131346?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "type C\n                                \n\n\n\n\n                                    ORPHA:77259 Gaucher disease type 1\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "CEREZYME",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131238?name=355&mode=orpha&region=",
+      "regulatory_id": "131238",
+      "orpha_substance_code": "ORPHA:77261",
+      "details": [
+        "CEREZYME(Tradename                        - 17/11/1997)Disease(s) concernedORPHA:77259 Gaucher disease type 1ORPHA:77261 Gaucher disease type 3",
+        "CEREZYME(Tradename                        - 17/11/1997)",
+        "(Tradename                        - 17/11/1997)",
+        "Disease(s) concernedORPHA:77259 Gaucher disease type 1ORPHA:77261 Gaucher disease type 3",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/24993?name=355&mode=orpha&region=&status=all",
+          "text": "CEREZYME",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77261",
+          "text": "ORPHA:77261 Gaucher disease type 3",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131238?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "type 1\n                                \n\n\n\n\n                                    ORPHA:77261 Gaucher disease type 3\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "adeno-associated viral vector serotype 9 containing the human glucocerebrosidase gene",
+      "substance_url": "/en/drug/substance/443973?name=355&mode=orpha&region=&status=all",
+      "substance_id": "443973",
+      "regulatory_url": "/en/drug/regulatory/443977?name=355&mode=orpha&region=",
+      "regulatory_id": "443977",
+      "orpha_substance_code": "ORPHA:77261",
+      "details": [
+        "adeno-associated viral vector serotype 9 containing the human glucocerebrosidase gene(Medicinal product                        - 19/03/2015)Disease(s) concernedORPHA:2072 Gaucher disease-ophthalmoplegia-cardiovascular calcification syndromeORPHA:77259 Gaucher disease type 1ORPHA:77260 Gaucher disease type 2ORPHA:77261 Gaucher disease type 3",
+        "adeno-associated viral vector serotype 9 containing the human glucocerebrosidase gene(Medicinal product                        - 19/03/2015)",
+        "(Medicinal product                        - 19/03/2015)",
+        "Disease(s) concernedORPHA:2072 Gaucher disease-ophthalmoplegia-cardiovascular calcification syndromeORPHA:77259 Gaucher disease type 1ORPHA:77260 Gaucher disease type 2ORPHA:77261 Gaucher disease type 3",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/443973?name=355&mode=orpha&region=&status=all",
+          "text": "adeno-associated viral vector serotype 9 containing the human glucocerebrosidase gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2072",
+          "text": "ORPHA:2072 Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77260",
+          "text": "ORPHA:77260 Gaucher disease type 2",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77261",
+          "text": "ORPHA:77261 Gaucher disease type 3",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/443977?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type 1\n                                \n\n\n\n\n                                    ORPHA:77260 Gaucher disease type 2\n                                \n\n\n\n\n                                    ORPHA:77261 Gaucher disease type 3\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "CERDELGA",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/410893?name=355&mode=orpha&region=",
+      "regulatory_id": "410893",
+      "orpha_substance_code": "ORPHA:77259",
+      "details": [
+        "CERDELGA(Tradename                        - 19/08/2014)Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "CERDELGA(Tradename                        - 19/08/2014)",
+        "(Tradename                        - 19/08/2014)",
+        "Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/410891?name=355&mode=orpha&region=&status=all",
+          "text": "CERDELGA",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/410893?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "type 1\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "ELELYSO",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/394204?name=355&mode=orpha&region=",
+      "regulatory_id": "394204",
+      "orpha_substance_code": "ORPHA:77259",
+      "details": [
+        "ELELYSO(Tradename                        - 01/05/2012)Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "ELELYSO(Tradename                        - 01/05/2012)",
+        "(Tradename                        - 01/05/2012)",
+        "Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/394203?name=355&mode=orpha&region=&status=all",
+          "text": "ELELYSO",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/394204?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "type 1\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "VPRIV",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/465076?name=355&mode=orpha&region=",
+      "regulatory_id": "465076",
+      "orpha_substance_code": "ORPHA:77259",
+      "details": [
+        "VPRIV(Tradename                        - 26/02/2010)Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "VPRIV(Tradename                        - 26/02/2010)",
+        "(Tradename                        - 26/02/2010)",
+        "Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/242288?name=355&mode=orpha&region=&status=all",
+          "text": "VPRIV",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/465076?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "type 1\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "CEREZYME",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131062?name=355&mode=orpha&region=",
+      "regulatory_id": "131062",
+      "orpha_substance_code": "ORPHA:77259",
+      "details": [
+        "CEREZYME(Tradename                        - 23/05/1994)Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "CEREZYME(Tradename                        - 23/05/1994)",
+        "(Tradename                        - 23/05/1994)",
+        "Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/24993?name=355&mode=orpha&region=&status=all",
+          "text": "CEREZYME",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131062?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "type 1\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "CEREDASE",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131047?name=355&mode=orpha&region=",
+      "regulatory_id": "131047",
+      "orpha_substance_code": "ORPHA:77259",
+      "details": [
+        "CEREDASE(Tradename                        - 05/04/1991)Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "CEREDASE(Tradename                        - 05/04/1991)",
+        "(Tradename                        - 05/04/1991)",
+        "Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/24931?name=355&mode=orpha&region=&status=all",
+          "text": "CEREDASE",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131047?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "type 1\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Eliglustat",
+      "substance_url": "/en/drug/substance/410889?name=355&mode=orpha&region=&status=all",
+      "substance_id": "410889",
+      "regulatory_url": "/en/drug/regulatory/410892?name=355&mode=orpha&region=",
+      "regulatory_id": "410892",
+      "orpha_substance_code": "ORPHA:77259",
+      "details": [
+        "Eliglustat(Medicinal product                        - 17/09/2008)Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "Eliglustat(Medicinal product                        - 17/09/2008)",
+        "(Medicinal product                        - 17/09/2008)",
+        "Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/410889?name=355&mode=orpha&region=&status=all",
+          "text": "Eliglustat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/410892?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type 1\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Alglucerase",
+      "substance_url": "/en/drug/substance/24932?name=355&mode=orpha&region=&status=all",
+      "substance_id": "24932",
+      "regulatory_url": "/en/drug/regulatory/131918?name=355&mode=orpha&region=",
+      "regulatory_id": "131918",
+      "orpha_substance_code": "ORPHA:77261",
+      "details": [
+        "Alglucerase(Medicinal product                        - 21/07/1995)Disease(s) concernedORPHA:77260 Gaucher disease type 2ORPHA:77261 Gaucher disease type 3",
+        "Alglucerase(Medicinal product                        - 21/07/1995)",
+        "(Medicinal product                        - 21/07/1995)",
+        "Disease(s) concernedORPHA:77260 Gaucher disease type 2ORPHA:77261 Gaucher disease type 3",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/24932?name=355&mode=orpha&region=&status=all",
+          "text": "Alglucerase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77260",
+          "text": "ORPHA:77260 Gaucher disease type 2",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77261",
+          "text": "ORPHA:77261 Gaucher disease type 3",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131918?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type 2\n                                \n\n\n\n\n                                    ORPHA:77261 Gaucher disease type 3\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Imiglucerase",
+      "substance_url": "/en/drug/substance/24871?name=355&mode=orpha&region=&status=all",
+      "substance_id": "24871",
+      "regulatory_url": "/en/drug/regulatory/131914?name=355&mode=orpha&region=",
+      "regulatory_id": "131914",
+      "orpha_substance_code": "ORPHA:77261",
+      "details": [
+        "Imiglucerase(Medicinal product                        - 05/11/1991)Disease(s) concernedORPHA:355 Gaucher diseaseORPHA:77259 Gaucher disease type 1ORPHA:77260 Gaucher disease type 2ORPHA:77261 Gaucher disease type 3",
+        "Imiglucerase(Medicinal product                        - 05/11/1991)",
+        "(Medicinal product                        - 05/11/1991)",
+        "Disease(s) concernedORPHA:355 Gaucher diseaseORPHA:77259 Gaucher disease type 1ORPHA:77260 Gaucher disease type 2ORPHA:77261 Gaucher disease type 3",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/24871?name=355&mode=orpha&region=&status=all",
+          "text": "Imiglucerase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/355",
+          "text": "ORPHA:355 Gaucher disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77260",
+          "text": "ORPHA:77260 Gaucher disease type 2",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77261",
+          "text": "ORPHA:77261 Gaucher disease type 3",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131914?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "ORPHA:77259 Gaucher disease type 1\n                                \n\n\n\n\n                                    ORPHA:77260 Gaucher disease type 2\n                                \n\n\n\n\n                                    ORPHA:77261 Gaucher disease type 3\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Alglucerase",
+      "substance_url": "/en/drug/substance/24932?name=355&mode=orpha&region=&status=all",
+      "substance_id": "24932",
+      "regulatory_url": "/en/drug/regulatory/448042?name=355&mode=orpha&region=",
+      "regulatory_id": "448042",
+      "orpha_substance_code": "ORPHA:77259",
+      "details": [
+        "Alglucerase(Medicinal product                        - 03/11/1985)Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "Alglucerase(Medicinal product                        - 03/11/1985)",
+        "(Medicinal product                        - 03/11/1985)",
+        "Disease(s) concernedORPHA:77259 Gaucher disease type 1",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/24932?name=355&mode=orpha&region=&status=all",
+          "text": "Alglucerase",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/77259",
+          "text": "ORPHA:77259 Gaucher disease type 1",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/448042?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "type 1\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "PLERIXAFOR ACCORD",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/642317?name=355&mode=orpha&region=",
+      "regulatory_id": "642317",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "PLERIXAFOR ACCORD(Tradename                        - 16/12/2022)Disease(s) concernedORPHA:29073 Multiple myelomaORPHA:223735 LymphomaORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "PLERIXAFOR ACCORD(Tradename                        - 16/12/2022)",
+        "(Tradename                        - 16/12/2022)",
+        "Disease(s) concernedORPHA:29073 Multiple myelomaORPHA:223735 LymphomaORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/642316?name=355&mode=orpha&region=&status=all",
+          "text": "PLERIXAFOR ACCORD",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/29073",
+          "text": "ORPHA:29073 Multiple myeloma",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/223735",
+          "text": "ORPHA:223735 Lymphoma",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/642317?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Thiotepa Riemser",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/610636?name=355&mode=orpha&region=",
+      "regulatory_id": "610636",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Thiotepa Riemser(Tradename                        - 26/03/2021)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Thiotepa Riemser(Tradename                        - 26/03/2021)",
+        "(Tradename                        - 26/03/2021)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/610616?name=355&mode=orpha&region=&status=all",
+          "text": "Thiotepa Riemser",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/610636?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "motixafortide",
+      "substance_url": "/en/drug/substance/588874?name=355&mode=orpha&region=&status=all",
+      "substance_id": "588874",
+      "regulatory_url": "/en/drug/regulatory/661036?name=355&mode=orpha&region=",
+      "regulatory_id": "661036",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "motixafortide(Medicinal product                        - 12/01/2024)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "motixafortide(Medicinal product                        - 12/01/2024)",
+        "(Medicinal product                        - 12/01/2024)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/588874?name=355&mode=orpha&region=&status=all",
+          "text": "motixafortide",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/661036?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate",
+      "substance_url": "/en/drug/substance/589233?name=355&mode=orpha&region=&status=all",
+      "substance_id": "589233",
+      "regulatory_url": "/en/drug/regulatory/589234?name=355&mode=orpha&region=",
+      "regulatory_id": "589234",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate(Medicinal product                        - 20/04/2020)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate(Medicinal product                        - 20/04/2020)",
+        "(Medicinal product                        - 20/04/2020)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/589233?name=355&mode=orpha&region=&status=all",
+          "text": "haematopoietic stem cells and blood progenitors umbilical cord-derived expanded with (1R, 4R)-N1-(2-benzyl-7-(2-methyl-2H-tetrazol-5-yl)-9H-pyrimido[4,5-b]indol-4-yl)cyclohexane-1,4-diamine dihydrobromide dihydrate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/589234?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus",
+      "substance_url": "/en/drug/substance/589056?name=355&mode=orpha&region=&status=all",
+      "substance_id": "589056",
+      "regulatory_url": "/en/drug/regulatory/589057?name=355&mode=orpha&region=",
+      "regulatory_id": "589057",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus(Medicinal product                        - 24/03/2020)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus(Medicinal product                        - 24/03/2020)",
+        "(Medicinal product                        - 24/03/2020)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/589056?name=355&mode=orpha&region=&status=all",
+          "text": "Allogeneic multi-virus specific T lymphocytes targeting BK virus, cytomegalovirus, human herpesvirus-6, Epstein Barr virus and adenovirus",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/589057?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=355&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=355&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Burixafor(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Burixafor(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689505?name=355&mode=orpha&region=&status=all",
+          "text": "Burixafor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689915?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Besilesomab",
+      "substance_url": "/en/drug/substance/571152?name=355&mode=orpha&region=&status=all",
+      "substance_id": "571152",
+      "regulatory_url": "/en/drug/regulatory/641081?name=355&mode=orpha&region=",
+      "regulatory_id": "641081",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Besilesomab(Medicinal product                        - 28/03/2022)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Besilesomab(Medicinal product                        - 28/03/2022)",
+        "(Medicinal product                        - 28/03/2022)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/571152?name=355&mode=orpha&region=&status=all",
+          "text": "Besilesomab",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/641081?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Besilesomab",
+      "substance_url": "/en/drug/substance/571152?name=355&mode=orpha&region=&status=all",
+      "substance_id": "571152",
+      "regulatory_url": "/en/drug/regulatory/641075?name=355&mode=orpha&region=",
+      "regulatory_id": "641075",
+      "orpha_substance_code": "ORPHA:506219",
+      "details": [
+        "Besilesomab(Medicinal product                        - 28/03/2022)Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "Besilesomab(Medicinal product                        - 28/03/2022)",
+        "(Medicinal product                        - 28/03/2022)",
+        "Disease(s) concernedORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/571152?name=355&mode=orpha&region=&status=all",
+          "text": "Besilesomab",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/506219",
+          "text": "ORPHA:506219 Rare disorder potentially indicated for hematopoietic stem cell transplant",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/641075?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for hematopoietic stem cell transplant\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=355&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=355&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Treosulfan(Medicinal product                        - 08/04/2015)Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Treosulfan(Medicinal product                        - 08/04/2015)",
+        "(Medicinal product                        - 08/04/2015)",
+        "Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90799?name=355&mode=orpha&region=&status=all",
+          "text": "Treosulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/213500",
+          "text": "ORPHA:213500 Rare ovarian cancer",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136690?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=355&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=355&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "busulfan(Medicinal product                        - 21/04/1994)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "busulfan(Medicinal product                        - 21/04/1994)",
+        "(Medicinal product                        - 21/04/1994)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/46335?name=355&mode=orpha&region=&status=all",
+          "text": "busulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131973?name=355&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T05:59:58.462378",
+  "run_number": 1,
+  "total_drugs_found": 45,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Gaucher+disease&orphaCode=355&name=355&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Gaucher disease",
+    "orphaCode": "355",
+    "name": "355",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

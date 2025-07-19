@@ -1,0 +1,56 @@
+{
+  "disease_name": "Hyperphosphatasia-intellectual disability syndrome",
+  "orpha_code": "247262",
+  "drugs": [
+    {
+      "name": "Pentadecanoic acid",
+      "substance_url": "/en/drug/substance/697639?name=247262&mode=orpha&region=&status=all",
+      "substance_id": "697639",
+      "regulatory_url": "/en/drug/regulatory/697886?name=247262&mode=orpha&region=",
+      "regulatory_id": "697886",
+      "orpha_substance_code": "ORPHA:247262",
+      "details": [
+        "Pentadecanoic acid(Medicinal product                        - 05/03/2025)Disease(s) concernedORPHA:247262 Hyperphosphatasia-intellectual disability syndrome",
+        "Pentadecanoic acid(Medicinal product                        - 05/03/2025)",
+        "(Medicinal product                        - 05/03/2025)",
+        "Disease(s) concernedORPHA:247262 Hyperphosphatasia-intellectual disability syndrome",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/697639?name=247262&mode=orpha&region=&status=all",
+          "text": "Pentadecanoic acid",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/247262",
+          "text": "ORPHA:247262 Hyperphosphatasia-intellectual disability syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/697886?name=247262&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T05:59:27.073448",
+  "run_number": 1,
+  "total_drugs_found": 1,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Hyperphosphatasia-intellectual+disability+syndrome&orphaCode=247262&name=247262&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Hyperphosphatasia-intellectual disability syndrome",
+    "orphaCode": "247262",
+    "name": "247262",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

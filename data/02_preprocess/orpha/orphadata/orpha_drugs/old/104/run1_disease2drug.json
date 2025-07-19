@@ -1,0 +1,371 @@
+{
+  "disease_name": "Leber hereditary optic neuropathy",
+  "orpha_code": "104",
+  "drugs": [
+    {
+      "name": "RAXONE",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/439188?name=104&mode=orpha&region=",
+      "regulatory_id": "439188",
+      "orpha_substance_code": "ORPHA:104",
+      "details": [
+        "RAXONE(Tradename                        - 08/09/2015)Disease(s) concernedORPHA:104 Leber hereditary optic neuropathy",
+        "RAXONE(Tradename                        - 08/09/2015)",
+        "(Tradename                        - 08/09/2015)",
+        "Disease(s) concernedORPHA:104 Leber hereditary optic neuropathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/439186?name=104&mode=orpha&region=&status=all",
+          "text": "RAXONE",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/104",
+          "text": "ORPHA:104 Leber hereditary optic neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/439188?name=104&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Adeno-associated virus vector serotype 2 expressing the human MT-ND4 codon-optimised gene",
+      "substance_url": "/en/drug/substance/628268?name=104&mode=orpha&region=&status=all",
+      "substance_id": "628268",
+      "regulatory_url": "/en/drug/regulatory/628269?name=104&mode=orpha&region=",
+      "regulatory_id": "628269",
+      "orpha_substance_code": "ORPHA:104",
+      "details": [
+        "Adeno-associated virus vector serotype 2 expressing the human MT-ND4 codon-optimised gene(Medicinal product                        - 14/01/2022)Disease(s) concernedORPHA:104 Leber hereditary optic neuropathy",
+        "Adeno-associated virus vector serotype 2 expressing the human MT-ND4 codon-optimised gene(Medicinal product                        - 14/01/2022)",
+        "(Medicinal product                        - 14/01/2022)",
+        "Disease(s) concernedORPHA:104 Leber hereditary optic neuropathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/628268?name=104&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus vector serotype 2 expressing the human MT-ND4 codon-optimised gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/104",
+          "text": "ORPHA:104 Leber hereditary optic neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/628269?name=104&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector containing the human NADH dehydrogenase 4 gene (rAAV2/2-ND4)",
+      "substance_url": "/en/drug/substance/260395?name=104&mode=orpha&region=&status=all",
+      "substance_id": "260395",
+      "regulatory_url": "/en/drug/regulatory/275216?name=104&mode=orpha&region=",
+      "regulatory_id": "275216",
+      "orpha_substance_code": "ORPHA:104",
+      "details": [
+        "Adeno-associated viral vector containing the human NADH dehydrogenase 4 gene (rAAV2/2-ND4)(Medicinal product                        - 13/05/2011)Disease(s) concernedORPHA:104 Leber hereditary optic neuropathy",
+        "Adeno-associated viral vector containing the human NADH dehydrogenase 4 gene (rAAV2/2-ND4)(Medicinal product                        - 13/05/2011)",
+        "(Medicinal product                        - 13/05/2011)",
+        "Disease(s) concernedORPHA:104 Leber hereditary optic neuropathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/260395?name=104&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector containing the human NADH dehydrogenase 4 gene (rAAV2/2-ND4)",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/104",
+          "text": "ORPHA:104 Leber hereditary optic neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/275216?name=104&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "idebenone",
+      "substance_url": "/en/drug/substance/73656?name=104&mode=orpha&region=&status=all",
+      "substance_id": "73656",
+      "regulatory_url": "/en/drug/regulatory/134111?name=104&mode=orpha&region=",
+      "regulatory_id": "134111",
+      "orpha_substance_code": "ORPHA:104",
+      "details": [
+        "idebenone(Medicinal product                        - 15/02/2007)Disease(s) concernedORPHA:104 Leber hereditary optic neuropathy",
+        "idebenone(Medicinal product                        - 15/02/2007)",
+        "(Medicinal product                        - 15/02/2007)",
+        "Disease(s) concernedORPHA:104 Leber hereditary optic neuropathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/73656?name=104&mode=orpha&region=&status=all",
+          "text": "idebenone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/104",
+          "text": "ORPHA:104 Leber hereditary optic neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/134111?name=104&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Recombinant adeno-associated virus serotype 2 containing human mitochondrial ND1 codon optimized gene (rAAV2-ND1)",
+      "substance_url": "/en/drug/substance/643869?name=104&mode=orpha&region=&status=all",
+      "substance_id": "643869",
+      "regulatory_url": "/en/drug/regulatory/643870?name=104&mode=orpha&region=",
+      "regulatory_id": "643870",
+      "orpha_substance_code": "ORPHA:104",
+      "details": [
+        "Recombinant adeno-associated virus serotype 2 containing human mitochondrial ND1 codon optimized gene (rAAV2-ND1)(Medicinal product                        - 13/01/2022)Disease(s) concernedORPHA:104 Leber hereditary optic neuropathy",
+        "Recombinant adeno-associated virus serotype 2 containing human mitochondrial ND1 codon optimized gene (rAAV2-ND1)(Medicinal product                        - 13/01/2022)",
+        "(Medicinal product                        - 13/01/2022)",
+        "Disease(s) concernedORPHA:104 Leber hereditary optic neuropathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/643869?name=104&mode=orpha&region=&status=all",
+          "text": "Recombinant adeno-associated virus serotype 2 containing human mitochondrial ND1 codon optimized gene (rAAV2-ND1)",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/104",
+          "text": "ORPHA:104 Leber hereditary optic neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/643870?name=104&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "idebenone",
+      "substance_url": "/en/drug/substance/73656?name=104&mode=orpha&region=&status=all",
+      "substance_id": "73656",
+      "regulatory_url": "/en/drug/regulatory/676952?name=104&mode=orpha&region=",
+      "regulatory_id": "676952",
+      "orpha_substance_code": "ORPHA:104",
+      "details": [
+        "idebenone(Medicinal product                        - 31/10/2006)Disease(s) concernedORPHA:104 Leber hereditary optic neuropathy",
+        "idebenone(Medicinal product                        - 31/10/2006)",
+        "(Medicinal product                        - 31/10/2006)",
+        "Disease(s) concernedORPHA:104 Leber hereditary optic neuropathy",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/73656?name=104&mode=orpha&region=&status=all",
+          "text": "idebenone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/104",
+          "text": "ORPHA:104 Leber hereditary optic neuropathy",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/676952?name=104&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US",
+        "EU"
+      ]
+    },
+    {
+      "name": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+      "substance_url": "/en/drug/substance/646586?name=104&mode=orpha&region=&status=all",
+      "substance_id": "646586",
+      "regulatory_url": "/en/drug/regulatory/646683?name=104&mode=orpha&region=",
+      "regulatory_id": "646683",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate(Medicinal product                        - 14/04/2023)",
+        "(Medicinal product                        - 14/04/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/646586?name=104&mode=orpha&region=&status=all",
+          "text": "Methyl 4-{[2-(acetamino)ethyl]sulfanyl}-4-oxobutanoate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/646683?name=104&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Zagociguat",
+      "substance_url": "/en/drug/substance/644348?name=104&mode=orpha&region=&status=all",
+      "substance_id": "644348",
+      "regulatory_url": "/en/drug/regulatory/644353?name=104&mode=orpha&region=",
+      "regulatory_id": "644353",
+      "orpha_substance_code": "ORPHA:68380",
+      "details": [
+        "Zagociguat(Medicinal product                        - 23/03/2023)Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "Zagociguat(Medicinal product                        - 23/03/2023)",
+        "(Medicinal product                        - 23/03/2023)",
+        "Disease(s) concernedORPHA:68380 Mitochondrial disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/644348?name=104&mode=orpha&region=&status=all",
+          "text": "Zagociguat",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/68380",
+          "text": "ORPHA:68380 Mitochondrial disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/644353?name=104&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Vatiquinone",
+      "substance_url": "/en/drug/substance/285822?name=104&mode=orpha&region=&status=all",
+      "substance_id": "285822",
+      "regulatory_url": "/en/drug/regulatory/299940?name=104&mode=orpha&region=",
+      "regulatory_id": "299940",
+      "orpha_substance_code": "ORPHA:254827",
+      "details": [
+        "Vatiquinone(Medicinal product                        - 21/12/2010)Disease(s) concernedORPHA:223713 Mitochondrial oxidative phosphorylation disorderORPHA:254827 Mitochondrial membrane transport disorder",
+        "Vatiquinone(Medicinal product                        - 21/12/2010)",
+        "(Medicinal product                        - 21/12/2010)",
+        "Disease(s) concernedORPHA:223713 Mitochondrial oxidative phosphorylation disorderORPHA:254827 Mitochondrial membrane transport disorder",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/285822?name=104&mode=orpha&region=&status=all",
+          "text": "Vatiquinone",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/223713",
+          "text": "ORPHA:223713 Mitochondrial oxidative phosphorylation disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/254827",
+          "text": "ORPHA:254827 Mitochondrial membrane transport disorder",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/299940?name=104&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "ORPHA:254827 Mitochondrial membrane transport disorder\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:03:02.957592",
+  "run_number": 1,
+  "total_drugs_found": 9,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Leber+hereditary+optic+neuropathy&orphaCode=104&name=104&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Leber hereditary optic neuropathy",
+    "orphaCode": "104",
+    "name": "104",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

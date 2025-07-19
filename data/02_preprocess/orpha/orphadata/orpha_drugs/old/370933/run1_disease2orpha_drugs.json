@@ -1,0 +1,17 @@
+{
+  "disease_name": "GM3 synthase deficiency",
+  "orpha_code": "370933",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:35:12.694545",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=GM3+synthase+deficiency&orphaCode=370933&name=370933&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "GM3 synthase deficiency",
+    "orphaCode": "370933",
+    "name": "370933",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

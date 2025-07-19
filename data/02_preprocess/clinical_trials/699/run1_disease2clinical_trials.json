@@ -1,0 +1,1293 @@
+{
+  "disease_name": "Pearson syndrome",
+  "orpha_code": "699",
+  "trials": [
+    {
+      "nctId": "NCT05993299",
+      "briefTitle": "Study to Evaluate Safety and Antitumor Activity of Lete-Cel (GSK3377794) in HLA-A2+ Participants With NY-ESO-1 Positive Previously Untreated Advanced (Metastatic or Unresectable) Synovial Sarcoma and Myxoid/Round Cell Liposarcoma",
+      "officialTitle": "Evaluation of Safety and Antitumor Activity of Lete-Cel (GSK3377794) in HLA-A2+ Participants With NY-ESO-1 Positive Previously Untreated Advanced (Metastatic or Unresectable) Synovial Sarcoma and Myxoid/Round Cell Liposarcoma",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Neoplasms"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Letetresgene autoleucel"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide"
+        },
+        {
+          "type": "DRUG",
+          "name": "Fludarabine"
+        }
+      ],
+      "enrollment": 7,
+      "locations": [
+        {
+          "facility": "City of Hope National Medical Center",
+          "city": "Duarte",
+          "country": "United States"
+        },
+        {
+          "facility": "Stanford Hospital and Clinics",
+          "city": "Stanford",
+          "country": "United States"
+        },
+        {
+          "facility": "Sarah Cannon Research Institute",
+          "city": "Denver",
+          "country": "United States"
+        },
+        {
+          "facility": "Mayo Clinic Jacksonville",
+          "city": "Jacksonville",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Chicago",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Iowa College of Medicine",
+          "city": "Iowa City",
+          "country": "United States"
+        },
+        {
+          "facility": "Dana Farber Cancer Institute",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "Massachusetts General Hospital",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Michigan Medical Center",
+          "city": "Ann Arbor",
+          "country": "United States"
+        },
+        {
+          "facility": "Minnesota Oncology Hematology",
+          "city": "Minneapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "Mayo Clinic Rochester",
+          "city": "Rochester",
+          "country": "United States"
+        },
+        {
+          "facility": "Washington University",
+          "city": "Saint Louis",
+          "country": "United States"
+        },
+        {
+          "facility": "Memorial Sloan Kettering cancer center",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Duke University Medical Center",
+          "city": "Durham",
+          "country": "United States"
+        },
+        {
+          "facility": "Ohio State University-Columbus",
+          "city": "Columbus",
+          "country": "United States"
+        },
+        {
+          "facility": "Oregon Health and Science University",
+          "city": "Portland",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Pittsburgh, Hillman Cancer centre",
+          "city": "Pittsburgh",
+          "country": "United States"
+        },
+        {
+          "facility": "Tennessee Oncology",
+          "city": "Nashville",
+          "country": "United States"
+        },
+        {
+          "facility": "University Of Texas Southwestern Medical Center",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Texas Southwestern Medical Center",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Utah",
+          "city": "Salt Lake City",
+          "country": "United States"
+        },
+        {
+          "facility": "Virginia Commonwealth University",
+          "city": "Richmond",
+          "country": "United States"
+        },
+        {
+          "facility": "Fred Hutchinson Cancer Research Center",
+          "city": "Seattle",
+          "country": "United States"
+        },
+        {
+          "facility": "Froedtert Hospital",
+          "city": "Milwaukee",
+          "country": "United States"
+        },
+        {
+          "facility": "CIUSSS de L'Est-De-Lile-De-Montreal",
+          "city": "Montreal",
+          "country": "Canada"
+        },
+        {
+          "facility": "Princess Margaret Cancer Centre",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Centre Léon Bérard",
+          "city": "Lyon cedex",
+          "country": "France"
+        },
+        {
+          "facility": "CHU de Bordeaux GH Sud Hôpital Haut Lévêque",
+          "city": "Pessac, Cedex",
+          "country": "France"
+        },
+        {
+          "facility": "Fondazione IRCCS Instituto Nazionale Dei Tumori",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Ircss Istituto Clinico Humanitas",
+          "city": "Romano Di Lombardia",
+          "country": "Italy"
+        },
+        {
+          "facility": "The Netherlands Cancer Institute",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Hospital Santa Creu Y Sant Pau",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Ico Duran y Reynals l'Hospitalet de Llobrega",
+          "city": "Hospitalet de Llobregat, Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Fundación Jiménez Díaz",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Virgen Del Rocio",
+          "city": "Sevilla",
+          "country": "Spain"
+        },
+        {
+          "facility": "Royal Marsden Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "University College Hospital-London",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Christie Hospital NHS Foundation Trust",
+          "city": "Manchester",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2024-10-22"
+    },
+    {
+      "nctId": "NCT06703346",
+      "briefTitle": "Study to Evaluate Safety and Antitumor Activity of Lete-Cel (GSK3377794) in HLA-A2+ Participants with NY-ESO-1 Positive Previously Treated Advanced (Metastatic or Unresectable) Synovial Sarcoma or Myxoid/Round Cell Liposarcoma",
+      "officialTitle": "Evaluation of Safety and Antitumor Activity of Lete-Cel (GSK3377794) in HLA-A2+ Participants with NY-ESO-1 Positive Previously Treated Advanced (Metastatic or Unresectable) Synovial Sarcoma or Myxoid/Round Cell Liposarcoma",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Neoplasms"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Experimental: Letetresgene autoleucel"
+        }
+      ],
+      "enrollment": 87,
+      "locations": [
+        {
+          "facility": "City of Hope National Medical Center",
+          "city": "Duarte",
+          "country": "United States"
+        },
+        {
+          "facility": "Stanford Hospital and Clinics",
+          "city": "Stanford",
+          "country": "United States"
+        },
+        {
+          "facility": "Sarah Cannon Research Institute",
+          "city": "Denver",
+          "country": "United States"
+        },
+        {
+          "facility": "Mayo Clinic Jacksonville",
+          "city": "Jacksonville",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Chicago",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Iowa College of Medicine",
+          "city": "Iowa City",
+          "country": "United States"
+        },
+        {
+          "facility": "Dana Farber Cancer Institute",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "Massachusetts General Hospital",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Michigan Medical Center",
+          "city": "Ann Arbor",
+          "country": "United States"
+        },
+        {
+          "facility": "Minnesota Oncology Hematology",
+          "city": "Minneapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "Mayo Clinic Rochester",
+          "city": "Rochester",
+          "country": "United States"
+        },
+        {
+          "facility": "Washington University",
+          "city": "Saint Louis",
+          "country": "United States"
+        },
+        {
+          "facility": "Memorial Sloan Kettering cancer center",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Duke University Medical Center",
+          "city": "Durham",
+          "country": "United States"
+        },
+        {
+          "facility": "Ohio State University-Columbus",
+          "city": "Columbus",
+          "country": "United States"
+        },
+        {
+          "facility": "Oregon Health and Science University",
+          "city": "Portland",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Pittsburgh, Hillman Cancer centre",
+          "city": "Pittsburgh",
+          "country": "United States"
+        },
+        {
+          "facility": "Sarah Cannon Research Institute",
+          "city": "Nashville",
+          "country": "United States"
+        },
+        {
+          "facility": "University Of Texas Southwestern Medical Center",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Texas Southwestern Medical Center",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Utah",
+          "city": "Salt Lake City",
+          "country": "United States"
+        },
+        {
+          "facility": "Virginia Commonwealth University",
+          "city": "Richmond",
+          "country": "United States"
+        },
+        {
+          "facility": "Fred Hutchinson Cancer Research Center",
+          "city": "Seattle",
+          "country": "United States"
+        },
+        {
+          "facility": "Froedtert Hospital",
+          "city": "Milwaukee",
+          "country": "United States"
+        },
+        {
+          "facility": "Princess Margaret Cancer Centre",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "CIUSSS de L'Est-De-Lile-De-Montreal",
+          "city": "Montreal",
+          "country": "Canada"
+        },
+        {
+          "facility": "Centre Léon Bérard",
+          "city": "Lyon cedex 08",
+          "country": "France"
+        },
+        {
+          "facility": "CHU de Bordeaux GH Sud Hôpital Haut Lévêque",
+          "city": "Pessac cedex",
+          "country": "France"
+        },
+        {
+          "facility": "Fondazione IRCCS Instituto Nazionale Dei Tumori",
+          "city": "Milan",
+          "country": "Italy"
+        },
+        {
+          "facility": "Ircss Istituto Clinico Humanitas",
+          "city": "Rozzano (MI)",
+          "country": "Italy"
+        },
+        {
+          "facility": "The Netherlands Cancer Institute",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Hospital Santa Creu Y Sant Pau",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Ico Duran y Reynals l'Hospitalet de Llobrega",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Fundación Jiménez Díaz",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Virgen Del Rocio",
+          "city": "Sevilla",
+          "country": "Spain"
+        },
+        {
+          "facility": "Royal Marsden Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "University College Hospital-London",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Christie Hospital NHS Foundation Trust",
+          "city": "Manchester",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2024-11-25"
+    },
+    {
+      "nctId": "NCT04998812",
+      "briefTitle": "A Study Evaluating B Cell Levels In Infants Potentially Exposed To Ocrelizumab During Pregnancy",
+      "officialTitle": "A Phase IV Multicenter, Open-Label Study Evaluating B Cell Levels In Infants Potentially Exposed To Ocrelizumab During Pregnancy",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "conditions": [
+        "Multiple Sclerosis",
+        "Clinically Isolated Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Ocrelizumab"
+        }
+      ],
+      "enrollment": 70,
+      "locations": [
+        {
+          "facility": "University of California San Francisco",
+          "city": "San Francisco",
+          "country": "United States"
+        },
+        {
+          "facility": "University Of Colorado",
+          "city": "Aurora",
+          "country": "United States"
+        },
+        {
+          "facility": "Northwestern Memorial Hospital",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "Hospital of the University of Pennsylvania",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Hopital Pierre Wertheimer - Hopital Neurologique",
+          "city": "Bron",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital de la Pitié Salpétrière",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "St. Josef Hospital GmbH",
+          "city": "Bochum",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitaetsklinikum Carl Gustav Carus an der TU Dresden",
+          "city": "Dresden",
+          "country": "Germany"
+        },
+        {
+          "facility": "MultipEL Studies - Institut für klinische Studien",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Hosp. Clinico San Carlos",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Universitätsspital Basel",
+          "city": "Basel",
+          "country": "Switzerland"
+        },
+        {
+          "facility": "Inselspital Bern",
+          "city": "Bern",
+          "country": "Switzerland"
+        }
+      ],
+      "lastUpdateDate": "2025-05-22"
+    },
+    {
+      "nctId": "NCT06521996",
+      "briefTitle": "M-CHOP in Richter´s Syndrome",
+      "officialTitle": "CHOP Plus Mosunetuzumab as First Line in Patients With Richter´s Syndrome: a Phase II Study of the Spanish CLL Group",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Richter Syndrome",
+        "Chronic Lymphocytic Leukemia"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "Mosunetuzumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "CHOP (cyclophosphamide, doxorubicin, vincristine, prednisone)"
+        }
+      ],
+      "enrollment": 34,
+      "locations": [
+        {
+          "facility": "H. Clínic i Provincial",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "H. Vall d'Hebrón",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "ICO Duran i Reynals",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "C. H. U. de Gran Canaria Dr. Negrín",
+          "city": "Las Palmas De Gran Canaria",
+          "country": "Spain"
+        },
+        {
+          "facility": "H. U. 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "H. U. La Princesa",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "H. Costa del Sol",
+          "city": "Marbella",
+          "country": "Spain"
+        },
+        {
+          "facility": "H. G. U. Morales Meseguer",
+          "city": "Murcia",
+          "country": "Spain"
+        },
+        {
+          "facility": "H. U. Central de Asturias",
+          "city": "Oviedo",
+          "country": "Spain"
+        },
+        {
+          "facility": "H. U. de Salamanca",
+          "city": "Salamanca",
+          "country": "Spain"
+        },
+        {
+          "facility": "H. U. de Donostia",
+          "city": "San Sebastián",
+          "country": "Spain"
+        },
+        {
+          "facility": "H. U. Marqués de Valdecilla",
+          "city": "Santander",
+          "country": "Spain"
+        },
+        {
+          "facility": "C. H. U. de Santiago",
+          "city": "Santiago De Compostela",
+          "country": "Spain"
+        },
+        {
+          "facility": "H. U. Virgen del Rocío",
+          "city": "Sevilla",
+          "country": "Spain"
+        },
+        {
+          "facility": "H. C. U. de Valencia",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "H. Lozano Blesa",
+          "city": "Zaragoza",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2024-07-26"
+    },
+    {
+      "nctId": "NCT02598661",
+      "briefTitle": "Study to Evaluate Imetelstat (GRN163L) in Participants With International Prognostic Scoring System (IPSS) Low or Intermediate-1 Risk Myelodysplastic Syndrome (MDS)",
+      "officialTitle": "A Study to Evaluate Imetelstat (GRN163L) in Transfusion-Dependent Subjects With IPSS Low or Intermediate-1 Risk Myelodysplastic Syndrome (MDS) That is Relapsed/Refractory to Erythropoiesis-Stimulating Agent (ESA) Treatment",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "conditions": [
+        "Myelodysplastic Syndromes"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Imetelstat Sodium"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "enrollment": 289,
+      "locations": [
+        {
+          "facility": "UAB Comprehensive Cancer Center",
+          "city": "Birmingham",
+          "country": "United States"
+        },
+        {
+          "facility": "Acrc/Arizona Clinical Research, Inc.",
+          "city": "Tucson",
+          "country": "United States"
+        },
+        {
+          "facility": "CBCC Global Research, Inc.",
+          "city": "Bakersfield",
+          "country": "United States"
+        },
+        {
+          "facility": "UCLA Ronald Regan Medical Center",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "Yale-New Haven Hospital (YNHH) - Smilow Cancer Hospital",
+          "city": "New Haven",
+          "country": "United States"
+        },
+        {
+          "facility": "BRCR Medical Center",
+          "city": "Plantation",
+          "country": "United States"
+        },
+        {
+          "facility": "University of South Florida (USF) - H. Lee Moffitt Cancer Center",
+          "city": "Tampa",
+          "country": "United States"
+        },
+        {
+          "facility": "Franciscan Health",
+          "city": "Indianapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "St. Agnes Healthcare, Inc",
+          "city": "Baltimore",
+          "country": "United States"
+        },
+        {
+          "facility": "Center for Cancer and Blood Disorders",
+          "city": "Bethesda",
+          "country": "United States"
+        },
+        {
+          "facility": "Washington University School of Medicine",
+          "city": "Saint Louis",
+          "country": "United States"
+        },
+        {
+          "facility": "University of New Mexico Cancer Center",
+          "city": "Albuquerque",
+          "country": "United States"
+        },
+        {
+          "facility": "Icahn School of Medicine at Mount Sinai Program for the Protection of Human Subjects",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Columbia University Medical Center",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Weill Cornell Medical College-New York Presbyterian Hospital",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Cleveland Clinic Taussig Cancer",
+          "city": "Cleveland",
+          "country": "United States"
+        },
+        {
+          "facility": "The Ohio State Comprehensive Cancer Center",
+          "city": "Columbus",
+          "country": "United States"
+        },
+        {
+          "facility": "Prairie lakes Healthcare system, Inc",
+          "city": "Watertown",
+          "country": "United States"
+        },
+        {
+          "facility": "Vanderbilt University Medical - Hematology-Oncology",
+          "city": "Nashville",
+          "country": "United States"
+        },
+        {
+          "facility": "Texas Oncology/Methodist Charlton Cancer Center",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "Simmons Comprehensive Cancer Center",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "Fred Hutchinson Cancer Research Center (FHCRC)",
+          "city": "Seattle",
+          "country": "United States"
+        },
+        {
+          "facility": "GZA Ziekenhuizen - Campus Sint",
+          "city": "Wilrijk",
+          "country": "Belgium"
+        },
+        {
+          "facility": "AZ Sint-Jan Burgge-Oostende",
+          "city": "Brugge",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Az Groeninge",
+          "city": "Kortrijk",
+          "country": "Belgium"
+        },
+        {
+          "facility": "ZNA Middelheim",
+          "city": "Antwerpen",
+          "country": "Belgium"
+        },
+        {
+          "facility": "ZNA Cadix",
+          "city": "Antwerpen",
+          "country": "Belgium"
+        },
+        {
+          "facility": "AZ Klina",
+          "city": "Brasschaat",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Universitair Ziekenhuis Gent",
+          "city": "Gent",
+          "country": "Belgium"
+        },
+        {
+          "facility": "UZ Leuven - Campus Gasthuisberg",
+          "city": "Leuven",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Tom Baker Cancer Centre",
+          "city": "Calgary",
+          "country": "Canada"
+        },
+        {
+          "facility": "University of Alberta Hospital - Hematology Research",
+          "city": "Edmonton",
+          "country": "Canada"
+        },
+        {
+          "facility": "The Ottawa Hospital",
+          "city": "Ottawa",
+          "country": "Canada"
+        },
+        {
+          "facility": "Sunnybrook Health Sciences Centre",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Princess Margaret Hospital",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Jewish General Hospital",
+          "city": "Montréal",
+          "country": "Canada"
+        },
+        {
+          "facility": "Fakultni nemocnice Brno",
+          "city": "Brno",
+          "country": "Czechia"
+        },
+        {
+          "facility": "FN Hradec Kralove",
+          "city": "Hradec Králové",
+          "country": "Czechia"
+        },
+        {
+          "facility": "FN Kralovske Vinohrady",
+          "city": "Praha 10",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Vseobecna fakultni nemocnice v Praze",
+          "city": "Praha 2",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Hopital de l'Archet",
+          "city": "Nice",
+          "country": "France"
+        },
+        {
+          "facility": "CHU Tours",
+          "city": "Tours",
+          "country": "France"
+        },
+        {
+          "facility": "CHU de Limoges, Hopital Dupuytren",
+          "city": "Limoges",
+          "country": "France"
+        },
+        {
+          "facility": "CHU de Grenoble - Hôpital Albe",
+          "city": "La Tronche",
+          "country": "France"
+        },
+        {
+          "facility": "CHRU Nancy Brabois",
+          "city": "Vandœuvre-lès-Nancy",
+          "country": "France"
+        },
+        {
+          "facility": "CH Le Mans - HAEMATOLOGY",
+          "city": "Le Mans",
+          "country": "France"
+        },
+        {
+          "facility": "CHU de Poitiers",
+          "city": "Poitiers",
+          "country": "France"
+        },
+        {
+          "facility": "Centre Hospitalier Universitai",
+          "city": "Angers",
+          "country": "France"
+        },
+        {
+          "facility": "CHRU de Lille - Hopital Claude Huriez - Maladies du Sang",
+          "city": "Lille",
+          "country": "France"
+        },
+        {
+          "facility": "CHU - HÃ´pital Saint Louis - H",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "University Hospital Freiburg",
+          "city": "Freiburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Fachärztliche Gemeinschaftspraxis mit Schwerpunkt",
+          "city": "Dresden",
+          "country": "Germany"
+        },
+        {
+          "facility": "University Hospital Leipzig",
+          "city": "Leipzig",
+          "country": "Germany"
+        },
+        {
+          "facility": "Studienzentrum für Hämatologie, Onkologie,Diabetologie, Endoskopie und Fußambulanz",
+          "city": "Aschaffenburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "University Hospital Bonn",
+          "city": "Bonn",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitatsklinikum Carl Gustav Carcus Dresden",
+          "city": "Dresden",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitätsklinikum Düsseldorf",
+          "city": "Duesseldorf",
+          "country": "Germany"
+        },
+        {
+          "facility": "Johannes Gutenberg Universität",
+          "city": "Mainz",
+          "country": "Germany"
+        },
+        {
+          "facility": "Kaplan Medical Center",
+          "city": "Reẖovot",
+          "country": "Israel"
+        },
+        {
+          "facility": "The Edith Wolfson Medical Center",
+          "city": "H̱olon",
+          "country": "Israel"
+        },
+        {
+          "facility": "Meir Medical Center",
+          "city": "Kfar Saba",
+          "country": "Israel"
+        },
+        {
+          "facility": "Ha'Emek Medical Center",
+          "city": "Afula",
+          "country": "Israel"
+        },
+        {
+          "facility": "Tel Aviv Sourasky Medical Center",
+          "city": "Tel Aviv",
+          "country": "Israel"
+        },
+        {
+          "facility": "The Chaim Sheba Medical Center",
+          "city": "Tel HaShomer",
+          "country": "Israel"
+        },
+        {
+          "facility": "Carmel MC",
+          "city": "Haifa",
+          "country": "Israel"
+        },
+        {
+          "facility": "Hadassah Medical Organization",
+          "city": "Jerusalem",
+          "country": "Israel"
+        },
+        {
+          "facility": "Rabin Medical Center, Beilinson Hospital",
+          "city": "Petah Tikva",
+          "country": "Israel"
+        },
+        {
+          "facility": "A.O. Ospedale Niguarda Ca' Granda",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Istituto Clinico Humanitas Rozzano, IRCCS",
+          "city": "Rozzano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Irccs Crob",
+          "city": "Rionero In Vulture",
+          "country": "Italy"
+        },
+        {
+          "facility": "AOU Ospedali Riuniti Umberto I G.M. Lancisi G. Salesi",
+          "city": "Ancona",
+          "country": "Italy"
+        },
+        {
+          "facility": "AOU di Bologna Policlinico S. Orsola Malpighi",
+          "city": "Bologna",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera Universitaria Careggi di Firenze",
+          "city": "Firenze",
+          "country": "Italy"
+        },
+        {
+          "facility": "Grande Ospedale Metropolitano 'Bianchi-Melacrino-Morelli' Reggio Calabria",
+          "city": "Reggio Calabria",
+          "country": "Italy"
+        },
+        {
+          "facility": "A.O. Universitaria Policlinico Tor Vergata",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "AO S. Andrea, Università degli Studi di Roma La Sapienza",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "Ospedale di Circolo, PO Varese",
+          "city": "Varese",
+          "country": "Italy"
+        },
+        {
+          "facility": "Gachon University Gil Medical Center - oncology",
+          "city": "Incheon",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Pusan National University Hospital - Hematology and Oncology",
+          "city": "Seogu",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Seoul National University Hospital",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Chonnam National University Hwasun Hospital",
+          "city": "Hwasun",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Asan Medical Center",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Samsung Medical Center",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "The Catholic University of Korea Seoul St. Mary's Hospital",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Severance Hospital, Yonsei Uni",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Radboud Umcn",
+          "city": "Nijmegen",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Meander Medisch Centrum",
+          "city": "Amersfoort",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "VU Medisch Centrum",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Universitair Medisch Centrum Groningen",
+          "city": "Groningen",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Uniwersytecki Szpital Kliniczny im. J. Mikulicza-Radeckiego",
+          "city": "Wrocław",
+          "country": "Poland"
+        },
+        {
+          "facility": "Centrum Medyczne Pratia Poznan",
+          "city": "Skorzewo",
+          "country": "Poland"
+        },
+        {
+          "facility": "Wojewódzki Szpital Specjalistyczny sp.z o.o.",
+          "city": "Słupsk",
+          "country": "Poland"
+        },
+        {
+          "facility": "SPZOZ MSWiA z Warminsko - Mazurskim Centrum Onkologii",
+          "city": "Olsztyn",
+          "country": "Poland"
+        },
+        {
+          "facility": "Ars Medical sp. z o.o.",
+          "city": "Piła",
+          "country": "Poland"
+        },
+        {
+          "facility": "Clinics of Samarskiy GMU",
+          "city": "Samara",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Emergency Hospital of Dzerzhinsk",
+          "city": "Dzerzhinsk",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "City Clinical Hospital",
+          "city": "Moscow",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Nizhniy Novgorod Region Clinical Hospital",
+          "city": "Nizhny Novgorod",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Ryazan Regional Clinical Hospital",
+          "city": "Ryazan",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "FGU-Russian Research Institut",
+          "city": "Saint Petersburg",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Oncologic Dispensary No.2",
+          "city": "Sochi",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "H.U.Pta.del Mar",
+          "city": "Cadiz",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Puerta de Hierro Majadahonda",
+          "city": "Majadahonda",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital de Cruces",
+          "city": "Baracaldo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hosp. Univ. Germans Trias I Pujol",
+          "city": "Badalona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hosp. Univ. Vall D Hebron",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hosp. Gral. Univ. Gregorio Maranon",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hosp. Univ. La Paz",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hosp. Clinico Univ. de Salamanca",
+          "city": "Salamanca",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Nuestra Señora de Valme",
+          "city": "Sevilla",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Doctor",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitari i Politecnic La Fe",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "University Hospital in Basel",
+          "city": "Basel",
+          "country": "Switzerland"
+        },
+        {
+          "facility": "Kantonsspital St. Gallen - Onkologie/Hämatologie",
+          "city": "Saint Gallen",
+          "country": "Switzerland"
+        },
+        {
+          "facility": "Inselspital - Universitätsspital Bern",
+          "city": "Bern",
+          "country": "Switzerland"
+        },
+        {
+          "facility": "Universitaetsspital Zuerich",
+          "city": "Zuerich",
+          "country": "Switzerland"
+        },
+        {
+          "facility": "Ankara University Medical Faculty - Hematology",
+          "city": "Ankara",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Cukurova University Medical Faculty",
+          "city": "Adana",
+          "country": "Turkey"
+        },
+        {
+          "facility": "Ege Universitesi Tip Fakultesi - Hematology",
+          "city": "İzmir",
+          "country": "Turkey"
+        },
+        {
+          "facility": "KZ \"Miska bahatoprofilna klinichna likarnia No4\", hematolohi",
+          "city": "Dnipropetrovs'k",
+          "country": "Ukraine"
+        },
+        {
+          "facility": "Instytut patolohii krovi ta transfusiynoi medytsyny NAMN Ukr",
+          "city": "Lviv",
+          "country": "Ukraine"
+        },
+        {
+          "facility": "KNP \"Cherkaskyi oblasnyi onkolohichnyi dyspanser Cherkaskoi",
+          "city": "Cherkasy",
+          "country": "Ukraine"
+        },
+        {
+          "facility": "Nottingham City Hospital - Clinical Haematology",
+          "city": "Nottingham",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Aberdeen Royal Infirmary",
+          "city": "Aberdeen",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "The Leeds Teaching Hospitals NHS Trust",
+          "city": "Leeds",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Southampton University Hospital",
+          "city": "Southampton",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-04-30"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:14:36.196747",
+  "run_number": 1,
+  "total_trials_found": 5
+}

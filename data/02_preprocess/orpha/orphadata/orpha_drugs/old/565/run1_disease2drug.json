@@ -1,0 +1,322 @@
+{
+  "disease_name": "Menkes disease",
+  "orpha_code": "565",
+  "drugs": [
+    {
+      "name": "Elesclomol-copper",
+      "substance_url": "/en/drug/substance/661180?name=565&mode=orpha&region=&status=all",
+      "substance_id": "661180",
+      "regulatory_url": "/en/drug/regulatory/661273?name=565&mode=orpha&region=",
+      "regulatory_id": "661273",
+      "orpha_substance_code": "ORPHA:565",
+      "details": [
+        "Elesclomol-copper(Medicinal product                        - 08/11/2023)Disease(s) concernedORPHA:565 Menkes disease",
+        "Elesclomol-copper(Medicinal product                        - 08/11/2023)",
+        "(Medicinal product                        - 08/11/2023)",
+        "Disease(s) concernedORPHA:565 Menkes disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/661180?name=565&mode=orpha&region=&status=all",
+          "text": "Elesclomol-copper",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565",
+          "text": "ORPHA:565 Menkes disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/661273?name=565&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Copper nanocluster conjugated to acetate, histidinate and ascorbate",
+      "substance_url": "/en/drug/substance/635863?name=565&mode=orpha&region=&status=all",
+      "substance_id": "635863",
+      "regulatory_url": "/en/drug/regulatory/635867?name=565&mode=orpha&region=",
+      "regulatory_id": "635867",
+      "orpha_substance_code": "ORPHA:565",
+      "details": [
+        "Copper nanocluster conjugated to acetate, histidinate and ascorbate(Medicinal product                        - 11/11/2022)Disease(s) concernedORPHA:565 Menkes disease",
+        "Copper nanocluster conjugated to acetate, histidinate and ascorbate(Medicinal product                        - 11/11/2022)",
+        "(Medicinal product                        - 11/11/2022)",
+        "Disease(s) concernedORPHA:565 Menkes disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/635863?name=565&mode=orpha&region=&status=all",
+          "text": "Copper nanocluster conjugated to acetate, histidinate and ascorbate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565",
+          "text": "ORPHA:565 Menkes disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/635867?name=565&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Copper histidinate",
+      "substance_url": "/en/drug/substance/604837?name=565&mode=orpha&region=&status=all",
+      "substance_id": "604837",
+      "regulatory_url": "/en/drug/regulatory/604838?name=565&mode=orpha&region=",
+      "regulatory_id": "604838",
+      "orpha_substance_code": "ORPHA:565",
+      "details": [
+        "Copper histidinate(Medicinal product                        - 21/08/2020)Disease(s) concernedORPHA:565 Menkes disease",
+        "Copper histidinate(Medicinal product                        - 21/08/2020)",
+        "(Medicinal product                        - 21/08/2020)",
+        "Disease(s) concernedORPHA:565 Menkes disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/604837?name=565&mode=orpha&region=&status=all",
+          "text": "Copper histidinate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565",
+          "text": "ORPHA:565 Menkes disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/604838?name=565&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Elesclomol-copper",
+      "substance_url": "/en/drug/substance/661180?name=565&mode=orpha&region=&status=all",
+      "substance_id": "661180",
+      "regulatory_url": "/en/drug/regulatory/689724?name=565&mode=orpha&region=",
+      "regulatory_id": "689724",
+      "orpha_substance_code": "ORPHA:565",
+      "details": [
+        "Elesclomol-copper(Medicinal product                        - 30/10/2024)Disease(s) concernedORPHA:565 Menkes disease",
+        "Elesclomol-copper(Medicinal product                        - 30/10/2024)",
+        "(Medicinal product                        - 30/10/2024)",
+        "Disease(s) concernedORPHA:565 Menkes disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/661180?name=565&mode=orpha&region=&status=all",
+          "text": "Elesclomol-copper",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565",
+          "text": "ORPHA:565 Menkes disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689724?name=565&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant adeno-associated virus vector serotype-9 carrying the human ATP7A transgene",
+      "substance_url": "/en/drug/substance/687224?name=565&mode=orpha&region=&status=all",
+      "substance_id": "687224",
+      "regulatory_url": "/en/drug/regulatory/687566?name=565&mode=orpha&region=",
+      "regulatory_id": "687566",
+      "orpha_substance_code": "ORPHA:565",
+      "details": [
+        "Recombinant adeno-associated virus vector serotype-9 carrying the human ATP7A transgene(Medicinal product                        - 30/07/2024)Disease(s) concernedORPHA:565 Menkes disease",
+        "Recombinant adeno-associated virus vector serotype-9 carrying the human ATP7A transgene(Medicinal product                        - 30/07/2024)",
+        "(Medicinal product                        - 30/07/2024)",
+        "Disease(s) concernedORPHA:565 Menkes disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/687224?name=565&mode=orpha&region=&status=all",
+          "text": "Recombinant adeno-associated virus vector serotype-9 carrying the human ATP7A transgene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565",
+          "text": "ORPHA:565 Menkes disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/687566?name=565&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Copper nanocluster conjugated to acetate, histidinate and ascorbate",
+      "substance_url": "/en/drug/substance/635863?name=565&mode=orpha&region=&status=all",
+      "substance_id": "635863",
+      "regulatory_url": "/en/drug/regulatory/687484?name=565&mode=orpha&region=",
+      "regulatory_id": "687484",
+      "orpha_substance_code": "ORPHA:565",
+      "details": [
+        "Copper nanocluster conjugated to acetate, histidinate and ascorbate(Medicinal product                        - 25/07/2024)Disease(s) concernedORPHA:565 Menkes disease",
+        "Copper nanocluster conjugated to acetate, histidinate and ascorbate(Medicinal product                        - 25/07/2024)",
+        "(Medicinal product                        - 25/07/2024)",
+        "Disease(s) concernedORPHA:565 Menkes disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/635863?name=565&mode=orpha&region=&status=all",
+          "text": "Copper nanocluster conjugated to acetate, histidinate and ascorbate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565",
+          "text": "ORPHA:565 Menkes disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/687484?name=565&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Elesclomol-copper",
+      "substance_url": "/en/drug/substance/661180?name=565&mode=orpha&region=&status=all",
+      "substance_id": "661180",
+      "regulatory_url": "/en/drug/regulatory/664214?name=565&mode=orpha&region=",
+      "regulatory_id": "664214",
+      "orpha_substance_code": "ORPHA:565",
+      "details": [
+        "Elesclomol-copper(Medicinal product                        - 03/08/2023)Disease(s) concernedORPHA:565 Menkes disease",
+        "Elesclomol-copper(Medicinal product                        - 03/08/2023)",
+        "(Medicinal product                        - 03/08/2023)",
+        "Disease(s) concernedORPHA:565 Menkes disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/661180?name=565&mode=orpha&region=&status=all",
+          "text": "Elesclomol-copper",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565",
+          "text": "ORPHA:565 Menkes disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/664214?name=565&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "rsATP7A cDNA",
+      "substance_url": "/en/drug/substance/399726?name=565&mode=orpha&region=&status=all",
+      "substance_id": "399726",
+      "regulatory_url": "/en/drug/regulatory/399743?name=565&mode=orpha&region=",
+      "regulatory_id": "399743",
+      "orpha_substance_code": "ORPHA:565",
+      "details": [
+        "rsATP7A cDNA(Medicinal product                        - 10/01/2014)Disease(s) concernedORPHA:565 Menkes disease",
+        "rsATP7A cDNA(Medicinal product                        - 10/01/2014)",
+        "(Medicinal product                        - 10/01/2014)",
+        "Disease(s) concernedORPHA:565 Menkes disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/399726?name=565&mode=orpha&region=&status=all",
+          "text": "rsATP7A cDNA",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565",
+          "text": "ORPHA:565 Menkes disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/399743?name=565&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:04:53.287653",
+  "run_number": 1,
+  "total_drugs_found": 8,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Menkes+disease&orphaCode=565&name=565&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Menkes disease",
+    "orphaCode": "565",
+    "name": "565",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

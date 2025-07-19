@@ -1,0 +1,551 @@
+{
+  "disease_name": "Lysosomal acid lipase deficiency",
+  "orpha_code": "275761",
+  "trials": [
+    {
+      "nctId": "NCT01633489",
+      "briefTitle": "Lysosomal Acid Lipase (LAL) Deficiency Registry",
+      "officialTitle": "An Observational Disease and Clinical Outcomes Registry of Patients With Lysosomal Acid Lipase (LAL) Deficiency",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Lysosomal Acid Lipase Deficiency",
+        "Cholesterol Ester Storage Disease",
+        "Wolman Disease",
+        "Acid Cholesteryl Ester Hydrolase Deficiency, Type 2",
+        "Acid Lipase Deficiency",
+        "LIPA Deficiency",
+        "LAL-Deficiency"
+      ],
+      "interventions": [],
+      "enrollment": 300,
+      "locations": [
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Phoenix",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Stanford",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Miramar",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Orlando",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Atlanta",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Detroit",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Minneapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Jackson",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Hackensack, NJ, 7601",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Bronx",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Snyder",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Tacoma",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "New Lambton Heights",
+          "country": "Australia"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Ghent",
+          "country": "Belgium"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Campinas",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "São Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "São Paulo",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Sofia",
+          "country": "Bulgaria"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Edmonton",
+          "country": "Canada"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Halifax",
+          "country": "Canada"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "London",
+          "country": "Canada"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Quebec",
+          "country": "Canada"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Zagreb",
+          "country": "Croatia"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Prague",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Olomouc",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Bron",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Clermont-Ferrand",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Clermont-Ferrand",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Grenoble",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Caen",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "La Rochelle",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Niort",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Nancy",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Dijon",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Nantes",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Munich",
+          "country": "Germany"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Essen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Mainz",
+          "country": "Germany"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Berlin",
+          "country": "Germany"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Athens",
+          "country": "Greece"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Ioannina",
+          "country": "Greece"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Thessaloniki",
+          "country": "Greece"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Dublin",
+          "country": "Ireland"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Petah Tikva",
+          "country": "Israel"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Haifa",
+          "country": "Israel"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Jerusalem",
+          "country": "Israel"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Jerusalem",
+          "country": "Israel"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Bari",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Napoli",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Udine",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Genova",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Bergamo",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Turin",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Florence",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Padova",
+          "country": "Italy"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Zapopan",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Aguascalientes",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Mexico City",
+          "country": "Mexico"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Guimarães",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Lisbon",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Petersburg",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Moscow",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Moscow",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Moscow",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Moscow",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Nizhny Novgorod",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Riyadh",
+          "country": "Saudi Arabia"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Riyadh",
+          "country": "Saudi Arabia"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Ljubljana",
+          "country": "Slovenia"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Santiago de Compostela",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Oviedo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Barakaldo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Logroño",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Burela",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Malaga",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Reus",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "A Coruña",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Albacete",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Alicante",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Las Palmas",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Murcia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Valladolid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Zaragoza",
+          "country": "Spain"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Cambridge",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Manchester",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Salford",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "Clinical Trial Site",
+          "city": "Birmingham",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-05-25"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:13:07.286890",
+  "run_number": 1,
+  "total_trials_found": 1
+}

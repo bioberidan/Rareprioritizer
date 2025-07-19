@@ -1,0 +1,56 @@
+{
+  "disease_name": "Lesch-Nyhan syndrome",
+  "orpha_code": "510",
+  "trials": [
+    {
+      "nctId": "NCT04641741",
+      "briefTitle": "Effect of Mepolizumab on Severe Eosinophilic Asthma",
+      "officialTitle": "Effect of Mepolizumab on the Phenotype/Proteome/Transcriptome of Eosinophils in Severe Eosinophilic Asthma",
+      "overallStatus": "RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Asthma",
+        "Eosinophilic Asthma"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Mepolizumab 100 MG"
+        }
+      ],
+      "enrollment": 30,
+      "locations": [
+        {
+          "facility": "Complejo Hospitalario Universitario de Ferrol",
+          "city": "Ferrol",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Clínico Universitario de Santiago de Compostela",
+          "city": "Santiago De Compostela",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Povisa - Grupo Ribera Salud",
+          "city": "Vigo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complexo Hospitalario Universitario A Coruña",
+          "city": "A Coruña",
+          "country": "Spain"
+        },
+        {
+          "facility": "Complexo Hospitalario Universitario de Ourense",
+          "city": "Ourense",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2023-09-25"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:15:02.726652",
+  "run_number": 1,
+  "total_trials_found": 1
+}

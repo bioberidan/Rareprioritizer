@@ -1,0 +1,1021 @@
+{
+  "disease_name": "MELAS",
+  "orpha_code": "550",
+  "trials": [
+    {
+      "nctId": "NCT06685835",
+      "briefTitle": "A Study of the Efficacy and Safety of Brensocatib in Adults With Moderate to Severe Hidradenitis Suppurativa (HS)",
+      "officialTitle": "A Phase 2b, Randomized, Double-Blind, Placebo-Controlled, Multicenter Study of the Efficacy and Safety of Brensocatib in Adults With Moderate to Severe Hidradenitis Suppurativa - The CEDAR Study",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Hidradenitis Suppurativa"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Brensocatib"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "enrollment": 204,
+      "locations": [
+        {
+          "facility": "USA007",
+          "city": "Sacramento",
+          "country": "United States"
+        },
+        {
+          "facility": "USA026",
+          "city": "Coral Gables",
+          "country": "United States"
+        },
+        {
+          "facility": "USA021",
+          "city": "Margate",
+          "country": "United States"
+        },
+        {
+          "facility": "USA025",
+          "city": "Ocala",
+          "country": "United States"
+        },
+        {
+          "facility": "USA004",
+          "city": "Tampa",
+          "country": "United States"
+        },
+        {
+          "facility": "USA010",
+          "city": "Weston",
+          "country": "United States"
+        },
+        {
+          "facility": "USA011",
+          "city": "Sandy Springs",
+          "country": "United States"
+        },
+        {
+          "facility": "USA003",
+          "city": "Plainfield",
+          "country": "United States"
+        },
+        {
+          "facility": "USA002",
+          "city": "Baton Rouge",
+          "country": "United States"
+        },
+        {
+          "facility": "USA017",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "USA012",
+          "city": "Detroit",
+          "country": "United States"
+        },
+        {
+          "facility": "USA024",
+          "city": "Fort Gratiot",
+          "country": "United States"
+        },
+        {
+          "facility": "USA013",
+          "city": "Lebanon",
+          "country": "United States"
+        },
+        {
+          "facility": "USA016",
+          "city": "Springfield",
+          "country": "United States"
+        },
+        {
+          "facility": "USA005",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "USA023",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "USA008",
+          "city": "Spokane",
+          "country": "United States"
+        },
+        {
+          "facility": "AUS003",
+          "city": "Darlinghurst",
+          "country": "Australia"
+        },
+        {
+          "facility": "AUS004",
+          "city": "Kogarah",
+          "country": "Australia"
+        },
+        {
+          "facility": "AUS001",
+          "city": "Brisbane",
+          "country": "Australia"
+        },
+        {
+          "facility": "AUS002",
+          "city": "Fremantle",
+          "country": "Australia"
+        },
+        {
+          "facility": "BGR001",
+          "city": "Lovech",
+          "country": "Bulgaria"
+        },
+        {
+          "facility": "BGR003",
+          "city": "Pleven",
+          "country": "Bulgaria"
+        },
+        {
+          "facility": "BGR004",
+          "city": "Sofia",
+          "country": "Bulgaria"
+        },
+        {
+          "facility": "BGR002",
+          "city": "Stara Zagora",
+          "country": "Bulgaria"
+        },
+        {
+          "facility": "CAN003",
+          "city": "Barrie",
+          "country": "Canada"
+        },
+        {
+          "facility": "CAN006",
+          "city": "Guelph",
+          "country": "Canada"
+        },
+        {
+          "facility": "CAN007",
+          "city": "Peterborough",
+          "country": "Canada"
+        },
+        {
+          "facility": "CAN011",
+          "city": "Richmond Hill",
+          "country": "Canada"
+        },
+        {
+          "facility": "CAN009",
+          "city": "Richmond Hill",
+          "country": "Canada"
+        },
+        {
+          "facility": "CAN010",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "CAN004",
+          "city": "Quebec",
+          "country": "Canada"
+        },
+        {
+          "facility": "FRA001",
+          "city": "Lyon",
+          "country": "France"
+        },
+        {
+          "facility": "FRA004",
+          "city": "Toulouse",
+          "country": "France"
+        },
+        {
+          "facility": "FRA002",
+          "city": "Antony",
+          "country": "France"
+        },
+        {
+          "facility": "FRA003",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "FRA005",
+          "city": "Rouen",
+          "country": "France"
+        },
+        {
+          "facility": "DEU007",
+          "city": "Langenau",
+          "country": "Germany"
+        },
+        {
+          "facility": "DEU002",
+          "city": "Darmstadt",
+          "country": "Germany"
+        },
+        {
+          "facility": "DEU001",
+          "city": "Bochum",
+          "country": "Germany"
+        },
+        {
+          "facility": "DEU003",
+          "city": "Dresden",
+          "country": "Germany"
+        },
+        {
+          "facility": "DEU006",
+          "city": "Dessau-RoÃŸlau",
+          "country": "Germany"
+        },
+        {
+          "facility": "DEU005",
+          "city": "Lübeck",
+          "country": "Germany"
+        },
+        {
+          "facility": "GRC002",
+          "city": "Athina",
+          "country": "Greece"
+        },
+        {
+          "facility": "GRC004",
+          "city": "Chaidari",
+          "country": "Greece"
+        },
+        {
+          "facility": "GRC001",
+          "city": "N. Efkapria-Pavlos Melas",
+          "country": "Greece"
+        },
+        {
+          "facility": "GRC003",
+          "city": "Thessaloniki",
+          "country": "Greece"
+        },
+        {
+          "facility": "NLD001",
+          "city": "Rotterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "POL006",
+          "city": "Wroclaw",
+          "country": "Poland"
+        },
+        {
+          "facility": "POL008",
+          "city": "Warsaw",
+          "country": "Poland"
+        },
+        {
+          "facility": "POL002",
+          "city": "Rzeszów",
+          "country": "Poland"
+        },
+        {
+          "facility": "POL004",
+          "city": "Kraków",
+          "country": "Poland"
+        },
+        {
+          "facility": "POL007",
+          "city": "Warszawa",
+          "country": "Poland"
+        },
+        {
+          "facility": "POL001",
+          "city": "Warszawa",
+          "country": "Poland"
+        },
+        {
+          "facility": "POL005",
+          "city": "Wroclaw",
+          "country": "Poland"
+        },
+        {
+          "facility": "POL003",
+          "city": "Wrocław",
+          "country": "Poland"
+        },
+        {
+          "facility": "ESP006",
+          "city": "Badalona",
+          "country": "Spain"
+        },
+        {
+          "facility": "ESP004",
+          "city": "Las Palmas De Gran Canaria",
+          "country": "Spain"
+        },
+        {
+          "facility": "ESP001",
+          "city": "Manises",
+          "country": "Spain"
+        },
+        {
+          "facility": "ESP002",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "ESP005",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "ESP003",
+          "city": "Madrid",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-06-29"
+    },
+    {
+      "nctId": "NCT05218655",
+      "briefTitle": "A Safety Study for Previously Treated Vatiquinone (PTC743) Participants With Inherited Mitochondrial Disease",
+      "officialTitle": "An Open-Label, Safety Study for Previously Treated Vatiquinone (PTC743) Subjects With Inherited Mitochondrial Disease",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Inherited Mitochondrial Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Vatiquinone"
+        }
+      ],
+      "enrollment": 102,
+      "locations": [
+        {
+          "facility": "University of California, San Diego Altman Clinical and Translational Research Institute",
+          "city": "La Jolla",
+          "country": "United States"
+        },
+        {
+          "facility": "Stanford University",
+          "city": "Stanford",
+          "country": "United States"
+        },
+        {
+          "facility": "Yale Medicine",
+          "city": "New Haven",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's National",
+          "city": "Washington",
+          "country": "United States"
+        },
+        {
+          "facility": "Child Neurology Center of Northwest Florida",
+          "city": "Gulf Breeze",
+          "country": "United States"
+        },
+        {
+          "facility": "The Johns Hopkins University",
+          "city": "Baltimore",
+          "country": "United States"
+        },
+        {
+          "facility": "Columbia University Medical Center - CUMC",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "Akron Children's Hospital",
+          "city": "Akron",
+          "country": "United States"
+        },
+        {
+          "facility": "Cleveland Clinic",
+          "city": "Cleveland",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Philadelphia - CHOP",
+          "city": "Philadelphia",
+          "country": "United States"
+        },
+        {
+          "facility": "Medical University of South Carolina - MUSC",
+          "city": "Charleston",
+          "country": "United States"
+        },
+        {
+          "facility": "Baylor College of Medicine",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "UT Health The University of Texas",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "Seattle Children Hospital",
+          "city": "Seattle",
+          "country": "United States"
+        },
+        {
+          "facility": "Chu Angers",
+          "city": "Angers Cedex 9",
+          "country": "France"
+        },
+        {
+          "facility": "CHU Montpellier - Hopital Saint-Eloi",
+          "city": "Montpellier Cedex 5",
+          "country": "France"
+        },
+        {
+          "facility": "Hopital Necker-Enfants Malades",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Hôpital de Hautepierre - Hôpitaux Universitaires de Strasbourg",
+          "city": "Strasbourg",
+          "country": "France"
+        },
+        {
+          "facility": "Ospedale Pediatrico Bambino Gesù",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "PTC Clinical Site",
+          "city": "Japanese City",
+          "country": "Japan"
+        },
+        {
+          "facility": "Instytut Pomnik - Centrum Zdrowia Dziecka",
+          "city": "Warszawa",
+          "country": "Poland"
+        },
+        {
+          "facility": "Hospital Sant Joan de Déu",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Ruber Internacional",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Great Ormond Street Hospital for Children NHS Foundation Trust",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "The Newcastle Upon Tyne Hospitals NHS Foundation Trust",
+          "city": "Newcastle Upon Tyne",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-03-04"
+    },
+    {
+      "nctId": "NCT06028230",
+      "briefTitle": "A Phase 2 Study to Evaluate the Efficacy and Safety of SAR444656 Compared With Placebo in Adult Participants With Moderate to Severe Hidradenitis Suppurativa",
+      "officialTitle": "A Parallel-group Treatment, Phase 2, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of SAR444656 in Adult Participants With Moderate to Severe Hidradenitis Suppurativa",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "conditions": [
+        "Hidradenitis Suppurativa"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "SAR444656 (KT-474)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo"
+        }
+      ],
+      "enrollment": 156,
+      "locations": [
+        {
+          "facility": "Clear Dermatology & Aesthetics Center- Site Number : 8400006",
+          "city": "Scottsdale",
+          "country": "United States"
+        },
+        {
+          "facility": "Cosmetic Dermatology of Orange County- Site Number : 8400024",
+          "city": "Anaheim",
+          "country": "United States"
+        },
+        {
+          "facility": "First OC Dermatology - Fountain Valley- Site Number : 8400007",
+          "city": "Fountain Valley",
+          "country": "United States"
+        },
+        {
+          "facility": "Paradigm Clinical Research - San Diego - ClinEdge - PPDS- Site Number : 8400021",
+          "city": "San Diego",
+          "country": "United States"
+        },
+        {
+          "facility": "Clinical Trials Management Services - Thousand Oaks- Site Number : 8400028",
+          "city": "Thousand Oaks",
+          "country": "United States"
+        },
+        {
+          "facility": "Advanced Dermatology and Cosmetic Care- Site Number : 8400025",
+          "city": "Valencia",
+          "country": "United States"
+        },
+        {
+          "facility": "Encore Medical Research of Boynton Beach- Site Number : 8400002",
+          "city": "Boynton Beach",
+          "country": "United States"
+        },
+        {
+          "facility": "Moore Clinical Research - Brandon- Site Number : 8400001",
+          "city": "Brandon",
+          "country": "United States"
+        },
+        {
+          "facility": "Encore Medical Research - 6600 Taft St- Site Number : 8400005",
+          "city": "Hollywood",
+          "country": "United States"
+        },
+        {
+          "facility": "Sullivan Dermatology- Site Number : 8400003",
+          "city": "Miami",
+          "country": "United States"
+        },
+        {
+          "facility": "Encore Medical Research - Weston- Site Number : 8400010",
+          "city": "Weston",
+          "country": "United States"
+        },
+        {
+          "facility": "Dawes Fretzin Clinical Research- Site Number : 8400011",
+          "city": "Indianapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "Dermatology Specialists Research (DS Research) - Indiana- Site Number : 8400012",
+          "city": "New Albany",
+          "country": "United States"
+        },
+        {
+          "facility": "Beth Israel Deaconess Medical Center - 110 Francis St- Site Number : 8400013",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "Wayne Health - Dearborn- Site Number : 8400004",
+          "city": "Dearborn",
+          "country": "United States"
+        },
+        {
+          "facility": "Revive Research Institute-1575 W Big Beaver Rd- Site Number : 8400008",
+          "city": "Troy",
+          "country": "United States"
+        },
+        {
+          "facility": "Vial Health - DermDox Dermatology- Site Number : 8400020",
+          "city": "Camp Hill",
+          "country": "United States"
+        },
+        {
+          "facility": "UPMC Montefiore- Site Number : 8400009",
+          "city": "Pittsburgh",
+          "country": "United States"
+        },
+        {
+          "facility": "Dermatology Specialists of Spokane- Site Number : 8400015",
+          "city": "Spokane",
+          "country": "United States"
+        },
+        {
+          "facility": "Investigational Site Number : 1520002",
+          "city": "Santiago",
+          "country": "Chile"
+        },
+        {
+          "facility": "Investigational Site Number : 1520003",
+          "city": "Independencia",
+          "country": "Chile"
+        },
+        {
+          "facility": "Investigational Site Number : 1520001",
+          "city": "Las Condes",
+          "country": "Chile"
+        },
+        {
+          "facility": "Investigational Site Number : 1520004",
+          "city": "Temuco",
+          "country": "Chile"
+        },
+        {
+          "facility": "Investigational Site Number : 2760002",
+          "city": "Heidelberg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Investigational Site Number : 2760008",
+          "city": "Munich",
+          "country": "Germany"
+        },
+        {
+          "facility": "Investigational Site Number : 2760006",
+          "city": "Würzburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Investigational Site Number : 2760007",
+          "city": "Frankfurt",
+          "country": "Germany"
+        },
+        {
+          "facility": "Investigational Site Number : 2760001",
+          "city": "Bochum",
+          "country": "Germany"
+        },
+        {
+          "facility": "Investigational Site Number : 2760004",
+          "city": "Remscheid",
+          "country": "Germany"
+        },
+        {
+          "facility": "Investigational Site Number : 2760009",
+          "city": "Dessau",
+          "country": "Germany"
+        },
+        {
+          "facility": "Investigational Site Number : 2760005",
+          "city": "Berlin",
+          "country": "Germany"
+        },
+        {
+          "facility": "Investigational Site Number : 3000003",
+          "city": "Athens",
+          "country": "Greece"
+        },
+        {
+          "facility": "Investigational Site Number : 3000001",
+          "city": "Pavlos Melas",
+          "country": "Greece"
+        },
+        {
+          "facility": "Investigational Site Number : 3000002",
+          "city": "Thessaloniki",
+          "country": "Greece"
+        },
+        {
+          "facility": "Investigational Site Number : 4100002",
+          "city": "Cheonan-si",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Investigational Site Number : 4100001",
+          "city": "Seongnam-si",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Investigational Site Number : 4100003",
+          "city": "Seongbuk-Gu",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Investigational Site Number : 4100004",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Investigational Site Number : 6160006",
+          "city": "Wroclaw",
+          "country": "Poland"
+        },
+        {
+          "facility": "Investigational Site Number : 6160002",
+          "city": "Wroclaw",
+          "country": "Poland"
+        },
+        {
+          "facility": "Investigational Site Number : 6160005",
+          "city": "Lodz",
+          "country": "Poland"
+        },
+        {
+          "facility": "Investigational Site Number : 6160003",
+          "city": "Warsaw",
+          "country": "Poland"
+        },
+        {
+          "facility": "Investigational Site Number : 6160007",
+          "city": "Katowice",
+          "country": "Poland"
+        },
+        {
+          "facility": "Investigational Site Number : 6160004",
+          "city": "Ossy",
+          "country": "Poland"
+        },
+        {
+          "facility": "Investigational Site Number : 7240004",
+          "city": "Cadiz",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 7240005",
+          "city": "Manises",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 7240003",
+          "city": "Alicante",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 7240001",
+          "city": "Granada",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number : 7240002",
+          "city": "Sevilla",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-06-22"
+    },
+    {
+      "nctId": "NCT05581004",
+      "briefTitle": "A Study to Evaluate the Safety, Pharmacokinetics, and Activity of RO7502175 as a Single Agent and in Combination With Checkpoint Inhibitor in Participants With Locally Advanced or Metastatic Solid Tumors",
+      "officialTitle": "A Phase Ia/Ib, Open Label, Multicenter, Dose-escalation Study to Evaluate the Safety, Pharmacokinetics, and Activity of RO7502175 as a Single Agent and in Combination With Checkpoint Inhibitor in Patients With Locally Advanced or Metastatic Solid Tumors",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1"
+      ],
+      "conditions": [
+        "Locally Advanced or Metastatic Solid Tumors",
+        "NSCLC",
+        "HNSCC",
+        "Melanoma",
+        "TNBC",
+        "Esophageal Cancer",
+        "Gastric Cancer",
+        "Cervical Cancer",
+        "Colorectal Cancer",
+        "Urothelial Carcinoma",
+        "Clear Cell RCC",
+        "HCC"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "RO7502175"
+        },
+        {
+          "type": "DRUG",
+          "name": "Atezolizumab"
+        },
+        {
+          "type": "DRUG",
+          "name": "Pembrolizumab"
+        }
+      ],
+      "enrollment": 450,
+      "locations": [
+        {
+          "facility": "Stanford University",
+          "city": "San Francisco",
+          "country": "United States"
+        },
+        {
+          "facility": "University Of Colorado",
+          "city": "Aurora",
+          "country": "United States"
+        },
+        {
+          "facility": "Florida Cancer Specialists - Sarasota",
+          "city": "Sarasota",
+          "country": "United States"
+        },
+        {
+          "facility": "Winship Cancer Institute",
+          "city": "Atlanta",
+          "country": "United States"
+        },
+        {
+          "facility": "Dana Farber Cancer Institute",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "Henry Ford Hospital",
+          "city": "Detroit",
+          "country": "United States"
+        },
+        {
+          "facility": "Washington University Medical Center, Division of Oncology",
+          "city": "Saint Louis",
+          "country": "United States"
+        },
+        {
+          "facility": "Rutgers Cancer Institute of New Jersey",
+          "city": "New Brunswick",
+          "country": "United States"
+        },
+        {
+          "facility": "The West Clinic - Memphis (Union Ave)",
+          "city": "Germantown",
+          "country": "United States"
+        },
+        {
+          "facility": "SCRI Oncology Partners",
+          "city": "Nashville",
+          "country": "United States"
+        },
+        {
+          "facility": "South Texas Accelerated Research Therapeutics (START)",
+          "city": "San Antonio",
+          "country": "United States"
+        },
+        {
+          "facility": "Kinghorn Cancer Centre",
+          "city": "Darlinghurst",
+          "country": "Australia"
+        },
+        {
+          "facility": "Monash Health Monash Medical Centre",
+          "city": "Clayton",
+          "country": "Australia"
+        },
+        {
+          "facility": "Linear Clinical Research Ltd",
+          "city": "Nedlands",
+          "country": "Australia"
+        },
+        {
+          "facility": "UZ Antwerpen",
+          "city": "Edegem",
+          "country": "Belgium"
+        },
+        {
+          "facility": "CHU de Liège",
+          "city": "Herstal",
+          "country": "Belgium"
+        },
+        {
+          "facility": "GasthuisZusters Antwerpen",
+          "city": "Wilrijk",
+          "country": "Belgium"
+        },
+        {
+          "facility": "British Columbia Cancer Agency",
+          "city": "Vancouver",
+          "country": "Canada"
+        },
+        {
+          "facility": "Ottawa Hospital Regional Cancer Centre",
+          "city": "Ottawa",
+          "country": "Canada"
+        },
+        {
+          "facility": "Princess Margaret Cancer Centre",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Sir Mortimer B Davis Jewish General Hospital",
+          "city": "Montreal",
+          "country": "Canada"
+        },
+        {
+          "facility": "Papageorgiou General Hospital of Thessaloniki",
+          "city": "N. Efkapria-Pavlos Melas",
+          "country": "Greece"
+        },
+        {
+          "facility": "Seoul National University Hospital",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Asan Medical Center - PPDS",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Samsung Medical Center - PPDS",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Severance Hospital Yonsei University Health System - Clinical Trials Center Pharmacy",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "Het Nederlands Kanker Instituut Antoni Van Leeuwenhoek Ziekenhuis",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Universitair Medisch Centrum Groningen",
+          "city": "Groningen",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "ICO l?Hospitalet ? Hospital Duran i Reynals",
+          "city": "L?Hospitalet De Llobregat",
+          "country": "Spain"
+        },
+        {
+          "facility": "Instituto de Investigacion Oncologica Vall dHebron (VHIO) - EPON",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "START MADRID_Hospital Universiario Fundacion Jimenez Diaz",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario 12 De Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Virgen de la Victoria",
+          "city": "Malaga",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Clinico Universitario de Valencia",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "Kaohsiung Medical University Chung-Ho Memorial Hospital",
+          "city": "Kaohsiung City",
+          "country": "Taiwan"
+        },
+        {
+          "facility": "Chung Shan Medical University Hospital",
+          "city": "Taichung",
+          "country": "Taiwan"
+        }
+      ],
+      "lastUpdateDate": "2025-06-22"
+    },
+    {
+      "nctId": "NCT05255328",
+      "briefTitle": "Clinical Long Term Evaluation of Glutamine Supplement in MELAS Syndrome",
+      "officialTitle": "Clinical Long Term Evaluation of Glutamine Supplement in MELAS (Mitochondrial Encephalopathy, Lactic Acidosis, and Stroke-like Episodes) Syndrome in Order to Prevent Neurological Damage.",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "MELAS Syndrome"
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Glutamine oral supplement"
+        }
+      ],
+      "enrollment": 9,
+      "locations": [
+        {
+          "facility": "Hospital Universitario 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2023-09-28"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:14:36.890546",
+  "run_number": 1,
+  "total_trials_found": 5
+}

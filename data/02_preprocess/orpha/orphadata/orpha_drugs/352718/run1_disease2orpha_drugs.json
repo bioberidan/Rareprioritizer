@@ -1,0 +1,54 @@
+{
+  "disease_name": "Progressive retinal dystrophy due to retinol transport defect",
+  "orpha_code": "352718",
+  "drugs": [
+    {
+      "name": "Adeno-associated virus serotype 5 containing the human RDH12 gene",
+      "substance_url": "/en/drug/substance/605032?name=352718&mode=orpha&region=&status=all",
+      "substance_id": "605032",
+      "regulatory_url": "/en/drug/regulatory/605033?name=352718&mode=orpha&region=",
+      "regulatory_id": "605033",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Combination of three adeno-associated viral vectors of serotype 8 containing the 5'-, the body- and the 3'- coding sequences of human CEP290 fused to inteins",
+      "substance_url": "/en/drug/substance/588772?name=352718&mode=orpha&region=&status=all",
+      "substance_id": "588772",
+      "regulatory_url": "/en/drug/regulatory/588773?name=352718&mode=orpha&region=",
+      "regulatory_id": "588773",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    },
+    {
+      "name": "Adeno-associated virus serotype 8 containing the human RdCVF sequence and the human RdCVFL sequence",
+      "substance_url": "/en/drug/substance/588591?name=352718&mode=orpha&region=&status=all",
+      "substance_id": "588591",
+      "regulatory_url": "/en/drug/regulatory/588593?name=352718&mode=orpha&region=",
+      "regulatory_id": "588593",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:43:38.599699",
+  "run_number": 1,
+  "total_drugs_found": 3,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Progressive+retinal+dystrophy+due+to+retinol+transport+defect&orphaCode=352718&name=352718&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Progressive retinal dystrophy due to retinol transport defect",
+    "orphaCode": "352718",
+    "name": "352718",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

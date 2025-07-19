@@ -1,0 +1,17 @@
+{
+  "disease_name": "COG7-CDG",
+  "orpha_code": "79333",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:18:09.634466",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=COG7-CDG&orphaCode=79333&name=79333&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "COG7-CDG",
+    "orphaCode": "79333",
+    "name": "79333",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

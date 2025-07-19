@@ -1,0 +1,48 @@
+{
+  "url": "https://www.orpha.net/en/drug?diseaseName=Ataxia-oculomotor+apraxia+type+1&orphaCode=1168&name=1168&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Ataxia-oculomotor apraxia type 1",
+    "orphaCode": "1168",
+    "name": "1168",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  },
+  "status_code": 200,
+  "timestamp": 1752753246.5730274,
+  "drugs": [
+    {
+      "name": "Acetylleucine",
+      "substance_url": "/en/drug/substance/479413?name=1168&mode=orpha&region=&status=all",
+      "substance_id": "479413",
+      "regulatory_url": "/en/drug/regulatory/673778?name=1168&mode=orpha&region=",
+      "regulatory_id": "673778",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Ceftriaxone",
+      "substance_url": "/en/drug/substance/418160?name=1168&mode=orpha&region=&status=all",
+      "substance_id": "418160",
+      "regulatory_url": "/en/drug/regulatory/437311?name=1168&mode=orpha&region=",
+      "regulatory_id": "437311",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    }
+  ],
+  "disease_info": {
+    "name": "2 Result(s)",
+    "orphan_code": "ORPHA:1168"
+  },
+  "total_results": null,
+  "page_info": {
+    "page_title": "Orphanet : Search for an orphan drug",
+    "has_pagination": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "disease_name": "Tangier disease",
+  "orpha_code": "31150",
+  "drugs": [
+    {
+      "name": "Recombinant human apolipoprotein A-I in a complex with phospholipids",
+      "substance_url": "/en/drug/substance/406518?name=31150&mode=orpha&region=&status=all",
+      "substance_id": "406518",
+      "regulatory_url": "/en/drug/regulatory/412150?name=31150&mode=orpha&region=",
+      "regulatory_id": "412150",
+      "orpha_substance_code": "ORPHA:31150",
+      "details": [
+        "Recombinant human apolipoprotein A-I in a complex with phospholipids(Medicinal product                        - 22/08/2014)Disease(s) concernedORPHA:31150 Tangier disease",
+        "Recombinant human apolipoprotein A-I in a complex with phospholipids(Medicinal product                        - 22/08/2014)",
+        "(Medicinal product                        - 22/08/2014)",
+        "Disease(s) concernedORPHA:31150 Tangier disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/406518?name=31150&mode=orpha&region=&status=all",
+          "text": "Recombinant human apolipoprotein A-I in a complex with phospholipids",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/31150",
+          "text": "ORPHA:31150 Tangier disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/412150?name=31150&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:04:15.747448",
+  "run_number": 1,
+  "total_drugs_found": 1,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Tangier+disease&orphaCode=31150&name=31150&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Tangier disease",
+    "orphaCode": "31150",
+    "name": "31150",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

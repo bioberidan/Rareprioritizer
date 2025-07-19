@@ -1,0 +1,219 @@
+{
+  "analysis_date": "2025-07-10T05:07:11.668046",
+  "total_diseases": 613,
+  "recommended_method": "moderate",
+  "primary_outliers": {
+    "count": 229,
+    "percentage": 37.36
+  },
+  "top_outliers": [
+    {
+      "orpha_code": "321",
+      "disease_name": "Multiple osteochondromas",
+      "prevalence": 500.0,
+      "spanish_patients": 23500,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 3,
+      "metabolic_category": "common_rare",
+      "is_high_impact": true,
+      "outlier_type": "high",
+      "prevalence_deviation": 499.5,
+      "patients_deviation": 23476.0,
+      "outlier_reason": [
+        "prevalence",
+        "spanish_patients"
+      ]
+    },
+    {
+      "orpha_code": "25",
+      "disease_name": "Glutaryl-CoA dehydrogenase deficiency",
+      "prevalence": 500.0,
+      "spanish_patients": 23500,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 3,
+      "metabolic_category": "common_rare",
+      "is_high_impact": true,
+      "outlier_type": "high",
+      "prevalence_deviation": 499.5,
+      "patients_deviation": 23476.0,
+      "outlier_reason": [
+        "prevalence",
+        "spanish_patients"
+      ]
+    },
+    {
+      "orpha_code": "35",
+      "disease_name": "Propionic acidemia",
+      "prevalence": 500.0,
+      "spanish_patients": 23500,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 3,
+      "metabolic_category": "common_rare",
+      "is_high_impact": true,
+      "outlier_type": "high",
+      "prevalence_deviation": 499.5,
+      "patients_deviation": 23476.0,
+      "outlier_reason": [
+        "prevalence",
+        "spanish_patients"
+      ]
+    },
+    {
+      "orpha_code": "103909",
+      "disease_name": "Trehalase deficiency",
+      "prevalence": 500.0,
+      "spanish_patients": 23500,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 3,
+      "metabolic_category": "common_rare",
+      "is_high_impact": true,
+      "outlier_type": "high",
+      "prevalence_deviation": 499.5,
+      "patients_deviation": 23476.0,
+      "outlier_reason": [
+        "prevalence",
+        "spanish_patients"
+      ]
+    },
+    {
+      "orpha_code": "550",
+      "disease_name": "MELAS",
+      "prevalence": 500.0,
+      "spanish_patients": 23500,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 3,
+      "metabolic_category": "common_rare",
+      "is_high_impact": true,
+      "outlier_type": "high",
+      "prevalence_deviation": 499.5,
+      "patients_deviation": 23476.0,
+      "outlier_reason": [
+        "prevalence",
+        "spanish_patients"
+      ]
+    },
+    {
+      "orpha_code": "158",
+      "disease_name": "Systemic primary carnitine deficiency",
+      "prevalence": 500.0,
+      "spanish_patients": 23500,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 3,
+      "metabolic_category": "common_rare",
+      "is_high_impact": true,
+      "outlier_type": "high",
+      "prevalence_deviation": 499.5,
+      "patients_deviation": 23476.0,
+      "outlier_reason": [
+        "prevalence",
+        "spanish_patients"
+      ]
+    },
+    {
+      "orpha_code": "99742",
+      "disease_name": "Amish lethal microcephaly",
+      "prevalence": 500.0,
+      "spanish_patients": 23500,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 3,
+      "metabolic_category": "common_rare",
+      "is_high_impact": true,
+      "outlier_type": "high",
+      "prevalence_deviation": 499.5,
+      "patients_deviation": 23476.0,
+      "outlier_reason": [
+        "prevalence",
+        "spanish_patients"
+      ]
+    },
+    {
+      "orpha_code": "602",
+      "disease_name": "GNE myopathy",
+      "prevalence": 418.42,
+      "spanish_patients": 19666,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 3,
+      "metabolic_category": "common_rare",
+      "is_high_impact": true,
+      "outlier_type": "high",
+      "prevalence_deviation": 417.92,
+      "patients_deviation": 19642.0,
+      "outlier_reason": [
+        "prevalence",
+        "spanish_patients"
+      ]
+    },
+    {
+      "orpha_code": "79432",
+      "disease_name": "Oculocutaneous albinism type 2",
+      "prevalence": 386.73,
+      "spanish_patients": 18176,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 3,
+      "metabolic_category": "common_rare",
+      "is_high_impact": true,
+      "outlier_type": "high",
+      "prevalence_deviation": 386.23,
+      "patients_deviation": 18152.0,
+      "outlier_reason": [
+        "prevalence",
+        "spanish_patients"
+      ]
+    },
+    {
+      "orpha_code": "98673",
+      "disease_name": "Autosomal dominant optic atrophy, classic form",
+      "prevalence": 313.89,
+      "spanish_patients": 14753,
+      "records_count": 1,
+      "reliability_score": 8.0,
+      "has_worldwide": true,
+      "validated_records": 1,
+      "regional_coverage": 3,
+      "metabolic_category": "common_rare",
+      "is_high_impact": true,
+      "outlier_type": "high",
+      "prevalence_deviation": 313.39,
+      "patients_deviation": 14729.0,
+      "outlier_reason": [
+        "prevalence",
+        "spanish_patients"
+      ]
+    }
+  ],
+  "statistical_improvement": {
+    "prevalence_mean_change": -9.426428388265396,
+    "prevalence_std_reduction": 45.64987460085669,
+    "prevalence_max_reduction": 361.40999999999997,
+    "patients_mean_change": -443.03384855445285,
+    "patients_std_reduction": 2145.573117740832,
+    "patients_max_reduction": 16986
+  }
+}

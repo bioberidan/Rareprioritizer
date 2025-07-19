@@ -1,0 +1,1433 @@
+{
+  "disease_name": "CK syndrome",
+  "orpha_code": "251383",
+  "trials": [
+    {
+      "nctId": "NCT02938520",
+      "briefTitle": "Study to Evaluate the Efficacy, Safety, and Tolerability of Long-acting Intramuscular Cabotegravir and Rilpivirine for Maintenance of Virologic Suppression Following Switch From an Integrase Inhibitor in HIV-1 Infected Therapy Naive Participants",
+      "officialTitle": "A Phase III, Randomized, Multicenter, Parallel-group, Open-Label Study Evaluating the Efficacy, Safety, and Tolerability of Long-Acting Intramuscular Cabotegravir and Rilpivirine for Maintenance of Virologic Suppression Following Switch From an Integrase Inhibitor Single Tablet Regimen in HIV-1 Infected Antiretroviral Therapy Naive Adult Participants",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "HIV Infections"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Cabotegravir (CAB) tablet"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rilpivirine (RPV) tablet"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cabotegravir - Injectable Suspension (CAB LA)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rilpivirine - Injectable Suspension (RPV LA)"
+        },
+        {
+          "type": "DRUG",
+          "name": "ABC/DTG/3TC STR - Tablet"
+        },
+        {
+          "type": "DRUG",
+          "name": "DTG Tablet"
+        }
+      ],
+      "enrollment": 631,
+      "locations": [
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Birmingham",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Bakersfield",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Long Beach",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "San Francisco",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Aurora",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Washington",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Fort Lauderdale",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Orlando",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Atlanta",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Augusta",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Macon",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Indianapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Minneapolis",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Omaha",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Camden",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Providence",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Austin",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Bellaire",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Fort Worth",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Longview",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Lynchburg",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Vancouver",
+          "country": "Canada"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Ottawa",
+          "country": "Canada"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Montreal",
+          "country": "Canada"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Bobigny cedex",
+          "country": "France"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Lyon",
+          "country": "France"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Marseille",
+          "country": "France"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Paris Cedex 20",
+          "country": "France"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Berlin",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Berlin",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Bonn",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Essen",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Frankfurt",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Frankfurt",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Hannover",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Muenchen",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Muenchen",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Brescia",
+          "country": "Italy"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Monza MB",
+          "country": "Italy"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Aichi",
+          "country": "Japan"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Osaka",
+          "country": "Japan"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Tokyo",
+          "country": "Japan"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Groningen",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Rotterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Utrecht",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Ekaterinburg",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Kazan",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Kemerovo",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Krasnodar",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Lipetsk",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Moscow",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Orel",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Saratov",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Smolensk",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "St Petersburg",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "St Petersburg",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "St Petersburg",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Toliyatti",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Bloemfontein",
+          "country": "South Africa"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Brandfort",
+          "country": "South Africa"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Cape Town",
+          "country": "South Africa"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Durban",
+          "country": "South Africa"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Durban",
+          "country": "South Africa"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Johannesburg",
+          "country": "South Africa"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Middelburg",
+          "country": "South Africa"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Pretoria",
+          "country": "South Africa"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Bilbao",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "El Ferrol",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Elche Alicante",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Granada",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "La CoruNa",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "La Laguna Santa Cruz",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Murcia",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Murcia",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Palma de Mallorca",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Palma de Mallorca",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "San SebastiAn De Los Rey",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Santa Cruz de Tenerife",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Santander",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Birmingham",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Coventry",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Leeds Yorkshire",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-03-21"
+    },
+    {
+      "nctId": "NCT05027984",
+      "briefTitle": "Interventional Strategy for Non-culprit Lesions With Major Vulnerability Criteria at OCT in Patients With ACS",
+      "officialTitle": "An Interventional Strategy for Non-culprit Lesions With Major Vulnerability Criteria Identified by Optical Coherence Tomography in Patients With Acute Coronary Syndrome (the INTER-CLIMA Trial)",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "conditions": [
+        "Coronary Artery Disease",
+        "Coronary Disease",
+        "Ischemic Heart Disease"
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "Optical coherence tomography"
+        },
+        {
+          "type": "DEVICE",
+          "name": "iFR/FFR/RFR"
+        }
+      ],
+      "enrollment": 1420,
+      "locations": [
+        {
+          "facility": "University Hospital of Patras",
+          "city": "Patras",
+          "country": "Greece"
+        },
+        {
+          "facility": "Ospedale C. e G. Mazzoni",
+          "city": "Ascoli Piceno",
+          "country": "Italy"
+        },
+        {
+          "facility": "Ente ecclesiastico Ospedale Regionale Generale \"F. Miulli\"",
+          "city": "Acquaviva Delle Fonti",
+          "country": "Italy"
+        },
+        {
+          "facility": "Policlinico University Hospital",
+          "city": "Bari",
+          "country": "Italy"
+        },
+        {
+          "facility": "Di Venere Hospital",
+          "city": "Bari",
+          "country": "Italy"
+        },
+        {
+          "facility": "ASST Papa Giovanni XXIII",
+          "city": "Bergamo",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera San Pio",
+          "city": "Benevento",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliero_Universitaria IRCCS Policlinico di St.Orsola",
+          "city": "Bologna",
+          "country": "Italy"
+        },
+        {
+          "facility": "ARNAS Brotzu",
+          "city": "Cagliari",
+          "country": "Italy"
+        },
+        {
+          "facility": "P.O. San Giuseppe Moscati",
+          "city": "Aversa",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera \"Policlinico \"G. Rodolico- San Marco\"",
+          "city": "Catania",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliera Per L'emergenza Cannizzaro",
+          "city": "Catania",
+          "country": "Italy"
+        },
+        {
+          "facility": "IRCCS Casa sollievo della sofferenza",
+          "city": "San Giovanni Rotondo",
+          "country": "Italy"
+        },
+        {
+          "facility": "IRCCS Ospedale Policlinico San Martino",
+          "city": "Genova",
+          "country": "Italy"
+        },
+        {
+          "facility": "Misericordia Hospital",
+          "city": "Grosseto",
+          "country": "Italy"
+        },
+        {
+          "facility": "Ospedale Vito Fazzi",
+          "city": "Lecce",
+          "country": "Italy"
+        },
+        {
+          "facility": "Ospedale Santa Maria Goretti, Latina",
+          "city": "Latina",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Ospedaliero Universitaria Policlinico \"G. Martino\", Messina",
+          "city": "Messina",
+          "country": "Italy"
+        },
+        {
+          "facility": "Centro Cardiologico Monzino IRCCS",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "IRCCS Galeazzi- Sant'Ambrogio",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "San Camillo Hospital",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+          "city": "Roma",
+          "country": "Italy"
+        },
+        {
+          "facility": "UOSA Cardiologia Interventistica",
+          "city": "Siena",
+          "country": "Italy"
+        },
+        {
+          "facility": "P.O. Umberto I",
+          "city": "Siracusa",
+          "country": "Italy"
+        },
+        {
+          "facility": "Struttura Complessa di Cardiologia Clinica e Interventistica",
+          "city": "Sassari",
+          "country": "Italy"
+        },
+        {
+          "facility": "Rivoli Hospital",
+          "city": "Rivoli",
+          "country": "Italy"
+        },
+        {
+          "facility": "Ospedale Conegliano",
+          "city": "Conegliano",
+          "country": "Italy"
+        },
+        {
+          "facility": "Azienda Sanitaria Universitaria Friuli Centrale - Udine University Hospital",
+          "city": "Udine",
+          "country": "Italy"
+        },
+        {
+          "facility": "Federico II di Napoli",
+          "city": "Napoli",
+          "country": "Italy"
+        },
+        {
+          "facility": "San Giovanni Hospital",
+          "city": "Rome",
+          "country": "Italy"
+        },
+        {
+          "facility": "Hospital Virgen de la Victoria",
+          "city": "Málaga",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital universitario La Princesa, Madrid",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario Central de Asturias",
+          "city": "Oviedo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Inselspital, Bern University Hospital",
+          "city": "Bern",
+          "country": "Switzerland"
+        }
+      ],
+      "lastUpdateDate": "2025-06-26"
+    },
+    {
+      "nctId": "NCT06684379",
+      "briefTitle": "Study on Safety and Efficacy of Two Doses of PRS CK STORM in the Prevention of COVID-19-Associated Cytokine Storm",
+      "officialTitle": "Double-blind, Randomized, Placebo-controlled, Pilot Study to Evaluate the Safety, Tolerability and Efficacy of Two Doses of a Conditioned Medium From a Co-culture of M2-macrophages and Mesenchymal Cells (PRS CK STORM) in the Prevention of COVID-19-associated Cytokine Storm (PRSMA)",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "SARS-CoV-2"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Placebo comparator"
+        },
+        {
+          "type": "DRUG",
+          "name": "PRS CK STORM"
+        },
+        {
+          "type": "DRUG",
+          "name": "PRS CK STORM"
+        }
+      ],
+      "enrollment": 50,
+      "locations": [
+        {
+          "facility": "Hospital Universitario de Fuenlabrada",
+          "city": "Fuenlabrada",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2024-11-14"
+    },
+    {
+      "nctId": "NCT02951052",
+      "briefTitle": "Study Evaluating the Efficacy, Safety, and Tolerability of Switching to Long-acting Cabotegravir Plus Long-acting Rilpivirine From Current Antiretroviral Regimen in Virologically Suppressed HIV-1-infected Adults",
+      "officialTitle": "A Phase III, Randomized, Multicenter, Parallel-group, Non-inferiority, Open-label Study Evaluating the Efficacy, Safety, and Tolerability of Switching to Long-acting Cabotegravir Plus Long-acting Rilpivirine From Current INI- NNRTI-, or PI-based Antiretroviral Regimen in HIV-1-infected Adults Who Are Virologically Suppressed",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "Infection, Human Immunodeficiency Virus",
+        "HIV Infections"
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Cabotegravir (CAB) tablet"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rilpivirine (RPV) tablet"
+        },
+        {
+          "type": "DRUG",
+          "name": "Cabotegravir - Injectable Suspension (CAB LA)"
+        },
+        {
+          "type": "DRUG",
+          "name": "Rilpivirine - Injectable Suspension (RPV LA)"
+        },
+        {
+          "type": "DRUG",
+          "name": "2 NRTIs plus an INI, NNRTI, or PI"
+        }
+      ],
+      "enrollment": 618,
+      "locations": [
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Birmingham",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Phoenix",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Bakersfield",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Long Beach",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Palm Springs",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "San Francisco",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "San Francisco",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Denver",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Washington",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Washington",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Washington",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Fort Lauderdale",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Fort Pierce",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Sarasota",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Vero Beach",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Macon",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Detroit",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Saint Louis",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Omaha",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Buffalo",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Chapel Hill",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Charlotte",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Cincinnati",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Allentown",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Pittsburgh",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Austin",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Houston",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Annandale",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Lynchburg",
+          "country": "United States"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Ciudad Autonoma De Bueno",
+          "country": "Argentina"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Rosario",
+          "country": "Argentina"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Darlinghurst",
+          "country": "Australia"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Sydney",
+          "country": "Australia"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Prahran",
+          "country": "Australia"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Ottawa",
+          "country": "Canada"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Montreal",
+          "country": "Canada"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Montreal",
+          "country": "Canada"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Quebec City",
+          "country": "Canada"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Regina",
+          "country": "Canada"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Montpellier",
+          "country": "France"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Saint-Denis Cedex",
+          "country": "France"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Toulouse cedex 9",
+          "country": "France"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Tourcoing Cedex",
+          "country": "France"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Berlin",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Berlin",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Bonn",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Essen",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Frankfurt",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Frankfurt",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Hamburg",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Hannover",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Muenchen",
+          "country": "Germany"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Brescia",
+          "country": "Italy"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Milano",
+          "country": "Italy"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Daegu",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Daejeon",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Pusan",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Seoul",
+          "country": "Korea, Republic of"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Guadalajara",
+          "country": "Mexico"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Ekaterinburg",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Kazan",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Kemerovo",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Krasnodar",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Lipetsk",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Moscow",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Orel",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Saratov",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Smolensk",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "St Petersburg",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "St Petersburg",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "St Petersburg",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Toliyatti",
+          "country": "Russian Federation"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Bloemfontein",
+          "country": "South Africa"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Brandfort",
+          "country": "South Africa"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Cape Town",
+          "country": "South Africa"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Durban",
+          "country": "South Africa"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Durban",
+          "country": "South Africa"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Johannesburg",
+          "country": "South Africa"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Middelburg",
+          "country": "South Africa"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Pretorai",
+          "country": "South Africa"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Badalona",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Cordoba",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Elche Alicante",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Malaga",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Santiago de Compostela",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Sevilla",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Valencia",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Vigo Pontevedra",
+          "country": "Spain"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Goteborg",
+          "country": "Sweden"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Stockholm",
+          "country": "Sweden"
+        },
+        {
+          "facility": "GSK Investigational Site",
+          "city": "Stockholm",
+          "country": "Sweden"
+        }
+      ],
+      "lastUpdateDate": "2025-01-22"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:12:14.828829",
+  "run_number": 2,
+  "total_trials_found": 4
+}

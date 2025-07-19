@@ -1,0 +1,291 @@
+{
+  "report_metadata": {
+    "generated_at": "2025-07-10T05:07:11.674845",
+    "analyzer_version": "1.0.0",
+    "data_sources": {
+      "metabolic_diseases_file": "data\\04_curated\\orpha\\ordo\\metabolic_disease_instances.json",
+      "prevalence_file": "data\\04_curated\\orpha\\orphadata\\metabolic_diseases2prevalence_per_million.json",
+      "spanish_patients_file": "data\\04_curated\\orpha\\orphadata\\metabolic_diseases2spanish_patient_number.json"
+    },
+    "analysis_scope": "Metabolic diseases prevalence and Spanish patient estimates"
+  },
+  "executive_summary": {
+    "key_findings": [
+      "Coverage: 92.18% of metabolic diseases have prevalence data",
+      "Total Spanish patients: 489818 across all metabolic diseases",
+      "Disease distribution: 75.7% ultra-rare, 9.6% common rare",
+      "High-impact diseases: 10 diseases with ≥1000 Spanish patients"
+    ],
+    "data_quality": "Good coverage - reliable for most analyses",
+    "healthcare_impact": {
+      "total_patient_burden": 489818,
+      "coverage_adequacy": true,
+      "analysis_reliability": "High"
+    }
+  },
+  "coverage_analysis": {
+    "total_metabolic_diseases": 665,
+    "diseases_with_prevalence": 613,
+    "coverage_percentage": 92.18,
+    "missing_prevalence_data": {
+      "count": 52,
+      "percentage": 7.82,
+      "sample_diseases": [
+        "Congenital muscular dystrophy with cerebellar involvement",
+        "GM3 synthase deficiency",
+        "Autosomal recessive cutis laxa type 2A",
+        "CLN2 disease",
+        "CLN3 disease",
+        "CLN4 disease",
+        "CLN11 disease",
+        "CLN5 disease",
+        "CLN6 disease",
+        "CLN7 disease"
+      ]
+    },
+    "data_completeness": {
+      "excellent": false,
+      "good": true,
+      "fair": false,
+      "poor": false,
+      "assessment": "Good coverage - reliable for most analyses"
+    }
+  },
+  "prevalence_distribution": {
+    "basic_statistics": {
+      "count": 613,
+      "mean": 16.99,
+      "median": 0.5,
+      "mode": 0.5,
+      "std_dev": 65.16,
+      "min": 0.0,
+      "max": 500.0
+    },
+    "percentiles": {
+      "p25": 0.5,
+      "p50": 0.5,
+      "p75": 0.5,
+      "p90": 43.0,
+      "p95": 50.24,
+      "p99": 500.0
+    },
+    "prevalence_categories": {
+      "counts": {
+        "ultra_rare": 464,
+        "very_rare": 46,
+        "rare": 44,
+        "common_rare": 59,
+        "zero_prevalence": 80
+      },
+      "percentages": {
+        "ultra_rare": 75.7,
+        "very_rare": 7.5,
+        "rare": 7.2,
+        "common_rare": 9.6,
+        "zero_prevalence": 13.1
+      }
+    },
+    "distribution_shape": {
+      "highly_skewed": true,
+      "skewness_direction": "right"
+    }
+  },
+  "spanish_patients_analysis": {
+    "basic_statistics": {
+      "total_patients": 489818,
+      "diseases_count": 613,
+      "mean_per_disease": 799.1,
+      "median_per_disease": 24,
+      "std_dev": 3062.3,
+      "min_patients": 0,
+      "max_patients": 23500
+    },
+    "burden_categories": {
+      "counts": {
+        "no_patients": 80,
+        "very_low": 384,
+        "low": 47,
+        "moderate": 40,
+        "high": 62
+      },
+      "percentages": {
+        "no_patients": 13.1,
+        "very_low": 62.6,
+        "low": 7.7,
+        "moderate": 6.5,
+        "high": 10.1
+      }
+    },
+    "top_diseases_by_patients": [
+      {
+        "disease_name": "Multiple osteochondromas",
+        "orpha_code": "321",
+        "spanish_patients": 23500,
+        "prevalence_per_million": 500.0
+      },
+      {
+        "disease_name": "Glutaryl-CoA dehydrogenase deficiency",
+        "orpha_code": "25",
+        "spanish_patients": 23500,
+        "prevalence_per_million": 500.0
+      },
+      {
+        "disease_name": "Propionic acidemia",
+        "orpha_code": "35",
+        "spanish_patients": 23500,
+        "prevalence_per_million": 500.0
+      },
+      {
+        "disease_name": "Trehalase deficiency",
+        "orpha_code": "103909",
+        "spanish_patients": 23500,
+        "prevalence_per_million": 500.0
+      },
+      {
+        "disease_name": "MELAS",
+        "orpha_code": "550",
+        "spanish_patients": 23500,
+        "prevalence_per_million": 500.0
+      },
+      {
+        "disease_name": "Systemic primary carnitine deficiency",
+        "orpha_code": "158",
+        "spanish_patients": 23500,
+        "prevalence_per_million": 500.0
+      },
+      {
+        "disease_name": "Amish lethal microcephaly",
+        "orpha_code": "99742",
+        "spanish_patients": 23500,
+        "prevalence_per_million": 500.0
+      },
+      {
+        "disease_name": "GNE myopathy",
+        "orpha_code": "602",
+        "spanish_patients": 19666,
+        "prevalence_per_million": 418.42
+      },
+      {
+        "disease_name": "Oculocutaneous albinism type 2",
+        "orpha_code": "79432",
+        "spanish_patients": 18176,
+        "prevalence_per_million": 386.73
+      },
+      {
+        "disease_name": "Autosomal dominant optic atrophy, classic form",
+        "orpha_code": "98673",
+        "spanish_patients": 14753,
+        "prevalence_per_million": 313.89
+      },
+      {
+        "disease_name": "Maternal phenylketonuria",
+        "orpha_code": "2209",
+        "spanish_patients": 14100,
+        "prevalence_per_million": 300.0
+      },
+      {
+        "disease_name": "Oculocutaneous albinism type 3",
+        "orpha_code": "79433",
+        "spanish_patients": 14100,
+        "prevalence_per_million": 300.0
+      },
+      {
+        "disease_name": "Congenital sucrase-isomaltase deficiency",
+        "orpha_code": "35122",
+        "spanish_patients": 14100,
+        "prevalence_per_million": 300.0
+      },
+      {
+        "disease_name": "Dysbetalipoproteinemia",
+        "orpha_code": "412",
+        "spanish_patients": 9903,
+        "prevalence_per_million": 210.71
+      },
+      {
+        "disease_name": "Cystinuria",
+        "orpha_code": "214",
+        "spanish_patients": 7622,
+        "prevalence_per_million": 162.17
+      }
+    ],
+    "healthcare_planning": {
+      "total_metabolic_patients_spain": 489818,
+      "high_burden_diseases": 62,
+      "resource_concentration": "117500 patients in top 5 diseases"
+    }
+  },
+  "comparative_analysis": {
+    "ultra_rare_vs_common_rare": {
+      "ultra_rare_diseases": 464,
+      "ultra_rare_total_patients": 9216,
+      "common_rare_diseases": 59,
+      "common_rare_total_patients": 414054,
+      "patient_distribution": "414054/423270 patients in common rare diseases"
+    },
+    "zero_prevalence_analysis": {
+      "count": 80,
+      "percentage": 13.1,
+      "interpretation": "Diseases with zero prevalence may indicate data limitations or extremely rare conditions"
+    },
+    "high_impact_diseases": {
+      "count": 89,
+      "total_patients": 459713,
+      "diseases": [
+        {
+          "name": "Multiple osteochondromas",
+          "orpha_code": "321",
+          "spanish_patients": 23500
+        },
+        {
+          "name": "Glutaryl-CoA dehydrogenase deficiency",
+          "orpha_code": "25",
+          "spanish_patients": 23500
+        },
+        {
+          "name": "Propionic acidemia",
+          "orpha_code": "35",
+          "spanish_patients": 23500
+        },
+        {
+          "name": "Trehalase deficiency",
+          "orpha_code": "103909",
+          "spanish_patients": 23500
+        },
+        {
+          "name": "MELAS",
+          "orpha_code": "550",
+          "spanish_patients": 23500
+        },
+        {
+          "name": "Systemic primary carnitine deficiency",
+          "orpha_code": "158",
+          "spanish_patients": 23500
+        },
+        {
+          "name": "Amish lethal microcephaly",
+          "orpha_code": "99742",
+          "spanish_patients": 23500
+        },
+        {
+          "name": "GNE myopathy",
+          "orpha_code": "602",
+          "spanish_patients": 19666
+        },
+        {
+          "name": "Oculocutaneous albinism type 2",
+          "orpha_code": "79432",
+          "spanish_patients": 18176
+        },
+        {
+          "name": "Autosomal dominant optic atrophy, classic form",
+          "orpha_code": "98673",
+          "spanish_patients": 14753
+        }
+      ]
+    },
+    "prevalence_patient_correlation": {
+      "interpretation": "Higher prevalence diseases generally have more Spanish patients",
+      "exceptions": []
+    }
+  }
+}

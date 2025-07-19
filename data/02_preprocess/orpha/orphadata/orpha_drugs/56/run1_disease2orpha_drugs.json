@@ -1,0 +1,78 @@
+{
+  "disease_name": "Alkaptonuria",
+  "orpha_code": "56",
+  "drugs": [
+    {
+      "name": "NITYR",
+      "substance_url": "/en/drug/trade_name/527350?name=56&mode=orpha&region=&status=all",
+      "substance_id": "527350",
+      "regulatory_url": "/en/drug/regulatory/644947?name=56&mode=orpha&region=",
+      "regulatory_id": "644947",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "ORFADIN",
+      "substance_url": "/en/drug/trade_name/56898?name=56&mode=orpha&region=&status=all",
+      "substance_id": "56898",
+      "regulatory_url": "/en/drug/regulatory/647330?name=56&mode=orpha&region=",
+      "regulatory_id": "647330",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Methotrexate",
+      "substance_url": "/en/drug/substance/25029?name=56&mode=orpha&region=&status=all",
+      "substance_id": "25029",
+      "regulatory_url": "/en/drug/regulatory/480856?name=56&mode=orpha&region=",
+      "regulatory_id": "480856",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Nitisinone",
+      "substance_url": "/en/drug/substance/56899?name=56&mode=orpha&region=&status=all",
+      "substance_id": "56899",
+      "regulatory_url": "/en/drug/regulatory/133777?name=56&mode=orpha&region=",
+      "regulatory_id": "133777",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "HARLIKU",
+      "substance_url": "/en/drug/trade_name/708571?name=56&mode=orpha&region=&status=all",
+      "substance_id": "708571",
+      "regulatory_url": "/en/drug/regulatory/708572?name=56&mode=orpha&region=",
+      "regulatory_id": "708572",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:39:51.890022",
+  "run_number": 1,
+  "total_drugs_found": 5,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Alkaptonuria&orphaCode=56&name=56&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Alkaptonuria",
+    "orphaCode": "56",
+    "name": "56",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

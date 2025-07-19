@@ -1,0 +1,598 @@
+{
+  "disease_name": "Progressive familial intrahepatic cholestasis",
+  "orpha_code": "172",
+  "drugs": [
+    {
+      "name": "Livmarli",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/684334?name=172&mode=orpha&region=",
+      "regulatory_id": "684334",
+      "orpha_substance_code": "ORPHA:172",
+      "details": [
+        "Livmarli(Tradename                        - 28/06/2024)Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "Livmarli(Tradename                        - 28/06/2024)",
+        "(Tradename                        - 28/06/2024)",
+        "Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/616473?name=172&mode=orpha&region=&status=all",
+          "text": "Livmarli",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/172",
+          "text": "ORPHA:172 Progressive familial intrahepatic cholestasis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/684334?name=172&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Bylvay",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/610543?name=172&mode=orpha&region=",
+      "regulatory_id": "610543",
+      "orpha_substance_code": "ORPHA:172",
+      "details": [
+        "Bylvay(Tradename                        - 16/07/2021)Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "Bylvay(Tradename                        - 16/07/2021)",
+        "(Tradename                        - 16/07/2021)",
+        "Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/605017?name=172&mode=orpha&region=&status=all",
+          "text": "Bylvay",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/172",
+          "text": "ORPHA:172 Progressive familial intrahepatic cholestasis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/610543?name=172&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated viral vector serotype 3B encoding human multidrug resistance protein 3A",
+      "substance_url": "/en/drug/substance/589045?name=172&mode=orpha&region=&status=all",
+      "substance_id": "589045",
+      "regulatory_url": "/en/drug/regulatory/589046?name=172&mode=orpha&region=",
+      "regulatory_id": "589046",
+      "orpha_substance_code": "ORPHA:172",
+      "details": [
+        "Adeno-associated viral vector serotype 3B encoding human multidrug resistance protein 3A(Medicinal product                        - 22/04/2020)Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "Adeno-associated viral vector serotype 3B encoding human multidrug resistance protein 3A(Medicinal product                        - 22/04/2020)",
+        "(Medicinal product                        - 22/04/2020)",
+        "Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/589045?name=172&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector serotype 3B encoding human multidrug resistance protein 3A",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/172",
+          "text": "ORPHA:172 Progressive familial intrahepatic cholestasis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/589046?name=172&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Maralixibat chloride",
+      "substance_url": "/en/drug/substance/367965?name=172&mode=orpha&region=&status=all",
+      "substance_id": "367965",
+      "regulatory_url": "/en/drug/regulatory/377092?name=172&mode=orpha&region=",
+      "regulatory_id": "377092",
+      "orpha_substance_code": "ORPHA:172",
+      "details": [
+        "Maralixibat chloride(Medicinal product                        - 18/12/2013)Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "Maralixibat chloride(Medicinal product                        - 18/12/2013)",
+        "(Medicinal product                        - 18/12/2013)",
+        "Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/367965?name=172&mode=orpha&region=&status=all",
+          "text": "Maralixibat chloride",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/172",
+          "text": "ORPHA:172 Progressive familial intrahepatic cholestasis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/377092?name=172&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "(2S)-2-{[(2R)-2-[({[3,3-dibutyl-7-(methylthio)-1,1-dioxido-5-phenyl-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepin-8-yl]oxy}acetyl)amino]-2-(4-hydroxyphenyl)acetyl]amino}butanoic acid",
+      "substance_url": "/en/drug/substance/300656?name=172&mode=orpha&region=&status=all",
+      "substance_id": "300656",
+      "regulatory_url": "/en/drug/regulatory/326933?name=172&mode=orpha&region=",
+      "regulatory_id": "326933",
+      "orpha_substance_code": "ORPHA:172",
+      "details": [
+        "(2S)-2-{[(2R)-2-[({[3,3-dibutyl-7-(methylthio)-1,1-dioxido-5-phenyl-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepin-8-yl]oxy}acetyl)amino]-2-(4-hydroxyphenyl)acetyl]amino}butanoic acid(Medicinal product                        - 17/07/2012)Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "(2S)-2-{[(2R)-2-[({[3,3-dibutyl-7-(methylthio)-1,1-dioxido-5-phenyl-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepin-8-yl]oxy}acetyl)amino]-2-(4-hydroxyphenyl)acetyl]amino}butanoic acid(Medicinal product                        - 17/07/2012)",
+        "(Medicinal product                        - 17/07/2012)",
+        "Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/300656?name=172&mode=orpha&region=&status=all",
+          "text": "(2S)-2-{[(2R)-2-[({[3,3-dibutyl-7-(methylthio)-1,1-dioxido-5-phenyl-2,3,4,5-tetrahydro-1,2,5-benzothiadiazepin-8-yl]oxy}acetyl)amino]-2-(4-hydroxyphenyl)acetyl]amino}butanoic acid",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/172",
+          "text": "ORPHA:172 Progressive familial intrahepatic cholestasis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/326933?name=172&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Livmarli",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/686779?name=172&mode=orpha&region=",
+      "regulatory_id": "686779",
+      "orpha_substance_code": "ORPHA:172",
+      "details": [
+        "Livmarli(Tradename                        - 24/07/2024)Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "Livmarli(Tradename                        - 24/07/2024)",
+        "(Tradename                        - 24/07/2024)",
+        "Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/616473?name=172&mode=orpha&region=&status=all",
+          "text": "Livmarli",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/172",
+          "text": "ORPHA:172 Progressive familial intrahepatic cholestasis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/686779?name=172&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Livmarli",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/665132?name=172&mode=orpha&region=",
+      "regulatory_id": "665132",
+      "orpha_substance_code": "ORPHA:172",
+      "details": [
+        "Livmarli(Tradename                        - 13/03/2024)Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "Livmarli(Tradename                        - 13/03/2024)",
+        "(Tradename                        - 13/03/2024)",
+        "Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/616473?name=172&mode=orpha&region=&status=all",
+          "text": "Livmarli",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/172",
+          "text": "ORPHA:172 Progressive familial intrahepatic cholestasis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/665132?name=172&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Bylvay",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/622270?name=172&mode=orpha&region=",
+      "regulatory_id": "622270",
+      "orpha_substance_code": "ORPHA:172",
+      "details": [
+        "Bylvay(Tradename                        - 20/07/2021)Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "Bylvay(Tradename                        - 20/07/2021)",
+        "(Tradename                        - 20/07/2021)",
+        "Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/605017?name=172&mode=orpha&region=&status=all",
+          "text": "Bylvay",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/172",
+          "text": "ORPHA:172 Progressive familial intrahepatic cholestasis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/622270?name=172&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Modified human ATP binding cassette subfamily B member 4 (ABCB4) mRNA encoding multidrug resistance protein 3 (MDR3)",
+      "substance_url": "/en/drug/substance/691421?name=172&mode=orpha&region=&status=all",
+      "substance_id": "691421",
+      "regulatory_url": "/en/drug/regulatory/691575?name=172&mode=orpha&region=",
+      "regulatory_id": "691575",
+      "orpha_substance_code": "ORPHA:172",
+      "details": [
+        "Modified human ATP binding cassette subfamily B member 4 (ABCB4) mRNA encoding multidrug resistance protein 3 (MDR3)(Medicinal product                        - 18/11/2024)Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "Modified human ATP binding cassette subfamily B member 4 (ABCB4) mRNA encoding multidrug resistance protein 3 (MDR3)(Medicinal product                        - 18/11/2024)",
+        "(Medicinal product                        - 18/11/2024)",
+        "Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/691421?name=172&mode=orpha&region=&status=all",
+          "text": "Modified human ATP binding cassette subfamily B member 4 (ABCB4) mRNA encoding multidrug resistance protein 3 (MDR3)",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/172",
+          "text": "ORPHA:172 Progressive familial intrahepatic cholestasis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/691575?name=172&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Modified human ATP binding cassette subfamily B member 11 (ABCB11) messenger RNA encoding bile salts export pump",
+      "substance_url": "/en/drug/substance/687204?name=172&mode=orpha&region=&status=all",
+      "substance_id": "687204",
+      "regulatory_url": "/en/drug/regulatory/687534?name=172&mode=orpha&region=",
+      "regulatory_id": "687534",
+      "orpha_substance_code": "ORPHA:172",
+      "details": [
+        "Modified human ATP binding cassette subfamily B member 11 (ABCB11) messenger RNA encoding bile salts export pump(Medicinal product                        - 29/07/2024)Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "Modified human ATP binding cassette subfamily B member 11 (ABCB11) messenger RNA encoding bile salts export pump(Medicinal product                        - 29/07/2024)",
+        "(Medicinal product                        - 29/07/2024)",
+        "Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/687204?name=172&mode=orpha&region=&status=all",
+          "text": "Modified human ATP binding cassette subfamily B member 11 (ABCB11) messenger RNA encoding bile salts export pump",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/172",
+          "text": "ORPHA:172 Progressive familial intrahepatic cholestasis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/687534?name=172&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Maralixibat chloride",
+      "substance_url": "/en/drug/substance/367965?name=172&mode=orpha&region=&status=all",
+      "substance_id": "367965",
+      "regulatory_url": "/en/drug/regulatory/400412?name=172&mode=orpha&region=",
+      "regulatory_id": "400412",
+      "orpha_substance_code": "ORPHA:172",
+      "details": [
+        "Maralixibat chloride(Medicinal product                        - 04/09/2013)Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "Maralixibat chloride(Medicinal product                        - 04/09/2013)",
+        "(Medicinal product                        - 04/09/2013)",
+        "Disease(s) concernedORPHA:172 Progressive familial intrahepatic cholestasis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/367965?name=172&mode=orpha&region=&status=all",
+          "text": "Maralixibat chloride",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/172",
+          "text": "ORPHA:172 Progressive familial intrahepatic cholestasis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/400412?name=172&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "VEDROP",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/213892?name=172&mode=orpha&region=",
+      "regulatory_id": "213892",
+      "orpha_substance_code": "ORPHA:284385",
+      "details": [
+        "VEDROP(Tradename                        - 24/07/2009)Disease(s) concernedORPHA:52 Alagille syndromeORPHA:284385 Familial intrahepatic cholestasis",
+        "VEDROP(Tradename                        - 24/07/2009)",
+        "(Tradename                        - 24/07/2009)",
+        "Disease(s) concernedORPHA:52 Alagille syndromeORPHA:284385 Familial intrahepatic cholestasis",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/211746?name=172&mode=orpha&region=&status=all",
+          "text": "VEDROP",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/52",
+          "text": "ORPHA:52 Alagille syndrome",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/284385",
+          "text": "ORPHA:284385 Familial intrahepatic cholestasis",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/213892?name=172&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": "ORPHA:284385 Familial intrahepatic cholestasis\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=172&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=172&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Burixafor(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Burixafor(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689505?name=172&mode=orpha&region=&status=all",
+          "text": "Burixafor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689915?name=172&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=172&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=172&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Treosulfan(Medicinal product                        - 08/04/2015)Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Treosulfan(Medicinal product                        - 08/04/2015)",
+        "(Medicinal product                        - 08/04/2015)",
+        "Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90799?name=172&mode=orpha&region=&status=all",
+          "text": "Treosulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/213500",
+          "text": "ORPHA:213500 Rare ovarian cancer",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136690?name=172&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=172&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=172&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "busulfan(Medicinal product                        - 21/04/1994)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "busulfan(Medicinal product                        - 21/04/1994)",
+        "(Medicinal product                        - 21/04/1994)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/46335?name=172&mode=orpha&region=&status=all",
+          "text": "busulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131973?name=172&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:04:38.640690",
+  "run_number": 1,
+  "total_drugs_found": 15,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Progressive+familial+intrahepatic+cholestasis&orphaCode=172&name=172&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Progressive familial intrahepatic cholestasis",
+    "orphaCode": "172",
+    "name": "172",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "disease_name": "Progressive myoclonic epilepsy type 3",
+  "orpha_code": "263516",
+  "processing_timestamp": "2025-07-16T08:16:23.780183",
+  "run_number": 1,
+  "analysis_type": "socioeconomic",
+  "processing_duration": 38.4,
+  "success": true,
+  "error_details": null,
+  "socioeconomic_analysis": {
+    "orphacode": "263516",
+    "disease_name": "Progressive myoclonic epilepsy type 3",
+    "socioeconomic_impact_studies": [],
+    "score": 0,
+    "evidence_level": "Low evidence",
+    "justification": "No disease-specific cost-of-illness or economic burden studies were identified for Progressive myoclonic epilepsy type 3 (ORPHA:263516) despite targeted searches of PubMed, Europe PMC, Google Scholar, and review of the Orphanet disease page citeturn1search0."
+  }
+}

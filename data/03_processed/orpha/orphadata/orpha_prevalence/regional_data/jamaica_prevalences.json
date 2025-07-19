@@ -1,0 +1,50 @@
+[
+  {
+    "prevalence_id": "825",
+    "orpha_code": "116",
+    "disease_name": "Beckwith-Wiedemann syndrome",
+    "source": "5434588[PMID]",
+    "prevalence_type": "Prevalence at birth",
+    "prevalence_class": "1-9 / 100 000",
+    "qualification": "Value and class",
+    "geographic_area": "Jamaica",
+    "validation_status": "Validated",
+    "reliability_score": 9.8,
+    "is_fiable": true,
+    "per_million_estimate": 50.0,
+    "confidence_level": "high",
+    "estimate_source": "class_midpoint"
+  },
+  {
+    "prevalence_id": "14094",
+    "orpha_code": "98879",
+    "disease_name": "Hemophilia B",
+    "source": "21649801[PMID]",
+    "prevalence_type": "Point prevalence",
+    "prevalence_class": "1-9 / 1 000 000",
+    "qualification": "Value and class",
+    "geographic_area": "Jamaica",
+    "validation_status": "Validated",
+    "reliability_score": 10.0,
+    "is_fiable": true,
+    "per_million_estimate": 5.0,
+    "confidence_level": "high",
+    "estimate_source": "class_midpoint"
+  },
+  {
+    "prevalence_id": "7631",
+    "orpha_code": "98878",
+    "disease_name": "Hemophilia A",
+    "source": "19845775[PMID]",
+    "prevalence_type": "Point prevalence",
+    "prevalence_class": "1-9 / 100 000",
+    "qualification": "Value and class",
+    "geographic_area": "Jamaica",
+    "validation_status": "Validated",
+    "reliability_score": 10.0,
+    "is_fiable": true,
+    "per_million_estimate": 50.0,
+    "confidence_level": "high",
+    "estimate_source": "class_midpoint"
+  }
+]

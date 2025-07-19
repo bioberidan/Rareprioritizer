@@ -1,0 +1,34 @@
+{
+  "total_disorders": 4078,
+  "disorders_with_genes": 4078,
+  "total_gene_associations": 8300,
+  "unique_genes": 4521,
+  "association_types": {
+    "Disease-causing germline mutation(s) in": 5235,
+    "Candidate gene tested in": 315,
+    "Disease-causing germline mutation(s) (loss of function) in": 1223,
+    "Disease-causing somatic mutation(s) in": 222,
+    "Major susceptibility factor in": 454,
+    "Modifying germline mutation in": 59,
+    "Disease-causing germline mutation(s) (gain of function) in": 219,
+    "Role in the phenotype of": 269,
+    "Part of a fusion gene in": 254,
+    "Biomarker tested in": 50
+  },
+  "gene_types": {
+    "gene with protein product": 8176,
+    "Non-coding RNA": 88,
+    "Disorder-associated locus": 36
+  },
+  "external_reference_coverage": {
+    "ClinVar": 7657,
+    "Ensembl": 8240,
+    "Genatlas": 7657,
+    "HGNC": 8298,
+    "OMIM": 8247,
+    "Reactome": 6620,
+    "SwissProt": 8171,
+    "IUPHAR": 2158
+  },
+  "processing_timestamp": "2025-07-13T07:10:01.143432"
+}

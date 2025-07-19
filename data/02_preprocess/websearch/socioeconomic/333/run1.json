@@ -1,0 +1,30 @@
+{
+  "orphacode": "333",
+  "disease_name": "Farber disease",
+  "socioeconomic_impact_studies": [
+    {
+      "cost": 0,
+      "measure": "Qualitative clinical burden and severity",
+      "label": "Acid ceramidase deficiency: Farber disease and SMA-PME",
+      "source": "https://ojrd.biomedcentral.com/articles/10.1186/s13023-018-0845-z",
+      "country": "International",
+      "year": "2018"
+    },
+    {
+      "cost": 0,
+      "measure": "Qualitative disease overview and symptom impact",
+      "label": "ASAH1-Related Disorders - Symptoms, Causes, Treatment",
+      "source": "https://rarediseases.org/rare-diseases/farbers-disease/",
+      "country": "USA",
+      "year": "2025"
+    }
+  ],
+  "score": 3,
+  "evidence_level": "Low evidence",
+  "justification": "No quantitative cost-of-illness studies were identified for Farber disease; the available evidence is limited to qualitative descriptions of severe clinical burden from peer-reviewed and patient-organisation sources.",
+  "metadata": {
+    "processing_timestamp": "2025-07-18T19:21:15.050718",
+    "run_number": 1,
+    "orphacode": "333"
+  }
+}

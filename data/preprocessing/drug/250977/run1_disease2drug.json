@@ -1,0 +1,17 @@
+{
+  "disease_name": "AICA-ribosiduria",
+  "orpha_code": "250977",
+  "drugs": [],
+  "processing_timestamp": "2025-07-17T19:22:03.235098",
+  "run_number": 1,
+  "total_drugs_found": 0,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=AICA-ribosiduria&orphaCode=250977&name=250977&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "AICA-ribosiduria",
+    "orphaCode": "250977",
+    "name": "250977",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

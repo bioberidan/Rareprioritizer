@@ -1,0 +1,271 @@
+{
+  "disease_name": "Ornithine transcarbamylase deficiency",
+  "orpha_code": "664",
+  "trials": [
+    {
+      "nctId": "NCT06255782",
+      "briefTitle": "An Open-label Study to Investigate ECUR-506 in Male Babies Less Than 9 Months of Age With Neonatal Onset OTC Deficiency",
+      "officialTitle": "A Phase 1/2/3 First-in-Human, Open-Label, Dose-Escalation Study to Evaluate the Safety and Efficacy of a Single Intravenous (IV) Administration of ECUR-506 in Males Less Than 9 Months of Age With Genetically Confirmed Neonatal Onset Ornithine Transcarbamylase (OTC) Deficiency",
+      "overallStatus": "RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "conditions": [
+        "Ornithine Transcarbamylase Deficiency",
+        "Ornithine Transcarbamylase Deficiency Disease",
+        "Ornithine Carbamoyltransferase Deficiency (Disorder)",
+        "Urea Cycle Disorders, Inborn"
+      ],
+      "interventions": [
+        {
+          "type": "GENETIC",
+          "name": "ECUR-506"
+        }
+      ],
+      "enrollment": 8,
+      "locations": [
+        {
+          "facility": "UCLA Mattel Children's Hospital",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "Children's Hospital of Colorado, Anshutz Medical Campus",
+          "city": "Aurora",
+          "country": "United States"
+        },
+        {
+          "facility": "Icahn School of Medicine at Mount Sinai",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "The Children's Hospital at Westmead",
+          "city": "Sydney",
+          "country": "Australia"
+        },
+        {
+          "facility": "The Royal Children's Hospital",
+          "city": "Melbourne",
+          "country": "Australia"
+        },
+        {
+          "facility": "Hopsital Sant Joan de Deu",
+          "city": "Barcelona",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario 12 de Octubre",
+          "city": "Madrid",
+          "country": "Spain"
+        },
+        {
+          "facility": "Great Ormond Street Hospital",
+          "city": "London",
+          "country": "United Kingdom"
+        },
+        {
+          "facility": "The Newcastle upon Tyne Hospitals NHS Foundation Trust- Great North Children's Hospital",
+          "city": "Newcastle Upon Tyne",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-06-15"
+    },
+    {
+      "nctId": "NCT03636438",
+      "briefTitle": "Long Term Follow Up to Evaluate DTX301 in Adults With Late-Onset OTC Deficiency",
+      "officialTitle": "A Long-Term Follow-up Study to Evaluate Safety and Efficacy of Adeno-Associated Virus (AAV) Serotype 8 (AAV8)-Mediated Gene Transfer of Human Ornithine Transcarbamylase (OTC) in Adults With Late-Onset OTC Deficiency",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "OBSERVATIONAL",
+      "phases": [],
+      "conditions": [
+        "Ornithine Transcarbamylase (OTC) Deficiency"
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "No Intervention"
+        }
+      ],
+      "enrollment": 11,
+      "locations": [
+        {
+          "facility": "The Children's Hospital Colorado",
+          "city": "Aurora",
+          "country": "United States"
+        },
+        {
+          "facility": "Boston Children's Hospital",
+          "city": "Boston",
+          "country": "United States"
+        },
+        {
+          "facility": "Icahn School of Medicine",
+          "city": "New York",
+          "country": "United States"
+        },
+        {
+          "facility": "University Hospital Cleveland Medical Center/Case Western Reserve University",
+          "city": "Cleveland",
+          "country": "United States"
+        },
+        {
+          "facility": "Alberta Children's Hospital",
+          "city": "Calgary",
+          "country": "Canada"
+        },
+        {
+          "facility": "Hopital Femme Mere Enfant",
+          "city": "Bron",
+          "country": "France"
+        },
+        {
+          "facility": "Hospital Clinico Universitario de Santiago",
+          "city": "Santiago De Compostela",
+          "country": "Spain"
+        },
+        {
+          "facility": "Hospital Universitario de Cruces. Servicio de Pediatria",
+          "city": "Barakaldo",
+          "country": "Spain"
+        },
+        {
+          "facility": "Queen Elizabeth Hospital, Department of Endocrinology",
+          "city": "Birmingham",
+          "country": "United Kingdom"
+        }
+      ],
+      "lastUpdateDate": "2025-05-02"
+    },
+    {
+      "nctId": "NCT05345171",
+      "briefTitle": "Clinical Study of DTX301 AAV-Mediated Gene Transfer for Ornithine Transcarbamylase (OTC) Deficiency",
+      "officialTitle": "A Phase 3, Randomized, Double-blind, Placebo-controlled Study of Adeno-associated Virus (AAV) Serotype 8 (AAV8)-Mediated Gene Transfer of Human Ornithine Transcarbamylase (OTC) in Patients With Late-onset OTC Deficiency",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "conditions": [
+        "OTC Deficiency"
+      ],
+      "interventions": [
+        {
+          "type": "GENETIC",
+          "name": "DTX301"
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo"
+        },
+        {
+          "type": "DRUG",
+          "name": "Oral Corticosteroids"
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo for oral corticosteroids"
+        },
+        {
+          "type": "DRUG",
+          "name": "Sodium Acetate"
+        }
+      ],
+      "enrollment": 32,
+      "locations": [
+        {
+          "facility": "University of California",
+          "city": "Los Angeles",
+          "country": "United States"
+        },
+        {
+          "facility": "University of Colorado",
+          "city": "Aurora",
+          "country": "United States"
+        },
+        {
+          "facility": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "University Hospitals Cleveland Medical Center",
+          "city": "Cleveland",
+          "country": "United States"
+        },
+        {
+          "facility": "Hospital Italiano de Buenos Aires",
+          "city": "Buenos Aires",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Clinica Universitaria Reina Fabiola",
+          "city": "Córdoba",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Hospital de Clinicas de Porto Alegre",
+          "city": "Porto Alegre",
+          "country": "Brazil"
+        },
+        {
+          "facility": "The Hospital for Sick Children",
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "facility": "Hopital Femme Mere Enfant",
+          "city": "Bron",
+          "country": "France"
+        },
+        {
+          "facility": "Necker-Enfants Maladas Hospital",
+          "city": "Paris",
+          "country": "France"
+        },
+        {
+          "facility": "Universitatsklinikum Heidelberg",
+          "city": "Heidelberg",
+          "country": "Germany"
+        },
+        {
+          "facility": "Ospedale Infantile Regina Margherita",
+          "city": "Torino",
+          "country": "Italy"
+        },
+        {
+          "facility": "Kumamoto University Hospital",
+          "city": "Kumamoto",
+          "country": "Japan"
+        },
+        {
+          "facility": "Fujita Health University Hospital",
+          "city": "Toyoake",
+          "country": "Japan"
+        },
+        {
+          "facility": "Erasmus Universitair Medisch Centrum Rotterrdam",
+          "city": "Rotterdam",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Centro Hospitalar Universitario de Sao Joao",
+          "city": "Porto",
+          "country": "Portugal"
+        },
+        {
+          "facility": "Fundacio Hospital Universitari Vall D'Hebron-Institute de Recerca",
+          "city": "Barcelona",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-06-15"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:13:24.642740",
+  "run_number": 1,
+  "total_trials_found": 3
+}

@@ -1,0 +1,30 @@
+{
+  "disease_name": "Transcobalamin deficiency",
+  "orpha_code": "859",
+  "drugs": [
+    {
+      "name": "DEQSIGA",
+      "substance_url": "/en/drug/trade_name/700586?name=859&mode=orpha&region=&status=all",
+      "substance_id": "700586",
+      "regulatory_url": "/en/drug/regulatory/700589?name=859&mode=orpha&region=",
+      "regulatory_id": "700589",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:22:48.095241",
+  "run_number": 1,
+  "total_drugs_found": 1,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Transcobalamin+deficiency&orphaCode=859&name=859&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Transcobalamin deficiency",
+    "orphaCode": "859",
+    "name": "859",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "disease_name": "LCAT deficiency",
+  "orpha_code": "650",
+  "drugs": [
+    {
+      "name": "Recombinant human apolipoprotein A-I in a complex with phospholipids",
+      "substance_url": "/en/drug/substance/406518?name=650&mode=orpha&region=&status=all",
+      "substance_id": "406518",
+      "regulatory_url": "/en/drug/regulatory/627858?name=650&mode=orpha&region=",
+      "regulatory_id": "627858",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Recombinant human apolipoprotein A-I/phospholipid complexes",
+      "substance_url": "/en/drug/substance/643920?name=650&mode=orpha&region=&status=all",
+      "substance_id": "643920",
+      "regulatory_url": "/en/drug/regulatory/643921?name=650&mode=orpha&region=",
+      "regulatory_id": "643921",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=650&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=650&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=650&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=650&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=650&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=650&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": false
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:43:04.251084",
+  "run_number": 1,
+  "total_drugs_found": 5,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=LCAT+deficiency&orphaCode=650&name=650&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "LCAT deficiency",
+    "orphaCode": "650",
+    "name": "650",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

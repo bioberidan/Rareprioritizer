@@ -1,0 +1,8 @@
+{
+  "dataset_type": "metabolic",
+  "total_diseases": 665,
+  "diseases_with_genes": 549,
+  "coverage_percentage": 82.6,
+  "unique_genes": 656,
+  "total_associations": 820
+}

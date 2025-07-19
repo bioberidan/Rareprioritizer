@@ -1,0 +1,132 @@
+{
+  "disease_name": "Canavan disease",
+  "orpha_code": "141",
+  "drugs": [
+    {
+      "name": "Recombinant adeno-associated virus Olig001 containing human aspartoacylase cDNA",
+      "substance_url": "/en/drug/substance/638733?name=141&mode=orpha&region=&status=all",
+      "substance_id": "638733",
+      "regulatory_url": "/en/drug/regulatory/638735?name=141&mode=orpha&region=",
+      "regulatory_id": "638735",
+      "orpha_substance_code": "ORPHA:141",
+      "details": [
+        "Recombinant adeno-associated virus Olig001 containing human aspartoacylase cDNA(Medicinal product                        - 09/12/2022)Disease(s) concernedORPHA:141 Canavan disease",
+        "Recombinant adeno-associated virus Olig001 containing human aspartoacylase cDNA(Medicinal product                        - 09/12/2022)",
+        "(Medicinal product                        - 09/12/2022)",
+        "Disease(s) concernedORPHA:141 Canavan disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/638733?name=141&mode=orpha&region=&status=all",
+          "text": "Recombinant adeno-associated virus Olig001 containing human aspartoacylase cDNA",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/141",
+          "text": "ORPHA:141 Canavan disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/638735?name=141&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated virus serotype 9 containing the human ASPA gene",
+      "substance_url": "/en/drug/substance/589288?name=141&mode=orpha&region=&status=all",
+      "substance_id": "589288",
+      "regulatory_url": "/en/drug/regulatory/589289?name=141&mode=orpha&region=",
+      "regulatory_id": "589289",
+      "orpha_substance_code": "ORPHA:141",
+      "details": [
+        "Adeno-associated virus serotype 9 containing the human ASPA gene(Medicinal product                        - 04/06/2020)Disease(s) concernedORPHA:141 Canavan disease",
+        "Adeno-associated virus serotype 9 containing the human ASPA gene(Medicinal product                        - 04/06/2020)",
+        "(Medicinal product                        - 04/06/2020)",
+        "Disease(s) concernedORPHA:141 Canavan disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/589288?name=141&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus serotype 9 containing the human ASPA gene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/141",
+          "text": "ORPHA:141 Canavan disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/589289?name=141&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Recombinant adeno-associated virus containing human ASPA cDNA (rAAV-Olig001-ASPA)",
+      "substance_url": "/en/drug/substance/641663?name=141&mode=orpha&region=&status=all",
+      "substance_id": "641663",
+      "regulatory_url": "/en/drug/regulatory/641664?name=141&mode=orpha&region=",
+      "regulatory_id": "641664",
+      "orpha_substance_code": "ORPHA:141",
+      "details": [
+        "Recombinant adeno-associated virus containing human ASPA cDNA (rAAV-Olig001-ASPA)(Medicinal product                        - 17/02/2022)Disease(s) concernedORPHA:141 Canavan disease",
+        "Recombinant adeno-associated virus containing human ASPA cDNA (rAAV-Olig001-ASPA)(Medicinal product                        - 17/02/2022)",
+        "(Medicinal product                        - 17/02/2022)",
+        "Disease(s) concernedORPHA:141 Canavan disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/641663?name=141&mode=orpha&region=&status=all",
+          "text": "Recombinant adeno-associated virus containing human ASPA cDNA (rAAV-Olig001-ASPA)",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/141",
+          "text": "ORPHA:141 Canavan disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/641664?name=141&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:01:06.351628",
+  "run_number": 1,
+  "total_drugs_found": 3,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Canavan+disease&orphaCode=141&name=141&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Canavan disease",
+    "orphaCode": "141",
+    "name": "141",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

@@ -1,0 +1,697 @@
+{
+  "Worldwide": {
+    "total_records": 8835,
+    "reliable_records": 7128,
+    "diseases": 5280
+  },
+  "Japan": {
+    "total_records": 156,
+    "reliable_records": 151,
+    "diseases": 133
+  },
+  "Europe": {
+    "total_records": 1675,
+    "reliable_records": 1251,
+    "diseases": 1335
+  },
+  "Australia": {
+    "total_records": 136,
+    "reliable_records": 136,
+    "diseases": 112
+  },
+  "Norway": {
+    "total_records": 197,
+    "reliable_records": 196,
+    "diseases": 171
+  },
+  "Netherlands": {
+    "total_records": 223,
+    "reliable_records": 223,
+    "diseases": 202
+  },
+  "Portugal": {
+    "total_records": 150,
+    "reliable_records": 149,
+    "diseases": 142
+  },
+  "Czech Republic": {
+    "total_records": 141,
+    "reliable_records": 141,
+    "diseases": 130
+  },
+  "Sweden": {
+    "total_records": 171,
+    "reliable_records": 168,
+    "diseases": 139
+  },
+  "Finland": {
+    "total_records": 183,
+    "reliable_records": 182,
+    "diseases": 158
+  },
+  "Specific population": {
+    "total_records": 105,
+    "reliable_records": 101,
+    "diseases": 87
+  },
+  "France": {
+    "total_records": 274,
+    "reliable_records": 269,
+    "diseases": 237
+  },
+  "Germany": {
+    "total_records": 221,
+    "reliable_records": 221,
+    "diseases": 197
+  },
+  "United Kingdom": {
+    "total_records": 361,
+    "reliable_records": 356,
+    "diseases": 308
+  },
+  "Denmark": {
+    "total_records": 170,
+    "reliable_records": 170,
+    "diseases": 137
+  },
+  "Cuba": {
+    "total_records": 8,
+    "reliable_records": 8,
+    "diseases": 7
+  },
+  "Italy": {
+    "total_records": 260,
+    "reliable_records": 259,
+    "diseases": 226
+  },
+  "Austria": {
+    "total_records": 127,
+    "reliable_records": 127,
+    "diseases": 118
+  },
+  "United States": {
+    "total_records": 449,
+    "reliable_records": 438,
+    "diseases": 371
+  },
+  "China": {
+    "total_records": 59,
+    "reliable_records": 57,
+    "diseases": 55
+  },
+  "Israel": {
+    "total_records": 40,
+    "reliable_records": 40,
+    "diseases": 37
+  },
+  "Spain": {
+    "total_records": 218,
+    "reliable_records": 218,
+    "diseases": 189
+  },
+  "Greece": {
+    "total_records": 52,
+    "reliable_records": 52,
+    "diseases": 41
+  },
+  "Turkey": {
+    "total_records": 28,
+    "reliable_records": 28,
+    "diseases": 25
+  },
+  "Canada": {
+    "total_records": 75,
+    "reliable_records": 74,
+    "diseases": 60
+  },
+  "Taiwan, Province of China": {
+    "total_records": 56,
+    "reliable_records": 56,
+    "diseases": 43
+  },
+  "Estonia": {
+    "total_records": 90,
+    "reliable_records": 90,
+    "diseases": 84
+  },
+  "Colombia": {
+    "total_records": 5,
+    "reliable_records": 5,
+    "diseases": 5
+  },
+  "Poland": {
+    "total_records": 140,
+    "reliable_records": 139,
+    "diseases": 128
+  },
+  "Saudi Arabia": {
+    "total_records": 17,
+    "reliable_records": 17,
+    "diseases": 16
+  },
+  "Brazil": {
+    "total_records": 36,
+    "reliable_records": 36,
+    "diseases": 31
+  },
+  "Switzerland": {
+    "total_records": 136,
+    "reliable_records": 135,
+    "diseases": 122
+  },
+  "Tunisia": {
+    "total_records": 15,
+    "reliable_records": 15,
+    "diseases": 15
+  },
+  "Korea, Republic of": {
+    "total_records": 44,
+    "reliable_records": 44,
+    "diseases": 36
+  },
+  "Belgium": {
+    "total_records": 135,
+    "reliable_records": 135,
+    "diseases": 126
+  },
+  "Bulgaria": {
+    "total_records": 82,
+    "reliable_records": 82,
+    "diseases": 80
+  },
+  "Croatia": {
+    "total_records": 108,
+    "reliable_records": 108,
+    "diseases": 103
+  },
+  "Hungary": {
+    "total_records": 67,
+    "reliable_records": 67,
+    "diseases": 58
+  },
+  "Ireland": {
+    "total_records": 151,
+    "reliable_records": 150,
+    "diseases": 139
+  },
+  "Malta": {
+    "total_records": 87,
+    "reliable_records": 87,
+    "diseases": 80
+  },
+  "Ukraine": {
+    "total_records": 38,
+    "reliable_records": 38,
+    "diseases": 35
+  },
+  "Singapore": {
+    "total_records": 17,
+    "reliable_records": 17,
+    "diseases": 15
+  },
+  "Russian Federation": {
+    "total_records": 13,
+    "reliable_records": 13,
+    "diseases": 11
+  },
+  "Cyprus": {
+    "total_records": 22,
+    "reliable_records": 22,
+    "diseases": 17
+  },
+  "Latvia": {
+    "total_records": 80,
+    "reliable_records": 80,
+    "diseases": 77
+  },
+  "Lithuania": {
+    "total_records": 79,
+    "reliable_records": 79,
+    "diseases": 77
+  },
+  "Luxembourg": {
+    "total_records": 17,
+    "reliable_records": 17,
+    "diseases": 15
+  },
+  "Romania": {
+    "total_records": 31,
+    "reliable_records": 31,
+    "diseases": 29
+  },
+  "Slovakia": {
+    "total_records": 84,
+    "reliable_records": 84,
+    "diseases": 79
+  },
+  "Slovenia": {
+    "total_records": 73,
+    "reliable_records": 73,
+    "diseases": 70
+  },
+  "Iceland": {
+    "total_records": 74,
+    "reliable_records": 74,
+    "diseases": 67
+  },
+  "Serbia": {
+    "total_records": 13,
+    "reliable_records": 13,
+    "diseases": 10
+  },
+  "South Africa": {
+    "total_records": 11,
+    "reliable_records": 11,
+    "diseases": 11
+  },
+  "Hong Kong": {
+    "total_records": 8,
+    "reliable_records": 8,
+    "diseases": 6
+  },
+  "Uruguay": {
+    "total_records": 6,
+    "reliable_records": 6,
+    "diseases": 5
+  },
+  "Faroe Islands": {
+    "total_records": 4,
+    "reliable_records": 4,
+    "diseases": 3
+  },
+  "Iran, Islamic Republic of": {
+    "total_records": 20,
+    "reliable_records": 20,
+    "diseases": 16
+  },
+  "Egypt": {
+    "total_records": 11,
+    "reliable_records": 11,
+    "diseases": 11
+  },
+  "Guadeloupe": {
+    "total_records": 4,
+    "reliable_records": 3,
+    "diseases": 3
+  },
+  "Martinique": {
+    "total_records": 5,
+    "reliable_records": 4,
+    "diseases": 4
+  },
+  "Guyana": {
+    "total_records": 1,
+    "reliable_records": 0,
+    "diseases": 1
+  },
+  "Reunion": {
+    "total_records": 6,
+    "reliable_records": 5,
+    "diseases": 5
+  },
+  "New Zealand": {
+    "total_records": 23,
+    "reliable_records": 23,
+    "diseases": 22
+  },
+  "India": {
+    "total_records": 15,
+    "reliable_records": 15,
+    "diseases": 13
+  },
+  "Mexico": {
+    "total_records": 16,
+    "reliable_records": 16,
+    "diseases": 12
+  },
+  "Latin America": {
+    "total_records": 16,
+    "reliable_records": 16,
+    "diseases": 14
+  },
+  "North Macedonia": {
+    "total_records": 4,
+    "reliable_records": 4,
+    "diseases": 4
+  },
+  "Belarus": {
+    "total_records": 5,
+    "reliable_records": 5,
+    "diseases": 5
+  },
+  "Iraq": {
+    "total_records": 4,
+    "reliable_records": 4,
+    "diseases": 4
+  },
+  "Kuwait": {
+    "total_records": 8,
+    "reliable_records": 8,
+    "diseases": 6
+  },
+  "Lebanon": {
+    "total_records": 5,
+    "reliable_records": 5,
+    "diseases": 5
+  },
+  "United Arab Emirates": {
+    "total_records": 10,
+    "reliable_records": 10,
+    "diseases": 7
+  },
+  "Cameroon": {
+    "total_records": 1,
+    "reliable_records": 1,
+    "diseases": 1
+  },
+  "North America": {
+    "total_records": 4,
+    "reliable_records": 4,
+    "diseases": 4
+  },
+  "Argentina": {
+    "total_records": 12,
+    "reliable_records": 12,
+    "diseases": 10
+  },
+  "Venezuela": {
+    "total_records": 3,
+    "reliable_records": 3,
+    "diseases": 3
+  },
+  "Nigeria": {
+    "total_records": 3,
+    "reliable_records": 3,
+    "diseases": 3
+  },
+  "Qatar": {
+    "total_records": 3,
+    "reliable_records": 3,
+    "diseases": 3
+  },
+  "South East Asia": {
+    "total_records": 5,
+    "reliable_records": 5,
+    "diseases": 5
+  },
+  "Africa": {
+    "total_records": 10,
+    "reliable_records": 9,
+    "diseases": 10
+  },
+  "Jamaica": {
+    "total_records": 3,
+    "reliable_records": 3,
+    "diseases": 3
+  },
+  "Chile": {
+    "total_records": 11,
+    "reliable_records": 11,
+    "diseases": 8
+  },
+  "Thailand": {
+    "total_records": 11,
+    "reliable_records": 11,
+    "diseases": 9
+  },
+  "Jordan": {
+    "total_records": 4,
+    "reliable_records": 4,
+    "diseases": 3
+  },
+  "Philippines": {
+    "total_records": 4,
+    "reliable_records": 4,
+    "diseases": 4
+  },
+  "Bahrain": {
+    "total_records": 4,
+    "reliable_records": 4,
+    "diseases": 3
+  },
+  "Bosnia and Herzegovina": {
+    "total_records": 6,
+    "reliable_records": 6,
+    "diseases": 5
+  },
+  "Moldova, Republic of": {
+    "total_records": 3,
+    "reliable_records": 3,
+    "diseases": 3
+  },
+  "New Caledonia": {
+    "total_records": 1,
+    "reliable_records": 1,
+    "diseases": 1
+  },
+  "Costa rica": {
+    "total_records": 5,
+    "reliable_records": 5,
+    "diseases": 5
+  },
+  "Peru": {
+    "total_records": 6,
+    "reliable_records": 6,
+    "diseases": 6
+  },
+  "Pakistan": {
+    "total_records": 6,
+    "reliable_records": 6,
+    "diseases": 6
+  },
+  "Libyan Arab Jamahiriya": {
+    "total_records": 3,
+    "reliable_records": 3,
+    "diseases": 3
+  },
+  "Bangladesh": {
+    "total_records": 4,
+    "reliable_records": 4,
+    "diseases": 4
+  },
+  "Viet Nam": {
+    "total_records": 3,
+    "reliable_records": 3,
+    "diseases": 3
+  },
+  "Brunei Darussalam": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 1
+  },
+  "Tanzania, United Republic of": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Algeria": {
+    "total_records": 3,
+    "reliable_records": 3,
+    "diseases": 3
+  },
+  "Armenia": {
+    "total_records": 3,
+    "reliable_records": 3,
+    "diseases": 3
+  },
+  "Oman": {
+    "total_records": 4,
+    "reliable_records": 4,
+    "diseases": 4
+  },
+  "Sudan": {
+    "total_records": 5,
+    "reliable_records": 5,
+    "diseases": 4
+  },
+  "Bolivia": {
+    "total_records": 4,
+    "reliable_records": 4,
+    "diseases": 3
+  },
+  "Palestinian Territory, occupied": {
+    "total_records": 3,
+    "reliable_records": 3,
+    "diseases": 3
+  },
+  "Ecuador": {
+    "total_records": 4,
+    "reliable_records": 4,
+    "diseases": 4
+  },
+  "Sri Lanka": {
+    "total_records": 3,
+    "reliable_records": 3,
+    "diseases": 3
+  },
+  "Malaysia": {
+    "total_records": 5,
+    "reliable_records": 5,
+    "diseases": 4
+  },
+  "Mauritania": {
+    "total_records": 1,
+    "reliable_records": 1,
+    "diseases": 1
+  },
+  "Puerto rico": {
+    "total_records": 4,
+    "reliable_records": 4,
+    "diseases": 4
+  },
+  "Uganda": {
+    "total_records": 1,
+    "reliable_records": 1,
+    "diseases": 1
+  },
+  "French Polynesia": {
+    "total_records": 1,
+    "reliable_records": 1,
+    "diseases": 1
+  },
+  "Haiti": {
+    "total_records": 1,
+    "reliable_records": 1,
+    "diseases": 1
+  },
+  "Oceania": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Mongolia": {
+    "total_records": 3,
+    "reliable_records": 3,
+    "diseases": 3
+  },
+  "Liechtenstein": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 1
+  },
+  "Albania": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Azerbaijan": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Belize": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Dominican Republic": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "El Salvador": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Eritrea": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Georgia": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Guatemala": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Honduras": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Indonesia": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Morocco": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Nepal": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Senegal": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Sierra leone": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Kenya": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Nicaragua": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Panama": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Paraguay": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Togo": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Uzbekistan": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Zimbabwe": {
+    "total_records": 2,
+    "reliable_records": 2,
+    "diseases": 2
+  },
+  "Lesotho": {
+    "total_records": 1,
+    "reliable_records": 1,
+    "diseases": 1
+  },
+  "Western Asia": {
+    "total_records": 1,
+    "reliable_records": 1,
+    "diseases": 1
+  },
+  "Greenland": {
+    "total_records": 1,
+    "reliable_records": 1,
+    "diseases": 1
+  },
+  "Korea, Democratic People's Republic of": {
+    "total_records": 1,
+    "reliable_records": 1,
+    "diseases": 1
+  }
+}

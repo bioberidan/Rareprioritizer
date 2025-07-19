@@ -1,0 +1,251 @@
+{
+  "disease_name": "Danon disease",
+  "orpha_code": "34587",
+  "drugs": [
+    {
+      "name": "Adeno-associated viral vector serotype 2i8 containing the human LAMP2 isoform B transgene",
+      "substance_url": "/en/drug/substance/704552?name=34587&mode=orpha&region=&status=all",
+      "substance_id": "704552",
+      "regulatory_url": "/en/drug/regulatory/704566?name=34587&mode=orpha&region=",
+      "regulatory_id": "704566",
+      "orpha_substance_code": "ORPHA:34587",
+      "details": [
+        "Adeno-associated viral vector serotype 2i8 containing the human LAMP2 isoform B transgene(Medicinal product                        - 22/05/2025)Disease(s) concernedORPHA:34587 Danon disease",
+        "Adeno-associated viral vector serotype 2i8 containing the human LAMP2 isoform B transgene(Medicinal product                        - 22/05/2025)",
+        "(Medicinal product                        - 22/05/2025)",
+        "Disease(s) concernedORPHA:34587 Danon disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/704552?name=34587&mode=orpha&region=&status=all",
+          "text": "Adeno-associated viral vector serotype 2i8 containing the human LAMP2 isoform B transgene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/34587",
+          "text": "ORPHA:34587 Danon disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/704566?name=34587&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Adeno-associated virus serotype 9 vector containing the human LAMP2 isoform B transgene",
+      "substance_url": "/en/drug/substance/661218?name=34587&mode=orpha&region=&status=all",
+      "substance_id": "661218",
+      "regulatory_url": "/en/drug/regulatory/661306?name=34587&mode=orpha&region=",
+      "regulatory_id": "661306",
+      "orpha_substance_code": "ORPHA:34587",
+      "details": [
+        "Adeno-associated virus serotype 9 vector containing the human LAMP2 isoform B transgene(Medicinal product                        - 16/08/2023)Disease(s) concernedORPHA:34587 Danon disease",
+        "Adeno-associated virus serotype 9 vector containing the human LAMP2 isoform B transgene(Medicinal product                        - 16/08/2023)",
+        "(Medicinal product                        - 16/08/2023)",
+        "Disease(s) concernedORPHA:34587 Danon disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/661218?name=34587&mode=orpha&region=&status=all",
+          "text": "Adeno-associated virus serotype 9 vector containing the human LAMP2 isoform B transgene",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/34587",
+          "text": "ORPHA:34587 Danon disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/661306?name=34587&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Autologous human CD34+ hematopoietic stem and progenitor cells (HSPCs), derived from G-CSF/plerixafor mobilized peripheral blood stem cells (PBSCs) of patients with Danon disease (DD)",
+      "substance_url": "/en/drug/substance/673933?name=34587&mode=orpha&region=&status=all",
+      "substance_id": "673933",
+      "regulatory_url": "/en/drug/regulatory/674144?name=34587&mode=orpha&region=",
+      "regulatory_id": "674144",
+      "orpha_substance_code": "ORPHA:34587",
+      "details": [
+        "Autologous human CD34+ hematopoietic stem and progenitor cells (HSPCs), derived from G-CSF/plerixafor mobilized peripheral blood stem cells (PBSCs) of patients with Danon disease (DD)(Medicinal product                        - 23/04/2024)Disease(s) concernedORPHA:34587 Danon disease",
+        "Autologous human CD34+ hematopoietic stem and progenitor cells (HSPCs), derived from G-CSF/plerixafor mobilized peripheral blood stem cells (PBSCs) of patients with Danon disease (DD)(Medicinal product                        - 23/04/2024)",
+        "(Medicinal product                        - 23/04/2024)",
+        "Disease(s) concernedORPHA:34587 Danon disease",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/673933?name=34587&mode=orpha&region=&status=all",
+          "text": "Autologous human CD34+ hematopoietic stem and progenitor cells (HSPCs), derived from G-CSF/plerixafor mobilized peripheral blood stem cells (PBSCs) of patients with Danon disease (DD)",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/34587",
+          "text": "ORPHA:34587 Danon disease",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/674144?name=34587&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "(DD)\n\n                    (Medicinal product                        - 23/04/2024)\n                \n\n\n\n\n                        Disease(s) concerned\n                    \n\n\n\n\n                                    ORPHA:34587 Danon disease\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Burixafor",
+      "substance_url": "/en/drug/substance/689505?name=34587&mode=orpha&region=&status=all",
+      "substance_id": "689505",
+      "regulatory_url": "/en/drug/regulatory/689915?name=34587&mode=orpha&region=",
+      "regulatory_id": "689915",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Burixafor(Medicinal product                        - 22/10/2024)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Burixafor(Medicinal product                        - 22/10/2024)",
+        "(Medicinal product                        - 22/10/2024)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/689505?name=34587&mode=orpha&region=&status=all",
+          "text": "Burixafor",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/689915?name=34587&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Treosulfan",
+      "substance_url": "/en/drug/substance/90799?name=34587&mode=orpha&region=&status=all",
+      "substance_id": "90799",
+      "regulatory_url": "/en/drug/regulatory/136690?name=34587&mode=orpha&region=",
+      "regulatory_id": "136690",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "Treosulfan(Medicinal product                        - 08/04/2015)Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "Treosulfan(Medicinal product                        - 08/04/2015)",
+        "(Medicinal product                        - 08/04/2015)",
+        "Disease(s) concernedORPHA:213500 Rare ovarian cancerORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/90799?name=34587&mode=orpha&region=&status=all",
+          "text": "Treosulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/213500",
+          "text": "ORPHA:213500 Rare ovarian cancer",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/136690?name=34587&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "busulfan",
+      "substance_url": "/en/drug/substance/46335?name=34587&mode=orpha&region=&status=all",
+      "substance_id": "46335",
+      "regulatory_url": "/en/drug/regulatory/131973?name=34587&mode=orpha&region=",
+      "regulatory_id": "131973",
+      "orpha_substance_code": "ORPHA:565779",
+      "details": [
+        "busulfan(Medicinal product                        - 21/04/1994)Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "busulfan(Medicinal product                        - 21/04/1994)",
+        "(Medicinal product                        - 21/04/1994)",
+        "Disease(s) concernedORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/46335?name=34587&mode=orpha&region=&status=all",
+          "text": "busulfan",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/565779",
+          "text": "ORPHA:565779 Rare disorder potentially indicated for transplant or complication after transplantation",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131973?name=34587&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": "potentially indicated for transplant or complication after transplantation\n                                \n\n\n\n\n\n\n            More details on the regulatory status",
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:00:15.221408",
+  "run_number": 1,
+  "total_drugs_found": 6,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Danon+disease&orphaCode=34587&name=34587&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Danon disease",
+    "orphaCode": "34587",
+    "name": "34587",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

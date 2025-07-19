@@ -1,0 +1,51 @@
+{
+  "disease_name": "Niemann-Pick disease type C",
+  "orpha_code": "646",
+  "processing_timestamp": "2025-07-16T08:09:57.769382",
+  "run_number": 1,
+  "analysis_type": "socioeconomic",
+  "processing_duration": 59.72,
+  "success": true,
+  "error_details": null,
+  "socioeconomic_analysis": {
+    "orphacode": "646",
+    "disease_name": "Niemann-Pick disease type C",
+    "socioeconomic_impact_studies": [
+      {
+        "cost": 56425,
+        "measure": "total annual cost per patient (direct medical, direct non-medical, indirect)",
+        "label": "Cost of illness associated with Niemann-Pick disease type C in the UK",
+        "source": "https://pubmed.ncbi.nlm.nih.gov/19725798/",
+        "country": "United Kingdom",
+        "year": "2007"
+      },
+      {
+        "cost": 51714,
+        "measure": "annual cost of miglustat therapy to NHS",
+        "label": "Cost of miglustat (Zavesca) therapy in the UK",
+        "source": "https://es.wikipedia.org/wiki/Miglustat",
+        "country": "United Kingdom",
+        "year": "2021"
+      },
+      {
+        "cost": 558000,
+        "measure": "annual net price of Miplyffa therapy",
+        "label": "Annual cost of Miplyffa (arimoclomol) therapy",
+        "source": "https://www.reuters.com/business/healthcare-pharmaceuticals/zevra-therapeutics-prices-rare-genetic-disorder-drug-up-106000-per-month-2024-09-23/",
+        "country": "United States",
+        "year": "2024"
+      },
+      {
+        "cost": 20000,
+        "measure": "annual patient out-of-pocket co-pay for miglustat",
+        "label": "Patient co-pay for miglustat therapy",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9438239/",
+        "country": "United States",
+        "year": "2021"
+      }
+    ],
+    "score": 7,
+    "evidence_level": "Medium-High evidence",
+    "justification": "A peer-reviewed European cost-of-illness study from the UK quantifies substantial annual societal costs; additional drug cost data further illustrate economic burden, but no Spanish cost-of-illness studies were identified."
+  }
+}

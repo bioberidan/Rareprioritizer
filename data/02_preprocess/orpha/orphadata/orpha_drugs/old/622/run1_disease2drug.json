@@ -1,0 +1,273 @@
+{
+  "disease_name": "Homocystinuria without methylmalonic aciduria",
+  "orpha_code": "622",
+  "drugs": [
+    {
+      "name": "AMVERSIO",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/642395?name=622&mode=orpha&region=",
+      "regulatory_id": "642395",
+      "orpha_substance_code": "ORPHA:622",
+      "details": [
+        "AMVERSIO(Tradename                        - 05/05/2022)Disease(s) concernedORPHA:394 Homocystinuria due to cystathionine beta-synthase deficiencyORPHA:395 Homocystinuria due to methylene tetrahydrofolate reductase deficiencyORPHA:622 Homocystinuria without methylmalonic aciduria",
+        "AMVERSIO(Tradename                        - 05/05/2022)",
+        "(Tradename                        - 05/05/2022)",
+        "Disease(s) concernedORPHA:394 Homocystinuria due to cystathionine beta-synthase deficiencyORPHA:395 Homocystinuria due to methylene tetrahydrofolate reductase deficiencyORPHA:622 Homocystinuria without methylmalonic aciduria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/642393?name=622&mode=orpha&region=&status=all",
+          "text": "AMVERSIO",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/394",
+          "text": "ORPHA:394 Homocystinuria due to cystathionine beta-synthase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/395",
+          "text": "ORPHA:395 Homocystinuria due to methylene tetrahydrofolate reductase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/622",
+          "text": "ORPHA:622 Homocystinuria without methylmalonic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/642395?name=622&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "CYSTADANE",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131341?name=622&mode=orpha&region=",
+      "regulatory_id": "131341",
+      "orpha_substance_code": "ORPHA:622",
+      "details": [
+        "CYSTADANE(Tradename                        - 15/02/2007)Disease(s) concernedORPHA:394 Homocystinuria due to cystathionine beta-synthase deficiencyORPHA:395 Homocystinuria due to methylene tetrahydrofolate reductase deficiencyORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:622 Homocystinuria without methylmalonic aciduria",
+        "CYSTADANE(Tradename                        - 15/02/2007)",
+        "(Tradename                        - 15/02/2007)",
+        "Disease(s) concernedORPHA:394 Homocystinuria due to cystathionine beta-synthase deficiencyORPHA:395 Homocystinuria due to methylene tetrahydrofolate reductase deficiencyORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:622 Homocystinuria without methylmalonic aciduria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/33514?name=622&mode=orpha&region=&status=all",
+          "text": "CYSTADANE",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/394",
+          "text": "ORPHA:394 Homocystinuria due to cystathionine beta-synthase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/395",
+          "text": "ORPHA:395 Homocystinuria due to methylene tetrahydrofolate reductase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/26",
+          "text": "ORPHA:26 Methylmalonic acidemia with homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/622",
+          "text": "ORPHA:622 Homocystinuria without methylmalonic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131341?name=622&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Hydroxocobalamin acetate",
+      "substance_url": "/en/drug/substance/695213?name=622&mode=orpha&region=&status=all",
+      "substance_id": "695213",
+      "regulatory_url": "/en/drug/regulatory/695282?name=622&mode=orpha&region=",
+      "regulatory_id": "695282",
+      "orpha_substance_code": "ORPHA:622",
+      "details": [
+        "Hydroxocobalamin acetate(Medicinal product                        - 26/02/2025)Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:28 Vitamin B12-responsive methylmalonic acidemiaORPHA:622 Homocystinuria without methylmalonic aciduria",
+        "Hydroxocobalamin acetate(Medicinal product                        - 26/02/2025)",
+        "(Medicinal product                        - 26/02/2025)",
+        "Disease(s) concernedORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:28 Vitamin B12-responsive methylmalonic acidemiaORPHA:622 Homocystinuria without methylmalonic aciduria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/695213?name=622&mode=orpha&region=&status=all",
+          "text": "Hydroxocobalamin acetate",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/26",
+          "text": "ORPHA:26 Methylmalonic acidemia with homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/28",
+          "text": "ORPHA:28 Vitamin B12-responsive methylmalonic acidemia",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/622",
+          "text": "ORPHA:622 Homocystinuria without methylmalonic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/695282?name=622&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "Modified human cystathionine beta synthase messenger ribonucleic acid encapsulated in a lipid nanoparticle",
+      "substance_url": "/en/drug/substance/687206?name=622&mode=orpha&region=&status=all",
+      "substance_id": "687206",
+      "regulatory_url": "/en/drug/regulatory/687539?name=622&mode=orpha&region=",
+      "regulatory_id": "687539",
+      "orpha_substance_code": "ORPHA:622",
+      "details": [
+        "Modified human cystathionine beta synthase messenger ribonucleic acid encapsulated in a lipid nanoparticle(Medicinal product                        - 18/07/2024)Disease(s) concernedORPHA:394 Homocystinuria due to cystathionine beta-synthase deficiencyORPHA:395 Homocystinuria due to methylene tetrahydrofolate reductase deficiencyORPHA:622 Homocystinuria without methylmalonic aciduria",
+        "Modified human cystathionine beta synthase messenger ribonucleic acid encapsulated in a lipid nanoparticle(Medicinal product                        - 18/07/2024)",
+        "(Medicinal product                        - 18/07/2024)",
+        "Disease(s) concernedORPHA:394 Homocystinuria due to cystathionine beta-synthase deficiencyORPHA:395 Homocystinuria due to methylene tetrahydrofolate reductase deficiencyORPHA:622 Homocystinuria without methylmalonic aciduria",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/substance/687206?name=622&mode=orpha&region=&status=all",
+          "text": "Modified human cystathionine beta synthase messenger ribonucleic acid encapsulated in a lipid nanoparticle",
+          "type": "substance_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/394",
+          "text": "ORPHA:394 Homocystinuria due to cystathionine beta-synthase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/395",
+          "text": "ORPHA:395 Homocystinuria due to methylene tetrahydrofolate reductase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/622",
+          "text": "ORPHA:622 Homocystinuria without methylmalonic aciduria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/687539?name=622&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Medicinal product",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "name": "CYSTADANE",
+      "substance_url": null,
+      "substance_id": null,
+      "regulatory_url": "/en/drug/regulatory/131109?name=622&mode=orpha&region=",
+      "regulatory_id": "131109",
+      "orpha_substance_code": "ORPHA:2170",
+      "details": [
+        "CYSTADANE(Tradename                        - 25/10/1996)Disease(s) concernedORPHA:394 Homocystinuria due to cystathionine beta-synthase deficiencyORPHA:395 Homocystinuria due to methylene tetrahydrofolate reductase deficiencyORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:2169 Methylcobalamin deficiency type cblEORPHA:2170 Methylcobalamin deficiency type cblG",
+        "CYSTADANE(Tradename                        - 25/10/1996)",
+        "(Tradename                        - 25/10/1996)",
+        "Disease(s) concernedORPHA:394 Homocystinuria due to cystathionine beta-synthase deficiencyORPHA:395 Homocystinuria due to methylene tetrahydrofolate reductase deficiencyORPHA:26 Methylmalonic acidemia with homocystinuriaORPHA:2169 Methylcobalamin deficiency type cblEORPHA:2170 Methylcobalamin deficiency type cblG",
+        "More details on the regulatory status"
+      ],
+      "links": [
+        {
+          "url": "https://www.orpha.net/en/drug/trade_name/33514?name=622&mode=orpha&region=&status=all",
+          "text": "CYSTADANE",
+          "type": "trade_name_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/394",
+          "text": "ORPHA:394 Homocystinuria due to cystathionine beta-synthase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/395",
+          "text": "ORPHA:395 Homocystinuria due to methylene tetrahydrofolate reductase deficiency",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/26",
+          "text": "ORPHA:26 Methylmalonic acidemia with homocystinuria",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2169",
+          "text": "ORPHA:2169 Methylcobalamin deficiency type cblE",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/disease/detail/2170",
+          "text": "ORPHA:2170 Methylcobalamin deficiency type cblG",
+          "type": "disease_details"
+        },
+        {
+          "url": "https://www.orpha.net/en/drug/regulatory/131109?name=622&mode=orpha&region=",
+          "text": "More details on the regulatory status",
+          "type": "regulatory_status"
+        }
+      ],
+      "status": "Tradename",
+      "manufacturer": null,
+      "indication": null,
+      "regions": [
+        "US"
+      ]
+    }
+  ],
+  "processing_timestamp": "2025-07-07T06:00:37.934314",
+  "run_number": 1,
+  "total_drugs_found": 5,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Homocystinuria+without+methylmalonic+aciduria&orphaCode=622&name=622&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Homocystinuria without methylmalonic aciduria",
+    "orphaCode": "622",
+    "name": "622",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}

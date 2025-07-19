@@ -1,0 +1,197 @@
+{
+  "disease_name": "Hyaluronidase deficiency",
+  "orpha_code": "67041",
+  "trials": [
+    {
+      "nctId": "NCT05755035",
+      "briefTitle": "A Study About How TAK-881 is Processed by the Body and Side Effects in People With Primary Immunodeficiency Diseases",
+      "officialTitle": "Multicenter, Prospective, Open-label, Randomized, Crossover Study to Evaluate Pharmacokinetics (PK), Safety, and Tolerability of TAK-881 in Primary Immunodeficiency Diseases (PIDD)",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "conditions": [
+        "Primary Immunodeficiency Diseases (PID)"
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "TAK-881"
+        },
+        {
+          "type": "BIOLOGICAL",
+          "name": "HYQVIA"
+        }
+      ],
+      "enrollment": 65,
+      "locations": [
+        {
+          "facility": "University of California Irvine Medical Center",
+          "city": "Irvine",
+          "country": "United States"
+        },
+        {
+          "facility": "Allergy and Asthma Clinical Research",
+          "city": "Walnut Creek",
+          "country": "United States"
+        },
+        {
+          "facility": "National Jewish Medical And Research Center",
+          "city": "Denver",
+          "country": "United States"
+        },
+        {
+          "facility": "University of South Florida",
+          "city": "Saint Petersburg",
+          "country": "United States"
+        },
+        {
+          "facility": "Central Georgia Infectious Disease Consultants",
+          "city": "Macon",
+          "country": "United States"
+        },
+        {
+          "facility": "Rush University Medical Center - University Cardiovascular Surgeons",
+          "city": "Chicago",
+          "country": "United States"
+        },
+        {
+          "facility": "Sneeze, Wheeze, & Itch Associates, LLC",
+          "city": "Normal",
+          "country": "United States"
+        },
+        {
+          "facility": "Louisiana State University Health Science Center-New Orleans",
+          "city": "New Orleans",
+          "country": "United States"
+        },
+        {
+          "facility": "Montefiore Medical Center",
+          "city": "Bronx",
+          "country": "United States"
+        },
+        {
+          "facility": "Northwell Health",
+          "city": "Great Neck",
+          "country": "United States"
+        },
+        {
+          "facility": "Duke Asthma, Allergy and Airway Center",
+          "city": "Durham",
+          "country": "United States"
+        },
+        {
+          "facility": "Optimed Research, LTD",
+          "city": "Columbus",
+          "country": "United States"
+        },
+        {
+          "facility": "Vital Prospects Clinical Research Institute, PC",
+          "city": "Tulsa",
+          "country": "United States"
+        },
+        {
+          "facility": "Allergy Partners of North Texas",
+          "city": "Dallas",
+          "country": "United States"
+        },
+        {
+          "facility": "Tanner Clinic",
+          "city": "Murray",
+          "country": "United States"
+        },
+        {
+          "facility": "University Hospital Brno (Fakultni Nemocnice Brno) - Children's Hospital (Detska nemocnice)",
+          "city": "Brno",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Fakultni nemocnice u sv. Anny v Brne - ICRC",
+          "city": "Brno",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Fakultni Nemocnice v Motole",
+          "city": "Prague",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Aarhus Universitetshospital",
+          "city": "Aarhus",
+          "country": "Denmark"
+        },
+        {
+          "facility": "Odense University Hospital",
+          "city": "Odense",
+          "country": "Denmark"
+        },
+        {
+          "facility": "University Hospital Carl Gustav Carus",
+          "city": "Dresden",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitaetsklinikum Tuebingen (UKT)",
+          "city": "Tuebingen",
+          "country": "Germany"
+        },
+        {
+          "facility": "Universitair Medisch Centrum Utrecht (UMC Utrecht)",
+          "city": "Utrecht",
+          "country": "Netherlands"
+        },
+        {
+          "facility": "Instytut Pomnik - Centrum Zdrowia Dziecka",
+          "city": "Warsaw",
+          "country": "Poland"
+        },
+        {
+          "facility": "Wojskowy Instytut Medyczny,Centralny Szpital Kliniczny Ministerstwa Obronty Narodowej",
+          "city": "Warszawa",
+          "country": "Poland"
+        },
+        {
+          "facility": "Uniwersyteckie Centrum Kliniczne, KLINIKA PEDIATRII, HEMATOLOGII I ONKOLOGII",
+          "city": "Gdansk",
+          "country": "Poland"
+        },
+        {
+          "facility": "Osrodek Pediatryczny im. DR J. Korczaka, Wojewodzkie Wielospecjalistyczne Centrum i Traumatologii im. M. Kopernika w Lodzi",
+          "city": "Lodz",
+          "country": "Poland"
+        },
+        {
+          "facility": "NUDCH (National Institute of Children's Diseases)",
+          "city": "Bratislava",
+          "country": "Slovakia"
+        },
+        {
+          "facility": "OKIA, s.r.o",
+          "city": "Kosice",
+          "country": "Slovakia"
+        },
+        {
+          "facility": "Klinika Deti a Dorastu - Odborne Ambulancie UNM a JLF UK Martin",
+          "city": "Martin",
+          "country": "Slovakia"
+        },
+        {
+          "facility": "Hospital Sant Joan de Deu Barcelona",
+          "city": "Esplugues De Llobregat",
+          "country": "Spain"
+        },
+        {
+          "facility": "University Hospital La Paz",
+          "city": "Madrid",
+          "country": "Spain"
+        }
+      ],
+      "lastUpdateDate": "2025-06-13"
+    }
+  ],
+  "processing_timestamp": "2025-07-07T03:13:04.036862",
+  "run_number": 1,
+  "total_trials_found": 1
+}

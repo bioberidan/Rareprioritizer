@@ -1,0 +1,90 @@
+{
+  "disease_name": "Propionic acidemia",
+  "orpha_code": "35",
+  "drugs": [
+    {
+      "name": "CARBAGLU",
+      "substance_url": "/en/drug/trade_name/35160?name=35&mode=orpha&region=&status=all",
+      "substance_id": "35160",
+      "regulatory_url": "/en/drug/regulatory/131343?name=35&mode=orpha&region=",
+      "regulatory_id": "131343",
+      "is_tradename": true,
+      "is_medical_product": false,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Modified messenger ribonucleic acid encoding human propionyl-coenzyme A carboxylase alpha and beta subunits encapsulated into lipid nanoparticle",
+      "substance_url": "/en/drug/substance/559538?name=35&mode=orpha&region=&status=all",
+      "substance_id": "559538",
+      "regulatory_url": "/en/drug/regulatory/559540?name=35&mode=orpha&region=",
+      "regulatory_id": "559540",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "1-(4-(6-chloropyridazin-3-yl)piperazin-1-yl)-2-(4-cyclopropyl-3-fluorophenyl)ethan-1-one",
+      "substance_url": "/en/drug/substance/627847?name=35&mode=orpha&region=&status=all",
+      "substance_id": "627847",
+      "regulatory_url": "/en/drug/regulatory/627848?name=35&mode=orpha&region=",
+      "regulatory_id": "627848",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": false,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Carglumic acid",
+      "substance_url": "/en/drug/substance/35161?name=35&mode=orpha&region=&status=all",
+      "substance_id": "35161",
+      "regulatory_url": "/en/drug/regulatory/164982?name=35&mode=orpha&region=",
+      "regulatory_id": "164982",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": true,
+      "is_specific": true
+    },
+    {
+      "name": "Adeno-Associated Virus 9 vector expressing a wild-type cDNA encoding human Propionyl-CoA Carboxylase, subunit beta (AAV9-hPCCB)",
+      "substance_url": "/en/drug/substance/688300?name=35&mode=orpha&region=&status=all",
+      "substance_id": "688300",
+      "regulatory_url": "/en/drug/regulatory/688385?name=35&mode=orpha&region=",
+      "regulatory_id": "688385",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    },
+    {
+      "name": "Small molecule activator of pantothenate kinases",
+      "substance_url": "/en/drug/substance/651182?name=35&mode=orpha&region=&status=all",
+      "substance_id": "651182",
+      "regulatory_url": "/en/drug/regulatory/651183?name=35&mode=orpha&region=",
+      "regulatory_id": "651183",
+      "is_tradename": false,
+      "is_medical_product": true,
+      "is_available_in_us": true,
+      "is_available_in_eu": false,
+      "is_specific": true
+    }
+  ],
+  "processing_timestamp": "2025-07-17T19:40:14.739401",
+  "run_number": 1,
+  "total_drugs_found": 6,
+  "search_url": "https://www.orpha.net/en/drug?diseaseName=Propionic+acidemia&orphaCode=35&name=35&region=&mode=orpha&status=all",
+  "search_params": {
+    "diseaseName": "Propionic acidemia",
+    "orphaCode": "35",
+    "name": "35",
+    "region": "",
+    "mode": "orpha",
+    "status": "all"
+  }
+}
